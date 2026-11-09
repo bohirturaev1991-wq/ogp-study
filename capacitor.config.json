@@ -1,0 +1,8 @@
+{
+  "appId": "uz.ogp.study",
+  "appName": "DHA — Davlat va huquq",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
