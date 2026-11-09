@@ -1,0 +1,1570 @@
+[
+ {
+  "id": "b9-001",
+  "doc": "ogp-9",
+  "lesson": "1",
+  "q": {
+   "ru": "Что означает латинское слово constitutio, от которого происходит термин «конституция»?",
+   "uz": "Lotincha constitutio soʻzi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "«Устройство», «установление порядка»",
+    "«Власть народа»",
+    "«Простой, единый»",
+    "«Предыдущий»"
+   ],
+   "uz": [
+    "“Tuzilish”, “tartib oʻrnatish”",
+    "“Xalq hokimiyati”",
+    "“Oddiy, yagona”",
+    "“Oldingi”"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Термин впервые использовался в законодательстве Древнего Рима.",
+   "uz": "Bu atama ilk bor Qadimgi Rim qonunchiligida qoʻllanilgan."
+  }
+ },
+ {
+  "id": "b9-002",
+  "doc": "ogp-9",
+  "lesson": "1",
+  "q": {
+   "ru": "Почему говорят, что конституция обладает высшей юридической силой?",
+   "uz": "Nima uchun konstitutsiya oliy yuridik kuchga ega deyiladi?"
+  },
+  "options": {
+   "ru": [
+    "Все законы и иные акты принимаются на её основе и не могут ей противоречить",
+    "Её принимает Кабинет Министров",
+    "Она действует только в столице",
+    "Она важнее международного права во всех случаях"
+   ],
+   "uz": [
+    "Barcha qonun va boshqa hujjatlar uning asosida qabul qilinadi va unga zid boʻlishi mumkin emas",
+    "Uni Vazirlar Mahkamasi qabul qiladi",
+    "U faqat poytaxtda amal qiladi",
+    "U barcha hollarda xalqaro huquqdan ustun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-003",
+  "doc": "ogp-9",
+  "lesson": "2",
+  "q": {
+   "ru": "Какой документ, принятый 20 июня 1990 года, стал основой для создания Конституции Узбекистана?",
+   "uz": "1990-yil 20-iyunda qabul qilingan qaysi hujjat Oʻzbekiston Konstitutsiyasini yaratish uchun asos boʻldi?"
+  },
+  "options": {
+   "ru": [
+    "Декларация независимости",
+    "Закон «Об основах государственной независимости»",
+    "Всеобщая декларация прав человека",
+    "Конституционный закон о референдуме"
+   ],
+   "uz": [
+    "Mustaqillik deklaratsiyasi",
+    "“Davlat mustaqilligi asoslari toʻgʻrisida”gi qonun",
+    "Inson huquqlari umumjahon deklaratsiyasi",
+    "Referendum toʻgʻrisidagi konstitutsiyaviy qonun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-004",
+  "doc": "ogp-9",
+  "lesson": "2",
+  "q": {
+   "ru": "Из скольких человек состояла комиссия по подготовке проекта первой Конституции?",
+   "uz": "Birinchi Konstitutsiya loyihasini tayyorlash komissiyasi necha kishidan iborat boʻlgan?"
+  },
+  "options": {
+   "ru": [
+    "64",
+    "128",
+    "30",
+    "100"
+   ],
+   "uz": [
+    "64",
+    "128",
+    "30",
+    "100"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-005",
+  "doc": "ogp-9",
+  "lesson": "2",
+  "q": {
+   "ru": "Когда была принята первая Конституция Республики Узбекистан?",
+   "uz": "Oʻzbekiston Respublikasining birinchi Konstitutsiyasi qachon qabul qilingan?"
+  },
+  "options": {
+   "ru": [
+    "8 декабря 1992 года на XI сессии Верховного Совета",
+    "31 августа 1991 года",
+    "30 апреля 2023 года",
+    "1 сентября 1991 года"
+   ],
+   "uz": [
+    "1992-yil 8-dekabrda Oliy Kengashning XI sessiyasida",
+    "1991-yil 31-avgustda",
+    "2023-yil 30-aprelda",
+    "1991-yil 1-sentabrda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-006",
+  "doc": "ogp-9",
+  "lesson": "2",
+  "q": {
+   "ru": "Из скольких статей состояла Конституция 1992 года?",
+   "uz": "1992-yilgi Konstitutsiya nechta moddadan iborat boʻlgan?"
+  },
+  "options": {
+   "ru": [
+    "128",
+    "155",
+    "26",
+    "64"
+   ],
+   "uz": [
+    "128",
+    "155",
+    "26",
+    "64"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Преамбула, 6 разделов, 26 глав и 128 статей. В новой редакции 2023 года – 155 статей.",
+   "uz": "Muqaddima, 6 boʻlim, 26 bob va 128 modda. 2023-yilgi yangi tahrirda — 155 modda."
+  }
+ },
+ {
+  "id": "b9-007",
+  "doc": "ogp-9",
+  "lesson": "2",
+  "q": {
+   "ru": "Сколько статей в Конституции в новой редакции 2023 года?",
+   "uz": "2023-yilgi yangi tahrirdagi Konstitutsiyada nechta modda bor?"
+  },
+  "options": {
+   "ru": [
+    "155",
+    "128",
+    "140",
+    "170"
+   ],
+   "uz": [
+    "155",
+    "128",
+    "140",
+    "170"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-008",
+  "doc": "ogp-9",
+  "lesson": "2",
+  "q": {
+   "ru": "Сколько предложений поступило в ходе всенародного обсуждения проекта Конституции 1992 года?",
+   "uz": "1992-yilgi Konstitutsiya loyihasi umumxalq muhokamasida qancha taklif kelib tushgan?"
+  },
+  "options": {
+   "ru": [
+    "Около 6000",
+    "Около 600",
+    "Около 60 000",
+    "Около 80"
+   ],
+   "uz": [
+    "6000 ga yaqin",
+    "600 ga yaqin",
+    "60 000 ga yaqin",
+    "80 ga yaqin"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "На их основе в проект было внесено более 80 поправок.",
+   "uz": "Ular asosida loyihaga 80 dan ortiq tuzatish kiritilgan."
+  }
+ },
+ {
+  "id": "b9-009",
+  "doc": "ogp-9",
+  "lesson": "3",
+  "q": {
+   "ru": "Правовое государство – это государство, в котором…",
+   "uz": "Huquqiy davlat — bu shunday davlatki, unda…"
+  },
+  "options": {
+   "ru": [
+    "обеспечивается верховенство права, гарантируются права и свободы человека и участие народа в осуществлении власти",
+    "власть принадлежит одному лицу",
+    "законы обязательны только для граждан, но не для органов власти",
+    "нет разделения властей"
+   ],
+   "uz": [
+    "huquq ustuvorligi taʼminlanadi, inson huquq va erkinliklari hamda xalqning hokimiyatda ishtiroki kafolatlanadi",
+    "hokimiyat bir shaxsga tegishli",
+    "qonunlar faqat fuqarolar uchun majburiy, organlar uchun emas",
+    "hokimiyatlar boʻlinishi yoʻq"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-010",
+  "doc": "ogp-9",
+  "lesson": "3",
+  "q": {
+   "ru": "Освобождает ли незнание закона от ответственности?",
+   "uz": "Qonunni bilmaslik javobgarlikdan ozod qiladimi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, всегда",
+    "Да, для несовершеннолетних",
+    "Да, если закон принят недавно"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, har doim",
+    "Ha, voyaga yetmaganlar uchun",
+    "Ha, agar qonun yaqinda qabul qilingan boʻlsa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-011",
+  "doc": "ogp-9",
+  "lesson": "4",
+  "q": {
+   "ru": "Как звучит статья 1 Конституции?",
+   "uz": "Konstitutsiyaning 1-moddasi qanday?"
+  },
+  "options": {
+   "ru": [
+    "Узбекистан – суверенное, демократическое, правовое, социальное и светское государство с республиканской формой правления",
+    "Узбекистан – унитарная президентская республика",
+    "Узбекистан – федеративное демократическое государство",
+    "Узбекистан – конституционная монархия"
+   ],
+   "uz": [
+    "Oʻzbekiston — boshqaruvning respublika shakliga ega boʻlgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat",
+    "Oʻzbekiston — unitar prezidentlik respublikasi",
+    "Oʻzbekiston — federativ demokratik davlat",
+    "Oʻzbekiston — konstitutsiyaviy monarxiya"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-012",
+  "doc": "ogp-9",
+  "lesson": "4",
+  "q": {
+   "ru": "Когда Узбекистан был провозглашён независимым государством?",
+   "uz": "Oʻzbekiston qachon mustaqil davlat deb eʼlon qilingan?"
+  },
+  "options": {
+   "ru": [
+    "31 августа 1991 года",
+    "8 декабря 1992 года",
+    "20 июня 1990 года",
+    "1 сентября 1990 года"
+   ],
+   "uz": [
+    "1991-yil 31-avgustda",
+    "1992-yil 8-dekabrda",
+    "1990-yil 20-iyunda",
+    "1990-yil 1-sentabrda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "На VI внеочередной сессии Верховного Совета был принят Закон «Об основах государственной независимости».",
+   "uz": "Oliy Kengashning VI navbatdan tashqari sessiyasida “Davlat mustaqilligi asoslari toʻgʻrisida”gi qonun qabul qilingan."
+  }
+ },
+ {
+  "id": "b9-013",
+  "doc": "ogp-9",
+  "lesson": "4",
+  "q": {
+   "ru": "Как называется первая глава Конституции?",
+   "uz": "Konstitutsiyaning birinchi bobi qanday nomlanadi?"
+  },
+  "options": {
+   "ru": [
+    "«Государственный суверенитет»",
+    "«Народовластие»",
+    "«Основные права и свободы»",
+    "«Президент Республики Узбекистан»"
+   ],
+   "uz": [
+    "“Davlat suvereniteti”",
+    "“Xalq hokimiyatchiligi”",
+    "“Asosiy huquq va erkinliklar”",
+    "“Oʻzbekiston Respublikasi Prezidenti”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-014",
+  "doc": "ogp-9",
+  "lesson": "4",
+  "q": {
+   "ru": "Равнозначны ли названия «Республика Узбекистан» и «Узбекистан»?",
+   "uz": "“Oʻzbekiston Respublikasi” va “Oʻzbekiston” nomlari teng maʼnolimi?"
+  },
+  "options": {
+   "ru": [
+    "Да",
+    "Нет, «Узбекистан» – неофициальное название",
+    "Только в международных договорах",
+    "Только в Конституции"
+   ],
+   "uz": [
+    "Ha",
+    "Yoʻq, “Oʻzbekiston” — norasmiy nom",
+    "Faqat xalqaro shartnomalarda",
+    "Faqat Konstitutsiyada"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-015",
+  "doc": "ogp-9",
+  "lesson": "5",
+  "q": {
+   "ru": "Кто является единственным источником государственной власти?",
+   "uz": "Davlat hokimiyatining yagona manbai kim?"
+  },
+  "options": {
+   "ru": [
+    "Народ",
+    "Президент",
+    "Олий Мажлис",
+    "Конституционный суд"
+   ],
+   "uz": [
+    "Xalq",
+    "Prezident",
+    "Oliy Majlis",
+    "Konstitutsiyaviy sud"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-016",
+  "doc": "ogp-9",
+  "lesson": "5",
+  "q": {
+   "ru": "Кто может действовать от имени народа?",
+   "uz": "Xalq nomidan kim ish olib borishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "Только избранные им Президент и Олий Мажлис",
+    "Любой государственный орган",
+    "Политические партии",
+    "Хокимы областей"
+   ],
+   "uz": [
+    "Faqat u saylagan Prezident va Oliy Majlis",
+    "Har qanday davlat organi",
+    "Siyosiy partiyalar",
+    "Viloyat hokimlari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-017",
+  "doc": "ogp-9",
+  "lesson": "5",
+  "q": {
+   "ru": "Когда состоялся референдум по проекту Конституционного закона о Конституции Республики Узбекистан в новой редакции?",
+   "uz": "Konstitutsiyaning yangi tahriri toʻgʻrisidagi konstitutsiyaviy qonun loyihasi boʻyicha referendum qachon boʻlib oʻtgan?"
+  },
+  "options": {
+   "ru": [
+    "30 апреля 2023 года",
+    "8 декабря 2022 года",
+    "31 августа 2021 года",
+    "1 сентября 2023 года"
+   ],
+   "uz": [
+    "2023-yil 30-aprelda",
+    "2022-yil 8-dekabrda",
+    "2021-yil 31-avgustda",
+    "2023-yil 1-sentabrda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-018",
+  "doc": "ogp-9",
+  "lesson": "5",
+  "q": {
+   "ru": "Что означает греческое слово «демократия»?",
+   "uz": "Yunoncha “demokratiya” soʻzi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "«Власть народа» (demos – народ, kratos – власть)",
+    "«Власть закона»",
+    "«Власть одного»",
+    "«Устройство государства»"
+   ],
+   "uz": [
+    "“Xalq hokimiyati” (demos — xalq, kratos — hokimiyat)",
+    "“Qonun hokimiyati”",
+    "“Bir kishi hokimiyati”",
+    "“Davlat tuzilishi”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-019",
+  "doc": "ogp-9",
+  "lesson": "6",
+  "q": {
+   "ru": "Что означает прямое действие Конституции?",
+   "uz": "Konstitutsiyaning toʻgʻridan-toʻgʻri amal qilishi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "Её нормы применяются непосредственно органами власти, судами и гражданами",
+    "Она действует только через принятые законы",
+    "Она действует только после разъяснения Президента",
+    "Она применяется только Конституционным судом"
+   ],
+   "uz": [
+    "Uning normalari davlat organlari, sudlar va fuqarolar tomonidan bevosita qoʻllaniladi",
+    "U faqat qabul qilingan qonunlar orqali amal qiladi",
+    "U faqat Prezident tushuntirishidan keyin amal qiladi",
+    "Uni faqat Konstitutsiyaviy sud qoʻllaydi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-020",
+  "doc": "ogp-9",
+  "lesson": "7",
+  "q": {
+   "ru": "Внешняя политика – это…",
+   "uz": "Tashqi siyosat — bu…"
+  },
+  "options": {
+   "ru": [
+    "деятельность государства по реализации общей политики в международных отношениях",
+    "деятельность органов местной власти",
+    "регулирование внутренней торговли",
+    "политика партий внутри страны"
+   ],
+   "uz": [
+    "davlatning xalqaro munosabatlarda umumiy siyosatni amalga oshirish faoliyati",
+    "mahalliy hokimiyat organlari faoliyati",
+    "ichki savdoni tartibga solish",
+    "mamlakat ichidagi partiyalar siyosati"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-021",
+  "doc": "ogp-9",
+  "lesson": "7",
+  "q": {
+   "ru": "Кто может быть субъектом международных отношений?",
+   "uz": "Xalqaro munosabatlar subyekti kim boʻlishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "Независимое государство, самостоятельно осуществляющее свои права и обязанности",
+    "Любая область государства",
+    "Любая коммерческая компания",
+    "Любой гражданин"
+   ],
+   "uz": [
+    "Oʻz huquq va majburiyatlarini mustaqil amalga oshiradigan mustaqil davlat",
+    "Davlatning har qanday viloyati",
+    "Har qanday tijorat kompaniyasi",
+    "Har qanday fuqaro"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-022",
+  "doc": "ogp-9",
+  "lesson": "10",
+  "q": {
+   "ru": "Гражданство – это…",
+   "uz": "Fuqarolik — bu…"
+  },
+  "options": {
+   "ru": [
+    "постоянная правовая связь человека с конкретным государством, выражающаяся во взаимных правах и обязанностях",
+    "временная регистрация по месту жительства",
+    "членство в политической партии",
+    "право на выезд за границу"
+   ],
+   "uz": [
+    "shaxsning muayyan davlat bilan oʻzaro huquq va majburiyatlarda ifodalanadigan barqaror huquqiy aloqasi",
+    "yashash joyi boʻyicha vaqtincha roʻyxatga olish",
+    "siyosiy partiyaga aʼzolik",
+    "chet elga chiqish huquqi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-023",
+  "doc": "ogp-9",
+  "lesson": "10",
+  "q": {
+   "ru": "Каких прав не имеют иностранцы и лица без гражданства в Узбекистане?",
+   "uz": "Chet el fuqarolari va fuqaroligi boʻlmagan shaxslar Oʻzbekistonda qanday huquqlarga ega emas?"
+  },
+  "options": {
+   "ru": [
+    "Участвовать в выборах и служить в Вооружённых силах",
+    "Обращаться в суд",
+    "Получать медицинскую помощь",
+    "Иметь собственность"
+   ],
+   "uz": [
+    "Saylovlarda ishtirok etish va Qurolli Kuchlarda xizmat qilish",
+    "Sudga murojaat qilish",
+    "Tibbiy yordam olish",
+    "Mulkka ega boʻlish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-024",
+  "doc": "ogp-9",
+  "lesson": "10",
+  "q": {
+   "ru": "Как называют лицо без гражданства?",
+   "uz": "Fuqaroligi boʻlmagan shaxs qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Апатрид",
+    "Эмигрант",
+    "Резидент",
+    "Бипатрид"
+   ],
+   "uz": [
+    "Apatrid",
+    "Emigrant",
+    "Rezident",
+    "Bipatrid"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-025",
+  "doc": "ogp-9",
+  "lesson": "11",
+  "q": {
+   "ru": "На какой срок выдаётся биометрический паспорт для выезда за границу лицам старше 25 лет?",
+   "uz": "25 yoshdan oshgan shaxslarga chet elga chiqish biometrik pasporti qancha muddatga beriladi?"
+  },
+  "options": {
+   "ru": [
+    "10 лет",
+    "5 лет",
+    "2 года",
+    "Бессрочно"
+   ],
+   "uz": [
+    "10 yil",
+    "5 yil",
+    "2 yil",
+    "Muddatsiz"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "До 1 года – на 2 года, от 1 года до 25 лет – на 5 лет.",
+   "uz": "1 yoshgacha — 2 yilga, 1 yoshdan 25 yoshgacha — 5 yilga."
+  }
+ },
+ {
+  "id": "b9-026",
+  "doc": "ogp-9",
+  "lesson": "11",
+  "q": {
+   "ru": "Что содержит электронный носитель (чип) ID-карты?",
+   "uz": "ID-kartaning elektron tashuvchisi (chipi)da nima saqlanadi?"
+  },
+  "options": {
+   "ru": [
+    "Биографические и биометрические данные владельца",
+    "Только фотографию",
+    "Сведения о банковских счетах",
+    "Медицинскую карту"
+   ],
+   "uz": [
+    "Egasining biografik va biometrik maʼlumotlari",
+    "Faqat surat",
+    "Bank hisobvaraqlari haqidagi maʼlumotlar",
+    "Tibbiy karta"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-027",
+  "doc": "ogp-9",
+  "lesson": "12",
+  "q": {
+   "ru": "В какой статье Конституции установлено единое для всей территории республики гражданство?",
+   "uz": "Respublikaning butun hududida yagona fuqarolik Konstitutsiyaning qaysi moddasida belgilangan?"
+  },
+  "options": {
+   "ru": [
+    "Статья 22",
+    "Статья 1",
+    "Статья 49",
+    "Статья 105"
+   ],
+   "uz": [
+    "22-modda",
+    "1-modda",
+    "49-modda",
+    "105-modda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Гражданин Республики Каракалпакстан является одновременно гражданином Республики Узбекистан.",
+   "uz": "Qoraqalpogʻiston Respublikasi fuqarosi bir vaqtning oʻzida Oʻzbekiston Respublikasi fuqarosidir."
+  }
+ },
+ {
+  "id": "b9-028",
+  "doc": "ogp-9",
+  "lesson": "12",
+  "q": {
+   "ru": "Сколько раз допускается восстановление гражданства Республики Узбекистан?",
+   "uz": "Oʻzbekiston Respublikasi fuqaroligini tiklash necha marta mumkin?"
+  },
+  "options": {
+   "ru": [
+    "Не более одного раза",
+    "Не более двух раз",
+    "Неограниченно",
+    "Не допускается совсем"
+   ],
+   "uz": [
+    "Bir martadan ortiq emas",
+    "Ikki martadan ortiq emas",
+    "Cheklanmagan",
+    "Umuman mumkin emas"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-029",
+  "doc": "ogp-9",
+  "lesson": "12",
+  "q": {
+   "ru": "Что из перечисленного – основание прекращения рассмотрения материалов по гражданству?",
+   "uz": "Quyidagilardan qaysi biri fuqarolik masalasi boʻyicha materiallarni koʻrib chiqishni toʻxtatish asosi?"
+  },
+  "options": {
+   "ru": [
+    "Предоставление заведомо ложных сведений или поддельных документов",
+    "Наличие высшего образования",
+    "Знание иностранного языка",
+    "Проживание в Ташкенте"
+   ],
+   "uz": [
+    "Bila turib yolgʻon maʼlumot yoki soxta hujjatlar taqdim etish",
+    "Oliy maʼlumotga ega boʻlish",
+    "Chet tilini bilish",
+    "Toshkentda yashash"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-030",
+  "doc": "ogp-9",
+  "lesson": "13",
+  "q": {
+   "ru": "Кто защищает права граждан Узбекистана, находящихся за рубежом?",
+   "uz": "Chet eldagi Oʻzbekiston fuqarolarining huquqlarini kim himoya qiladi?"
+  },
+  "options": {
+   "ru": [
+    "Дипломатические представительства и консульские учреждения",
+    "Органы самоуправления граждан",
+    "Хокимияты областей",
+    "Политические партии"
+   ],
+   "uz": [
+    "Diplomatik vakolatxonalar va konsullik muassasalari",
+    "Fuqarolarning oʻzini oʻzi boshqarish organlari",
+    "Viloyat hokimliklari",
+    "Siyosiy partiyalar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-031",
+  "doc": "ogp-9",
+  "lesson": "17",
+  "q": {
+   "ru": "Какой раздел Конституции посвящён основным правам, свободам и обязанностям человека и гражданина?",
+   "uz": "Konstitutsiyaning qaysi boʻlimi inson va fuqaroning asosiy huquqlari, erkinliklari va burchlariga bagʻishlangan?"
+  },
+  "options": {
+   "ru": [
+    "Второй",
+    "Первый",
+    "Третий",
+    "Пятый"
+   ],
+   "uz": [
+    "Ikkinchi",
+    "Birinchi",
+    "Uchinchi",
+    "Beshinchi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-032",
+  "doc": "ogp-9",
+  "lesson": "17",
+  "q": {
+   "ru": "Как в учебнике определяется свобода?",
+   "uz": "Darslikda erkinlik qanday taʼriflanadi?"
+  },
+  "options": {
+   "ru": [
+    "Способность человека делать всё, что не запрещено законом",
+    "Возможность делать всё, что хочется",
+    "Право не подчиняться закону",
+    "Отсутствие обязанностей"
+   ],
+   "uz": [
+    "Insonning qonun bilan taqiqlanmagan hamma narsani qila olish qobiliyati",
+    "Xohlagan narsani qilish imkoniyati",
+    "Qonunga boʻysunmaslik huquqi",
+    "Majburiyatlarning yoʻqligi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-033",
+  "doc": "ogp-9",
+  "lesson": "18",
+  "q": {
+   "ru": "Какая статья Конституции устанавливает: «Честь и достоинство человека неприкосновенны»?",
+   "uz": "“Inson sha’ni va qadr-qimmati daxlsizdir” — Konstitutsiyaning qaysi moddasi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 26",
+    "Статья 22",
+    "Статья 35",
+    "Статья 49"
+   ],
+   "uz": [
+    "26-modda",
+    "22-modda",
+    "35-modda",
+    "49-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-034",
+  "doc": "ogp-9",
+  "lesson": "18",
+  "q": {
+   "ru": "В каком году в Англии был принят акт «Хабеас корпус»?",
+   "uz": "“Habeas corpus” akti Angliyada qaysi yili qabul qilingan?"
+  },
+  "options": {
+   "ru": [
+    "1679",
+    "1215",
+    "1789",
+    "1948"
+   ],
+   "uz": [
+    "1679",
+    "1215",
+    "1789",
+    "1948"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Задержание без решения суда не может продолжаться более 48 часов.",
+   "uz": "Sud qarorisiz ushlab turish 48 soatdan oshmasligi kerak."
+  }
+ },
+ {
+  "id": "b9-035",
+  "doc": "ogp-9",
+  "lesson": "18",
+  "q": {
+   "ru": "Какая статья Конституции гарантирует свободу совести?",
+   "uz": "Vijdon erkinligini Konstitutsiyaning qaysi moddasi kafolatlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 35",
+    "Статья 26",
+    "Статья 32",
+    "Статья 41"
+   ],
+   "uz": [
+    "35-modda",
+    "26-modda",
+    "32-modda",
+    "41-modda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Каждый имеет право исповедовать любую религию или не исповедовать никакой.",
+   "uz": "Har kim istalgan dinga eʼtiqod qilish yoki hech qaysi dinga eʼtiqod qilmaslik huquqiga ega."
+  }
+ },
+ {
+  "id": "b9-036",
+  "doc": "ogp-9",
+  "lesson": "18",
+  "q": {
+   "ru": "Отделена ли система образования в Республике Узбекистан от религии?",
+   "uz": "Oʻzbekiston Respublikasida taʼlim tizimi dindan ajratilganmi?"
+  },
+  "options": {
+   "ru": [
+    "Да",
+    "Нет",
+    "Только в высших учебных заведениях",
+    "Только в частных школах"
+   ],
+   "uz": [
+    "Ha",
+    "Yoʻq",
+    "Faqat oliy taʼlim muassasalarida",
+    "Faqat xususiy maktablarda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-037",
+  "doc": "ogp-9",
+  "lesson": "19",
+  "q": {
+   "ru": "С какого возраста граждане Узбекистана имеют право голоса?",
+   "uz": "Oʻzbekiston fuqarolari necha yoshdan saylov huquqiga ega?"
+  },
+  "options": {
+   "ru": [
+    "С 18 лет",
+    "С 16 лет",
+    "С 21 года",
+    "С 25 лет"
+   ],
+   "uz": [
+    "18 yoshdan",
+    "16 yoshdan",
+    "21 yoshdan",
+    "25 yoshdan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-038",
+  "doc": "ogp-9",
+  "lesson": "19",
+  "q": {
+   "ru": "Через что осуществляется участие граждан в управлении делами общества и государства?",
+   "uz": "Fuqarolarning jamiyat va davlat ishlarini boshqarishda ishtiroki nima orqali amalga oshiriladi?"
+  },
+  "options": {
+   "ru": [
+    "Самоуправление, референдумы, демократическое формирование госорганов и общественный контроль",
+    "Только через обращение к Президенту",
+    "Только через политические партии",
+    "Только через суд"
+   ],
+   "uz": [
+    "Oʻzini oʻzi boshqarish, referendum, davlat organlarini demokratik shakllantirish va jamoatchilik nazorati",
+    "Faqat Prezidentga murojaat orqali",
+    "Faqat siyosiy partiyalar orqali",
+    "Faqat sud orqali"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-039",
+  "doc": "ogp-9",
+  "lesson": "20",
+  "q": {
+   "ru": "Какой закон регулирует сохранение тайны банковских вкладов и счетов?",
+   "uz": "Bank omonatlari va hisobvaraqlari sirini saqlashni qaysi qonun tartibga soladi?"
+  },
+  "options": {
+   "ru": [
+    "Закон «О банковской тайне»",
+    "Закон «О защите прав потребителей»",
+    "Налоговый кодекс",
+    "Закон «Об обращениях физических и юридических лиц»"
+   ],
+   "uz": [
+    "“Bank siri toʻgʻrisida”gi qonun",
+    "“Isteʼmolchilarning huquqlarini himoya qilish toʻgʻrisida”gi qonun",
+    "Soliq kodeksi",
+    "“Jismoniy va yuridik shaxslarning murojaatlari toʻgʻrisida”gi qonun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-040",
+  "doc": "ogp-9",
+  "lesson": "20",
+  "q": {
+   "ru": "Что, согласно учебнику, составляет экономическую основу общества?",
+   "uz": "Darslikka koʻra, jamiyatning iqtisodiy asosini nima tashkil etadi?"
+  },
+  "options": {
+   "ru": [
+    "Право собственности",
+    "Право на отдых",
+    "Свобода слова",
+    "Право на образование"
+   ],
+   "uz": [
+    "Mulk huquqi",
+    "Dam olish huquqi",
+    "Soʻz erkinligi",
+    "Taʼlim olish huquqi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-041",
+  "doc": "ogp-9",
+  "lesson": "21",
+  "q": {
+   "ru": "Социальные права – это…",
+   "uz": "Ijtimoiy huquqlar — bu…"
+  },
+  "options": {
+   "ru": [
+    "права, обеспечивающие социальную защиту и благополучие граждан",
+    "права на участие в выборах",
+    "права на тайну переписки",
+    "права собственности на землю"
+   ],
+   "uz": [
+    "fuqarolarning ijtimoiy himoyasi va farovonligini taʼminlaydigan huquqlar",
+    "saylovda ishtirok etish huquqlari",
+    "yozishmalar sirini saqlash huquqlari",
+    "yerga mulk huquqlari"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Например, право на образование, здравоохранение, социальное обеспечение, жилище, труд и отдых.",
+   "uz": "Masalan, taʼlim, sogʻliqni saqlash, ijtimoiy taʼminot, uy-joy, mehnat va dam olish huquqi."
+  }
+ },
+ {
+  "id": "b9-042",
+  "doc": "ogp-9",
+  "lesson": "21",
+  "q": {
+   "ru": "Какой основной признак социального государства называет учебник?",
+   "uz": "Darslik ijtimoiy davlatning qanday asosiy belgisini koʻrsatadi?"
+  },
+  "options": {
+   "ru": [
+    "Приоритет интересов личности над государственными",
+    "Отсутствие налогов",
+    "Власть одной партии",
+    "Отказ государства от экономики"
+   ],
+   "uz": [
+    "Shaxs manfaatlarining davlat manfaatlaridan ustunligi",
+    "Soliqlarning yoʻqligi",
+    "Bir partiya hokimiyati",
+    "Davlatning iqtisodiyotdan voz kechishi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-043",
+  "doc": "ogp-9",
+  "lesson": "22",
+  "q": {
+   "ru": "Какая статья Конституции гарантирует право на благоприятную окружающую среду?",
+   "uz": "Qulay atrof-muhitga boʻlgan huquqni Konstitutsiyaning qaysi moddasi kafolatlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 49",
+    "Статья 41",
+    "Статья 62",
+    "Статья 26"
+   ],
+   "uz": [
+    "49-modda",
+    "41-modda",
+    "62-modda",
+    "26-modda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "А также право на достоверную информацию о её состоянии.",
+   "uz": "Shuningdek, uning holati haqida ishonchli axborot olish huquqini."
+  }
+ },
+ {
+  "id": "b9-044",
+  "doc": "ogp-9",
+  "lesson": "22",
+  "q": {
+   "ru": "Когда отмечается Всемирный день охраны окружающей среды?",
+   "uz": "Butunjahon atrof-muhitni muhofaza qilish kuni qachon nishonlanadi?"
+  },
+  "options": {
+   "ru": [
+    "5 июня",
+    "22 апреля",
+    "1 сентября",
+    "10 декабря"
+   ],
+   "uz": [
+    "5-iyun",
+    "22-aprel",
+    "1-sentabr",
+    "10-dekabr"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "В этот день в 1972 году была основана программа ООН по окружающей среде (ЮНЕП).",
+   "uz": "Shu kuni 1972-yilda BMTning atrof-muhit dasturi (YuNEP) tashkil etilgan."
+  }
+ },
+ {
+  "id": "b9-045",
+  "doc": "ogp-9",
+  "lesson": "23",
+  "q": {
+   "ru": "Гарантии прав и свобод человека – это…",
+   "uz": "Inson huquq va erkinliklarining kafolatlari — bu…"
+  },
+  "options": {
+   "ru": [
+    "совокупность правовых средств, методов и условий, обеспечивающих реализацию прав и свобод",
+    "перечень прав в Конституции",
+    "обязанности граждан перед государством",
+    "международные договоры"
+   ],
+   "uz": [
+    "huquq va erkinliklarni amalga oshirishni taʼminlaydigan huquqiy vositalar, usullar va shart-sharoitlar majmui",
+    "Konstitutsiyadagi huquqlar roʻyxati",
+    "fuqarolarning davlat oldidagi majburiyatlari",
+    "xalqaro shartnomalar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-046",
+  "doc": "ogp-9",
+  "lesson": "23",
+  "q": {
+   "ru": "Куда может обратиться гражданин, считающий, что его права нарушены?",
+   "uz": "Huquqlari buzilgan deb hisoblagan fuqaro qayerga murojaat qilishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "В суд или другие государственные органы",
+    "Только к Президенту",
+    "Только в прокуратуру",
+    "Никуда, если нарушение совершил госорган"
+   ],
+   "uz": [
+    "Sudga yoki boshqa davlat organlariga",
+    "Faqat Prezidentga",
+    "Faqat prokuraturaga",
+    "Agar buzilishni davlat organi qilgan boʻlsa, hech qayerga"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Каждый вправе защищать свои права всеми способами, не запрещёнными законом.",
+   "uz": "Har kim oʻz huquqlarini qonun bilan taqiqlanmagan barcha usullar bilan himoya qilishga haqli."
+  }
+ },
+ {
+  "id": "b9-047",
+  "doc": "ogp-9",
+  "lesson": "24",
+  "q": {
+   "ru": "В какой главе Конституции закреплены обязанности граждан?",
+   "uz": "Fuqarolarning burchlari Konstitutsiyaning qaysi bobida mustahkamlangan?"
+  },
+  "options": {
+   "ru": [
+    "Глава XI",
+    "Глава I",
+    "Глава V",
+    "Глава XX"
+   ],
+   "uz": [
+    "XI bob",
+    "I bob",
+    "V bob",
+    "XX bob"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-048",
+  "doc": "ogp-9",
+  "lesson": "24",
+  "q": {
+   "ru": "Что из перечисленного – конституционная обязанность граждан?",
+   "uz": "Quyidagilardan qaysi biri fuqarolarning konstitutsiyaviy burchi?"
+  },
+  "options": {
+   "ru": [
+    "Уплачивать установленные законом налоги и сборы",
+    "Состоять в политической партии",
+    "Участвовать во всех выборах",
+    "Иметь высшее образование"
+   ],
+   "uz": [
+    "Qonun bilan belgilangan soliq va yigʻimlarni toʻlash",
+    "Siyosiy partiyaga aʼzo boʻlish",
+    "Barcha saylovlarda qatnashish",
+    "Oliy maʼlumotga ega boʻlish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-049",
+  "doc": "ogp-9",
+  "lesson": "24",
+  "q": {
+   "ru": "Какая статья Конституции обязывает граждан бережно относиться к окружающей природной среде?",
+   "uz": "Fuqarolarni atrof tabiiy muhitga ehtiyotkorona munosabatda boʻlishga Konstitutsiyaning qaysi moddasi majbur qiladi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 62",
+    "Статья 49",
+    "Статья 59",
+    "Статья 22"
+   ],
+   "uz": [
+    "62-modda",
+    "49-modda",
+    "59-modda",
+    "22-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-050",
+  "doc": "ogp-9",
+  "lesson": "27",
+  "q": {
+   "ru": "В каком произведении изложены первые представления о гражданском обществе?",
+   "uz": "Fuqarolik jamiyati haqidagi ilk qarashlar qaysi asarda bayon etilgan?"
+  },
+  "options": {
+   "ru": [
+    "«Политика» Аристотеля",
+    "«Государство» Платона",
+    "«Добродетельный город» Фараби",
+    "«Общественный договор» Руссо"
+   ],
+   "uz": [
+    "Aristotelning “Siyosat” asarida",
+    "Platonning “Davlat” asarida",
+    "Forobiyning “Fozil odamlar shahri” asarida",
+    "Russoning “Ijtimoiy shartnoma” asarida"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-051",
+  "doc": "ogp-9",
+  "lesson": "27",
+  "q": {
+   "ru": "Что составляет экономическую основу гражданского общества?",
+   "uz": "Fuqarolik jamiyatining iqtisodiy asosini nima tashkil etadi?"
+  },
+  "options": {
+   "ru": [
+    "Разнообразие форм собственности и свободные рыночные отношения",
+    "Единая государственная собственность",
+    "Плановая экономика",
+    "Отсутствие частной собственности"
+   ],
+   "uz": [
+    "Mulk shakllarining xilma-xilligi va erkin bozor munosabatlari",
+    "Yagona davlat mulki",
+    "Rejali iqtisodiyot",
+    "Xususiy mulkning yoʻqligi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-052",
+  "doc": "ogp-9",
+  "lesson": "28",
+  "q": {
+   "ru": "Из каких палат состоит Олий Мажлис?",
+   "uz": "Oliy Majlis qanday palatalardan iborat?"
+  },
+  "options": {
+   "ru": [
+    "Законодательная палата и Сенат",
+    "Сенат и Кенгаш",
+    "Палата депутатов и Верховный Совет",
+    "Одна палата"
+   ],
+   "uz": [
+    "Qonunchilik palatasi va Senat",
+    "Senat va Kengash",
+    "Deputatlar palatasi va Oliy Kengash",
+    "Bitta palata"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-053",
+  "doc": "ogp-9",
+  "lesson": "28",
+  "q": {
+   "ru": "Каков срок полномочий Олий Мажлиса?",
+   "uz": "Oliy Majlisning vakolat muddati qancha?"
+  },
+  "options": {
+   "ru": [
+    "5 лет",
+    "4 года",
+    "7 лет",
+    "3 года"
+   ],
+   "uz": [
+    "5 yil",
+    "4 yil",
+    "7 yil",
+    "3 yil"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-054",
+  "doc": "ogp-9",
+  "lesson": "28",
+  "q": {
+   "ru": "Может ли одно лицо одновременно быть депутатом Законодательной палаты и членом Сената?",
+   "uz": "Bir shaxs bir vaqtning oʻzida Qonunchilik palatasi deputati va Senat aʼzosi boʻlishi mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да",
+    "Да, с согласия Президента",
+    "Да, если оно избрано в разных регионах"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha",
+    "Ha, Prezident roziligi bilan",
+    "Ha, turli hududlardan saylangan boʻlsa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-055",
+  "doc": "ogp-9",
+  "lesson": "29",
+  "q": {
+   "ru": "Когда в Узбекистане была введена должность Президента?",
+   "uz": "Oʻzbekistonda Prezident lavozimi qachon joriy etilgan?"
+  },
+  "options": {
+   "ru": [
+    "24 марта 1990 года",
+    "31 августа 1991 года",
+    "8 декабря 1992 года",
+    "29 декабря 1991 года"
+   ],
+   "uz": [
+    "1990-yil 24-martda",
+    "1991-yil 31-avgustda",
+    "1992-yil 8-dekabrda",
+    "1991-yil 29-dekabrda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-056",
+  "doc": "ogp-9",
+  "lesson": "29",
+  "q": {
+   "ru": "Какие акты издаёт Президент Республики Узбекистан?",
+   "uz": "Oʻzbekiston Respublikasi Prezidenti qanday hujjatlar chiqaradi?"
+  },
+  "options": {
+   "ru": [
+    "Указы, постановления и распоряжения",
+    "Законы и кодексы",
+    "Только постановления",
+    "Приговоры"
+   ],
+   "uz": [
+    "Farmonlar, qarorlar va farmoyishlar",
+    "Qonunlar va kodekslar",
+    "Faqat qarorlar",
+    "Hukmlar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-057",
+  "doc": "ogp-9",
+  "lesson": "29",
+  "q": {
+   "ru": "В какой стране, по учебнику, президента избирают представители избирателей (выборщики)?",
+   "uz": "Darslikka koʻra, qaysi davlatda prezidentni saylovchilar vakillari (saylovchilar kollegiyasi) saylaydi?"
+  },
+  "options": {
+   "ru": [
+    "США",
+    "Италия",
+    "Германия",
+    "Франция"
+   ],
+   "uz": [
+    "AQSh",
+    "Italiya",
+    "Germaniya",
+    "Fransiya"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "В Италии, Чехии, Польше президента избирает парламент, в Германии – специальная конференция.",
+   "uz": "Italiya, Chexiya, Polshada prezidentni parlament, Germaniyada maxsus konferensiya saylaydi."
+  }
+ },
+ {
+  "id": "b9-058",
+  "doc": "ogp-9",
+  "lesson": "30",
+  "q": {
+   "ru": "В какой статье Конституции закреплён принцип разделения властей?",
+   "uz": "Hokimiyatlar boʻlinishi prinsipi Konstitutsiyaning qaysi moddasida mustahkamlangan?"
+  },
+  "options": {
+   "ru": [
+    "Статья 11",
+    "Статья 1",
+    "Статья 22",
+    "Статья 105"
+   ],
+   "uz": [
+    "11-modda",
+    "1-modda",
+    "22-modda",
+    "105-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-059",
+  "doc": "ogp-9",
+  "lesson": "30",
+  "q": {
+   "ru": "В течение какого срока Законодательная палата рассматривает кандидатуру Премьер-министра, представленную Президентом?",
+   "uz": "Qonunchilik palatasi Prezident taqdim etgan Bosh vazir nomzodini qancha muddatda koʻrib chiqadi?"
+  },
+  "options": {
+   "ru": [
+    "10 дней",
+    "30 дней",
+    "3 дня",
+    "1 месяц и 10 дней"
+   ],
+   "uz": [
+    "10 kun",
+    "30 kun",
+    "3 kun",
+    "1 oy 10 kun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-060",
+  "doc": "ogp-9",
+  "lesson": "31",
+  "q": {
+   "ru": "Каков срок полномочий хокимов и Кенгашей народных депутатов?",
+   "uz": "Hokimlar va xalq deputatlari Kengashlarining vakolat muddati qancha?"
+  },
+  "options": {
+   "ru": [
+    "5 лет",
+    "4 года",
+    "3 года",
+    "7 лет"
+   ],
+   "uz": [
+    "5 yil",
+    "4 yil",
+    "3 yil",
+    "7 yil"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Одно лицо не может быть назначено хокимом одной и той же территории более двух сроков подряд.",
+   "uz": "Bir shaxs bir hududga ketma-ket ikki muddatdan ortiq hokim etib tayinlanishi mumkin emas."
+  }
+ },
+ {
+  "id": "b9-061",
+  "doc": "ogp-9",
+  "lesson": "31",
+  "q": {
+   "ru": "Кто назначает хокима области и города Ташкента?",
+   "uz": "Viloyat va Toshkent shahar hokimini kim tayinlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Президент Республики Узбекистан",
+    "Олий Мажлис",
+    "Кабинет Министров",
+    "Население на выборах"
+   ],
+   "uz": [
+    "Oʻzbekiston Respublikasi Prezidenti",
+    "Oliy Majlis",
+    "Vazirlar Mahkamasi",
+    "Aholi saylovda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-062",
+  "doc": "ogp-9",
+  "lesson": "32",
+  "q": {
+   "ru": "Кто избирает Конституционный суд Республики Узбекистан?",
+   "uz": "Oʻzbekiston Respublikasi Konstitutsiyaviy sudini kim saylaydi?"
+  },
+  "options": {
+   "ru": [
+    "Сенат Олий Мажлиса по представлению Президента",
+    "Законодательная палата",
+    "Кабинет Министров",
+    "Верховный суд"
+   ],
+   "uz": [
+    "Prezident taqdimiga binoan Oliy Majlis Senati",
+    "Qonunchilik palatasi",
+    "Vazirlar Mahkamasi",
+    "Oliy sud"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-063",
+  "doc": "ogp-9",
+  "lesson": "32",
+  "q": {
+   "ru": "Обязательны ли акты судебной власти для государственных органов и граждан?",
+   "uz": "Sud hokimiyati hujjatlari davlat organlari va fuqarolar uchun majburiymi?"
+  },
+  "options": {
+   "ru": [
+    "Да, их неисполнение влечёт ответственность",
+    "Нет, носят рекомендательный характер",
+    "Только для граждан",
+    "Только для органов власти"
+   ],
+   "uz": [
+    "Ha, ularni bajarmaslik javobgarlikka sabab boʻladi",
+    "Yoʻq, tavsiyaviy xususiyatga ega",
+    "Faqat fuqarolar uchun",
+    "Faqat davlat organlari uchun"
+   ]
+  },
+  "answer": 0
+ }
+]
