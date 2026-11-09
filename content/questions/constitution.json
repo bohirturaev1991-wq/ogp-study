@@ -1,0 +1,212 @@
+[
+  {
+    "id": "con-001", "doc": "constitution", "art": "1",
+    "q": { "uz": "Konstitutsiyaga koʻra Oʻzbekiston qanday boshqaruv shakliga ega davlat?", "ru": "Какую форму правления имеет Узбекистан согласно Конституции?" },
+    "options": { "uz": ["Respublika", "Parlamentar monarxiya", "Mutlaq monarxiya", "Konfederatsiya"], "ru": ["Республиканскую", "Парламентскую монархию", "Абсолютную монархию", "Конфедеративную"] },
+    "answer": 0,
+    "explain": { "uz": "1-modda: Oʻzbekiston — boshqaruvning respublika shakliga ega boʻlgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat.", "ru": "Ст. 1: Узбекистан — суверенное, демократическое, правовое, социальное и светское государство с республиканской формой правления." }
+  },
+  {
+    "id": "con-002", "doc": "constitution", "art": "1",
+    "q": { "uz": "Quyidagilardan qaysi biri 1-moddada Oʻzbekiston davlatining belgisi sifatida koʻrsatilmagan?", "ru": "Какая из характеристик НЕ названа в статье 1 Конституции?" },
+    "options": { "uz": ["Federativ", "Dunyoviy", "Ijtimoiy", "Huquqiy"], "ru": ["Федеративное", "Светское", "Социальное", "Правовое"] },
+    "answer": 0,
+    "explain": { "uz": "1-moddada: suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat. «Federativ» soʻzi yoʻq.", "ru": "В ст. 1: суверенное, демократическое, правовое, социальное и светское государство. «Федеративное» не названо." }
+  },
+  {
+    "id": "con-003", "doc": "constitution", "art": "4",
+    "q": { "uz": "Oʻzbekiston Respublikasining davlat tili qaysi?", "ru": "Какой язык является государственным в Республике Узбекистан?" },
+    "options": { "uz": ["Oʻzbek tili", "Oʻzbek va rus tillari", "Oʻzbek va qoraqalpoq tillari", "Davlat tili belgilanmagan"], "ru": ["Узбекский язык", "Узбекский и русский языки", "Узбекский и каракалпакский языки", "Государственный язык не установлен"] },
+    "answer": 0,
+    "explain": { "uz": "4-modda: Oʻzbekiston Respublikasining davlat tili oʻzbek tilidir.", "ru": "Ст. 4: государственным языком Республики Узбекистан является узбекский язык." }
+  },
+  {
+    "id": "con-004", "doc": "constitution", "art": "5",
+    "q": { "uz": "Oʻzbekiston Respublikasining davlat ramzlari qaysilar?", "ru": "Что относится к государственным символам Республики Узбекистан?" },
+    "options": { "uz": ["Bayroq, gerb, madhiya", "Bayroq, gerb, poytaxt", "Gerb, madhiya, Konstitutsiya", "Bayroq, madhiya, pul birligi"], "ru": ["Флаг, герб, гимн", "Флаг, герб, столица", "Герб, гимн, Конституция", "Флаг, гимн, денежная единица"] },
+    "answer": 0,
+    "explain": { "uz": "5-modda: qonun bilan tasdiqlanadigan davlat ramzlari — bayrogʻi, gerbi va madhiyasi.", "ru": "Ст. 5: государственные символы — флаг, герб, гимн, утверждаемые законом." }
+  },
+  {
+    "id": "con-005", "doc": "constitution", "art": "6",
+    "q": { "uz": "Oʻzbekiston Respublikasining poytaxti qaysi shahar?", "ru": "Какой город является столицей Республики Узбекистан?" },
+    "options": { "uz": ["Toshkent", "Samarqand", "Buxoro", "Nukus"], "ru": ["Ташкент", "Самарканд", "Бухара", "Нукус"] },
+    "answer": 0,
+    "explain": { "uz": "6-modda: Oʻzbekiston Respublikasining poytaxti — Toshkent shahri.", "ru": "Ст. 6: столица Республики Узбекистан — город Ташкент." }
+  },
+  {
+    "id": "con-006", "doc": "constitution", "art": "7",
+    "q": { "uz": "Konstitutsiyaga koʻra davlat hokimiyatining birdan-bir manbai kim?", "ru": "Кто, согласно Конституции, является единственным источником государственной власти?" },
+    "options": { "uz": ["Xalq", "Prezident", "Oliy Majlis", "Konstitutsiyaviy sud"], "ru": ["Народ", "Президент", "Олий Мажлис", "Конституционный суд"] },
+    "answer": 0,
+    "explain": { "uz": "7-modda: Xalq davlat hokimiyatining birdan-bir manbaidir.", "ru": "Ст. 7: народ является единственным источником государственной власти." }
+  },
+  {
+    "id": "con-007", "doc": "constitution", "art": "9",
+    "q": { "uz": "Jamiyat va davlat hayotining eng muhim masalalari umumxalq ovoziga qoʻyilishi qanday ataladi?", "ru": "Как называется всенародное голосование по важнейшим вопросам общественной и государственной жизни?" },
+    "options": { "uz": ["Referendum", "Saylov", "Impichment", "Ratifikatsiya"], "ru": ["Референдум", "Выборы", "Импичмент", "Ратификация"] },
+    "answer": 0,
+    "explain": { "uz": "9-modda: eng muhim masalalar umumxalq ovoziga — referendumga qoʻyiladi.", "ru": "Ст. 9: важнейшие вопросы ставятся на всенародное голосование — референдум." }
+  },
+  {
+    "id": "con-008", "doc": "constitution", "art": "10",
+    "q": { "uz": "Oʻzbekiston xalqi nomidan kimlar ish olib borishi mumkin?", "ru": "Кто может выступать от имени народа Узбекистана?" },
+    "options": { "uz": ["Faqat xalq tomonidan saylangan Oliy Majlis va Prezident", "Har qanday siyosiy partiya", "Vazirlar Mahkamasi va Oliy sud", "Jamoat birlashmalari"], "ru": ["Только избранные народом Олий Мажлис и Президент", "Любая политическая партия", "Кабинет Министров и Верховный суд", "Общественные объединения"] },
+    "answer": 0,
+    "explain": { "uz": "10-modda: xalq nomidan faqat u saylagan Oliy Majlis va Prezident ish olib borishi mumkin.", "ru": "Ст. 10: от имени народа могут выступать только избранные им Олий Мажлис и Президент." }
+  },
+  {
+    "id": "con-009", "doc": "constitution", "art": "15",
+    "q": { "uz": "Konstitutsiya qanday yuridik kuchga ega?", "ru": "Какой юридической силой обладает Конституция Республики Узбекистан?" },
+    "options": { "uz": ["Oliy yuridik kuchga, toʻgʻridan-toʻgʻri amal qiladi", "Qonunlar bilan teng kuchga", "Xalqaro shartnomalardan keyingi kuchga", "Faqat tavsiyaviy kuchga"], "ru": ["Высшей юридической силой и прямым действием", "Равной силой с законами", "Силой ниже международных договоров", "Только рекомендательной силой"] },
+    "answer": 0,
+    "explain": { "uz": "15-modda: Konstitutsiya oliy yuridik kuchga ega, toʻgʻridan-toʻgʻri amal qiladi.", "ru": "Ст. 15: Конституция имеет высшую юридическую силу, прямое действие." }
+  },
+  {
+    "id": "con-010", "doc": "constitution", "art": "25",
+    "q": { "uz": "Oʻzbekiston Respublikasida oʻlim jazosi toʻgʻrisida Konstitutsiyada nima deyilgan?", "ru": "Что сказано в Конституции о смертной казни?" },
+    "options": { "uz": ["Oʻlim jazosi taqiqlanadi", "Faqat ogʻir jinoyatlar uchun qoʻllaniladi", "Sud qarori bilan qoʻllanishi mumkin", "Bu masala qonun bilan hal qilinadi"], "ru": ["Смертная казнь запрещается", "Применяется только за тяжкие преступления", "Может применяться по решению суда", "Вопрос решается законом"] },
+    "answer": 0,
+    "explain": { "uz": "25-modda: Oʻzbekiston Respublikasida oʻlim jazosi taqiqlanadi.", "ru": "Ст. 25: в Республике Узбекистан смертная казнь запрещается." }
+  },
+  {
+    "id": "con-011", "doc": "constitution", "art": "22",
+    "q": { "uz": "Qoraqalpogʻiston Respublikasi fuqarosi qaysi davlat fuqarosi hisoblanadi?", "ru": "Гражданином какого государства одновременно является гражданин Республики Каракалпакстан?" },
+    "options": { "uz": ["Ayni vaqtda Oʻzbekiston Respublikasi fuqarosi", "Faqat Qoraqalpogʻiston fuqarosi", "Ikki fuqarolikni tanlashi kerak", "Qonun bilan belgilanadi"], "ru": ["Одновременно гражданином Республики Узбекистан", "Только Каракалпакстана", "Должен выбрать одно гражданство", "Определяется законом"] },
+    "answer": 0,
+    "explain": { "uz": "22-modda: Qoraqalpogʻiston Respublikasining fuqarosi ayni vaqtda Oʻzbekiston Respublikasining fuqarosidir.", "ru": "Ст. 22: гражданин Республики Каракалпакстан является одновременно гражданином Республики Узбекистан." }
+  },
+  {
+    "id": "con-012", "doc": "constitution", "art": "35",
+    "q": { "uz": "Vijdon erkinligi haqida Konstitutsiyada nima deyilgan?", "ru": "Что закреплено в Конституции о свободе совести?" },
+    "options": { "uz": ["Har kim xohlagan dinga eʼtiqod qilish yoki hech qaysi dinga eʼtiqod qilmaslik huquqiga ega", "Faqat davlat tan olgan dinga eʼtiqod qilish mumkin", "Fuqarolar dinga eʼtiqod qilishga majbur", "Diniy qarashlar davlat tomonidan belgilanadi"], "ru": ["Каждый вправе исповедовать любую религию или не исповедовать никакой", "Можно исповедовать только признанные государством религии", "Граждане обязаны исповедовать религию", "Религиозные взгляды устанавливает государство"] },
+    "answer": 0,
+    "explain": { "uz": "35-modda: hamma uchun vijdon erkinligi kafolatlanadi; diniy qarashlarni majburan singdirishga yoʻl qoʻyilmaydi.", "ru": "Ст. 35: свобода совести гарантируется для всех; принудительное насаждение религиозных взглядов недопустимо." }
+  },
+  {
+    "id": "con-013", "doc": "constitution", "art": "50",
+    "q": { "uz": "Davlat qaysi taʼlimni bepul olishni kafolatlaydi?", "ru": "Получение какого образования государство гарантирует бесплатно?" },
+    "options": { "uz": ["Umumiy oʻrta va boshlangʻich professional taʼlim", "Barcha bosqichdagi oliy taʼlim", "Faqat maktabgacha taʼlim", "Magistratura"], "ru": ["Общего среднего и начального профессионального", "Высшего образования всех ступеней", "Только дошкольного", "Магистратуры"] },
+    "answer": 0,
+    "explain": { "uz": "50-modda: davlat umumiy oʻrta va boshlangʻich professional taʼlim olishni bepul kafolatlaydi.", "ru": "Ст. 50: государство гарантирует получение бесплатно общего среднего и начального профессионального образования." }
+  },
+  {
+    "id": "con-014", "doc": "constitution", "art": "51",
+    "q": { "uz": "Fuqarolar davlat hisobidan oliy maʼlumotni qanday asosda olishga haqli?", "ru": "На какой основе граждане вправе получать высшее образование за счёт государства?" },
+    "options": { "uz": ["Davlat taʼlim tashkilotlarida tanlov asosida", "Barcha fuqarolar imtihonsiz", "Faqat imtiyozli toifalar", "Faqat nodavlat OTMlarda"], "ru": ["В государственных образовательных организациях на конкурсной основе", "Все граждане без экзаменов", "Только льготные категории", "Только в негосударственных вузах"] },
+    "answer": 0,
+    "explain": { "uz": "51-modda: fuqarolar davlat taʼlim tashkilotlarida tanlov asosida davlat hisobidan oliy maʼlumot olishga haqli.", "ru": "Ст. 51: граждане вправе получать высшее образование в государственных образовательных организациях на конкурсной основе за счёт государства." }
+  },
+  {
+    "id": "con-015", "doc": "constitution", "art": "52",
+    "q": { "uz": "Konstitutsiyaning qaysi moddasida oʻqituvchi mehnati jamiyat va davlatni rivojlantirish asosi sifatida eʼtirof etilgan?", "ru": "В какой статье Конституции труд учителя признан основой развития общества и государства?" },
+    "options": { "uz": ["52-modda", "50-modda", "42-modda", "61-modda"], "ru": ["Статья 52", "Статья 50", "Статья 42", "Статья 61"] },
+    "answer": 0,
+    "explain": { "uz": "52-modda oʻqituvchi mehnatiga bagʻishlangan; davlat oʻqituvchilarning shaʼni va qadr-qimmatini himoya qilish haqida gʻamxoʻrlik qiladi.", "ru": "Ст. 52 посвящена труду учителя; государство заботится о защите чести и достоинства учителей." }
+  },
+  {
+    "id": "con-016", "doc": "constitution", "art": "58",
+    "q": { "uz": "Xotin-qizlar va erkaklarning huquqlari haqida Konstitutsiyada nima deyilgan?", "ru": "Что говорит Конституция о правах женщин и мужчин?" },
+    "options": { "uz": ["Xotin-qizlar va erkaklar teng huquqlidirlar", "Erkaklar ustuvor huquqqa ega", "Bu masala oila qonunchiligi bilan hal qilinadi", "Faqat mehnat sohasida tengdirlar"], "ru": ["Женщины и мужчины имеют равные права", "Мужчины имеют приоритет", "Вопрос решается семейным законодательством", "Равны только в сфере труда"] },
+    "answer": 0,
+    "explain": { "uz": "58-modda: Xotin-qizlar va erkaklar teng huquqlidirlar.", "ru": "Ст. 58: женщины и мужчины имеют равные права." }
+  },
+  {
+    "id": "con-017", "doc": "constitution", "art": "64",
+    "q": { "uz": "Konstitutsiyaga koʻra Oʻzbekiston Respublikasini himoya qilish nima hisoblanadi?", "ru": "Чем, согласно Конституции, является защита Республики Узбекистан?" },
+    "options": { "uz": ["Har bir fuqaroning burchi", "Faqat harbiy xizmatchilarning vazifasi", "Ixtiyoriy ish", "Faqat erkaklarning huquqi"], "ru": ["Долгом каждого гражданина", "Обязанностью только военнослужащих", "Добровольным делом", "Правом только мужчин"] },
+    "answer": 0,
+    "explain": { "uz": "64-modda: Oʻzbekiston Respublikasini himoya qilish har bir fuqaroning burchidir; harbiy yoki muqobil xizmat.", "ru": "Ст. 64: защита Республики Узбекистан — долг каждого гражданина; военная или альтернативная служба." }
+  },
+  {
+    "id": "con-018", "doc": "constitution", "art": "92",
+    "q": { "uz": "Oliy Majlis Qonunchilik palatasi nechta deputatdan iborat?", "ru": "Из скольких депутатов состоит Законодательная палата Олий Мажлиса?" },
+    "options": { "uz": ["150", "100", "120", "65"], "ru": ["150", "100", "120", "65"] },
+    "answer": 0,
+    "explain": { "uz": "92-modda: Qonunchilik palatasi qonunga muvofiq saylanadigan bir yuz ellik deputatdan iborat.", "ru": "Ст. 92: Законодательная палата состоит из ста пятидесяти депутатов." }
+  },
+  {
+    "id": "con-019", "doc": "constitution", "art": "92",
+    "q": { "uz": "Qoraqalpogʻiston Respublikasi, har bir viloyat va Toshkent shahridan Senatga nechta aʼzo saylanadi?", "ru": "Сколько членов Сената избирается от Республики Каракалпакстан, каждой области и города Ташкента?" },
+    "options": { "uz": ["4 kishidan", "6 kishidan", "3 kishidan", "5 kishidan"], "ru": ["По 4 человека", "По 6 человек", "По 3 человека", "По 5 человек"] },
+    "answer": 0,
+    "explain": { "uz": "92-modda: senatorlar teng miqdorda — toʻrt kishidan saylanadi.", "ru": "Ст. 92: члены Сената избираются в равном количестве — по четыре человека." }
+  },
+  {
+    "id": "con-020", "doc": "constitution", "art": "92",
+    "q": { "uz": "Senatning nechta aʼzosi Prezident tomonidan tayinlanadi?", "ru": "Сколько членов Сената назначает Президент?" },
+    "options": { "uz": ["9", "16", "6", "12"], "ru": ["9", "16", "6", "12"] },
+    "answer": 0,
+    "explain": { "uz": "92-modda: Senatning toʻqqiz nafar aʼzosi eng obroʻli fuqarolar orasidan Prezident tomonidan tayinlanadi.", "ru": "Ст. 92: девять членов Сената назначаются Президентом из числа наиболее авторитетных граждан." }
+  },
+  {
+    "id": "con-021", "doc": "constitution", "art": "92",
+    "q": { "uz": "Qonunchilik palatasi deputati yoki senator boʻlish uchun saylov kuniga qadar necha yoshga toʻlgan boʻlish kerak?", "ru": "Какого возраста ко дню выборов должен достичь кандидат в депутаты Законодательной палаты или в члены Сената?" },
+    "options": { "uz": ["25 yosh", "21 yosh", "30 yosh", "35 yosh"], "ru": ["25 лет", "21 года", "30 лет", "35 лет"] },
+    "answer": 0,
+    "explain": { "uz": "92-modda: saylov kuniga qadar yigirma besh yoshga toʻlgan va kamida besh yil Oʻzbekiston hududida muqim yashayotgan fuqaro.", "ru": "Ст. 92: гражданин, достигший ко дню выборов двадцати пяти лет и постоянно проживающий в Узбекистане не менее пяти лет." }
+  },
+  {
+    "id": "con-022", "doc": "constitution", "art": "98",
+    "q": { "uz": "Qonunchilik takliflari kiritish uchun saylov huquqiga ega boʻlgan kamida nechta fuqaro kerak?", "ru": "Сколько граждан, обладающих избирательным правом, необходимо для внесения законодательного предложения?" },
+    "options": { "uz": ["Kamida 100 ming", "Kamida 50 ming", "Kamida 10 ming", "Kamida 1 million"], "ru": ["Не менее 100 тысяч", "Не менее 50 тысяч", "Не менее 10 тысяч", "Не менее 1 миллиона"] },
+    "answer": 0,
+    "explain": { "uz": "98-modda: saylov huquqiga ega boʻlgan, yuz ming nafardan kam boʻlmagan fuqarolar qonunchilik takliflarini kiritishga haqli.", "ru": "Ст. 98: граждане в количестве не менее ста тысяч человек вправе вносить законодательные предложения." }
+  },
+  {
+    "id": "con-023", "doc": "constitution", "art": "98",
+    "q": { "uz": "Quyidagilardan qaysi biri qonunchilik tashabbusi huquqiga ega EMAS (u faqat qonunchilik taklifi kiritadi)?", "ru": "Кто из перечисленных НЕ обладает правом законодательной инициативы, а вправе вносить лишь законодательные предложения?" },
+    "options": { "uz": ["Ombudsman", "Prezident", "Vazirlar Mahkamasi", "Qonunchilik palatasi deputatlari"], "ru": ["Омбудсман", "Президент", "Кабинет Министров", "Депутаты Законодательной палаты"] },
+    "answer": 0,
+    "explain": { "uz": "98-modda: Senat, Ombudsman, MSK va 100 ming fuqaro qonunchilik takliflarini kiritadi; tashabbus huquqi Prezident, Qoraqalpogʻiston, deputatlar, Vazirlar Mahkamasi va (oʻz vakolati doirasida) Konstitutsiyaviy sud, Oliy sud, Bosh prokurorga tegishli.", "ru": "Ст. 98: Сенат, омбудсман, ЦИК и 100 тыс. граждан вносят законодательные предложения; право инициативы — у Президента, Каракалпакстана, депутатов, Кабинета Министров и (по своим вопросам) Конституционного суда, Верховного суда, Генпрокурора." }
+  },
+  {
+    "id": "con-024", "doc": "constitution", "art": "99",
+    "q": { "uz": "Qonunchilik palatasi qabul qilgan qonun necha kundan kechiktirmay Senatga yuboriladi?", "ru": "Не позднее какого срока закон, принятый Законодательной палатой, направляется в Сенат?" },
+    "options": { "uz": ["10 kun", "30 kun", "15 kun", "60 kun"], "ru": ["10 дней", "30 дней", "15 дней", "60 дней"] },
+    "answer": 0,
+    "explain": { "uz": "99-modda: qabul qilingan qonun qabul qilingan kundan eʼtiboran oʻn kundan kechiktirmay Senatga yuboriladi.", "ru": "Ст. 99: закон не позднее десяти дней со дня принятия направляется в Сенат." }
+  },
+  {
+    "id": "con-025", "doc": "constitution", "art": "106",
+    "q": { "uz": "Oʻzbekiston Respublikasi Prezidenti necha yil muddatga saylanadi?", "ru": "На какой срок избирается Президент Республики Узбекистан?" },
+    "options": { "uz": ["7 yil", "5 yil", "6 yil", "4 yil"], "ru": ["7 лет", "5 лет", "6 лет", "4 года"] },
+    "answer": 0,
+    "explain": { "uz": "106-modda: Prezident yashirin ovoz berish yoʻli bilan yetti yil muddatga saylanadi.", "ru": "Ст. 106: Президент избирается тайным голосованием сроком на семь лет." }
+  },
+  {
+    "id": "con-026", "doc": "constitution", "art": "106",
+    "q": { "uz": "Prezidentlikka nomzod uchun qanday talablar belgilangan?", "ru": "Какие требования предъявляются к кандидату в Президенты?" },
+    "options": { "uz": ["Kamida 35 yosh, davlat tilini yaxshi bilishi, saylovgacha kamida 10 yil Oʻzbekistonda muqim yashashi", "Kamida 30 yosh va oliy maʼlumot", "Kamida 40 yosh, 15 yil yashash", "Kamida 25 yosh, 5 yil yashash"], "ru": ["Не моложе 35 лет, свободное владение госязыком, проживание в Узбекистане не менее 10 лет перед выборами", "Не моложе 30 лет и высшее образование", "Не моложе 40 лет, проживание 15 лет", "Не моложе 25 лет, проживание 5 лет"] },
+    "answer": 0,
+    "explain": { "uz": "106-modda: oʻttiz besh yoshdan kichik boʻlmagan, davlat tilini yaxshi biladigan, bevosita saylovgacha kamida 10 yil Oʻzbekiston hududida muqim yashayotgan fuqaro.", "ru": "Ст. 106: гражданин не моложе тридцати пяти лет, свободно владеющий государственным языком, постоянно проживающий в Узбекистане не менее 10 лет непосредственно перед выборами." }
+  },
+  {
+    "id": "con-027", "doc": "constitution", "art": "110",
+    "q": { "uz": "Prezident qanday hujjatlar chiqaradi?", "ru": "Какие акты издаёт Президент Республики Узбекистан?" },
+    "options": { "uz": ["Farmonlar, qarorlar va farmoyishlar", "Qonunlar va kodekslar", "Faqat farmoyishlar", "Konstitutsiyaviy qonunlar"], "ru": ["Указы, постановления и распоряжения", "Законы и кодексы", "Только распоряжения", "Конституционные законы"] },
+    "answer": 0,
+    "explain": { "uz": "110-modda: Prezident butun hududda majburiy kuchga ega boʻlgan farmonlar, qarorlar va farmoyishlar chiqaradi.", "ru": "Ст. 110: Президент издаёт указы, постановления и распоряжения, обязательные на всей территории республики." }
+  },
+  {
+    "id": "con-028", "doc": "constitution", "art": "137",
+    "q": { "uz": "Sudlarda ishlar qanday tartibda koʻriladi?", "ru": "Как проводится разбирательство дел в судах?" },
+    "options": { "uz": ["Ochiq; yopiq majlisga faqat qonunda belgilangan hollarda yoʻl qoʻyiladi", "Har doim yopiq", "Sudyaning xohishiga koʻra", "Faqat taraflar roziligi bilan ochiq"], "ru": ["Открыто; закрытое заседание — лишь в случаях, установленных законом", "Всегда закрыто", "По усмотрению судьи", "Открыто только с согласия сторон"] },
+    "answer": 0,
+    "explain": { "uz": "137-modda: hamma sudlarda ishlar ochiq koʻriladi.", "ru": "Ст. 137: разбирательство дел во всех судах открытое." }
+  },
+  {
+    "id": "con-029", "doc": "constitution", "art": "150",
+    "q": { "uz": "Oʻzbekiston Respublikasining pul birligi nima?", "ru": "Что является денежной единицей Республики Узбекистан?" },
+    "options": { "uz": ["Soʻm", "Tiyin", "Dollar", "Soʻm va dollar"], "ru": ["Сум", "Тийин", "Доллар", "Сум и доллар"] },
+    "answer": 0,
+    "explain": { "uz": "150-modda: Oʻzbekiston Respublikasining pul birligi soʻmdir.", "ru": "Ст. 150: денежной единицей Республики Узбекистан является сум." }
+  },
+  {
+    "id": "con-030", "doc": "constitution", "art": "154",
+    "q": { "uz": "Konstitutsiyaga oʻzgartirishlar kiritish uchun palatalarda qanday koʻpchilik kerak?", "ru": "Каким большинством принимается конституционный закон об изменении Конституции в палатах Олий Мажлиса?" },
+    "options": { "uz": ["Umumiy sonining kamida uchdan ikki qismi", "Oddiy koʻpchilik", "Umumiy sonining kamida toʻrtdan uch qismi", "Bir ovozdan"], "ru": ["Не менее двух третей от общего числа", "Простым большинством", "Не менее трёх четвертей от общего числа", "Единогласно"] },
+    "answer": 0,
+    "explain": { "uz": "154-modda: oʻzgartirishlar deputatlar va senatorlar umumiy sonining kamida uchdan ikki qismidan iborat koʻpchilik tomonidan yoki referendum orqali kiritiladi.", "ru": "Ст. 154: изменения вносятся большинством не менее двух третей от общего числа депутатов и сенаторов либо референдумом." }
+  }
+]

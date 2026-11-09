@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/content/
+*.tsbuildinfo
+*.dropped.txt
+android/app/build/
+android/build/
+android/.gradle/

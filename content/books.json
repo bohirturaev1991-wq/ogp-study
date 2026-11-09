@@ -1,0 +1,35 @@
+{
+  "_help": "Список учебников. Тексты: content/books/<id>.<lang>.md (формат — content/books/README.md). После изменения: npm run content",
+  "books": [
+    {
+      "id": "ogp-8",
+      "short": { "uz": "DHA 8-sinf", "ru": "ОГП 8 кл." },
+      "title": { "uz": "Davlat va huquq asoslari. 8-sinf", "ru": "Основы государства и права. 8 класс" },
+      "date": "2024",
+      "audience": ["applicant", "teacher"]
+    },
+    {
+      "id": "ogp-9",
+      "short": { "uz": "DHA 9-sinf", "ru": "ОГП 9 кл." },
+      "title": { "uz": "Davlat va huquq asoslari. 9-sinf", "ru": "Основы государства и права. 9 класс" },
+      "date": "2024",
+      "audience": ["applicant", "teacher"]
+    },
+    {
+      "id": "ogp-10",
+      "short": { "uz": "DHA 10-sinf", "ru": "ОГП 10 кл." },
+      "title": { "uz": "Davlat va huquq asoslari. 10-sinf", "ru": "Основы государства и права. 10 класс" },
+      "author": "Х. Туйчиева, А. Хакимов, О. Абдуганиев, О. Шернаев, М. Ахмедова",
+      "date": "2023",
+      "audience": ["applicant", "teacher"]
+    },
+    {
+      "id": "ogp-11",
+      "short": { "uz": "DHA 11-sinf", "ru": "ОГП 11 кл." },
+      "title": { "uz": "Davlat va huquq asoslari. 11-sinf", "ru": "Основы государства и права. 11 класс" },
+      "author": "А. Содиков, Н. Исматова, Ж. Бобожонов",
+      "date": "2025",
+      "audience": ["applicant", "teacher"]
+    }
+  ]
+}

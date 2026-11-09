@@ -1,0 +1,727 @@
+{
+  "_help": "Список НПА для изучения. lex.uz: uz — ID узбекской версии (https://lex.uz/docs/ID), ru — ID русской версии (https://lex.uz/ru/docs/ID). audience: applicant (абитуриенты), teacher (учителя: категория / миллий сертификат). После изменения: npm run import:lex && npm run content appendix: N — импортировать только N-е приложение акта (для «Положений», утверждённых постановлением).",
+  "acts": [
+    {
+      "id": "constitution",
+      "short": {
+        "uz": "Konstitutsiya",
+        "ru": "Конституция"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasi Konstitutsiyasi",
+        "ru": "Конституция Республики Узбекистан"
+      },
+      "date": "2023-04-30",
+      "lex": {
+        "uz": 6445145,
+        "ru": 6445147
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "flag",
+      "short": {
+        "uz": "Davlat bayrogʻi",
+        "ru": "Гос. флаг"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Davlat bayrogʻi toʻgʻrisida",
+        "ru": "О государственном флаге Республики Узбекистан"
+      },
+      "date": "1991-11-18",
+      "lex": {
+        "uz": 100122,
+        "ru": 57181
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "emblem",
+      "short": {
+        "uz": "Davlat gerbi",
+        "ru": "Гос. герб"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasi Davlat gerbi toʻgʻrisida",
+        "ru": "О государственном гербе Республики Узбекистан"
+      },
+      "date": "1992-07-02",
+      "lex": {
+        "uz": 17260,
+        "ru": 17771
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "anthem",
+      "short": {
+        "uz": "Davlat madhiyasi",
+        "ru": "Гос. гимн"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Davlat madhiyasi toʻgʻrisida",
+        "ru": "О государственном гимне Республики Узбекистан"
+      },
+      "date": "1992-12-10",
+      "lex": {
+        "uz": 38608,
+        "ru": 1780
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "conscience",
+      "short": {
+        "uz": "Vijdon erkinligi",
+        "ru": "Свобода совести"
+      },
+      "title": {
+        "uz": "Vijdon erkinligi va diniy tashkilotlar toʻgʻrisida",
+        "ru": "О свободе совести и религиозных организациях"
+      },
+      "date": "2021-07-05",
+      "lex": {
+        "uz": 5491534,
+        "ru": 5491541
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "parties",
+      "short": {
+        "uz": "Siyosiy partiyalar",
+        "ru": "Полит. партии"
+      },
+      "title": {
+        "uz": "Siyosiy partiyalar toʻgʻrisida",
+        "ru": "О политических партиях"
+      },
+      "date": "1996-12-26",
+      "lex": {
+        "uz": 54191,
+        "ru": 57033
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "cabinet",
+      "short": {
+        "uz": "Vazirlar Mahkamasi",
+        "ru": "Кабинет Министров"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasi Vazirlar Mahkamasi toʻgʻrisida",
+        "ru": "О Кабинете Министров Республики Узбекистан"
+      },
+      "date": "2024-10-25",
+      "lex": {
+        "uz": 7172667,
+        "ru": 7172670
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "advocacy",
+      "short": {
+        "uz": "Advokatura",
+        "ru": "Адвокатура"
+      },
+      "title": {
+        "uz": "Advokatura toʻgʻrisida",
+        "ru": "Об адвокатуре"
+      },
+      "date": "1996-12-27",
+      "lex": {
+        "uz": 54503,
+        "ru": 58372
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "budget-code",
+      "short": {
+        "uz": "Budjet kodeksi",
+        "ru": "Бюджетный кодекс"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Budjet kodeksi",
+        "ru": "Бюджетный кодекс Республики Узбекистан"
+      },
+      "date": "2013-12-26",
+      "lex": {
+        "uz": 2304138,
+        "ru": 2304140
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "civil-code-1",
+      "short": {
+        "uz": "FK (1-qism)",
+        "ru": "ГК (ч. 1)"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Fuqarolik kodeksi (birinchi qism)",
+        "ru": "Гражданский кодекс Республики Узбекистан (часть первая)"
+      },
+      "date": "1995-12-21",
+      "lex": {
+        "uz": 111189,
+        "ru": 111181
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "civil-code-2",
+      "short": {
+        "uz": "FK (2-qism)",
+        "ru": "ГК (ч. 2)"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Fuqarolik kodeksi (ikkinchi qism)",
+        "ru": "Гражданский кодекс Республики Узбекистан (часть вторая)"
+      },
+      "date": "1996-08-29",
+      "lex": {
+        "uz": 180552,
+        "ru": 180550
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "citizenship",
+      "short": {
+        "uz": "Fuqarolik",
+        "ru": "Гражданство"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining fuqaroligi toʻgʻrisida",
+        "ru": "О гражданстве Республики Узбекистан"
+      },
+      "date": "2020-03-13",
+      "lex": {
+        "uz": 4761984,
+        "ru": 4761986
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "consumers",
+      "short": {
+        "uz": "Isteʼmolchilar huquqlari",
+        "ru": "Права потребителей"
+      },
+      "title": {
+        "uz": "Isteʼmolchilarning huquqlarini himoya qilish toʻgʻrisida",
+        "ru": "О защите прав потребителей"
+      },
+      "date": "1996-04-26",
+      "lex": {
+        "uz": 4704,
+        "ru": 14643
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "criminal-code",
+      "short": {
+        "uz": "Jinoyat kodeksi",
+        "ru": "Уголовный кодекс"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Jinoyat kodeksi",
+        "ru": "Уголовный кодекс Республики Узбекистан"
+      },
+      "date": "1994-09-22",
+      "lex": {
+        "uz": 111453,
+        "ru": 111457
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "criminal-procedure",
+      "short": {
+        "uz": "JPK",
+        "ru": "УПК"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Jinoyat-protsessual kodeksi",
+        "ru": "Уголовно-процессуальный кодекс Республики Узбекистан"
+      },
+      "date": "1994-09-22",
+      "lex": {
+        "uz": 111460,
+        "ru": 111463
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "admin-code",
+      "short": {
+        "uz": "MJtK",
+        "ru": "КоАО"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi",
+        "ru": "Кодекс Республики Узбекистан об административной ответственности"
+      },
+      "date": "1994-09-22",
+      "lex": {
+        "uz": 97664,
+        "ru": 97661
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "labor-code",
+      "short": {
+        "uz": "Mehnat kodeksi",
+        "ru": "Трудовой кодекс"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Mehnat kodeksi",
+        "ru": "Трудовой кодекс Республики Узбекистан"
+      },
+      "date": "2022-10-28",
+      "lex": {
+        "uz": 6257288,
+        "ru": 6257291
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "hr-center",
+      "short": {
+        "uz": "Milliy markaz nizomi",
+        "ru": "Положение о Нац. центре"
+      },
+      "title": {
+        "uz": "Inson huquqlari boʻyicha Oʻzbekiston Respublikasi Milliy markazi toʻgʻrisidagi nizom (PQ-4056)",
+        "ru": "Положение о Национальном центре Республики Узбекистан по правам человека (ПП-4056)"
+      },
+      "date": "2018-12-10",
+      "lex": {
+        "uz": 4098056,
+        "ru": 4098052
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ],
+      "appendix": 2
+    },
+    {
+      "id": "copyright",
+      "short": {
+        "uz": "Mualliflik huquqi",
+        "ru": "Авторское право"
+      },
+      "title": {
+        "uz": "Mualliflik huquqi va turdosh huquqlar toʻgʻrisida",
+        "ru": "Об авторском праве и смежных правах"
+      },
+      "date": "2006-07-20",
+      "lex": {
+        "uz": 1022944,
+        "ru": 1023494
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "npa-law",
+      "short": {
+        "uz": "NHH toʻgʻrisida",
+        "ru": "О НПА"
+      },
+      "title": {
+        "uz": "Normativ-huquqiy hujjatlar toʻgʻrisida",
+        "ru": "О нормативно-правовых актах"
+      },
+      "date": "2021-04-20",
+      "lex": {
+        "uz": 5378966,
+        "ru": 5378968
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "notary",
+      "short": {
+        "uz": "Notariat",
+        "ru": "Нотариат"
+      },
+      "title": {
+        "uz": "Notariat toʻgʻrisida",
+        "ru": "О нотариате"
+      },
+      "date": "1996-12-26",
+      "lex": {
+        "uz": 54458,
+        "ru": 57043
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "family-code",
+      "short": {
+        "uz": "Oila kodeksi",
+        "ru": "Семейный кодекс"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Oila kodeksi",
+        "ru": "Семейный кодекс Республики Узбекистан"
+      },
+      "date": "1998-04-30",
+      "lex": {
+        "uz": 104720,
+        "ru": 104723
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "ombudsman",
+      "short": {
+        "uz": "Ombudsman",
+        "ru": "Омбудсман"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasi Oliy Majlisining Inson huquqlari boʻyicha vakili (ombudsman) toʻgʻrisida",
+        "ru": "Об Уполномоченном Олий Мажлиса Республики Узбекистан по правам человека (омбудсмане)"
+      },
+      "date": "2024-11-15",
+      "lex": {
+        "uz": 7223219,
+        "ru": 7223295
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "prosecution",
+      "short": {
+        "uz": "Prokuratura",
+        "ru": "Прокуратура"
+      },
+      "title": {
+        "uz": "Prokuratura toʻgʻrisida",
+        "ru": "О прокуратуре"
+      },
+      "date": "1992-12-09",
+      "lex": {
+        "uz": 31452,
+        "ru": 33203
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "referendum",
+      "short": {
+        "uz": "Referendum",
+        "ru": "Референдум"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining referendumi toʻgʻrisida",
+        "ru": "О референдуме Республики Узбекистан"
+      },
+      "date": "1991-11-18",
+      "lex": {
+        "uz": 75627,
+        "ru": 75631
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "election-code",
+      "short": {
+        "uz": "Saylov kodeksi",
+        "ru": "Избирательный кодекс"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Saylov kodeksi",
+        "ru": "Избирательный кодекс Республики Узбекистан"
+      },
+      "date": "2019-06-25",
+      "lex": {
+        "uz": 4386848,
+        "ru": 4386846
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "tax-code",
+      "short": {
+        "uz": "Soliq kodeksi",
+        "ru": "Налоговый кодекс"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining Soliq kodeksi",
+        "ru": "Налоговый кодекс Республики Узбекистан"
+      },
+      "date": "2019-12-30",
+      "lex": {
+        "uz": 4674902,
+        "ru": 4674893
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "courts",
+      "short": {
+        "uz": "Sudlar",
+        "ru": "О судах"
+      },
+      "title": {
+        "uz": "Sudlar toʻgʻrisida",
+        "ru": "О судах"
+      },
+      "date": "2021-07-28",
+      "lex": {
+        "uz": 5534923,
+        "ru": 5534928
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "justice-ministry",
+      "short": {
+        "uz": "Adliya vazirligi nizomi",
+        "ru": "Положение о Минюсте"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasi Adliya vazirligi toʻgʻrisidagi nizom (PQ-3666)",
+        "ru": "Положение о Министерстве юстиции Республики Узбекистан (ПП-3666)"
+      },
+      "date": "2018-04-13",
+      "lex": {
+        "uz": 3681790,
+        "ru": 3681788
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ],
+      "appendix": 1
+    },
+    {
+      "id": "treaties",
+      "short": {
+        "uz": "Xalqaro shartnomalar",
+        "ru": "Международные договоры"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasining xalqaro shartnomalari toʻgʻrisida",
+        "ru": "О международных договорах Республики Узбекистан"
+      },
+      "date": "2019-02-06",
+      "lex": {
+        "uz": 4193761,
+        "ru": 4193763
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "nature",
+      "short": {
+        "uz": "Tabiatni muhofaza qilish",
+        "ru": "Охрана природы"
+      },
+      "title": {
+        "uz": "Tabiatni muhofaza qilish toʻgʻrisida",
+        "ru": "Об охране природы"
+      },
+      "date": "1992-12-09",
+      "lex": {
+        "uz": 107115,
+        "ru": 7065
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "legal-culture",
+      "short": {
+        "uz": "Huquqiy madaniyat (PF-5618)",
+        "ru": "Правовая культура (УП-5618)"
+      },
+      "title": {
+        "uz": "Jamiyatda huquqiy ong va huquqiy madaniyatni yuksaltirish tizimini tubdan takomillashtirish toʻgʻrisida",
+        "ru": "О коренном совершенствовании системы повышения правосознания и правовой культуры в обществе"
+      },
+      "date": "2019-01-09",
+      "lex": {
+        "uz": 4149765,
+        "ru": 4149770
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "appeals",
+      "short": {
+        "uz": "Murojaatlar",
+        "ru": "Обращения"
+      },
+      "title": {
+        "uz": "Jismoniy va yuridik shaxslarning murojaatlari toʻgʻrisida",
+        "ru": "Об обращениях физических и юридических лиц"
+      },
+      "date": "2014-12-03",
+      "lex": {
+        "uz": 2509996,
+        "ru": 2509998
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "public-assoc",
+      "short": {
+        "uz": "Jamoat birlashmalari",
+        "ru": "Общественные объединения"
+      },
+      "title": {
+        "uz": "Oʻzbekiston Respublikasida jamoat birlashmalari toʻgʻrisida",
+        "ru": "Об общественных объединениях в Республике Узбекистан"
+      },
+      "date": "1991-02-15",
+      "lex": {
+        "uz": 111825,
+        "ru": 111827
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "mahalla",
+      "short": {
+        "uz": "FOʻOB organlari",
+        "ru": "Органы самоуправления"
+      },
+      "title": {
+        "uz": "Fuqarolarning oʻzini oʻzi boshqarish organlari toʻgʻrisida",
+        "ru": "Об органах самоуправления граждан"
+      },
+      "date": "2013-04-22",
+      "lex": {
+        "uz": 2156899,
+        "ru": 2156897
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    },
+    {
+      "id": "local-gov",
+      "short": {
+        "uz": "Mahalliy hokimiyat",
+        "ru": "Местная власть"
+      },
+      "title": {
+        "uz": "Mahalliy davlat hokimiyati toʻgʻrisida",
+        "ru": "О государственной власти на местах"
+      },
+      "date": "1993-09-02",
+      "lex": {
+        "uz": 112170,
+        "ru": 112168
+      },
+      "audience": [
+        "applicant",
+        "teacher"
+      ]
+    }
+  ]
+}

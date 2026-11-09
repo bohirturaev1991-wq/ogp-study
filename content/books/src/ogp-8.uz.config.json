@@ -1,0 +1,126 @@
+{
+  "lang": "uz",
+  "title": "Davlat va huquq asoslari. 8-sinf (2024)",
+  "startPage": 6,
+  "glossary": "Ayrim yuridik atamalarning izohli lugʻati",
+  "sections": [
+    {
+      "title": "I bob. Shaxs, jamiyat va davlat",
+      "lessons": [
+        {
+          "n": "1–2",
+          "title": "Shaxs"
+        },
+        {
+          "n": "3",
+          "title": "Jamiyat"
+        },
+        {
+          "n": "4–5",
+          "title": "Davlat"
+        },
+        {
+          "n": "6",
+          "title": "Davlat funksiyasi"
+        },
+        {
+          "n": "7–8",
+          "title": "Davlat shakllari"
+        },
+        {
+          "n": "9",
+          "title": "Ijodiy faoliyat"
+        }
+      ]
+    },
+    {
+      "title": "II bob. Huquq",
+      "lessons": [
+        {
+          "n": "10",
+          "title": "Axloq va huquq"
+        },
+        {
+          "n": "11–12",
+          "title": "Huquq manbalari"
+        },
+        {
+          "n": "13",
+          "title": "Huquq normasi"
+        },
+        {
+          "n": "14",
+          "title": "Huquq tarmoqlari (sohalari)"
+        },
+        {
+          "n": "15",
+          "title": "Huquqiy munosabatlar"
+        },
+        {
+          "n": "16",
+          "title": "Ijodiy faoliyat"
+        }
+      ]
+    },
+    {
+      "title": "III bob. Huquqbuzarlik va yuridik javobgarlik",
+      "lessons": [
+        {
+          "n": "17–18",
+          "title": "Huquqiy xulq-atvor"
+        },
+        {
+          "n": "19–20",
+          "title": "Huquqbuzarlik"
+        },
+        {
+          "n": "21–22",
+          "title": "Yuridik javobgarlik"
+        },
+        {
+          "n": "23–24",
+          "title": "Yuridik javobgarlikning oqibatlari"
+        },
+        {
+          "n": "25–26",
+          "title": "Ijodiy faoliyat"
+        }
+      ]
+    },
+    {
+      "title": "IV bob. Voyaga yetmaganlarning huquq va burchlari",
+      "lessons": [
+        {
+          "n": "27",
+          "title": "Fuqarolik qonunchiligida voyaga yetmaganlarning huquqlari"
+        },
+        {
+          "n": "28",
+          "title": "Jinoyat qonunchiligida voyaga yetmaganlarning huquq va majburiyatlari"
+        },
+        {
+          "n": "29–30",
+          "title": "Oʻzbekiston Respublikasida voyaga yetmaganlarning javobgarligi"
+        },
+        {
+          "n": "31–32",
+          "title": "Oila qonunchiligida voyaga yetmaganlarning huquq va majburiyatlari"
+        },
+        {
+          "n": "33",
+          "title": "Mehnat qonunchiligida voyaga yetmaganlarning huquqlari"
+        },
+        {
+          "n": "34",
+          "title": "Ijodiy faoliyat"
+        }
+      ]
+    }
+  ],
+  "dropLines": [
+    "Shaxs, jamiyat va davlat",
+    "Huquq",
+    "Huquqbuzarlik va yuridik javobgarlik",
+    "Voyaga yetmaganlarning huquq va burchlari"
+  ]
+}

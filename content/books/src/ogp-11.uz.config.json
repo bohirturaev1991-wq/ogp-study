@@ -1,0 +1,43 @@
+{
+  "lang": "uz",
+  "title": "Davlat va huquq asoslari. 11-sinf (2025)",
+  "startPage": 6,
+  "sections": [
+    { "title": "I bob. Mehnat huquqi", "lessons": [
+      { "n": "1", "title": "Mehnatga oid huquqiy munosabatlar" },
+      { "n": "2", "title": "Aholini ishga joylashtirish" },
+      { "n": "3", "title": "Mehnat shartnomasi" },
+      { "n": "4", "title": "Ish vaqti va dam olish vaqti" },
+      { "n": "5", "title": "Mehnatga haq toʻlash" },
+      { "n": "6", "title": "Intizomiy va moddiy javobgarlik" },
+      { "n": "7", "title": "Ayrim toifadagi xodimlar mehnatini tartibga solish" },
+      { "n": "8", "title": "Mehnat muhofazasi" },
+      { "n": "9", "title": "Ijodiy faoliyat" }
+    ] },
+    { "title": "II bob. Maʼmuriy huquq", "lessons": [
+      { "n": "10", "title": "Maʼmuriy huquq tushunchasi" },
+      { "n": "11", "title": "Davlat xizmatlaridan foydalanish" },
+      { "n": "12", "title": "Maʼmuriy-huquqiy nizolar" },
+      { "n": "13–14", "title": "Maʼmuriy huquqbuzarlik va maʼmuriy javobgarlik" },
+      { "n": "15", "title": "Huquqbuzarlikning oldini olish" },
+      { "n": "16", "title": "Ijodiy faoliyat" }
+    ] },
+    { "title": "III bob. Jinoyat huquqi. Kriminologiya", "lessons": [
+      { "n": "17", "title": "Jinoyat huquqi" },
+      { "n": "18", "title": "Jinoiy javobgarlik va jazo tizimi" },
+      { "n": "19–20", "title": "Shaxsga qarshi jinoyatlar" },
+      { "n": "21–22", "title": "Zoʻravonlik va uning oldini olish" },
+      { "n": "23", "title": "Tinchlik va xavfsizlikka qarshi jinoyatlar" },
+      { "n": "24", "title": "Iqtisodiyot sohasidagi jinoyatlar" },
+      { "n": "25", "title": "Boshqaruv tartibiga qarshi jinoyatlar" },
+      { "n": "26–27", "title": "Jinoyat-protsessual huquqi" },
+      { "n": "28", "title": "Ijodiy faoliyat" }
+    ] },
+    { "title": "IV bob. Ekologiya huquqi", "lessons": [
+      { "n": "29", "title": "Ekologiya huquqi tushunchasi" },
+      { "n": "30–31", "title": "Ekologik-huquqiy javobgarlik" },
+      { "n": "32–33", "title": "Biologik xilma-xillikni muhofaza qilish" },
+      { "n": "34", "title": "Ijodiy faoliyat" }
+    ] }
+  ]
+}
