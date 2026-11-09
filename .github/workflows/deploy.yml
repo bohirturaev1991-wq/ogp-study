@@ -55,8 +55,5 @@ jobs:
         run: |
           cp android/app/build/outputs/apk/debug/app-debug.apk ogp-study.apk
           gh release delete apk-latest --yes --cleanup-tag || true
-          gh release create apk-latest ogp-study.apk \
-            --title "Android-приложение (последняя версия)" \
-            --notes "Скачайте ogp-study.apk на телефон и откройте. Android может попросить разрешить установку из этого источника. Версия 1.0.${GITHUB_RUN_NUMBER}, коммит ${GITHUB_SHA::7}.
-
-<!-- build=${GITHUB_RUN_NUMBER} -->"
+          NOTES="Скачайте ogp-study.apk на телефон и откройте. Android может попросить разрешить установку из этого источника. Версия 1.0.${GITHUB_RUN_NUMBER} (build=${GITHUB_RUN_NUMBER}), коммит ${GITHUB_SHA::7}."
+          gh release create apk-latest ogp-study.apk --title "Android-приложение (последняя версия)" --notes "$NOTES"
