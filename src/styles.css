@@ -111,7 +111,7 @@ mark {
   align-items: center;
   justify-content: space-between;
   gap: 12px;
-  padding: 10px 16px;
+  padding: calc(10px + env(safe-area-inset-top)) 16px 10px;
   background: var(--surface);
   border-bottom: 1px solid var(--border);
 }

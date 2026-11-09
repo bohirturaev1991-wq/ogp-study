@@ -7,8 +7,9 @@ android {
         applicationId "uz.ogp.study"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        // номер сборки GitHub Actions — каждая новая версия ставится поверх предыдущей
+        versionCode Integer.parseInt(System.getenv("GITHUB_RUN_NUMBER") ?: "1")
+        versionName "1.0." + (System.getenv("GITHUB_RUN_NUMBER") ?: "0")
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         aaptOptions {
              // Files and dirs to omit from the packaged assets dir, modified to accommodate modern web apps.
@@ -16,7 +17,24 @@ android {
             ignoreAssetsPattern '!.svn:!.git:!.ds_store:!*.scc:.*:!CVS:!thumbs.db:!picasa.ini:!*~'
         }
     }
+    // Постоянный ключ подписи (из секретов GitHub): без него каждая сборка подписывается
+    // новым временным ключом, и обновление нельзя установить поверх старой версии.
+    def ksFile = System.getenv("ANDROID_KEYSTORE_FILE")
+    signingConfigs {
+        if (ksFile) {
+            stable {
+                storeFile file(ksFile)
+                storeType "pkcs12"
+                storePassword System.getenv("ANDROID_KEYSTORE_PASS")
+                keyAlias "ogp"
+                keyPassword System.getenv("ANDROID_KEYSTORE_PASS")
+            }
+        }
+    }
     buildTypes {
+        debug {
+            if (ksFile) signingConfig signingConfigs.stable
+        }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'

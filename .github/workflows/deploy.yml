@@ -32,8 +32,20 @@ jobs:
       - run: npm ci
       - run: npm run build
       - run: npx cap sync android
+      - name: Signing key
+        env:
+          KEYSTORE_B64: ${{ secrets.ANDROID_KEYSTORE_B64 }}
+        run: |
+          if [ -n "$KEYSTORE_B64" ]; then
+            echo "$KEYSTORE_B64" | base64 -d > "$RUNNER_TEMP/ogp.p12"
+            echo "ANDROID_KEYSTORE_FILE=$RUNNER_TEMP/ogp.p12" >> "$GITHUB_ENV"
+          else
+            echo "::warning::Нет секрета ANDROID_KEYSTORE_B64 — APK подписан временным ключом"
+          fi
       - name: Build APK
         working-directory: android
+        env:
+          ANDROID_KEYSTORE_PASS: ${{ secrets.ANDROID_KEYSTORE_PASS }}
         run: |
           chmod +x gradlew
           ./gradlew assembleDebug --no-daemon
