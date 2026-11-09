@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "content": "node scripts/build-content.mjs",
     "import:lex": "node scripts/import-lex.mjs",
-    "check:npa": "node scripts/check-npa.mjs"
+    "check:npa": "node scripts/check-npa.mjs",
+    "deploy": "node scripts/deploy-pages.mjs"
   },
   "dependencies": {
     "@capacitor/android": "^7.4.0",

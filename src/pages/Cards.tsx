@@ -15,6 +15,7 @@ interface Card {
   back: string;
   doc?: string;
   anchor?: string;
+  unit?: string;
   kind: 'q' | 'def' | 'bm' | 'user';
 }
 
@@ -31,7 +32,7 @@ async function buildDeck(items: CatalogItem[], lang: Lang): Promise<Card[]> {
     const text = q.q[lang] || q.q.uz;
     if (!text || !opts) continue;
     const ex = q.explain ? '\n\n' + (q.explain[lang] || q.explain.uz) : '';
-    cards.push({ id: 'q:' + q.id, front: text, back: opts[q.answer] + ex, doc: q.doc, anchor: q.art && 'a' + q.art, kind: 'q' });
+    cards.push({ id: 'q:' + q.id, front: text, back: opts[q.answer] + ex, doc: q.doc, anchor: q.art ? 'a' + q.art : undefined, unit: q.unit, kind: 'q' });
   }
   // определения из учебников: абзацы вида «> Термин — определение»
   for (const it of items.filter((i) => i.kind === 'book')) {
@@ -167,8 +168,8 @@ function Review() {
           <>
             <hr />
             <div className="fc-back">{card.back}</div>
-            {card.doc && card.anchor && (
-              <a className="small" href={href('/read/' + card.doc, { a: card.anchor })} onClick={(e) => e.stopPropagation()}>
+            {card.doc && (card.anchor || card.unit) && (
+              <a className="small" href={href('/read/' + card.doc, { u: card.unit, a: card.anchor })} onClick={(e) => e.stopPropagation()}>
                 {t('source')} →
               </a>
             )}

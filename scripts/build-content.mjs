@@ -94,6 +94,11 @@ for (const a of acts) {
 }
 
 // ---------- Вопросы ----------
+const bookUnits = new Map();
+for (const bk of books) {
+  const p = path.join(OUT, 'docs', `${bk.id}.ru.json`);
+  if (fs.existsSync(p)) bookUnits.set(bk.id, buildUnits(JSON.parse(fs.readFileSync(p, 'utf8')), 'ru'));
+}
 const qdir = path.join(C, 'questions');
 const questions = [];
 const ids = new Set();
@@ -110,6 +115,12 @@ if (fs.existsSync(qdir)) {
         if (q.options[lang].length < 2) warnings.push(`${where}: мало вариантов (${lang})`);
       }
       if (!(q.answer >= 0)) warnings.push(`${where}: нет answer`);
+      // вопрос к учебнику: «lesson» → ключ главы в читалке
+      if (q.lesson && !q.unit) {
+        const u = bookUnits.get(q.doc)?.find((u) => u.title.includes(` ${q.lesson}. `));
+        if (u) q.unit = u.key;
+        else warnings.push(`${where}: урок ${q.lesson} не найден в ${q.doc}`);
+      }
       questions.push(q);
     }
   }

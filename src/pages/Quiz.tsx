@@ -226,6 +226,7 @@ function Runner({ run, items, onFinish }: { run: Run; items: CatalogItem[]; onFi
         <div className="muted small">
           {l(item?.short)}
           {cur.q.art && ` · ${lang === 'uz' ? cur.q.art + '-modda' : 'ст. ' + cur.q.art}`}
+          {cur.q.lesson && ` · ${lang === 'uz' ? cur.q.lesson + '-dars' : 'урок ' + cur.q.lesson}`}
           {cur.q.auto && <span className="badge soft">{t('autoLabel')}</span>}
         </div>
         <p className="q-text">{textOf(cur.q, lang)}</p>
@@ -280,14 +281,16 @@ function Explain({ q, correct }: { q: Question; correct: boolean }) {
     <div className={'explain ' + (correct ? 'ok' : 'bad')}>
       <strong>{correct ? t('correct') : t('wrong')}</strong>
       {q.explain && <p>{l(q.explain)}</p>}
-      {q.art && (
-        <a href={href('/read/' + q.doc, { a: 'a' + q.art })} target="_blank" rel="noreferrer">
+      {(q.art || q.unit) && (
+        <a href={srcHref(q)} target="_blank" rel="noreferrer">
           {t('source')} →
         </a>
       )}
     </div>
   );
 }
+
+const srcHref = (q: Question) => href('/read/' + q.doc, q.art ? { a: 'a' + q.art } : { u: q.unit! });
 
 function record(r: Run) {
   const correct = r.qs.filter((x) => x.picked === x.q.answer).length;
@@ -365,8 +368,8 @@ function Results({ run, items, onAgain }: { run: Run; items: CatalogItem[]; onAg
                   {t('rightAnswer')}: {opts[x.q.answer]}
                 </div>
                 {x.q.explain && <p className="small">{l(x.q.explain)}</p>}
-                {x.q.art && (
-                  <a className="small" href={href('/read/' + x.q.doc, { a: 'a' + x.q.art })}>
+                {(x.q.art || x.q.unit) && (
+                  <a className="small" href={srcHref(x.q)}>
                     {t('source')} →
                   </a>
                 )}

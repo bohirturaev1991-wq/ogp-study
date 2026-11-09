@@ -25,6 +25,9 @@ export interface Question {
   id: string;
   doc: string;
   art?: string;
+  /** для учебников: номер урока («1–2») и ключ главы в читалке (проставляется при сборке) */
+  lesson?: string;
+  unit?: string;
   q: L10n;
   options: { uz: string[]; ru: string[] };
   answer: number;

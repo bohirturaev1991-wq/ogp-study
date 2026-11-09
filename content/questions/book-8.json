@@ -1,0 +1,1738 @@
+[
+ {
+  "id": "b8-001",
+  "doc": "ogp-8",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Кто, согласно учебнику, является особым участником правовых отношений и высшей формой проявления понятия «человек»?",
+   "uz": "Darslikka koʻra, huquqiy munosabatlarning alohida ishtirokchisi, “inson” tushunchasining yuksak koʻrinishi kim?"
+  },
+  "options": {
+   "ru": [
+    "Личность",
+    "Индивид",
+    "Персона",
+    "Некто"
+   ],
+   "uz": [
+    "Shaxs",
+    "Odam",
+    "Kishi",
+    "Kimsa"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Личность – человек, сознательно управляющий своей деятельностью и имеющий права и обязанности как участник правоотношений.",
+   "uz": "Shaxs — ongli ravishda oʻz faoliyatini boshqaradigan, huquq va majburiyatlarga ega inson."
+  }
+ },
+ {
+  "id": "b8-002",
+  "doc": "ogp-8",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Понятие «индивид» является…",
+   "uz": "“Odam” tushunchasi qanday tushuncha hisoblanadi?"
+  },
+  "options": {
+   "ru": [
+    "биологическим понятием",
+    "социальным понятием",
+    "юридическим понятием",
+    "политическим понятием"
+   ],
+   "uz": [
+    "Biologik tushuncha",
+    "Ijtimoiy tushuncha",
+    "Yuridik tushuncha",
+    "Siyosiy tushuncha"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Индивид рассматривается как элемент живой природы; «человек» – социальное понятие, «личность» – юридическое.",
+   "uz": "“Odam” jonli tabiatning bir elementi sifatida qaraladi; “inson” — ijtimoiy, “shaxs” — huquqiy tushuncha."
+  }
+ },
+ {
+  "id": "b8-003",
+  "doc": "ogp-8",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Кого понимают под физическими лицами?",
+   "uz": "Jismoniy shaxslar deganda kimlar tushuniladi?"
+  },
+  "options": {
+   "ru": [
+    "Граждан Республики Узбекистан, граждан других государств и лиц без гражданства",
+    "Только граждан Республики Узбекистан",
+    "Граждан и зарегистрированные организации",
+    "Только совершеннолетних граждан"
+   ],
+   "uz": [
+    "Oʻzbekiston fuqarolari, chet davlatlar fuqarolari va fuqaroligi boʻlmagan shaxslar",
+    "Faqat Oʻzbekiston Respublikasi fuqarolari",
+    "Fuqarolar va roʻyxatdan oʻtgan tashkilotlar",
+    "Faqat voyaga yetgan fuqarolar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-004",
+  "doc": "ogp-8",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Школа, больница, благотворительный фонд – это…",
+   "uz": "Maktab, shifoxona, xayriya jamgʻarmasi — bular…"
+  },
+  "options": {
+   "ru": [
+    "некоммерческие организации",
+    "коммерческие организации",
+    "физические лица",
+    "органы государственной власти"
+   ],
+   "uz": [
+    "notijorat tashkilotlar",
+    "tijorat tashkilotlari",
+    "jismoniy shaxslar",
+    "davlat hokimiyati organlari"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Некоммерческие организации не ставят своей целью получение прибыли.",
+   "uz": "Notijorat tashkilotlar foyda olishni maqsad qilib qoʻymaydi."
+  }
+ },
+ {
+  "id": "b8-005",
+  "doc": "ogp-8",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Какой труд Бурхануддина аль-Маргинани по сей день является важным источником исламской юриспруденции (фикха)?",
+   "uz": "Burhoniddin Margʻinoniyning hozirgacha fiqhning muhim manbai boʻlib kelayotgan asari qaysi?"
+  },
+  "options": {
+   "ru": [
+    "«Хидоя»",
+    "«Маджалис ун-нафаис»",
+    "«Добродетельный город»",
+    "«Кабус-наме»"
+   ],
+   "uz": [
+    "“Hidoya”",
+    "“Majolis un-nafois”",
+    "“Fozil odamlar shahri”",
+    "“Qobusnoma”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-006",
+  "doc": "ogp-8",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Можно ли лишить человека личных прав и свобод или ограничить их без судебного решения?",
+   "uz": "Shaxsiy huquq va erkinliklardan sud qarorisiz mahrum qilish yoki ularni cheklash mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет, только по решению суда",
+    "Да, по решению хокима",
+    "Да, по решению схода граждан махалли",
+    "Да, по распоряжению органов внутренних дел"
+   ],
+   "uz": [
+    "Yoʻq, faqat sud qarori bilan",
+    "Ha, hokim qarori bilan",
+    "Ha, mahalla fuqarolar yigʻini qarori bilan",
+    "Ha, ichki ishlar organlari farmoyishi bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-007",
+  "doc": "ogp-8",
+  "lesson": "3",
+  "q": {
+   "ru": "Какое определение общества дано в учебнике?",
+   "uz": "Darslikda jamiyatga qanday taʼrif berilgan?"
+  },
+  "options": {
+   "ru": [
+    "Сообщество людей, живущих на определённой территории, объединённых по своим потребностям и интересам",
+    "Независимая политическая организация, обладающая суверенитетом",
+    "Совокупность норм, устанавливаемых и охраняемых государством",
+    "Группа людей одной профессии"
+   ],
+   "uz": [
+    "Muayyan hududda yashovchi, ehtiyoj va manfaatlari asosida birlashgan kishilar uyushmasi",
+    "Suverenitetga ega mustaqil siyosiy tashkilot",
+    "Davlat tomonidan oʻrnatiladigan va qoʻriqlanadigan normalar majmui",
+    "Bir kasbdagi kishilar guruhi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-008",
+  "doc": "ogp-8",
+  "lesson": "3",
+  "q": {
+   "ru": "Что означает слово «жамоа» (общество)?",
+   "uz": "“Jamoa” soʻzi qanday maʼnoni anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "«Сообщество», «объединённое», «собранное вместе»",
+    "«Власть народа»",
+    "«Правило», «образец»",
+    "«Простой», «единый»"
+   ],
+   "uz": [
+    "“Uyushma”, “birlashgan”, “jamlangan”",
+    "“Xalq hokimiyati”",
+    "“Qoida”, “namuna”",
+    "“Oddiy”, “yagona”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-009",
+  "doc": "ogp-8",
+  "lesson": "3",
+  "q": {
+   "ru": "Какие законы преобладают в обществе как высокоразвитом единстве?",
+   "uz": "Yuksak rivojlangan birlik sifatida jamiyatda qanday qonuniyatlar ustun turadi?"
+  },
+  "options": {
+   "ru": [
+    "Социальные, а не биологические",
+    "Биологические",
+    "Только религиозные",
+    "Только экономические"
+   ],
+   "uz": [
+    "Biologik emas, ijtimoiy qonuniyatlar",
+    "Biologik qonuniyatlar",
+    "Faqat diniy qonuniyatlar",
+    "Faqat iqtisodiy qonuniyatlar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-010",
+  "doc": "ogp-8",
+  "lesson": "4–5",
+  "q": {
+   "ru": "Государство – это…",
+   "uz": "Davlat — bu…"
+  },
+  "options": {
+   "ru": [
+    "независимая политическая организация, осуществляющая власть на определённой территории, устанавливающая общеобязательные нормы и обладающая суверенитетом",
+    "сообщество людей, объединённых потребностями и интересами",
+    "совокупность требований морали",
+    "добровольное объединение граждан по интересам"
+   ],
+   "uz": [
+    "muayyan hududda hokimiyatni amalga oshiruvchi, umummajburiy normalar oʻrnatuvchi va suverenitetga ega mustaqil siyosiy tashkilot",
+    "ehtiyoj va manfaatlari asosida birlashgan kishilar uyushmasi",
+    "axloq talablari majmui",
+    "fuqarolarning manfaatlar boʻyicha ixtiyoriy birlashmasi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-011",
+  "doc": "ogp-8",
+  "lesson": "4–5",
+  "q": {
+   "ru": "В какой статье Конституции сказано: «Государство выражает волю народа, служит его интересам»?",
+   "uz": "“Davlat xalq irodasini ifoda etib, uning manfaatlariga xizmat qiladi” — bu Konstitutsiyaning qaysi moddasi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 2",
+    "Статья 1",
+    "Статья 7",
+    "Статья 15"
+   ],
+   "uz": [
+    "2-modda",
+    "1-modda",
+    "7-modda",
+    "15-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-012",
+  "doc": "ogp-8",
+  "lesson": "4–5",
+  "q": {
+   "ru": "Если общество образно называют «матерью» государства, то государство – это…",
+   "uz": "Jamiyat obrazli qilib davlatning “onasi” deb atalsa, davlat — bu…"
+  },
+  "options": {
+   "ru": [
+    "«дитя» общества, его плод",
+    "«отец» общества",
+    "равный обществу «брат»",
+    "«хозяин» общества"
+   ],
+   "uz": [
+    "jamiyatning “farzandi”, uning mevasi",
+    "jamiyatning “otasi”",
+    "jamiyat bilan teng “aka-uka”",
+    "jamiyatning “xoʻjayini”"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Государство – сформировавшийся политический институт общества, возникший на определённом этапе его развития.",
+   "uz": "Davlat — jamiyat rivojining muayyan bosqichida vujudga kelgan siyosiy institut."
+  }
+ },
+ {
+  "id": "b8-013",
+  "doc": "ogp-8",
+  "lesson": "4–5",
+  "q": {
+   "ru": "Социальное государство – это модель государства, которая…",
+   "uz": "Ijtimoiy davlat — bu…"
+  },
+  "options": {
+   "ru": [
+    "гарантирует достойный уровень жизни, образование, медицину, пенсии и сводит к минимуму социальные различия",
+    "не вмешивается в социальную сферу",
+    "управляется монархом по наследству",
+    "объединяет несколько суверенных государств"
+   ],
+   "uz": [
+    "har kim uchun munosib turmush darajasi, taʼlim, tibbiyot, pensiya va ijtimoiy yordamni kafolatlaydigan, ijtimoiy tafovutlarni kamaytiradigan davlat modeli",
+    "ijtimoiy sohaga aralashmaydigan davlat",
+    "monarx meros orqali boshqaradigan davlat",
+    "bir nechta suveren davlatlar birlashmasi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-014",
+  "doc": "ogp-8",
+  "lesson": "6",
+  "q": {
+   "ru": "На какие группы делятся функции государства в зависимости от того, где они реализуются?",
+   "uz": "Davlat funksiyalari qayerda amalga oshirilishiga koʻra qanday guruhlarga boʻlinadi?"
+  },
+  "options": {
+   "ru": [
+    "Внутренние и внешние",
+    "Материальные и процессуальные",
+    "Абсолютные и ограниченные",
+    "Унитарные и федеративные"
+   ],
+   "uz": [
+    "Ichki va tashqi",
+    "Moddiy va protsessual",
+    "Mutlaq va cheklangan",
+    "Unitar va federativ"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-015",
+  "doc": "ogp-8",
+  "lesson": "6",
+  "q": {
+   "ru": "Чьи слова: «Девять десятых государственных дел решаются расчётливостью, благоразумием и советами, и лишь одна десятая – мечом»?",
+   "uz": "“Davlat ishlarining toʻqqiz ulushi kengash, tadbir va mashvarat, qolgan bir ulushi esa qilich bilan bajo keltirilur” — bu kimning soʻzlari?"
+  },
+  "options": {
+   "ru": [
+    "Амир Темур",
+    "Алишер Навои",
+    "Абу Наср Фараби",
+    "Захириддин Мухаммад Бабур"
+   ],
+   "uz": [
+    "Amir Temur",
+    "Alisher Navoiy",
+    "Abu Nasr Forobiy",
+    "Zahiriddin Muhammad Bobur"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-016",
+  "doc": "ogp-8",
+  "lesson": "7–8",
+  "q": {
+   "ru": "Как называется монархия, в которой власть монарха не ограничена никаким органом?",
+   "uz": "Monarx hokimiyati hech qanday organ bilan cheklanmagan monarxiya qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Абсолютная",
+    "Ограниченная (конституционная)",
+    "Теократическая",
+    "Нетрадиционная"
+   ],
+   "uz": [
+    "Mutlaq monarxiya",
+    "Cheklangan (konstitutsiyaviy) monarxiya",
+    "Teokratik monarxiya",
+    "Noanʼanaviy monarxiya"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Примеры абсолютной монархии в учебнике – Катар, Султанат Оман.",
+   "uz": "Darslikda misol: Qatar, Ummon Sultonligi."
+  }
+ },
+ {
+  "id": "b8-017",
+  "doc": "ogp-8",
+  "lesson": "7–8",
+  "q": {
+   "ru": "Ватикан – пример какой формы правления?",
+   "uz": "Vatikan qaysi boshqaruv shakliga misol?"
+  },
+  "options": {
+   "ru": [
+    "Теократической монархии",
+    "Абсолютной монархии",
+    "Парламентской республики",
+    "Федерации"
+   ],
+   "uz": [
+    "Teokratik monarxiya",
+    "Mutlaq monarxiya",
+    "Parlamentli respublika",
+    "Federatsiya"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "В теократической монархии государственная и религиозная власть сосредоточены в руках монарха.",
+   "uz": "Teokratik monarxiyada davlat va diniy hokimiyat monarx qoʻlida boʻladi."
+  }
+ },
+ {
+  "id": "b8-018",
+  "doc": "ogp-8",
+  "lesson": "7–8",
+  "q": {
+   "ru": "Дания и Норвегия – примеры…",
+   "uz": "Daniya va Norvegiya qaysi boshqaruv shakliga misol?"
+  },
+  "options": {
+   "ru": [
+    "ограниченной монархии",
+    "абсолютной монархии",
+    "теократической монархии",
+    "президентской республики"
+   ],
+   "uz": [
+    "Cheklangan monarxiya",
+    "Mutlaq monarxiya",
+    "Teokratik monarxiya",
+    "Prezidentlik respublikasi"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "В ограниченной монархии власть монарха ограничена конституцией или парламентом.",
+   "uz": "Cheklangan monarxiyada monarx hokimiyati konstitutsiya yoki parlament bilan cheklanadi."
+  }
+ },
+ {
+  "id": "b8-019",
+  "doc": "ogp-8",
+  "lesson": "7–8",
+  "q": {
+   "ru": "Республика – это форма правления, при которой…",
+   "uz": "Respublika — bu shunday boshqaruv shakliki, unda…"
+  },
+  "options": {
+   "ru": [
+    "высшие органы власти избираются на определённый срок",
+    "власть передаётся по наследству",
+    "власть принадлежит религиозному лидеру",
+    "власть принадлежит одному лицу пожизненно"
+   ],
+   "uz": [
+    "oliy hokimiyat organlari muayyan muddatga saylanadi",
+    "hokimiyat meros boʻyicha oʻtadi",
+    "hokimiyat diniy rahbarga tegishli",
+    "hokimiyat bir shaxsga umrbod tegishli"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-020",
+  "doc": "ogp-8",
+  "lesson": "7–8",
+  "q": {
+   "ru": "Франция и Республика Корея – примеры республики с каким правлением?",
+   "uz": "Fransiya va Koreya Respublikasi qanday boshqaruvli respublikaga misol?"
+  },
+  "options": {
+   "ru": [
+    "Смешанным (президентско-парламентским)",
+    "Чисто парламентским",
+    "Абсолютным",
+    "Теократическим"
+   ],
+   "uz": [
+    "Aralash (prezidentlik-parlamentli)",
+    "Sof parlamentli",
+    "Mutlaq",
+    "Teokratik"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-021",
+  "doc": "ogp-8",
+  "lesson": "7–8",
+  "q": {
+   "ru": "Что означает латинское слово «унитарный»?",
+   "uz": "Lotincha “unitar” soʻzi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "«Простой», «единый»",
+    "«Союзный»",
+    "«Предыдущий»",
+    "«Правило», «образец»"
+   ],
+   "uz": [
+    "“Oddiy”, “yagona”",
+    "“Ittifoqdosh”",
+    "“Oldingi”",
+    "“Qoida”, “namuna”"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "В унитарном государстве единые законодательные, исполнительные и судебные органы и единая конституция.",
+   "uz": "Unitar davlatda yagona qonun chiqaruvchi, ijro etuvchi va sud organlari, yagona konstitutsiya boʻladi."
+  }
+ },
+ {
+  "id": "b8-022",
+  "doc": "ogp-8",
+  "lesson": "7–8",
+  "q": {
+   "ru": "Что такое структура (устройство) государства?",
+   "uz": "Davlat tuzilishi nima?"
+  },
+  "options": {
+   "ru": [
+    "Его административно-территориальная организация",
+    "Порядок избрания высших органов",
+    "Методы осуществления власти",
+    "Совокупность функций государства"
+   ],
+   "uz": [
+    "Uning maʼmuriy-hududiy tashkil etilishi",
+    "Oliy organlarni saylash tartibi",
+    "Hokimiyatni amalga oshirish usullari",
+    "Davlat funksiyalari majmui"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-023",
+  "doc": "ogp-8",
+  "lesson": "10",
+  "q": {
+   "ru": "Что такое право?",
+   "uz": "Huquq nima?"
+  },
+  "options": {
+   "ru": [
+    "Совокупность общеобязательных норм поведения, устанавливаемых и защищаемых государством",
+    "Совокупность требований и правил, регулирующих поведение человека в обществе на основе общественного мнения",
+    "Обычаи и традиции народа",
+    "Решения суда по конкретным делам"
+   ],
+   "uz": [
+    "Davlat tomonidan oʻrnatiladigan va qoʻriqlanadigan umummajburiy xulq-atvor normalari majmui",
+    "Jamiyatda inson xulq-atvorini jamoatchilik fikri asosida tartibga soluvchi talablar majmui",
+    "Xalqning urf-odat va anʼanalari",
+    "Muayyan ishlar boʻyicha sud qarorlari"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Второй вариант – определение морали.",
+   "uz": "Ikkinchi variant — axloq taʼrifi."
+  }
+ },
+ {
+  "id": "b8-024",
+  "doc": "ogp-8",
+  "lesson": "10",
+  "q": {
+   "ru": "Какой критерий оценки поведения применяется в праве?",
+   "uz": "Huquqda xulq-atvorni baholash mezoni qanday?"
+  },
+  "options": {
+   "ru": [
+    "«Законно – незаконно»",
+    "«Хорошо – плохо»",
+    "«Выгодно – невыгодно»",
+    "«Красиво – некрасиво»"
+   ],
+   "uz": [
+    "“Qonuniy — noqonuniy”",
+    "“Yaxshi — yomon”",
+    "“Foydali — foydasiz”",
+    "“Chiroyli — xunuk”"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "В морали критерий – «хорошо – плохо».",
+   "uz": "Axloqda mezon — “yaxshi — yomon”."
+  }
+ },
+ {
+  "id": "b8-025",
+  "doc": "ogp-8",
+  "lesson": "10",
+  "q": {
+   "ru": "Чем при необходимости обеспечиваются моральные нормы?",
+   "uz": "Axloqiy normalar zarur hollarda nima bilan taʼminlanadi?"
+  },
+  "options": {
+   "ru": [
+    "Общественным мнением",
+    "Принудительной силой государства",
+    "Решением суда",
+    "Административными штрафами"
+   ],
+   "uz": [
+    "Jamoatchilik fikri bilan",
+    "Davlatning majburlov kuchi bilan",
+    "Sud qarori bilan",
+    "Maʼmuriy jarimalar bilan"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Правовые нормы обеспечиваются принудительной силой государства.",
+   "uz": "Huquqiy normalar davlatning majburlov kuchi bilan taʼminlanadi."
+  }
+ },
+ {
+  "id": "b8-026",
+  "doc": "ogp-8",
+  "lesson": "10",
+  "q": {
+   "ru": "Право конкретного человека на жильё или на владение имуществом – это…",
+   "uz": "Muayyan shaxsning uy-joyga yoki mulkka egalik qilish huquqi — bu…"
+  },
+  "options": {
+   "ru": [
+    "субъективное право",
+    "объективное право",
+    "моральная норма",
+    "правовой обычай"
+   ],
+   "uz": [
+    "subyektiv huquq",
+    "obyektiv huquq",
+    "axloqiy norma",
+    "huquqiy odat"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Объективное право – совокупность норм права; субъективное – право конкретного лица.",
+   "uz": "Obyektiv huquq — huquq normalari majmui; subyektiv huquq — muayyan shaxsning huquqi."
+  }
+ },
+ {
+  "id": "b8-027",
+  "doc": "ogp-8",
+  "lesson": "10",
+  "q": {
+   "ru": "Как назывались законы (правила) в Тюркском каганате?",
+   "uz": "Turk xoqonligida qonunlar (qoidalar) qanday atalgan?"
+  },
+  "options": {
+   "ru": [
+    "«Тора-тузук»",
+    "«Хидоя»",
+    "«Авеста»",
+    "«Шариат»"
+   ],
+   "uz": [
+    "“Toʻra-tuzuk”",
+    "“Hidoya”",
+    "“Avesto”",
+    "“Shariat”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-028",
+  "doc": "ogp-8",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Что такое источник права?",
+   "uz": "Huquq manbai nima?"
+  },
+  "options": {
+   "ru": [
+    "Форма выражения права",
+    "Орган, принимающий законы",
+    "Решение суда по конкретному делу",
+    "Учебник по праву"
+   ],
+   "uz": [
+    "Huquqning ifodalanish shakli",
+    "Qonun qabul qiluvchi organ",
+    "Muayyan ish boʻyicha sud qarori",
+    "Huquq boʻyicha darslik"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-029",
+  "doc": "ogp-8",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Применяется ли юридический прецедент в правовой системе Республики Узбекистан?",
+   "uz": "Yuridik pretsedent Oʻzbekiston Respublikasi huquq tizimida qoʻllaniladimi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, как основной источник права",
+    "Да, только в уголовных делах",
+    "Да, только в Конституционном суде"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, asosiy huquq manbai sifatida",
+    "Ha, faqat jinoyat ishlarida",
+    "Ha, faqat Konstitutsiyaviy sudda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-030",
+  "doc": "ogp-8",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Что означает латинское слово «прецедент»?",
+   "uz": "Lotincha “pretsedent” soʻzi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "«Предыдущий»",
+    "«Правило»",
+    "«Единый»",
+    "«Обязательный»"
+   ],
+   "uz": [
+    "“Oldingi”",
+    "“Qoida”",
+    "“Yagona”",
+    "“Majburiy”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-031",
+  "doc": "ogp-8",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Правило поведения, сложившееся в результате длительного применения и признанное государством обязательным, – это…",
+   "uz": "Uzoq vaqt qoʻllanish natijasida shakllangan va davlat tomonidan majburiy deb tan olingan xulq-atvor qoidasi — bu…"
+  },
+  "options": {
+   "ru": [
+    "правовой обычай",
+    "юридический прецедент",
+    "нормативно-правовой акт",
+    "международный договор"
+   ],
+   "uz": [
+    "huquqiy odat",
+    "yuridik pretsedent",
+    "normativ-huquqiy hujjat",
+    "xalqaro shartnoma"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-032",
+  "doc": "ogp-8",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Какие акты являются законодательными актами Республики Узбекистан?",
+   "uz": "Oʻzbekiston Respublikasining qonunchilik hujjatlari qaysilar?"
+  },
+  "options": {
+   "ru": [
+    "Конституция, законы и постановления палат Олий Мажлиса",
+    "Указы и постановления Президента",
+    "Постановления Кабинета Министров",
+    "Решения хокимов"
+   ],
+   "uz": [
+    "Konstitutsiya, qonunlar va Oliy Majlis palatalarining qarorlari",
+    "Prezident farmon va qarorlari",
+    "Vazirlar Mahkamasi qarorlari",
+    "Hokimlar qarorlari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-033",
+  "doc": "ogp-8",
+  "lesson": "13",
+  "q": {
+   "ru": "Кто ввёл первые в мировой истории письменные законы?",
+   "uz": "Jahon tarixida birinchi yozma qonunlarni kim joriy etgan?"
+  },
+  "options": {
+   "ru": [
+    "Царь Вавилона Хаммурапи",
+    "Солон",
+    "Император Юстиниан",
+    "Амир Темур"
+   ],
+   "uz": [
+    "Bobil podshosi Hammurapi",
+    "Solon",
+    "Imperator Yustinian",
+    "Amir Temur"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-034",
+  "doc": "ogp-8",
+  "lesson": "13",
+  "q": {
+   "ru": "Из скольких статей состоят законы Хаммурапи?",
+   "uz": "Hammurapi qonunlari nechta banddan iborat?"
+  },
+  "options": {
+   "ru": [
+    "282",
+    "155",
+    "195",
+    "300"
+   ],
+   "uz": [
+    "282",
+    "155",
+    "195",
+    "300"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-035",
+  "doc": "ogp-8",
+  "lesson": "13",
+  "q": {
+   "ru": "Что означает латинское слово «норма»?",
+   "uz": "Lotincha “norma” soʻzi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "«Правило», «образец»",
+    "«Предыдущий»",
+    "«Простой»",
+    "«Власть»"
+   ],
+   "uz": [
+    "“Qoida”, “namuna”",
+    "“Oldingi”",
+    "“Oddiy”",
+    "“Hokimiyat”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-036",
+  "doc": "ogp-8",
+  "lesson": "13",
+  "q": {
+   "ru": "Что является самым основным, первоначальным элементом правовой системы?",
+   "uz": "Huquq tizimining eng asosiy, boshlangʻich elementi nima?"
+  },
+  "options": {
+   "ru": [
+    "Правовая норма",
+    "Отрасль права",
+    "Правовой институт",
+    "Правоотношение"
+   ],
+   "uz": [
+    "Huquqiy norma",
+    "Huquq sohasi",
+    "Huquqiy institut",
+    "Huquqiy munosabat"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-037",
+  "doc": "ogp-8",
+  "lesson": "14",
+  "q": {
+   "ru": "Группа правовых норм, регулирующих один вид взаимосвязанных общественных отношений, – это…",
+   "uz": "Bir turdagi oʻzaro bogʻliq ijtimoiy munosabatlarni tartibga soluvchi huquqiy normalar guruhi — bu…"
+  },
+  "options": {
+   "ru": [
+    "правовой институт",
+    "отрасль права",
+    "правовая система",
+    "источник права"
+   ],
+   "uz": [
+    "huquqiy institut",
+    "huquq sohasi",
+    "huquq tizimi",
+    "huquq manbai"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-038",
+  "doc": "ogp-8",
+  "lesson": "14",
+  "q": {
+   "ru": "К какой отрасли права относится институт брака?",
+   "uz": "Nikoh instituti qaysi huquq sohasiga kiradi?"
+  },
+  "options": {
+   "ru": [
+    "Семейное право",
+    "Конституционное право",
+    "Уголовное право",
+    "Трудовое право"
+   ],
+   "uz": [
+    "Oila huquqi",
+    "Konstitutsiyaviy huquq",
+    "Jinoyat huquqi",
+    "Mehnat huquqi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-039",
+  "doc": "ogp-8",
+  "lesson": "14",
+  "q": {
+   "ru": "На какие две группы делятся отрасли национального права?",
+   "uz": "Milliy huquq sohalari qanday ikki guruhga boʻlinadi?"
+  },
+  "options": {
+   "ru": [
+    "Материальное и процессуальное право",
+    "Внутреннее и внешнее право",
+    "Объективное и субъективное право",
+    "Писаное и неписаное право"
+   ],
+   "uz": [
+    "Moddiy va protsessual huquq",
+    "Ichki va tashqi huquq",
+    "Obyektiv va subyektiv huquq",
+    "Yozma va yozilmagan huquq"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Материальное право определяет права и обязанности, процессуальное – порядок их исполнения.",
+   "uz": "Moddiy huquq huquq va majburiyatlarni, protsessual huquq ularni amalga oshirish tartibini belgilaydi."
+  }
+ },
+ {
+  "id": "b8-040",
+  "doc": "ogp-8",
+  "lesson": "14",
+  "q": {
+   "ru": "Трудовые отношения регулируются…",
+   "uz": "Mehnat munosabatlari qaysi huquq sohasi bilan tartibga solinadi?"
+  },
+  "options": {
+   "ru": [
+    "трудовым правом",
+    "финансовым правом",
+    "земельным правом",
+    "семейным правом"
+   ],
+   "uz": [
+    "Mehnat huquqi",
+    "Moliya huquqi",
+    "Yer huquqi",
+    "Oila huquqi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-041",
+  "doc": "ogp-8",
+  "lesson": "15",
+  "q": {
+   "ru": "Сколько сторон, как минимум, участвует в правовых отношениях?",
+   "uz": "Huquqiy munosabatlarda kamida nechta tomon ishtirok etadi?"
+  },
+  "options": {
+   "ru": [
+    "Две",
+    "Одна",
+    "Три",
+    "Четыре"
+   ],
+   "uz": [
+    "Ikki",
+    "Bir",
+    "Uch",
+    "Toʻrt"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Первая сторона – владелец права, вторая – лицо, исполняющее обязанность.",
+   "uz": "Birinchi tomon — huquq egasi, ikkinchisi — majburiyatni bajaruvchi."
+  }
+ },
+ {
+  "id": "b8-042",
+  "doc": "ogp-8",
+  "lesson": "15",
+  "q": {
+   "ru": "Рождение или смерть человека, пожар – это юридический факт, который называется…",
+   "uz": "Insonning tugʻilishi yoki vafoti, yongʻin — bu qanday yuridik fakt?"
+  },
+  "options": {
+   "ru": [
+    "событием",
+    "действием",
+    "правонарушением",
+    "сделкой"
+   ],
+   "uz": [
+    "Hodisa",
+    "Harakat",
+    "Huquqbuzarlik",
+    "Bitim"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-043",
+  "doc": "ogp-8",
+  "lesson": "15",
+  "q": {
+   "ru": "Из каких составных частей состоит правоотношение?",
+   "uz": "Huquqiy munosabat qanday tarkibiy qismlardan iborat?"
+  },
+  "options": {
+   "ru": [
+    "Объект, субъект, субъективное право и юридическая обязанность",
+    "Гипотеза, диспозиция и санкция",
+    "Умысел и неосторожность",
+    "Норма, институт и отрасль"
+   ],
+   "uz": [
+    "Obyekt, subyekt, subyektiv huquq va yuridik majburiyat",
+    "Gipoteza, dispozitsiya va sanksiya",
+    "Qasd va ehtiyotsizlik",
+    "Norma, institut va soha"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-044",
+  "doc": "ogp-8",
+  "lesson": "15",
+  "q": {
+   "ru": "Договор купли-продажи – пример…",
+   "uz": "Oldi-sotdi shartnomasi qanday huquqiy munosabatga misol?"
+  },
+  "options": {
+   "ru": [
+    "гражданских правоотношений",
+    "уголовных правоотношений",
+    "административных правоотношений",
+    "трудовых правоотношений"
+   ],
+   "uz": [
+    "Fuqarolik-huquqiy munosabat",
+    "Jinoyat-huquqiy munosabat",
+    "Maʼmuriy-huquqiy munosabat",
+    "Mehnatga oid munosabat"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-045",
+  "doc": "ogp-8",
+  "lesson": "17–18",
+  "q": {
+   "ru": "Правовое поведение – это…",
+   "uz": "Huquqiy xulq-atvor — bu…"
+  },
+  "options": {
+   "ru": [
+    "сознательное действие (бездействие) субъектов права, соответствующее правовым нормам, порождающее юридические последствия и социально полезное",
+    "любое поведение человека в обществе",
+    "нарушение норм морали",
+    "поведение, за которое наступает ответственность"
+   ],
+   "uz": [
+    "huquq subyektlarining huquqiy normalarga mos, yuridik oqibat keltirib chiqaradigan va ijtimoiy foydali ongli harakati (harakatsizligi)",
+    "insonning jamiyatdagi har qanday xulqi",
+    "axloq normalarini buzish",
+    "javobgarlikka sabab boʻladigan xulq"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-046",
+  "doc": "ogp-8",
+  "lesson": "17–18",
+  "q": {
+   "ru": "Что из перечисленного – пример незаконного поведения?",
+   "uz": "Quyidagilardan qaysi biri noqonuniy xulq-atvorga misol?"
+  },
+  "options": {
+   "ru": [
+    "Хулиганство",
+    "Уплата налогов",
+    "Участие в выборах",
+    "Заключение договора аренды"
+   ],
+   "uz": [
+    "Bezorilik",
+    "Soliq toʻlash",
+    "Saylovda ishtirok etish",
+    "Ijara shartnomasini tuzish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-047",
+  "doc": "ogp-8",
+  "lesson": "19–20",
+  "q": {
+   "ru": "Правонарушение – это…",
+   "uz": "Huquqbuzarlik — bu…"
+  },
+  "options": {
+   "ru": [
+    "противоправное виновное деяние, нарушающее нормы права и причиняющее вред обществу, государству или лицу",
+    "любой поступок, осуждаемый обществом",
+    "нарушение правил этикета",
+    "событие, не зависящее от воли человека"
+   ],
+   "uz": [
+    "huquq normalarini buzadigan va jamiyat, davlat yoki shaxsga zarar yetkazadigan gʻayriqonuniy aybli qilmish",
+    "jamiyat qoralaydigan har qanday xatti-harakat",
+    "odob qoidalarini buzish",
+    "inson irodasiga bogʻliq boʻlmagan hodisa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-048",
+  "doc": "ogp-8",
+  "lesson": "19–20",
+  "q": {
+   "ru": "В каких формах возникает вина?",
+   "uz": "Ayb qanday shakllarda boʻladi?"
+  },
+  "options": {
+   "ru": [
+    "Умысел или неосторожность",
+    "Действие или бездействие",
+    "Событие или действие",
+    "Материальная или процессуальная"
+   ],
+   "uz": [
+    "Qasd yoki ehtiyotsizlik",
+    "Harakat yoki harakatsizlik",
+    "Hodisa yoki harakat",
+    "Moddiy yoki protsessual"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-049",
+  "doc": "ogp-8",
+  "lesson": "19–20",
+  "q": {
+   "ru": "Нарушение правонарушителем обязательных требований закона называется…",
+   "uz": "Huquqbuzarning qonun talablarini buzishi qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "противозаконностью",
+    "виновностью",
+    "социальной опасностью",
+    "правоспособностью"
+   ],
+   "uz": [
+    "Gʻayriqonuniylik",
+    "Aybdorlik",
+    "Ijtimoiy xavflilik",
+    "Huquq layoqati"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-050",
+  "doc": "ogp-8",
+  "lesson": "21–22",
+  "q": {
+   "ru": "Юридическая ответственность – это…",
+   "uz": "Yuridik javobgarlik — bu…"
+  },
+  "options": {
+   "ru": [
+    "применение мер государственного принуждения к лицу, виновному в нарушении норм права",
+    "моральное осуждение со стороны общества",
+    "добровольное исполнение обязанностей",
+    "любая социальная ответственность"
+   ],
+   "uz": [
+    "huquq normalarini buzishda aybdor shaxsga nisbatan davlat majburlov choralarini qoʻllash",
+    "jamiyat tomonidan axloqiy qoralash",
+    "majburiyatlarni ixtiyoriy bajarish",
+    "har qanday ijtimoiy javobgarlik"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-051",
+  "doc": "ogp-8",
+  "lesson": "21–22",
+  "q": {
+   "ru": "Какая статья Уголовного кодекса устанавливает систему наказаний (по учебнику)?",
+   "uz": "Darslikka koʻra, jazolar tizimi Jinoyat kodeksining qaysi moddasida belgilangan?"
+  },
+  "options": {
+   "ru": [
+    "Статья 43",
+    "Статья 15",
+    "Статья 97",
+    "Статья 27"
+   ],
+   "uz": [
+    "43-modda",
+    "15-modda",
+    "97-modda",
+    "27-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-052",
+  "doc": "ogp-8",
+  "lesson": "23–24",
+  "q": {
+   "ru": "С какой целью применяется наказание?",
+   "uz": "Jazo qanday maqsadda qoʻllaniladi?"
+  },
+  "options": {
+   "ru": [
+    "Для исправления человека и предупреждения новых правонарушений",
+    "Только чтобы причинить страдания",
+    "Для пополнения государственного бюджета",
+    "Для мести потерпевшего"
+   ],
+   "uz": [
+    "Insonni axloqan tuzatish va yangi huquqbuzarliklarning oldini olish uchun",
+    "Faqat azob berish uchun",
+    "Davlat byudjetini toʻldirish uchun",
+    "Jabrlanuvchining oʻch olishi uchun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-053",
+  "doc": "ogp-8",
+  "lesson": "23–24",
+  "q": {
+   "ru": "Штраф – это…",
+   "uz": "Jarima — bu…"
+  },
+  "options": {
+   "ru": [
+    "взыскание установленной суммы денег с виновного в пользу государства",
+    "лишение свободы на короткий срок",
+    "неоплачиваемые общественные работы",
+    "лишение права занимать должность"
+   ],
+   "uz": [
+    "aybdordan davlat foydasiga belgilangan pul miqdorini undirish",
+    "qisqa muddatga ozodlikdan mahrum qilish",
+    "haq toʻlanmaydigan jamoat ishlari",
+    "lavozim egallash huquqidan mahrum qilish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-054",
+  "doc": "ogp-8",
+  "lesson": "23–24",
+  "q": {
+   "ru": "Когда выполняются обязательные общественные работы, если осуждённый работает или учится?",
+   "uz": "Mahkum ishlasa yoki oʻqisa, majburiy jamoat ishlari qachon bajariladi?"
+  },
+  "options": {
+   "ru": [
+    "В свободное от работы или учёбы время",
+    "Вместо работы или учёбы",
+    "Только в выходные летом",
+    "Только по ночам"
+   ],
+   "uz": [
+    "Ishdan yoki oʻqishdan boʻsh vaqtda",
+    "Ish yoki oʻqish oʻrniga",
+    "Faqat yozgi dam olish kunlari",
+    "Faqat tunda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Это неоплачиваемые общественно полезные работы.",
+   "uz": "Bu haq toʻlanmaydigan jamoat uchun foydali ishlardir."
+  }
+ },
+ {
+  "id": "b8-055",
+  "doc": "ogp-8",
+  "lesson": "23–24",
+  "q": {
+   "ru": "К кому применяется наказание «ограничение по службе»?",
+   "uz": "“Xizmat boʻyicha cheklash” jazosi kimlarga nisbatan qoʻllaniladi?"
+  },
+  "options": {
+   "ru": [
+    "К военнослужащим, проходящим службу по контракту",
+    "К студентам",
+    "К пенсионерам",
+    "К несовершеннолетним"
+   ],
+   "uz": [
+    "Shartnoma asosida harbiy xizmatni oʻtayotgan harbiy xizmatchilarga",
+    "Talabalarga",
+    "Pensionerlarga",
+    "Voyaga yetmaganlarga"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-056",
+  "doc": "ogp-8",
+  "lesson": "27",
+  "q": {
+   "ru": "В каком возрасте несовершеннолетние совершают сделки с письменного согласия родителей, усыновителей или попечителей?",
+   "uz": "Voyaga yetmaganlar qaysi yoshda bitimlarni ota-onasi, farzandlikka oluvchilari yoki homiylarining yozma roziligi bilan tuzadi?"
+  },
+  "options": {
+   "ru": [
+    "От 14 до 18 лет",
+    "От 6 до 14 лет",
+    "От 16 до 18 лет",
+    "От 12 до 16 лет"
+   ],
+   "uz": [
+    "14 yoshdan 18 yoshgacha",
+    "6 yoshdan 14 yoshgacha",
+    "16 yoshdan 18 yoshgacha",
+    "12 yoshdan 16 yoshgacha"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Статья 27 Гражданского кодекса.",
+   "uz": "Fuqarolik kodeksining 27-moddasi."
+  }
+ },
+ {
+  "id": "b8-057",
+  "doc": "ogp-8",
+  "lesson": "27",
+  "q": {
+   "ru": "Что несовершеннолетний 14–18 лет вправе делать самостоятельно, без согласия родителей?",
+   "uz": "14–18 yoshli voyaga yetmagan ota-onasining roziligisiz nimani mustaqil qila oladi?"
+  },
+  "options": {
+   "ru": [
+    "Распоряжаться своим заработком и стипендией",
+    "Продавать квартиру",
+    "Вступать в брак",
+    "Брать крупный кредит в банке"
+   ],
+   "uz": [
+    "Oʻz ish haqi va stipendiyasini tasarruf etish",
+    "Kvartirani sotish",
+    "Nikohdan oʻtish",
+    "Bankdan katta kredit olish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-058",
+  "doc": "ogp-8",
+  "lesson": "27",
+  "q": {
+   "ru": "Чем является имущество, полученное несовершеннолетним в дар, по наследству или заработанное личным трудом?",
+   "uz": "Voyaga yetmagan tomonidan hadya, meros sifatida olingan yoki oʻz mehnati bilan topilgan mol-mulk kimga tegishli?"
+  },
+  "options": {
+   "ru": [
+    "Его частной собственностью",
+    "Собственностью родителей",
+    "Государственной собственностью",
+    "Общей собственностью семьи"
+   ],
+   "uz": [
+    "Uning xususiy mulki",
+    "Ota-onasining mulki",
+    "Davlat mulki",
+    "Oilaning umumiy mulki"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-059",
+  "doc": "ogp-8",
+  "lesson": "28",
+  "q": {
+   "ru": "Преступление – это…",
+   "uz": "Jinoyat — bu…"
+  },
+  "options": {
+   "ru": [
+    "общественно опасное деяние, запрещённое Уголовным кодексом",
+    "любое нарушение норм морали",
+    "любое административное правонарушение",
+    "нарушение условий договора"
+   ],
+   "uz": [
+    "Jinoyat kodeksi bilan taqiqlangan ijtimoiy xavfli qilmish",
+    "axloq normalarining har qanday buzilishi",
+    "har qanday maʼmuriy huquqbuzarlik",
+    "shartnoma shartlarini buzish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-060",
+  "doc": "ogp-8",
+  "lesson": "28",
+  "q": {
+   "ru": "На сколько категорий делятся преступления по характеру и степени общественной опасности (ст. 15 УК)?",
+   "uz": "Jinoyatlar ijtimoiy xavflilik xususiyati va darajasiga koʻra nechta toifaga boʻlinadi (JK 15-modda)?"
+  },
+  "options": {
+   "ru": [
+    "На четыре",
+    "На три",
+    "На две",
+    "На пять"
+   ],
+   "uz": [
+    "Toʻrtta",
+    "Uchta",
+    "Ikkita",
+    "Beshta"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Не представляющие большой общественной опасности, менее тяжкие, тяжкие и особо тяжкие.",
+   "uz": "Ijtimoiy xavfi katta boʻlmagan, uncha ogʻir boʻlmagan, ogʻir va oʻta ogʻir jinoyatlar."
+  }
+ },
+ {
+  "id": "b8-061",
+  "doc": "ogp-8",
+  "lesson": "29–30",
+  "q": {
+   "ru": "На какой максимальный срок лицо может быть задержано без решения суда?",
+   "uz": "Shaxs sud qarorisiz eng koʻpi bilan qancha muddatga ushlab turilishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "48 часов",
+    "24 часа",
+    "72 часа",
+    "12 часов"
+   ],
+   "uz": [
+    "48 soat",
+    "24 soat",
+    "72 soat",
+    "12 soat"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Статья 27 Конституции.",
+   "uz": "Konstitutsiyaning 27-moddasi."
+  }
+ },
+ {
+  "id": "b8-062",
+  "doc": "ogp-8",
+  "lesson": "29–30",
+  "q": {
+   "ru": "Свидетели и потерпевшие младше какого возраста не предупреждаются об ответственности за ложные показания?",
+   "uz": "Necha yoshga toʻlmagan guvoh va jabrlanuvchilar yolgʻon koʻrsatuv uchun javobgarlik haqida ogohlantirilmaydi?"
+  },
+  "options": {
+   "ru": [
+    "16 лет",
+    "14 лет",
+    "18 лет",
+    "12 лет"
+   ],
+   "uz": [
+    "16 yosh",
+    "14 yosh",
+    "18 yosh",
+    "12 yosh"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Им напоминают о моральном долге давать правдивые показания.",
+   "uz": "Ularga rost koʻrsatuv berish maʼnaviy burchi ekanligi eslatiladi."
+  }
+ },
+ {
+  "id": "b8-063",
+  "doc": "ogp-8",
+  "lesson": "29–30",
+  "q": {
+   "ru": "Какой кодекс определяет порядок производства по уголовным делам?",
+   "uz": "Jinoyat ishlarini yuritish tartibini qaysi kodeks belgilaydi?"
+  },
+  "options": {
+   "ru": [
+    "Уголовно-процессуальный кодекс",
+    "Уголовный кодекс",
+    "Гражданский кодекс",
+    "Кодекс об административной ответственности"
+   ],
+   "uz": [
+    "Jinoyat-protsessual kodeksi",
+    "Jinoyat kodeksi",
+    "Fuqarolik kodeksi",
+    "Maʼmuriy javobgarlik toʻgʻrisidagi kodeks"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-064",
+  "doc": "ogp-8",
+  "lesson": "31–32",
+  "q": {
+   "ru": "В какой статье Конституции сказано: «Семья является основной ячейкой общества и находится под охраной общества и государства»?",
+   "uz": "“Oila jamiyatning asosiy boʻgʻinidir hamda jamiyat va davlat muhofazasida boʻladi” — Konstitutsiyaning qaysi moddasi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 76",
+    "Статья 25",
+    "Статья 45",
+    "Статья 92"
+   ],
+   "uz": [
+    "76-modda",
+    "25-modda",
+    "45-modda",
+    "92-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-065",
+  "doc": "ogp-8",
+  "lesson": "31–32",
+  "q": {
+   "ru": "Куда обязан сообщить человек, узнавший, что жизни ребёнка угрожает опасность или его права нарушены?",
+   "uz": "Bolaning hayotiga xavf tugʻilgani yoki huquqlari buzilganini bilgan shaxs qayerga xabar berishi shart?"
+  },
+  "options": {
+   "ru": [
+    "В орган опеки и попечительства",
+    "В налоговый орган",
+    "В избирательную комиссию",
+    "Нотариусу"
+   ],
+   "uz": [
+    "Vasiylik va homiylik organiga",
+    "Soliq organiga",
+    "Saylov komissiyasiga",
+    "Notariusga"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-066",
+  "doc": "ogp-8",
+  "lesson": "31–32",
+  "q": {
+   "ru": "Имеют ли дети право собственности на имущество родителей при их жизни?",
+   "uz": "Bolalar ota-onasi hayotligida ularning mol-mulkiga mulk huquqiga egami?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, в равных долях",
+    "Да, с 14 лет",
+    "Да, на половину имущества"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, teng ulushlarda",
+    "Ha, 14 yoshdan",
+    "Ha, mol-mulkning yarmiga"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Родители также не имеют права владеть имуществом несовершеннолетних детей.",
+   "uz": "Ota-ona ham voyaga yetmagan bolalarining mol-mulkiga egalik qilish huquqiga ega emas."
+  }
+ },
+ {
+  "id": "b8-067",
+  "doc": "ogp-8",
+  "lesson": "33",
+  "q": {
+   "ru": "На каких работах запрещено применение труда лиц до 18 лет?",
+   "uz": "18 yoshga toʻlmagan shaxslar mehnatini qaysi ishlarda qoʻllash taqiqlanadi?"
+  },
+  "options": {
+   "ru": [
+    "На работах с вредными и (или) опасными условиями и на подземных работах",
+    "На любой оплачиваемой работе",
+    "Только на работе в выходные дни",
+    "На работах в сфере образования"
+   ],
+   "uz": [
+    "Zararli va (yoki) xavfli sharoitli ishlarda hamda yer osti ishlarida",
+    "Har qanday haq toʻlanadigan ishda",
+    "Faqat dam olish kunlaridagi ishda",
+    "Taʼlim sohasidagi ishlarda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-068",
+  "doc": "ogp-8",
+  "lesson": "33",
+  "q": {
+   "ru": "Как называется вынуждение несовершеннолетнего работать под угрозой наказания?",
+   "uz": "Voyaga yetmaganni jazo tahdidi ostida ishlashga majburlash qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Принудительный труд",
+    "Трудовая дисциплина",
+    "Сверхурочная работа",
+    "Стажировка"
+   ],
+   "uz": [
+    "Majburiy mehnat",
+    "Mehnat intizomi",
+    "Ish vaqtidan tashqari ish",
+    "Stajirovka"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-069",
+  "doc": "ogp-8",
+  "lesson": "33",
+  "q": {
+   "ru": "Кто утверждает перечень работ, на которых запрещён труд лиц до 18 лет?",
+   "uz": "18 yoshga toʻlmaganlar mehnati taqiqlangan ishlar roʻyxatini kim tasdiqlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Министерство занятости и трудовых отношений и Министерство здравоохранения",
+    "Олий Мажлис",
+    "Хоким района",
+    "Работодатель"
+   ],
+   "uz": [
+    "Bandlik va mehnat munosabatlari vazirligi hamda Sogʻliqni saqlash vazirligi",
+    "Oliy Majlis",
+    "Tuman hokimi",
+    "Ish beruvchi"
+   ]
+  },
+  "answer": 0
+ }
+]
