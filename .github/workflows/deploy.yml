@@ -1,0 +1,48 @@
+# Android-приложение (APK): собирается при каждом push в main и публикуется
+# в релиз «apk-latest» — постоянная ссылка на скачивание:
+# https://github.com/bohirturaev1991-wq/ogp-study/releases/download/apk-latest/ogp-study.apk
+# (Сайт публикуется командой `npm run deploy` в ветку gh-pages.)
+name: Android APK
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: apk
+  cancel-in-progress: true
+
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+      - run: npm ci
+      - run: npm run build
+      - run: npx cap sync android
+      - name: Build APK
+        working-directory: android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
+      - name: Publish APK
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cp android/app/build/outputs/apk/debug/app-debug.apk ogp-study.apk
+          gh release delete apk-latest --yes --cleanup-tag || true
+          gh release create apk-latest ogp-study.apk \
+            --title "Android-приложение (последняя версия)" \
+            --notes "Скачайте ogp-study.apk на телефон и откройте. Android может попросить разрешить установку из этого источника. Собрано из коммита ${GITHUB_SHA::7}."
