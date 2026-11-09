@@ -1,0 +1,1194 @@
+[
+ {
+  "id": "b11-001",
+  "doc": "ogp-11",
+  "lesson": "1",
+  "q": {
+   "ru": "Трудовые правоотношения – это отношения между работодателем и работником, возникающие на основании…",
+   "uz": "Mehnatga oid huquqiy munosabatlar ish beruvchi va xodim oʻrtasida nima asosida yuzaga keladi?"
+  },
+  "options": {
+   "ru": [
+    "трудового договора",
+    "договора купли-продажи",
+    "решения суда",
+    "устной просьбы работника"
+   ],
+   "uz": [
+    "Mehnat shartnomasi",
+    "Oldi-sotdi shartnomasi",
+    "Sud qarori",
+    "Xodimning ogʻzaki iltimosi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-002",
+  "doc": "ogp-11",
+  "lesson": "1",
+  "q": {
+   "ru": "Какая отрасль права регулирует отношения между работодателем и работником в процессе труда?",
+   "uz": "Mehnat jarayonida ish beruvchi va xodim oʻrtasidagi munosabatlarni qaysi huquq sohasi tartibga soladi?"
+  },
+  "options": {
+   "ru": [
+    "Трудовое право",
+    "Гражданское право",
+    "Административное право",
+    "Семейное право"
+   ],
+   "uz": [
+    "Mehnat huquqi",
+    "Fuqarolik huquqi",
+    "Maʼmuriy huquq",
+    "Oila huquqi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-003",
+  "doc": "ogp-11",
+  "lesson": "1",
+  "q": {
+   "ru": "Какой возрастной предел установлен Конвенцией МОТ 1999 года о наихудших формах детского труда?",
+   "uz": "XMTning 1999-yilgi bolalar mehnatining eng ogʻir shakllari toʻgʻrisidagi konvensiyasi qanday yosh chegarasini belgilaydi?"
+  },
+  "options": {
+   "ru": [
+    "До 18 лет",
+    "До 14 лет",
+    "До 16 лет",
+    "До 21 года"
+   ],
+   "uz": [
+    "18 yoshgacha",
+    "14 yoshgacha",
+    "16 yoshgacha",
+    "21 yoshgacha"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-004",
+  "doc": "ogp-11",
+  "lesson": "2",
+  "q": {
+   "ru": "Что делает государство, если человек становится безработным?",
+   "uz": "Inson ishsiz qolsa, davlat nima qiladi?"
+  },
+  "options": {
+   "ru": [
+    "Оказывает временную финансовую помощь – пособие по безработице",
+    "Обязывает его работать бесплатно",
+    "Лишает его социальных прав",
+    "Ничего не делает"
+   ],
+   "uz": [
+    "Vaqtinchalik moliyaviy yordam — ishsizlik nafaqasini beradi",
+    "Uni tekin ishlashga majbur qiladi",
+    "Uni ijtimoiy huquqlardan mahrum qiladi",
+    "Hech narsa qilmaydi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-005",
+  "doc": "ogp-11",
+  "lesson": "2",
+  "q": {
+   "ru": "Могут ли работодатели платить работникам меньше установленной государством минимальной заработной платы?",
+   "uz": "Ish beruvchilar xodimlarga davlat belgilagan eng kam ish haqidan kam toʻlashi mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, по соглашению сторон",
+    "Да, в частных компаниях",
+    "Да, на испытательном сроке"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, tomonlar kelishuvi bilan",
+    "Ha, xususiy kompaniyalarda",
+    "Ha, sinov muddatida"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-006",
+  "doc": "ogp-11",
+  "lesson": "3",
+  "q": {
+   "ru": "С какого момента вступает в силу трудовой договор?",
+   "uz": "Mehnat shartnomasi qachondan kuchga kiradi?"
+  },
+  "options": {
+   "ru": [
+    "Со дня его подписания работодателем и работником",
+    "С первого дня выплаты зарплаты",
+    "После регистрации в хокимияте",
+    "Через месяц после подписания"
+   ],
+   "uz": [
+    "Ish beruvchi va xodim imzolagan kundan",
+    "Birinchi ish haqi toʻlangan kundan",
+    "Hokimlikda roʻyxatdan oʻtgandan keyin",
+    "Imzolangandan bir oy oʻtib"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-007",
+  "doc": "ogp-11",
+  "lesson": "3",
+  "q": {
+   "ru": "В какой системе регистрируются заключение и расторжение трудового договора?",
+   "uz": "Mehnat shartnomasini tuzish va bekor qilish qaysi tizimda roʻyxatga olinadi?"
+  },
+  "options": {
+   "ru": [
+    "«Единая национальная система труда» (my.mehnat.uz)",
+    "«Единый портал интерактивных государственных услуг»",
+    "Налоговая служба",
+    "Система «Электронное правительство» махалли"
+   ],
+   "uz": [
+    "“Yagona milliy mehnat tizimi” (my.mehnat.uz)",
+    "“Interaktiv davlat xizmatlarining yagona portali”",
+    "Soliq xizmati",
+    "Mahallaning “Elektron hukumat” tizimi"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Пользование системой бесплатно для всех физических лиц.",
+   "uz": "Tizimdan foydalanish barcha jismoniy shaxslar uchun bepul."
+  }
+ },
+ {
+  "id": "b11-008",
+  "doc": "ogp-11",
+  "lesson": "3",
+  "q": {
+   "ru": "В какой форме заключается трудовой договор?",
+   "uz": "Mehnat shartnomasi qanday shaklda tuziladi?"
+  },
+  "options": {
+   "ru": [
+    "В письменной форме",
+    "Только в устной форме",
+    "В нотариальной форме",
+    "В любой форме по желанию работодателя"
+   ],
+   "uz": [
+    "Yozma shaklda",
+    "Faqat ogʻzaki shaklda",
+    "Notarial shaklda",
+    "Ish beruvchining xohishiga koʻra har qanday shaklda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-009",
+  "doc": "ogp-11",
+  "lesson": "4",
+  "q": {
+   "ru": "Как называется привлечение работника к работе сверх установленной продолжительности рабочего времени?",
+   "uz": "Xodimni belgilangan ish vaqtidan tashqari ishga jalb qilish qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Сверхурочная работа",
+    "Совместительство",
+    "Командировка",
+    "Стажировка"
+   ],
+   "uz": [
+    "Ish vaqtidan tashqari ish",
+    "Oʻrindoshlik",
+    "Xizmat safari",
+    "Stajirovka"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-010",
+  "doc": "ogp-11",
+  "lesson": "4",
+  "q": {
+   "ru": "Сколько часов сверхурочной работы допускается в течение двух дней подряд (ст. 190 Трудового кодекса)?",
+   "uz": "Ketma-ket ikki kun davomida qancha ish vaqtidan tashqari ishga yoʻl qoʻyiladi (Mehnat kodeksining 190-moddasi)?"
+  },
+  "options": {
+   "ru": [
+    "Не более 4 часов",
+    "Не более 8 часов",
+    "Не более 2 часов",
+    "Не более 12 часов"
+   ],
+   "uz": [
+    "4 soatdan oshmasligi kerak",
+    "8 soatdan oshmasligi kerak",
+    "2 soatdan oshmasligi kerak",
+    "12 soatdan oshmasligi kerak"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "На работах с неблагоприятными условиями – не более 2 часов в день.",
+   "uz": "Noqulay mehnat sharoitli ishlarda — kuniga 2 soatdan oshmasligi kerak."
+  }
+ },
+ {
+  "id": "b11-011",
+  "doc": "ogp-11",
+  "lesson": "4",
+  "q": {
+   "ru": "Рабочее время – это…",
+   "uz": "Ish vaqti — bu…"
+  },
+  "options": {
+   "ru": [
+    "период, в течение которого работник обязан исполнять трудовые обязанности",
+    "всё время пребывания на территории предприятия",
+    "время в пути на работу",
+    "время обеденного перерыва"
+   ],
+   "uz": [
+    "xodim mehnat vazifalarini bajarishi shart boʻlgan vaqt",
+    "korxona hududida boʻlishning butun vaqti",
+    "ishga yoʻlda ketadigan vaqt",
+    "tushlik tanaffusi vaqti"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-012",
+  "doc": "ogp-11",
+  "lesson": "5",
+  "q": {
+   "ru": "Могут ли условия оплаты труда в трудовом договоре быть хуже, чем установлено законодательством?",
+   "uz": "Mehnat shartnomasidagi mehnatga haq toʻlash shartlari qonunchilikda belgilanganidan yomonroq boʻlishi mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, по соглашению сторон",
+    "Да, в малом бизнесе",
+    "Да, если работник согласен письменно"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, tomonlar kelishuvi bilan",
+    "Ha, kichik biznesda",
+    "Ha, xodim yozma rozilik bersa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-013",
+  "doc": "ogp-11",
+  "lesson": "6",
+  "q": {
+   "ru": "Сколько дисциплинарных взысканий может быть применено за один дисциплинарный проступок?",
+   "uz": "Bitta intizomiy nojoʻya xatti-harakat uchun nechta intizomiy jazo qoʻllanilishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "Только одно",
+    "Два",
+    "Три",
+    "Неограниченно"
+   ],
+   "uz": [
+    "Faqat bitta",
+    "Ikkita",
+    "Uchta",
+    "Cheklanmagan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-014",
+  "doc": "ogp-11",
+  "lesson": "6",
+  "q": {
+   "ru": "Каким документом оформляется наложение дисциплинарного взыскания?",
+   "uz": "Intizomiy jazo qoʻllash qanday hujjat bilan rasmiylashtiriladi?"
+  },
+  "options": {
+   "ru": [
+    "Приказом работодателя",
+    "Решением суда",
+    "Протоколом профсоюза",
+    "Устным предупреждением"
+   ],
+   "uz": [
+    "Ish beruvchining buyrugʻi bilan",
+    "Sud qarori bilan",
+    "Kasaba uyushmasi bayonnomasi bilan",
+    "Ogʻzaki ogohlantirish bilan"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Работник, не ознакомленный с приказом, считается не подвергавшимся взысканию.",
+   "uz": "Buyruq bilan tanishtirilmagan xodim intizomiy jazo olmagan hisoblanadi."
+  }
+ },
+ {
+  "id": "b11-015",
+  "doc": "ogp-11",
+  "lesson": "6",
+  "q": {
+   "ru": "Дисциплинарная ответственность применяется к работнику за…",
+   "uz": "Intizomiy javobgarlik xodimga nima uchun qoʻllaniladi?"
+  },
+  "options": {
+   "ru": [
+    "нарушение трудовой дисциплины и условий трудового договора",
+    "совершение преступления",
+    "нарушение правил дорожного движения",
+    "неуплату налогов"
+   ],
+   "uz": [
+    "Mehnat intizomini va mehnat shartnomasi shartlarini buzganlik uchun",
+    "Jinoyat sodir etganlik uchun",
+    "Yoʻl harakati qoidalarini buzganlik uchun",
+    "Soliq toʻlamaganlik uchun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-016",
+  "doc": "ogp-11",
+  "lesson": "7",
+  "q": {
+   "ru": "Могут ли несовершеннолетние работать в ночное время?",
+   "uz": "Voyaga yetmaganlar tungi vaqtda ishlashi mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, с согласия родителей",
+    "Да, не более 2 часов",
+    "Да, в выходные дни"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, ota-ona roziligi bilan",
+    "Ha, 2 soatdan oshmagan holda",
+    "Ha, dam olish kunlari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-017",
+  "doc": "ogp-11",
+  "lesson": "8",
+  "q": {
+   "ru": "Кто обеспечивает работников средствами индивидуальной защиты?",
+   "uz": "Xodimlarni shaxsiy himoya vositalari bilan kim taʼminlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Работодатель за свой счёт",
+    "Сам работник за свой счёт",
+    "Профсоюз",
+    "Государство бесплатно всем"
+   ],
+   "uz": [
+    "Ish beruvchi oʻz hisobidan",
+    "Xodimning oʻzi oʻz hisobidan",
+    "Kasaba uyushmasi",
+    "Davlat hammaga bepul"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-018",
+  "doc": "ogp-11",
+  "lesson": "8",
+  "q": {
+   "ru": "Может ли работник отказаться от работы, если нарушение охраны труда угрожает его жизни, и понесёт ли он за это дисциплинарную ответственность?",
+   "uz": "Mehnatni muhofaza qilish buzilishi hayotiga xavf tugʻdirsa, xodim ishdan bosh tortishi mumkinmi va buning uchun intizomiy javobgarlikka tortiladimi?"
+  },
+  "options": {
+   "ru": [
+    "Может, ответственность не наступает",
+    "Не может",
+    "Может, но получит выговор",
+    "Может, только с разрешения инспектора"
+   ],
+   "uz": [
+    "Mumkin, javobgarlik yuzaga kelmaydi",
+    "Mumkin emas",
+    "Mumkin, lekin hayfsan oladi",
+    "Mumkin, faqat inspektor ruxsati bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-019",
+  "doc": "ogp-11",
+  "lesson": "8",
+  "q": {
+   "ru": "Кто проводит плановые и внеплановые проверки соблюдения трудового законодательства?",
+   "uz": "Mehnat qonunchiligiga rioya etilishini rejali va rejadan tashqari kim tekshiradi?"
+  },
+  "options": {
+   "ru": [
+    "Государственные инспекторы труда",
+    "Органы самоуправления граждан",
+    "Нотариусы",
+    "Профсоюзы студентов"
+   ],
+   "uz": [
+    "Davlat mehnat inspektorlari",
+    "Fuqarolarning oʻzini oʻzi boshqarish organlari",
+    "Notariuslar",
+    "Talabalar kasaba uyushmalari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-020",
+  "doc": "ogp-11",
+  "lesson": "10",
+  "q": {
+   "ru": "Административное право регулирует…",
+   "uz": "Maʼmuriy huquq nimani tartibga soladi?"
+  },
+  "options": {
+   "ru": [
+    "отношения между государством, его органами и гражданами (организациями)",
+    "отношения между супругами",
+    "отношения купли-продажи между гражданами",
+    "преступления и наказания"
+   ],
+   "uz": [
+    "Davlat, uning organlari va fuqarolar (tashkilotlar) oʻrtasidagi munosabatlarni",
+    "Er-xotin oʻrtasidagi munosabatlarni",
+    "Fuqarolar oʻrtasidagi oldi-sotdi munosabatlarini",
+    "Jinoyat va jazolarni"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-021",
+  "doc": "ogp-11",
+  "lesson": "10",
+  "q": {
+   "ru": "Какой суд рассматривает жалобы граждан на незаконные решения и действия государственных органов?",
+   "uz": "Fuqarolarning davlat organlarining gʻayriqonuniy qaror va harakatlari ustidan shikoyatlarini qaysi sud koʻrib chiqadi?"
+  },
+  "options": {
+   "ru": [
+    "Административный суд",
+    "Конституционный суд",
+    "Военный суд",
+    "Экономический суд"
+   ],
+   "uz": [
+    "Maʼmuriy sud",
+    "Konstitutsiyaviy sud",
+    "Harbiy sud",
+    "Iqtisodiy sud"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-022",
+  "doc": "ogp-11",
+  "lesson": "11",
+  "q": {
+   "ru": "Когда был запущен Единый портал интерактивных государственных услуг (my.gov.uz)?",
+   "uz": "Interaktiv davlat xizmatlarining yagona portali (my.gov.uz) qachon ishga tushirilgan?"
+  },
+  "options": {
+   "ru": [
+    "В 2013 году",
+    "В 2005 году",
+    "В 2019 году",
+    "В 2023 году"
+   ],
+   "uz": [
+    "2013-yilda",
+    "2005-yilda",
+    "2019-yilda",
+    "2023-yilda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Портал работает круглосуточно по принципу «единого окна».",
+   "uz": "Portal “yagona darcha” tamoyili asosida kecha-kunduz ishlaydi."
+  }
+ },
+ {
+  "id": "b11-023",
+  "doc": "ogp-11",
+  "lesson": "11",
+  "q": {
+   "ru": "По какому принципу предоставляются государственные услуги через портал my.gov.uz?",
+   "uz": "Davlat xizmatlari my.gov.uz portali orqali qanday tamoyil asosida koʻrsatiladi?"
+  },
+  "options": {
+   "ru": [
+    "«Единого окна»",
+    "«Первым пришёл – первым обслужен»",
+    "«Только лично»",
+    "«Только по предварительной записи в хокимияте»"
+   ],
+   "uz": [
+    "“Yagona darcha”",
+    "“Birinchi kelgan — birinchi xizmat oladi”",
+    "“Faqat shaxsan”",
+    "“Faqat hokimlikda oldindan yozilish”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-024",
+  "doc": "ogp-11",
+  "lesson": "12",
+  "q": {
+   "ru": "Административно-правовой спор – это…",
+   "uz": "Maʼmuriy-huquqiy nizo — bu…"
+  },
+  "options": {
+   "ru": [
+    "разногласие между человеком и государственным органом по поводу госуслуг или мер административного воздействия",
+    "спор между двумя гражданами о долге",
+    "спор между супругами о разделе имущества",
+    "спор между работником и работодателем"
+   ],
+   "uz": [
+    "shaxs va davlat organi oʻrtasida davlat xizmatlari yoki maʼmuriy taʼsir choralari yuzasidan kelishmovchilik",
+    "ikki fuqaro oʻrtasidagi qarz haqidagi nizo",
+    "er-xotin oʻrtasidagi mol-mulkni boʻlish nizosi",
+    "xodim va ish beruvchi oʻrtasidagi nizo"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-025",
+  "doc": "ogp-11",
+  "lesson": "13–14",
+  "q": {
+   "ru": "Каким кодексом установлены административные правонарушения?",
+   "uz": "Maʼmuriy huquqbuzarliklar qaysi kodeks bilan belgilangan?"
+  },
+  "options": {
+   "ru": [
+    "Кодексом об административной ответственности",
+    "Уголовным кодексом",
+    "Гражданским кодексом",
+    "Трудовым кодексом"
+   ],
+   "uz": [
+    "Maʼmuriy javobgarlik toʻgʻrisidagi kodeks",
+    "Jinoyat kodeksi",
+    "Fuqarolik kodeksi",
+    "Mehnat kodeksi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-026",
+  "doc": "ogp-11",
+  "lesson": "13–14",
+  "q": {
+   "ru": "Что из перечисленного – административное правонарушение?",
+   "uz": "Quyidagilardan qaysi biri maʼmuriy huquqbuzarlik?"
+  },
+  "options": {
+   "ru": [
+    "Мелкое хулиганство",
+    "Умышленное убийство",
+    "Разбой",
+    "Терроризм"
+   ],
+   "uz": [
+    "Mayda bezorilik",
+    "Qasddan odam oʻldirish",
+    "Bosqinchilik",
+    "Terrorizm"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Также нарушение правил дорожного движения, паспортной системы, пользования электроэнергией.",
+   "uz": "Shuningdek, yoʻl harakati, pasport tizimi, elektr energiyasidan foydalanish qoidalarini buzish."
+  }
+ },
+ {
+  "id": "b11-027",
+  "doc": "ogp-11",
+  "lesson": "15",
+  "q": {
+   "ru": "Что означает греческое слово «профилактика»?",
+   "uz": "Yunoncha “profilaktika” soʻzi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "«Предотвращать»",
+    "«Наказывать»",
+    "«Исправлять»",
+    "«Наблюдать»"
+   ],
+   "uz": [
+    "“Oldini olish”",
+    "“Jazolash”",
+    "“Tuzatish”",
+    "“Kuzatish”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-028",
+  "doc": "ogp-11",
+  "lesson": "15",
+  "q": {
+   "ru": "Какой день недели установлен «Днём профилактики правонарушений»?",
+   "uz": "Haftaning qaysi kuni “Huquqbuzarliklar profilaktikasi kuni” etib belgilangan?"
+  },
+  "options": {
+   "ru": [
+    "Четверг",
+    "Понедельник",
+    "Среда",
+    "Суббота"
+   ],
+   "uz": [
+    "Payshanba",
+    "Dushanba",
+    "Chorshanba",
+    "Shanba"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-029",
+  "doc": "ogp-11",
+  "lesson": "17",
+  "q": {
+   "ru": "Уголовное право – это…",
+   "uz": "Jinoyat huquqi — bu…"
+  },
+  "options": {
+   "ru": [
+    "установленная государством система норм о преступлениях, наказаниях и ответственности",
+    "система норм о браке и семье",
+    "система норм о трудовых отношениях",
+    "система норм о государственных услугах"
+   ],
+   "uz": [
+    "davlat tomonidan oʻrnatilgan jinoyatlar, jazolar va javobgarlik toʻgʻrisidagi normalar tizimi",
+    "nikoh va oila toʻgʻrisidagi normalar tizimi",
+    "mehnat munosabatlari toʻgʻrisidagi normalar tizimi",
+    "davlat xizmatlari toʻgʻrisidagi normalar tizimi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-030",
+  "doc": "ogp-11",
+  "lesson": "17",
+  "q": {
+   "ru": "Чем определяются преступность и наказуемость деяния?",
+   "uz": "Qilmishning jinoiyligi va jazoga sazovorligi nima bilan belgilanadi?"
+  },
+  "options": {
+   "ru": [
+    "Только Уголовным кодексом",
+    "Указами Президента",
+    "Решениями хокимов",
+    "Обычаями"
+   ],
+   "uz": [
+    "Faqat Jinoyat kodeksi bilan",
+    "Prezident farmonlari bilan",
+    "Hokimlar qarorlari bilan",
+    "Urf-odatlar bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-031",
+  "doc": "ogp-11",
+  "lesson": "18",
+  "q": {
+   "ru": "Наказание – это мера принуждения, применяемая…",
+   "uz": "Jazo — bu…"
+  },
+  "options": {
+   "ru": [
+    "от имени государства по приговору суда к лицу, признанному виновным в преступлении",
+    "работодателем к работнику",
+    "родителями к детям",
+    "органами самоуправления к жителям"
+   ],
+   "uz": [
+    "davlat nomidan sud hukmi bilan jinoyat sodir etishda aybdor deb topilgan shaxsga qoʻllaniladigan majburlov chorasi",
+    "ish beruvchi tomonidan xodimga qoʻllaniladigan chora",
+    "ota-onalar tomonidan bolalarga qoʻllaniladigan chora",
+    "oʻzini oʻzi boshqarish organlari tomonidan aholiga qoʻllaniladigan chora"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-032",
+  "doc": "ogp-11",
+  "lesson": "18",
+  "q": {
+   "ru": "С какой целью применяется уголовное наказание?",
+   "uz": "Jinoiy jazo qanday maqsadda qoʻllaniladi?"
+  },
+  "options": {
+   "ru": [
+    "Исправление осуждённого и предупреждение новых преступлений",
+    "Месть за причинённый вред",
+    "Пополнение бюджета",
+    "Унижение осуждённого"
+   ],
+   "uz": [
+    "Mahkumni tuzatish va yangi jinoyatlarning oldini olish",
+    "Yetkazilgan zarar uchun oʻch olish",
+    "Byudjetni toʻldirish",
+    "Mahkumni kamsitish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-033",
+  "doc": "ogp-11",
+  "lesson": "19–20",
+  "q": {
+   "ru": "Какие преступления относятся к преступлениям против личности?",
+   "uz": "Qaysi jinoyatlar shaxsga qarshi jinoyatlar hisoblanadi?"
+  },
+  "options": {
+   "ru": [
+    "Против жизни, здоровья, свободы, чести, достоинства и половой неприкосновенности",
+    "Против порядка управления",
+    "Против экономики",
+    "Против мира и безопасности"
+   ],
+   "uz": [
+    "Hayot, sogʻliq, erkinlik, shaʼn, qadr-qimmat va jinsiy daxlsizlikka qarshi",
+    "Boshqaruv tartibiga qarshi",
+    "Iqtisodiyotga qarshi",
+    "Tinchlik va xavfsizlikka qarshi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-034",
+  "doc": "ogp-11",
+  "lesson": "19–20",
+  "q": {
+   "ru": "Размещение в интернете фотографии другого человека без его разрешения…",
+   "uz": "Boshqa kishining suratini uning ruxsatisiz internetga joylashtirish…"
+  },
+  "options": {
+   "ru": [
+    "может образовать состав преступления против личности",
+    "всегда законно",
+    "является только нарушением этикета",
+    "является экономическим преступлением"
+   ],
+   "uz": [
+    "shaxsga qarshi jinoyat tarkibini tashkil etishi mumkin",
+    "har doim qonuniy",
+    "faqat odob qoidalarini buzish",
+    "iqtisodiy jinoyat"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-035",
+  "doc": "ogp-11",
+  "lesson": "21–22",
+  "q": {
+   "ru": "Систематическое преследование, запугивание или унижение одного человека другим – это…",
+   "uz": "Bir kishining boshqasini muntazam taʼqib qilishi, qoʻrqitishi yoki kamsitishi — bu…"
+  },
+  "options": {
+   "ru": [
+    "буллинг (травля)",
+    "хулиганство",
+    "клевета",
+    "вымогательство"
+   ],
+   "uz": [
+    "bulling",
+    "bezorilik",
+    "tuhmat",
+    "tovlamachilik"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Буллинг бывает вербальным и физическим, в том числе в социальных сетях.",
+   "uz": "Bulling ogʻzaki va jismoniy boʻladi, ijtimoiy tarmoqlarda ham uchraydi."
+  }
+ },
+ {
+  "id": "b11-036",
+  "doc": "ogp-11",
+  "lesson": "21–22",
+  "q": {
+   "ru": "Может ли насилие совершаться бездействием?",
+   "uz": "Zoʻravonlik harakatsizlik orqali sodir etilishi mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Да, например, неоказанием помощи или лишением ухода",
+    "Нет, только действием",
+    "Только в отношении взрослых",
+    "Только в отношении имущества"
+   ],
+   "uz": [
+    "Ha, masalan, yordam koʻrsatmaslik yoki parvarishdan mahrum qilish orqali",
+    "Yoʻq, faqat harakat orqali",
+    "Faqat kattalarga nisbatan",
+    "Faqat mol-mulkka nisbatan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-037",
+  "doc": "ogp-11",
+  "lesson": "23",
+  "q": {
+   "ru": "Что из перечисленного – преступление против мира и безопасности?",
+   "uz": "Quyidagilardan qaysi biri tinchlik va xavfsizlikka qarshi jinoyat?"
+  },
+  "options": {
+   "ru": [
+    "Терроризм",
+    "Мелкое хулиганство",
+    "Нарушение правил парковки",
+    "Невыплата алиментов"
+   ],
+   "uz": [
+    "Terrorizm",
+    "Mayda bezorilik",
+    "Avtoturargoh qoidalarini buzish",
+    "Aliment toʻlamaslik"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Также пропаганда войны, массовые беспорядки, шпионаж, нарушение пограничного режима.",
+   "uz": "Shuningdek, urushni targʻib qilish, ommaviy tartibsizliklar, josuslik, chegara rejimini buzish."
+  }
+ },
+ {
+  "id": "b11-038",
+  "doc": "ogp-11",
+  "lesson": "24",
+  "q": {
+   "ru": "Хищение чужого имущества с применением насилия, опасного для жизни или здоровья, или с угрозой его применения – это…",
+   "uz": "Hayot yoki sogʻliq uchun xavfli zoʻrlik ishlatib yoki shunday zoʻrlik ishlatish bilan qoʻrqitib oʻzganing mulkini talon-taroj qilish — bu…"
+  },
+  "options": {
+   "ru": [
+    "разбой",
+    "кража",
+    "мошенничество",
+    "присвоение"
+   ],
+   "uz": [
+    "bosqinchilik",
+    "oʻgʻrilik",
+    "firibgarlik",
+    "oʻzlashtirish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-039",
+  "doc": "ogp-11",
+  "lesson": "24",
+  "q": {
+   "ru": "Требование денег под угрозой распространения личных фотографий – это…",
+   "uz": "Shaxsiy suratlarni tarqatish bilan qoʻrqitib pul talab qilish — bu…"
+  },
+  "options": {
+   "ru": [
+    "вымогательство",
+    "кража",
+    "хулиганство",
+    "взяточничество"
+   ],
+   "uz": [
+    "tovlamachilik",
+    "oʻgʻrilik",
+    "bezorilik",
+    "poraxoʻrlik"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-040",
+  "doc": "ogp-11",
+  "lesson": "25",
+  "q": {
+   "ru": "Должностное лицо умышленно совершает действия, выходящие за пределы его полномочий. Как называется это преступление?",
+   "uz": "Mansabdor shaxs qasddan oʻz vakolatlari doirasidan chiqadigan harakatlarni sodir etadi. Bu jinoyat qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Превышение власти или должностных полномочий",
+    "Злоупотребление властью",
+    "Халатность",
+    "Мошенничество"
+   ],
+   "uz": [
+    "Hokimiyat yoki mansab vakolatlari doirasidan chetga chiqish",
+    "Hokimiyat yoki mansab vakolatlarini suisteʼmol qilish",
+    "Mansabga sovuqqonlik bilan qarash",
+    "Firibgarlik"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Злоупотребление – это незаконное использование своих полномочий; превышение – выход за их пределы.",
+   "uz": "Suisteʼmol — vakolatlardan gʻayriqonuniy foydalanish; doirasidan chetga chiqish — vakolatlardan tashqariga chiqish."
+  }
+ },
+ {
+  "id": "b11-041",
+  "doc": "ogp-11",
+  "lesson": "26–27",
+  "q": {
+   "ru": "Какая отрасль права устанавливает порядок ведения уголовных дел – от возбуждения до приговора?",
+   "uz": "Qaysi huquq sohasi jinoyat ishlarini qoʻzgʻatishdan hukm chiqarishgacha yuritish tartibini belgilaydi?"
+  },
+  "options": {
+   "ru": [
+    "Уголовно-процессуальное право",
+    "Уголовное право",
+    "Административное право",
+    "Гражданское право"
+   ],
+   "uz": [
+    "Jinoyat-protsessual huquqi",
+    "Jinoyat huquqi",
+    "Maʼmuriy huquq",
+    "Fuqarolik huquqi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-042",
+  "doc": "ogp-11",
+  "lesson": "26–27",
+  "q": {
+   "ru": "Допускается ли вмешательство в деятельность судьи, рассматривающего уголовное дело?",
+   "uz": "Jinoyat ishini koʻrayotgan sudya faoliyatiga aralashishga yoʻl qoʻyiladimi?"
+  },
+  "options": {
+   "ru": [
+    "Нет, оно запрещено законом",
+    "Да, со стороны прокурора",
+    "Да, со стороны хокима",
+    "Да, по просьбе потерпевшего"
+   ],
+   "uz": [
+    "Yoʻq, qonun bilan taqiqlangan",
+    "Ha, prokuror tomonidan",
+    "Ha, hokim tomonidan",
+    "Ha, jabrlanuvchining iltimosi bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-043",
+  "doc": "ogp-11",
+  "lesson": "29",
+  "q": {
+   "ru": "Экологическое право – это…",
+   "uz": "Ekologiya huquqi — bu…"
+  },
+  "options": {
+   "ru": [
+    "система норм об охране окружающей среды, рациональном использовании природных ресурсов и экологической безопасности",
+    "система норм о налогах на землю",
+    "система норм о браке",
+    "система норм о строительстве жилья"
+   ],
+   "uz": [
+    "atrof-muhitni muhofaza qilish, tabiiy resurslardan oqilona foydalanish va ekologik xavfsizlik toʻgʻrisidagi normalar tizimi",
+    "yer soligʻi toʻgʻrisidagi normalar tizimi",
+    "nikoh toʻgʻrisidagi normalar tizimi",
+    "uy-joy qurilishi toʻgʻrisidagi normalar tizimi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-044",
+  "doc": "ogp-11",
+  "lesson": "29",
+  "q": {
+   "ru": "Где находится штаб-квартира программы ООН по окружающей среде (UNEP)?",
+   "uz": "BMTning atrof-muhit dasturi (UNEP) qarorgohi qayerda joylashgan?"
+  },
+  "options": {
+   "ru": [
+    "В Найроби (Кения)",
+    "В Женеве",
+    "В Нью-Йорке",
+    "В Стокгольме"
+   ],
+   "uz": [
+    "Nayrobida (Keniya)",
+    "Jenevada",
+    "Nyu-Yorkda",
+    "Stokgolmda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "UNEP создана в Стокгольме в 1972 году.",
+   "uz": "UNEP 1972-yilda Stokgolmda tashkil etilgan."
+  }
+ },
+ {
+  "id": "b11-045",
+  "doc": "ogp-11",
+  "lesson": "30–31",
+  "q": {
+   "ru": "Какие формы может иметь экологическая ответственность?",
+   "uz": "Ekologik javobgarlik qanday shakllarda boʻlishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "Дисциплинарную, административную, гражданско-правовую и уголовную",
+    "Только уголовную",
+    "Только административную",
+    "Только моральную"
+   ],
+   "uz": [
+    "Intizomiy, maʼmuriy, fuqarolik-huquqiy va jinoiy",
+    "Faqat jinoiy",
+    "Faqat maʼmuriy",
+    "Faqat axloqiy"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-046",
+  "doc": "ogp-11",
+  "lesson": "30–31",
+  "q": {
+   "ru": "Какой вид экологической ответственности является наиболее распространённым?",
+   "uz": "Ekologik javobgarlikning qaysi turi eng keng tarqalgan?"
+  },
+  "options": {
+   "ru": [
+    "Административная",
+    "Уголовная",
+    "Дисциплинарная",
+    "Международная"
+   ],
+   "uz": [
+    "Maʼmuriy",
+    "Jinoiy",
+    "Intizomiy",
+    "Xalqaro"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Например, штрафы за самовольный сброс отходов или незаконную вырубку деревьев.",
+   "uz": "Masalan, chiqindilarni oʻzboshimchalik bilan tashlash yoki daraxtlarni noqonuniy kesish uchun jarimalar."
+  }
+ },
+ {
+  "id": "b11-047",
+  "doc": "ogp-11",
+  "lesson": "32–33",
+  "q": {
+   "ru": "Биологическое разнообразие – это…",
+   "uz": "Biologik xilma-xillik — bu…"
+  },
+  "options": {
+   "ru": [
+    "совокупность всех живых организмов на Земле и форм жизни в экосистемах",
+    "только редкие виды животных",
+    "лесные ресурсы страны",
+    "разнообразие сельскохозяйственных культур"
+   ],
+   "uz": [
+    "Yerdagi barcha tirik organizmlar va ekotizimlardagi hayot shakllari majmui",
+    "faqat noyob hayvon turlari",
+    "mamlakatning oʻrmon resurslari",
+    "qishloq xoʻjaligi ekinlarining xilma-xilligi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-048",
+  "doc": "ogp-11",
+  "lesson": "32–33",
+  "q": {
+   "ru": "Является ли сбор редких видов растений правонарушением, даже если человек не знал, что они редкие?",
+   "uz": "Inson ularning noyob ekanini bilmagan boʻlsa ham, noyob oʻsimlik turlarini terish huquqbuzarlikmi?"
+  },
+  "options": {
+   "ru": [
+    "Да, за это может наступить административная ответственность",
+    "Нет, если человек не знал",
+    "Нет, растения никому не принадлежат",
+    "Только если растения проданы"
+   ],
+   "uz": [
+    "Ha, buning uchun maʼmuriy javobgarlik boʻlishi mumkin",
+    "Yoʻq, agar inson bilmagan boʻlsa",
+    "Yoʻq, oʻsimliklar hech kimga tegishli emas",
+    "Faqat oʻsimliklar sotilgan boʻlsa"
+   ]
+  },
+  "answer": 0
+ }
+]

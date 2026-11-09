@@ -1,0 +1,1378 @@
+[
+ {
+  "id": "b10-001",
+  "doc": "ogp-10",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Какое лингвистическое значение имеет слово «общество» (жамият) в учебнике?",
+   "uz": "Darslikda “jamiyat” soʻzining lingvistik maʼnosi qanday izohlangan?"
+  },
+  "options": {
+   "ru": [
+    "Арабское слово, означающее «группа, объединение, общность»",
+    "Греческое слово «власть народа»",
+    "Латинское слово «устройство»",
+    "Персидское слово «страна»"
+   ],
+   "uz": [
+    "Arabcha soʻz boʻlib, “guruh, birlashma, jamoa” maʼnosini anglatadi",
+    "Yunoncha “xalq hokimiyati”",
+    "Lotincha “tuzilish”",
+    "Forscha “mamlakat”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-002",
+  "doc": "ogp-10",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Чьи слова: «Отрицание прав человека людьми – это противодействие их человечности»?",
+   "uz": "“Odamlarning inson huquqlarini rad etishi — ularning insoniyligiga qarshi chiqishdir” — bu kimning soʻzlari?"
+  },
+  "options": {
+   "ru": [
+    "Нельсон Мандела",
+    "Махатма Ганди",
+    "Мартин Лютер Кинг",
+    "Авраам Линкольн"
+   ],
+   "uz": [
+    "Nelson Mandela",
+    "Mahatma Gandi",
+    "Martin Lyuter King",
+    "Avraam Linkoln"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-003",
+  "doc": "ogp-10",
+  "lesson": "3–4",
+  "q": {
+   "ru": "Какую обязанность Конституция возлагает на граждан Узбекистана, но не на иностранцев и лиц без гражданства?",
+   "uz": "Konstitutsiya qaysi burchni Oʻzbekiston fuqarolariga yuklaydi, lekin chet elliklar va fuqaroligi boʻlmagan shaxslarga yuklamaydi?"
+  },
+  "options": {
+   "ru": [
+    "Нести военную или альтернативную службу",
+    "Соблюдать законы",
+    "Уважать права других людей",
+    "Беречь природу"
+   ],
+   "uz": [
+    "Harbiy yoki muqobil xizmatni oʻtash",
+    "Qonunlarga rioya qilish",
+    "Boshqalarning huquqlarini hurmat qilish",
+    "Tabiatni asrash"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-004",
+  "doc": "ogp-10",
+  "lesson": "5",
+  "q": {
+   "ru": "Чем «верховенство права» шире «верховенства закона»?",
+   "uz": "“Huquq ustuvorligi” “qonun ustuvorligi”dan nimasi bilan kengroq?"
+  },
+  "options": {
+   "ru": [
+    "Ему должны соответствовать все акты, включая Конституцию и законы, и вся деятельность государственной власти",
+    "Оно касается только решений хокимов",
+    "Оно означает, что закон выше Конституции",
+    "Оно действует только в судах"
+   ],
+   "uz": [
+    "Unga barcha hujjatlar, jumladan Konstitutsiya va qonunlar hamda davlat hokimiyatining butun faoliyati mos boʻlishi kerak",
+    "U faqat hokimlar qarorlariga taalluqli",
+    "U qonun Konstitutsiyadan ustun degani",
+    "U faqat sudlarda amal qiladi"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Верховенство закона означает, что подзаконные акты не противоречат закону.",
+   "uz": "Qonun ustuvorligi qonunosti hujjatlari qonunga zid boʻlmasligini anglatadi."
+  }
+ },
+ {
+  "id": "b10-005",
+  "doc": "ogp-10",
+  "lesson": "5",
+  "q": {
+   "ru": "Решение хокима района должно соответствовать Конституции и законам. Какой принцип это выражает?",
+   "uz": "Tuman hokimining qarori Konstitutsiya va qonunlarga mos boʻlishi kerak. Bu qaysi prinsipni ifodalaydi?"
+  },
+  "options": {
+   "ru": [
+    "Верховенство закона",
+    "Разделение властей",
+    "Презумпция невиновности",
+    "Федерализм"
+   ],
+   "uz": [
+    "Qonun ustuvorligi",
+    "Hokimiyatlar boʻlinishi",
+    "Aybsizlik prezumpsiyasi",
+    "Federalizm"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-006",
+  "doc": "ogp-10",
+  "lesson": "6",
+  "q": {
+   "ru": "Какая статья Конституции гарантирует право на социальное обеспечение?",
+   "uz": "Ijtimoiy taʼminot huquqini Konstitutsiyaning qaysi moddasi kafolatlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 46",
+    "Статья 25",
+    "Статья 55",
+    "Статья 17"
+   ],
+   "uz": [
+    "46-modda",
+    "25-modda",
+    "55-modda",
+    "17-modda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Право на социальное обеспечение в старости, при утрате трудоспособности, безработице, потере кормильца.",
+   "uz": "Qarilikda, mehnat qobiliyatini yoʻqotganda, ishsizlikda, boquvchisini yoʻqotganda ijtimoiy taʼminot huquqi."
+  }
+ },
+ {
+  "id": "b10-007",
+  "doc": "ogp-10",
+  "lesson": "6",
+  "q": {
+   "ru": "В каком году принята Всеобщая декларация прав человека?",
+   "uz": "Inson huquqlari umumjahon deklaratsiyasi qaysi yili qabul qilingan?"
+  },
+  "options": {
+   "ru": [
+    "1948",
+    "1966",
+    "1989",
+    "1945"
+   ],
+   "uz": [
+    "1948",
+    "1966",
+    "1989",
+    "1945"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "В 1966 году – Международный пакт об экономических, социальных и культурных правах.",
+   "uz": "1966-yilda — Iqtisodiy, ijtimoiy va madaniy huquqlar toʻgʻrisidagi xalqaro pakt."
+  }
+ },
+ {
+  "id": "b10-008",
+  "doc": "ogp-10",
+  "lesson": "6",
+  "q": {
+   "ru": "Что из перечисленного выплачивается из Фонда социального страхования?",
+   "uz": "Quyidagilardan qaysi biri ijtimoiy sugʻurta jamgʻarmasidan toʻlanadi?"
+  },
+  "options": {
+   "ru": [
+    "Пособие по временной нетрудоспособности",
+    "Стипендия студентам",
+    "Заработная плата госслужащих",
+    "Налоговый вычет"
+   ],
+   "uz": [
+    "Vaqtincha mehnatga layoqatsizlik nafaqasi",
+    "Talabalar stipendiyasi",
+    "Davlat xizmatchilari ish haqi",
+    "Soliq chegirmasi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-009",
+  "doc": "ogp-10",
+  "lesson": "7",
+  "q": {
+   "ru": "Какой закон, по учебнику, регулирует право на обращение в государственные органы?",
+   "uz": "Darslikka koʻra, davlat organlariga murojaat qilish huquqini qaysi qonun tartibga soladi?"
+  },
+  "options": {
+   "ru": [
+    "Закон «Об обращениях физических и юридических лиц»",
+    "Закон «О свободе совести и религиозных организациях»",
+    "Закон «О гражданстве»",
+    "Закон «О нотариате»"
+   ],
+   "uz": [
+    "“Jismoniy va yuridik shaxslarning murojaatlari toʻgʻrisida”gi qonun",
+    "“Vijdon erkinligi va diniy tashkilotlar toʻgʻrisida”gi qonun",
+    "“Fuqarolik toʻgʻrisida”gi qonun",
+    "“Notariat toʻgʻrisida”gi qonun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-010",
+  "doc": "ogp-10",
+  "lesson": "7",
+  "q": {
+   "ru": "К какой группе прав относится право на неприкосновенность жилища?",
+   "uz": "Turar joy daxlsizligi huquqi qaysi huquqlar guruhiga kiradi?"
+  },
+  "options": {
+   "ru": [
+    "Личные права",
+    "Политические права",
+    "Экономические права",
+    "Экологические права"
+   ],
+   "uz": [
+    "Shaxsiy huquqlar",
+    "Siyosiy huquqlar",
+    "Iqtisodiy huquqlar",
+    "Ekologik huquqlar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-011",
+  "doc": "ogp-10",
+  "lesson": "8",
+  "q": {
+   "ru": "Какая статья Конституции гарантирует каждому судебную защиту его прав и свобод?",
+   "uz": "Har kimga oʻz huquq va erkinliklarini sud orqali himoya qilishni Konstitutsiyaning qaysi moddasi kafolatlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 55",
+    "Статья 46",
+    "Статья 25",
+    "Статья 18"
+   ],
+   "uz": [
+    "55-modda",
+    "46-modda",
+    "25-modda",
+    "18-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-012",
+  "doc": "ogp-10",
+  "lesson": "8",
+  "q": {
+   "ru": "Какой орган осуществляет надзор за соблюдением прав и свобод граждан и привлекает нарушителей закона к ответственности?",
+   "uz": "Fuqarolar huquq va erkinliklariga rioya etilishi ustidan nazoratni qaysi organ amalga oshiradi va qonunbuzarlarni javobgarlikka tortadi?"
+  },
+  "options": {
+   "ru": [
+    "Прокуратура",
+    "Нотариат",
+    "Органы ЗАГС",
+    "Избирательная комиссия"
+   ],
+   "uz": [
+    "Prokuratura",
+    "Notariat",
+    "FHDYo organlari",
+    "Saylov komissiyasi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-013",
+  "doc": "ogp-10",
+  "lesson": "9",
+  "q": {
+   "ru": "Какая статья Конституции закрепляет: «Право на жизнь является неотъемлемым правом каждого человека»?",
+   "uz": "“Yashash huquqi har bir insonning ajralmas huquqidir” — Konstitutsiyaning qaysi moddasi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 25",
+    "Статья 26",
+    "Статья 55",
+    "Статья 46"
+   ],
+   "uz": [
+    "25-modda",
+    "26-modda",
+    "55-modda",
+    "46-modda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Аналог – статья 3 Всеобщей декларации прав человека.",
+   "uz": "Inson huquqlari umumjahon deklaratsiyasining 3-moddasiga mos keladi."
+  }
+ },
+ {
+  "id": "b10-014",
+  "doc": "ogp-10",
+  "lesson": "10",
+  "q": {
+   "ru": "Семья – это…",
+   "uz": "Oila — bu…"
+  },
+  "options": {
+   "ru": [
+    "социальная группа людей, связанных кровным родством, совместным проживанием, взаимными правами и обязанностями",
+    "любое объединение людей по интересам",
+    "трудовой коллектив",
+    "общественная организация"
+   ],
+   "uz": [
+    "qon-qarindoshlik, birga yashash, oʻzaro huquq va majburiyatlar bilan bogʻlangan ijtimoiy guruh",
+    "manfaatlar boʻyicha har qanday birlashma",
+    "mehnat jamoasi",
+    "jamoat tashkiloti"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-015",
+  "doc": "ogp-10",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Где заключается брак?",
+   "uz": "Nikoh qayerda tuziladi?"
+  },
+  "options": {
+   "ru": [
+    "В органах записи актов гражданского состояния (ЗАГС)",
+    "В органах самоуправления граждан",
+    "У нотариуса",
+    "По религиозному обряду"
+   ],
+   "uz": [
+    "Fuqarolik holati dalolatnomalarini yozish (FHDYo) organlarida",
+    "Fuqarolarning oʻzini oʻzi boshqarish organlarida",
+    "Notariusda",
+    "Diniy marosim boʻyicha"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Брак, заключённый по религиозному обряду, не имеет правового значения.",
+   "uz": "Diniy marosim boʻyicha tuzilgan nikoh huquqiy ahamiyatga ega emas."
+  }
+ },
+ {
+  "id": "b10-016",
+  "doc": "ogp-10",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Через какой срок после подачи заявления регистрируется брак?",
+   "uz": "Ariza berilgandan keyin nikoh qancha vaqtdan soʻng roʻyxatga olinadi?"
+  },
+  "options": {
+   "ru": [
+    "По истечении месяца",
+    "Сразу в день подачи",
+    "Через неделю",
+    "Через три месяца"
+   ],
+   "uz": [
+    "Bir oy oʻtgach",
+    "Ariza berilgan kuni",
+    "Bir haftadan keyin",
+    "Uch oydan keyin"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-017",
+  "doc": "ogp-10",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Какая статья Уголовного кодекса устанавливает ответственность за принуждение женщины к вступлению в брак?",
+   "uz": "Ayolni nikohga kirishga majburlash uchun javobgarlik Jinoyat kodeksining qaysi moddasida belgilangan?"
+  },
+  "options": {
+   "ru": [
+    "Статья 136",
+    "Статья 97",
+    "Статья 15",
+    "Статья 43"
+   ],
+   "uz": [
+    "136-modda",
+    "97-modda",
+    "15-modda",
+    "43-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-018",
+  "doc": "ogp-10",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Брак – это…",
+   "uz": "Nikoh — bu…"
+  },
+  "options": {
+   "ru": [
+    "добровольный союз мужчины и женщины, заключённый на условиях Семейного кодекса и направленный на создание семьи",
+    "любое совместное проживание",
+    "договор между родителями жениха и невесты",
+    "религиозный обряд"
+   ],
+   "uz": [
+    "Oila kodeksida nazarda tutilgan shartlarda tuzilgan, oila qurishga qaratilgan erkak va ayolning ixtiyoriy ittifoqi",
+    "har qanday birga yashash",
+    "kuyov va kelinning ota-onalari oʻrtasidagi shartnoma",
+    "diniy marosim"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-019",
+  "doc": "ogp-10",
+  "lesson": "13",
+  "q": {
+   "ru": "В какой форме составляется брачный договор?",
+   "uz": "Nikoh shartnomasi qanday shaklda tuziladi?"
+  },
+  "options": {
+   "ru": [
+    "В письменной форме с нотариальным удостоверением",
+    "В устной форме",
+    "В письменной форме без удостоверения",
+    "Только в суде"
+   ],
+   "uz": [
+    "Yozma shaklda, notarial tasdiqlangan holda",
+    "Ogʻzaki shaklda",
+    "Tasdiqlanmagan yozma shaklda",
+    "Faqat sudda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-020",
+  "doc": "ogp-10",
+  "lesson": "13",
+  "q": {
+   "ru": "Могут ли личные права супругов быть отменены или ограничены соглашением между ними?",
+   "uz": "Er-xotinning shaxsiy huquqlari ular oʻrtasidagi kelishuv bilan bekor qilinishi yoki cheklanishi mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, брачным договором",
+    "Да, с согласия родителей",
+    "Да, решением махалли"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, nikoh shartnomasi bilan",
+    "Ha, ota-onalar roziligi bilan",
+    "Ha, mahalla qarori bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-021",
+  "doc": "ogp-10",
+  "lesson": "14",
+  "q": {
+   "ru": "Кто считается ребёнком по Закону «О гарантиях прав ребёнка»?",
+   "uz": "“Bola huquqlarining kafolatlari toʻgʻrisida”gi qonunga koʻra kim bola hisoblanadi?"
+  },
+  "options": {
+   "ru": [
+    "Лицо до достижения 18 лет",
+    "Лицо до 14 лет",
+    "Лицо до 16 лет",
+    "Лицо до 21 года"
+   ],
+   "uz": [
+    "18 yoshga toʻlmagan shaxs",
+    "14 yoshga toʻlmagan shaxs",
+    "16 yoshga toʻlmagan shaxs",
+    "21 yoshga toʻlmagan shaxs"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-022",
+  "doc": "ogp-10",
+  "lesson": "14",
+  "q": {
+   "ru": "Когда была принята Конвенция ООН о правах ребёнка?",
+   "uz": "BMTning Bola huquqlari toʻgʻrisidagi konvensiyasi qachon qabul qilingan?"
+  },
+  "options": {
+   "ru": [
+    "20 ноября 1989 года",
+    "10 декабря 1948 года",
+    "24 октября 1945 года",
+    "1 июня 1990 года"
+   ],
+   "uz": [
+    "1989-yil 20-noyabrda",
+    "1948-yil 10-dekabrda",
+    "1945-yil 24-oktabrda",
+    "1990-yil 1-iyunda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-023",
+  "doc": "ogp-10",
+  "lesson": "14",
+  "q": {
+   "ru": "Какой институт был учреждён Указом Президента от 9 августа 2021 года?",
+   "uz": "Prezidentning 2021-yil 9-avgustdagi farmoni bilan qanday institut tashkil etilgan?"
+  },
+  "options": {
+   "ru": [
+    "Уполномоченный Олий Мажлиса по правам ребёнка (детский омбудсман)",
+    "Министерство по делам семьи",
+    "Ювенальный суд",
+    "Агентство по делам молодёжи"
+   ],
+   "uz": [
+    "Oliy Majlisning Bola huquqlari boʻyicha vakili (bolalar ombudsmani)",
+    "Oila ishlari vazirligi",
+    "Voyaga yetmaganlar sudi",
+    "Yoshlar ishlari agentligi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-024",
+  "doc": "ogp-10",
+  "lesson": "15",
+  "q": {
+   "ru": "С какого возраста ребёнок вправе сам предъявить иск о взыскании алиментов с родителя?",
+   "uz": "Bola necha yoshdan boshlab ota-onasidan aliment undirish toʻgʻrisida oʻzi daʼvo qoʻzgʻatishga haqli?"
+  },
+  "options": {
+   "ru": [
+    "С 14 лет",
+    "С 16 лет",
+    "С 18 лет",
+    "С 10 лет"
+   ],
+   "uz": [
+    "14 yoshdan",
+    "16 yoshdan",
+    "18 yoshdan",
+    "10 yoshdan"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Такое право есть и у органов опеки и попечительства.",
+   "uz": "Bunday huquq vasiylik va homiylik organlarida ham bor."
+  }
+ },
+ {
+  "id": "b10-025",
+  "doc": "ogp-10",
+  "lesson": "15",
+  "q": {
+   "ru": "Какая мера вводится к должнику при наличии задолженности по алиментам (Указ от 7 марта 2022 года)?",
+   "uz": "Aliment boʻyicha qarzdorlik boʻlsa, qarzdorga qanday chora qoʻllaniladi (2022-yil 7-martdagi farmon)?"
+  },
+  "options": {
+   "ru": [
+    "Временное ограничение права управлять транспортным средством",
+    "Лишение гражданства",
+    "Конфискация всего имущества",
+    "Запрет на вступление в брак"
+   ],
+   "uz": [
+    "Transport vositasini boshqarish huquqini vaqtincha cheklash",
+    "Fuqarolikdan mahrum qilish",
+    "Butun mol-mulkni musodara qilish",
+    "Nikohdan oʻtishni taqiqlash"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-026",
+  "doc": "ogp-10",
+  "lesson": "17",
+  "q": {
+   "ru": "Какие события порождают гражданские права и обязанности?",
+   "uz": "Qanday hodisalar fuqarolik huquq va majburiyatlarini vujudga keltiradi?"
+  },
+  "options": {
+   "ru": [
+    "Только те, с которыми законодательство связывает гражданско-правовые последствия",
+    "Любые события",
+    "Только действия граждан",
+    "Только решения суда"
+   ],
+   "uz": [
+    "Faqat qonunchilik fuqarolik-huquqiy oqibatlarni bogʻlaydigan hodisalar",
+    "Har qanday hodisalar",
+    "Faqat fuqarolarning harakatlari",
+    "Faqat sud qarorlari"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Статья 8 Гражданского кодекса.",
+   "uz": "Fuqarolik kodeksining 8-moddasi."
+  }
+ },
+ {
+  "id": "b10-027",
+  "doc": "ogp-10",
+  "lesson": "18–19",
+  "q": {
+   "ru": "Какая статья Гражданского кодекса определяет содержание правоспособности граждан?",
+   "uz": "Fuqarolarning huquq layoqati mazmunini Fuqarolik kodeksining qaysi moddasi belgilaydi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 18",
+    "Статья 27",
+    "Статья 8",
+    "Статья 100"
+   ],
+   "uz": [
+    "18-modda",
+    "27-modda",
+    "8-modda",
+    "100-modda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Иметь имущество, наследовать, заниматься предпринимательством, совершать сделки и т. д.",
+   "uz": "Mulkka ega boʻlish, meros olish, tadbirkorlik bilan shugʻullanish, bitimlar tuzish va boshqalar."
+  }
+ },
+ {
+  "id": "b10-028",
+  "doc": "ogp-10",
+  "lesson": "18–19",
+  "q": {
+   "ru": "При каком условии может быть создано юридическое лицо?",
+   "uz": "Yuridik shaxs qanday shartda tuzilishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "Согласно закону и при условии государственной регистрации",
+    "По решению учредителей без регистрации",
+    "Только по решению хокима",
+    "Только с разрешения Президента"
+   ],
+   "uz": [
+    "Qonunga muvofiq va davlat roʻyxatidan oʻtkazilgan holda",
+    "Muassislar qarori bilan, roʻyxatdan oʻtmasdan",
+    "Faqat hokim qarori bilan",
+    "Faqat Prezident ruxsati bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-029",
+  "doc": "ogp-10",
+  "lesson": "18–19",
+  "q": {
+   "ru": "На каких основаниях государство участвует в гражданско-правовых отношениях?",
+   "uz": "Davlat fuqarolik-huquqiy munosabatlarda qanday asosda ishtirok etadi?"
+  },
+  "options": {
+   "ru": [
+    "На равных основаниях с другими участниками",
+    "С особыми привилегиями",
+    "Не участвует вовсе",
+    "Только как контролёр"
+   ],
+   "uz": [
+    "Boshqa ishtirokchilar bilan teng asosda",
+    "Alohida imtiyozlar bilan",
+    "Umuman ishtirok etmaydi",
+    "Faqat nazoratchi sifatida"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-030",
+  "doc": "ogp-10",
+  "lesson": "20",
+  "q": {
+   "ru": "Какие правомочия есть у собственника?",
+   "uz": "Mulkdor qanday vakolatlarga ega?"
+  },
+  "options": {
+   "ru": [
+    "Владение, пользование и распоряжение",
+    "Только владение",
+    "Только пользование",
+    "Владение и наследование"
+   ],
+   "uz": [
+    "Egalik qilish, foydalanish va tasarruf etish",
+    "Faqat egalik qilish",
+    "Faqat foydalanish",
+    "Egalik qilish va meros qilish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-031",
+  "doc": "ogp-10",
+  "lesson": "20",
+  "q": {
+   "ru": "Ограничено ли количество и стоимость имущества в частной собственности?",
+   "uz": "Xususiy mulkdagi mol-mulk miqdori va qiymati cheklanganmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, законом",
+    "Да, решением хокима",
+    "Да, не более одного дома"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, qonun bilan",
+    "Ha, hokim qarori bilan",
+    "Ha, bitta uydan ortiq emas"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Частная собственность неприкосновенна.",
+   "uz": "Xususiy mulk daxlsizdir."
+  }
+ },
+ {
+  "id": "b10-032",
+  "doc": "ogp-10",
+  "lesson": "21",
+  "q": {
+   "ru": "Денежная сумма, которую должник обязан уплатить кредитору при неисполнении обязательства, называется…",
+   "uz": "Majburiyat bajarilmaganda qarzdor kreditorga toʻlashi shart boʻlgan pul summasi qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "неустойкой",
+    "залогом",
+    "задатком",
+    "поручительством"
+   ],
+   "uz": [
+    "Neustoyka",
+    "Garov",
+    "Zakalat",
+    "Kafillik"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Неустойка выступает в форме штрафа или пени.",
+   "uz": "Neustoyka jarima yoki penya shaklida boʻladi."
+  }
+ },
+ {
+  "id": "b10-033",
+  "doc": "ogp-10",
+  "lesson": "21",
+  "q": {
+   "ru": "Передача одним лицом другому имущества под обеспечение обязательства – это…",
+   "uz": "Bir shaxsning boshqasiga majburiyatni taʼminlash uchun mol-mulk berishi — bu…"
+  },
+  "options": {
+   "ru": [
+    "залог",
+    "неустойка",
+    "поручительство",
+    "гарантия"
+   ],
+   "uz": [
+    "garov",
+    "neustoyka",
+    "kafillik",
+    "kafolat"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-034",
+  "doc": "ogp-10",
+  "lesson": "21",
+  "q": {
+   "ru": "В какой главе Гражданского кодекса закреплены способы обеспечения исполнения обязательств?",
+   "uz": "Majburiyatlar bajarilishini taʼminlash usullari Fuqarolik kodeksining qaysi bobida mustahkamlangan?"
+  },
+  "options": {
+   "ru": [
+    "Глава 21",
+    "Глава 8",
+    "Глава 1",
+    "Глава 30"
+   ],
+   "uz": [
+    "21-bob",
+    "8-bob",
+    "1-bob",
+    "30-bob"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Неустойка, залог, удержание, поручительство, гарантия, задаток.",
+   "uz": "Neustoyka, garov, ushlab qolish, kafillik, kafolat, zakalat."
+  }
+ },
+ {
+  "id": "b10-035",
+  "doc": "ogp-10",
+  "lesson": "21",
+  "q": {
+   "ru": "На какие две группы делятся обязательства по основанию возникновения?",
+   "uz": "Majburiyatlar vujudga kelish asosiga koʻra qanday ikki guruhga boʻlinadi?"
+  },
+  "options": {
+   "ru": [
+    "Договорные и внедоговорные",
+    "Личные и имущественные",
+    "Материальные и процессуальные",
+    "Срочные и бессрочные"
+   ],
+   "uz": [
+    "Shartnomaviy va shartnomadan tashqari",
+    "Shaxsiy va mulkiy",
+    "Moddiy va protsessual",
+    "Muddatli va muddatsiz"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-036",
+  "doc": "ogp-10",
+  "lesson": "23",
+  "q": {
+   "ru": "Кто такой потребитель?",
+   "uz": "Isteʼmolchi kim?"
+  },
+  "options": {
+   "ru": [
+    "Гражданин, приобретающий товар или услугу для личных нужд, не связанных с извлечением прибыли",
+    "Любой покупатель, включая перепродавцов",
+    "Производитель товара",
+    "Продавец в магазине"
+   ],
+   "uz": [
+    "Tovar yoki xizmatni foyda olish bilan bogʻliq boʻlmagan shaxsiy ehtiyojlari uchun sotib oluvchi fuqaro",
+    "Har qanday xaridor, shu jumladan qayta sotuvchi",
+    "Tovar ishlab chiqaruvchi",
+    "Doʻkondagi sotuvchi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-037",
+  "doc": "ogp-10",
+  "lesson": "23",
+  "q": {
+   "ru": "Куда может обратиться потребитель в случае нарушения его прав?",
+   "uz": "Huquqlari buzilganda isteʼmolchi qayerga murojaat qilishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "В суд",
+    "Только к продавцу",
+    "Только в махаллю",
+    "Никуда"
+   ],
+   "uz": [
+    "Sudga",
+    "Faqat sotuvchiga",
+    "Faqat mahallaga",
+    "Hech qayerga"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-038",
+  "doc": "ogp-10",
+  "lesson": "24",
+  "q": {
+   "ru": "Когда Узбекистан присоединился к Всемирной организации интеллектуальной собственности?",
+   "uz": "Oʻzbekiston Butunjahon intellektual mulk tashkilotiga qachon qoʻshilgan?"
+  },
+  "options": {
+   "ru": [
+    "25 декабря 1991 года",
+    "1 сентября 1991 года",
+    "2 марта 1992 года",
+    "8 декабря 1992 года"
+   ],
+   "uz": [
+    "1991-yil 25-dekabrda",
+    "1991-yil 1-sentabrda",
+    "1992-yil 2-martda",
+    "1992-yil 8-dekabrda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "С 1993 года – и к Парижской конвенции по охране промышленной собственности.",
+   "uz": "1993-yildan — Sanoat mulkini muhofaza qilish toʻgʻrisidagi Parij konvensiyasiga ham."
+  }
+ },
+ {
+  "id": "b10-039",
+  "doc": "ogp-10",
+  "lesson": "24",
+  "q": {
+   "ru": "В каком году термин «интеллектуальная собственность» впервые введён в оборот Конвенцией об учреждении ВОИС?",
+   "uz": "“Intellektual mulk” atamasi ilk bor qaysi yili BIMTni taʼsis etish toʻgʻrisidagi konvensiyada qoʻllanilgan?"
+  },
+  "options": {
+   "ru": [
+    "1967",
+    "1883",
+    "1991",
+    "1948"
+   ],
+   "uz": [
+    "1967",
+    "1883",
+    "1991",
+    "1948"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-040",
+  "doc": "ogp-10",
+  "lesson": "25",
+  "q": {
+   "ru": "Что такое правопреемство?",
+   "uz": "Huquqiy vorislik nima?"
+  },
+  "options": {
+   "ru": [
+    "Переход прав и обязанностей одного субъекта к другому",
+    "Отказ от наследства",
+    "Утрата гражданства",
+    "Заключение брачного договора"
+   ],
+   "uz": [
+    "Bir subyektning huquq va majburiyatlarining boshqasiga oʻtishi",
+    "Merosdan voz kechish",
+    "Fuqarolikni yoʻqotish",
+    "Nikoh shartnomasini tuzish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-041",
+  "doc": "ogp-10",
+  "lesson": "25",
+  "q": {
+   "ru": "На каких основаниях имущество умершего переходит к наследникам?",
+   "uz": "Vafot etgan shaxsning mol-mulki merosxoʻrlarga qanday asoslarda oʻtadi?"
+  },
+  "options": {
+   "ru": [
+    "По завещанию и по закону",
+    "Только по решению суда",
+    "Только по решению махалли",
+    "Только по завещанию"
+   ],
+   "uz": [
+    "Vasiyatnoma va qonun boʻyicha",
+    "Faqat sud qarori bilan",
+    "Faqat mahalla qarori bilan",
+    "Faqat vasiyatnoma boʻyicha"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-042",
+  "doc": "ogp-10",
+  "lesson": "27",
+  "q": {
+   "ru": "Суверенитет – это…",
+   "uz": "Suverenitet — bu…"
+  },
+  "options": {
+   "ru": [
+    "независимость государства во внутренних и внешних делах",
+    "членство государства в ООН",
+    "форма правления",
+    "территория государства"
+   ],
+   "uz": [
+    "davlatning ichki va tashqi ishlardagi mustaqilligi",
+    "davlatning BMTga aʼzoligi",
+    "boshqaruv shakli",
+    "davlat hududi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-043",
+  "doc": "ogp-10",
+  "lesson": "28",
+  "q": {
+   "ru": "Кто считается одним из основоположников международного права, автором труда «О праве войны и мира»?",
+   "uz": "Xalqaro huquq asoschilaridan biri, “Urush va tinchlik huquqi toʻgʻrisida” asarining muallifi kim?"
+  },
+  "options": {
+   "ru": [
+    "Гуго Гроций",
+    "Шарль Монтескьё",
+    "Жан-Жак Руссо",
+    "Джон Локк"
+   ],
+   "uz": [
+    "Gugo Grotsiy",
+    "Sharl Monteskyo",
+    "Jan-Jak Russo",
+    "Jon Lokk"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-044",
+  "doc": "ogp-10",
+  "lesson": "28",
+  "q": {
+   "ru": "Какая конвенция регулирует отношения по заключению и исполнению международных договоров?",
+   "uz": "Xalqaro shartnomalarni tuzish va bajarish bilan bogʻliq munosabatlarni qaysi konvensiya tartibga soladi?"
+  },
+  "options": {
+   "ru": [
+    "Венская конвенция о праве международных договоров 1969 года",
+    "Парижская конвенция 1883 года",
+    "Конвенция о правах ребёнка 1989 года",
+    "Женевская конвенция 1949 года"
+   ],
+   "uz": [
+    "1969-yilgi Xalqaro shartnomalar huquqi toʻgʻrisidagi Vena konvensiyasi",
+    "1883-yilgi Parij konvensiyasi",
+    "1989-yilgi Bola huquqlari toʻgʻrisidagi konvensiya",
+    "1949-yilgi Jeneva konvensiyasi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-045",
+  "doc": "ogp-10",
+  "lesson": "29",
+  "q": {
+   "ru": "Когда была создана Организация Объединённых Наций?",
+   "uz": "Birlashgan Millatlar Tashkiloti qachon tashkil topgan?"
+  },
+  "options": {
+   "ru": [
+    "24 октября 1945 года",
+    "10 декабря 1948 года",
+    "1 января 1942 года",
+    "8 декабря 1991 года"
+   ],
+   "uz": [
+    "1945-yil 24-oktabrda",
+    "1948-yil 10-dekabrda",
+    "1942-yil 1-yanvarda",
+    "1991-yil 8-dekabrda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "Устав ООН был принят в Сан-Франциско представителями 51 страны.",
+   "uz": "BMT Nizomi San-Fransiskoda 51 davlat vakillari tomonidan qabul qilingan."
+  }
+ },
+ {
+  "id": "b10-046",
+  "doc": "ogp-10",
+  "lesson": "29",
+  "q": {
+   "ru": "Сколько государств сегодня являются членами ООН?",
+   "uz": "Bugungi kunda BMTga nechta davlat aʼzo?"
+  },
+  "options": {
+   "ru": [
+    "193",
+    "51",
+    "150",
+    "200"
+   ],
+   "uz": [
+    "193",
+    "51",
+    "150",
+    "200"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-047",
+  "doc": "ogp-10",
+  "lesson": "29",
+  "q": {
+   "ru": "Какая статья Устава ООН допускает применение силы для самообороны?",
+   "uz": "BMT Nizomining qaysi moddasi oʻzini oʻzi himoya qilish uchun kuch ishlatishga yoʻl qoʻyadi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 51",
+    "Статья 1",
+    "Статья 2",
+    "Статья 99"
+   ],
+   "uz": [
+    "51-modda",
+    "1-modda",
+    "2-modda",
+    "99-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-048",
+  "doc": "ogp-10",
+  "lesson": "30",
+  "q": {
+   "ru": "Что означает право вето в Совете Безопасности ООН?",
+   "uz": "BMT Xavfsizlik Kengashidagi veto huquqi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "Постоянный член может проголосовать против и заблокировать резолюцию",
+    "Любой член ООН может отменить решение",
+    "Генеральный секретарь может распустить Совет",
+    "Совет может исключить государство из ООН"
+   ],
+   "uz": [
+    "Doimiy aʼzo qarshi ovoz berib, rezolyutsiyani toʻsib qoʻyishi mumkin",
+    "BMTning har qanday aʼzosi qarorni bekor qilishi mumkin",
+    "Bosh kotib Kengashni tarqatib yuborishi mumkin",
+    "Kengash davlatni BMTdan chiqarishi mumkin"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-049",
+  "doc": "ogp-10",
+  "lesson": "30",
+  "q": {
+   "ru": "Сколько постоянных членов в Совете Безопасности ООН?",
+   "uz": "BMT Xavfsizlik Kengashida nechta doimiy aʼzo bor?"
+  },
+  "options": {
+   "ru": [
+    "5",
+    "10",
+    "15",
+    "3"
+   ],
+   "uz": [
+    "5",
+    "10",
+    "15",
+    "3"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-050",
+  "doc": "ogp-10",
+  "lesson": "31",
+  "q": {
+   "ru": "Когда Узбекистан стал членом СНГ?",
+   "uz": "Oʻzbekiston MDHga qachon aʼzo boʻlgan?"
+  },
+  "options": {
+   "ru": [
+    "21 декабря 1991 года",
+    "8 декабря 1991 года",
+    "2 марта 1992 года",
+    "31 августа 1991 года"
+   ],
+   "uz": [
+    "1991-yil 21-dekabrda",
+    "1991-yil 8-dekabrda",
+    "1992-yil 2-martda",
+    "1991-yil 31-avgustda"
+   ]
+  },
+  "answer": 0,
+  "explain": {
+   "ru": "СНГ было создано 8 декабря 1991 года.",
+   "uz": "MDH 1991-yil 8-dekabrda tuzilgan."
+  }
+ },
+ {
+  "id": "b10-051",
+  "doc": "ogp-10",
+  "lesson": "31",
+  "q": {
+   "ru": "Какая статья Конституции закрепляет, что Узбекистан – полноправный субъект международных отношений?",
+   "uz": "Oʻzbekiston xalqaro munosabatlarning toʻla huquqli subyekti ekanligi Konstitutsiyaning qaysi moddasida mustahkamlangan?"
+  },
+  "options": {
+   "ru": [
+    "Статья 17",
+    "Статья 18",
+    "Статья 22",
+    "Статья 1"
+   ],
+   "uz": [
+    "17-modda",
+    "18-modda",
+    "22-modda",
+    "1-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-052",
+  "doc": "ogp-10",
+  "lesson": "32",
+  "q": {
+   "ru": "На какие два вида делятся основания прекращения гражданства по закону?",
+   "uz": "Qonunga koʻra fuqarolikni tugatish asoslari qanday ikki turga boʻlinadi?"
+  },
+  "options": {
+   "ru": [
+    "Выход из гражданства и утрата гражданства",
+    "Лишение и восстановление",
+    "Отказ и приём",
+    "Регистрация и аннулирование"
+   ],
+   "uz": [
+    "Fuqarolikdan chiqish va fuqarolikni yoʻqotish",
+    "Mahrum qilish va tiklash",
+    "Rad etish va qabul qilish",
+    "Roʻyxatga olish va bekor qilish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-053",
+  "doc": "ogp-10",
+  "lesson": "33",
+  "q": {
+   "ru": "Дипломатическая защита – это…",
+   "uz": "Diplomatik himoya — bu…"
+  },
+  "options": {
+   "ru": [
+    "защита государством прав своих граждан дипломатическими средствами в отношении государства-нарушителя",
+    "охрана посольства",
+    "защита дипломатов от уголовного преследования",
+    "выдача визы"
+   ],
+   "uz": [
+    "davlatning oʻz fuqarolari huquqlarini huquqni buzgan davlatga nisbatan diplomatik vositalar bilan himoya qilishi",
+    "elchixonani qoʻriqlash",
+    "diplomatlarni jinoiy taʼqibdan himoya qilish",
+    "viza berish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-054",
+  "doc": "ogp-10",
+  "lesson": "33",
+  "q": {
+   "ru": "Куда следует обратиться гражданину Узбекистана, если его права нарушены за границей?",
+   "uz": "Chet elda huquqlari buzilgan Oʻzbekiston fuqarosi qayerga murojaat qilishi kerak?"
+  },
+  "options": {
+   "ru": [
+    "В посольство или консульство Узбекистана в этой стране",
+    "В хокимият своей области",
+    "В махаллю по месту жительства",
+    "В Конституционный суд"
+   ],
+   "uz": [
+    "Shu davlatdagi Oʻzbekiston elchixonasi yoki konsulligiga",
+    "Oʻz viloyati hokimligiga",
+    "Yashash joyidagi mahallaga",
+    "Konstitutsiyaviy sudga"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-055",
+  "doc": "ogp-10",
+  "lesson": "34",
+  "q": {
+   "ru": "Когда Узбекистан стал членом ООН?",
+   "uz": "Oʻzbekiston BMTga qachon aʼzo boʻlgan?"
+  },
+  "options": {
+   "ru": [
+    "2 марта 1992 года",
+    "21 декабря 1991 года",
+    "24 октября 1945 года",
+    "31 августа 1991 года"
+   ],
+   "uz": [
+    "1992-yil 2-martda",
+    "1991-yil 21-dekabrda",
+    "1945-yil 24-oktabrda",
+    "1991-yil 31-avgustda"
+   ]
+  },
+  "answer": 0
+ }
+]
