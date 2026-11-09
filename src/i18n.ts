@@ -149,6 +149,23 @@ const dict = {
   goalsToday: { uz: 'Bugungi vazifalar', ru: 'Задачи на сегодня' },
   overall: { uz: 'Umumiy progress', ru: 'Общий прогресс' },
   fetched: { uz: 'lex.uz dan olingan', ru: 'загружено с lex.uz' },
+  updateAvailable: { uz: 'Ilovaning yangi versiyasi chiqdi', ru: 'Доступна новая версия приложения' },
+  updateHint: {
+    uz: 'Yuklab oling va oʻrnating — progressingiz saqlanib qoladi.',
+    ru: 'Скачайте и установите поверх — ваш прогресс сохранится.',
+  },
+  updateDownload: { uz: 'Yuklab olish', ru: 'Скачать' },
+  updateLater: { uz: 'Keyinroq', ru: 'Позже' },
+  appSection: { uz: 'Ilova', ru: 'Приложение' },
+  version: { uz: 'Versiya', ru: 'Версия' },
+  checkUpdates: { uz: 'Yangilanishni tekshirish', ru: 'Проверить обновления' },
+  upToDate: { uz: 'Sizda eng soʻnggi versiya', ru: 'У вас последняя версия' },
+  checkFailed: { uz: 'Tekshirib boʻlmadi — internetni tekshiring', ru: 'Не удалось проверить — проверьте интернет' },
+  getAndroid: { uz: 'Android uchun ilovani yuklab olish', ru: 'Скачать приложение для Android' },
+  getAndroidHint: {
+    uz: 'Ilova internetsiz ishlaydi: barcha qonunlar, darsliklar va testlar telefonda saqlanadi.',
+    ru: 'Приложение работает без интернета: все законы, учебники и тесты хранятся в телефоне.',
+  },
 } satisfies Record<string, L10n>;
 
 export type Key = keyof typeof dict;

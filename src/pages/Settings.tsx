@@ -2,6 +2,7 @@ import { useRef, useState } from 'react';
 import { useStore, setState, getState, replaceState, resetState } from '../store';
 import { useT } from '../i18n';
 import type { Lang, Role } from '../types';
+import { APK_URL, BUILD, checkUpdate, downloadApk, isNative } from '../update';
 
 export default function Settings() {
   const { t } = useT();
@@ -77,6 +78,54 @@ export default function Settings() {
           {t('reset')}
         </button>
       </div>
+      <AppSection />
     </div>
+  );
+}
+
+function AppSection() {
+  const { t } = useT();
+  const [state, setStateMsg] = useState<'idle' | 'checking' | 'new' | 'ok' | 'fail'>('idle');
+  if (!isNative()) {
+    // сайт: ссылка на Android-приложение
+    return (
+      <>
+        <h2>{t('appSection')}</h2>
+        <div className="card form get-app">
+          <p className="muted small">{t('getAndroidHint')}</p>
+          <a className="btn primary" href={APK_URL}>
+            ⬇ {t('getAndroid')}
+          </a>
+        </div>
+      </>
+    );
+  }
+  const check = async () => {
+    setStateMsg('checking');
+    if (!navigator.onLine) return setStateMsg('fail');
+    const r = await checkUpdate(true);
+    setStateMsg(r ? 'new' : navigator.onLine ? 'ok' : 'fail');
+  };
+  return (
+    <>
+      <h2>{t('appSection')}</h2>
+      <div className="card form get-app">
+        <span className="muted small">
+          {t('version')} 1.0.{BUILD}
+        </span>
+        {state === 'new' ? (
+          <button className="btn primary" onClick={downloadApk}>
+            ⬇ {t('updateDownload')}
+          </button>
+        ) : (
+          <button className="btn" onClick={check} disabled={state === 'checking'}>
+            ↻ {t('checkUpdates')}
+          </button>
+        )}
+        {state === 'ok' && <div className="notice">{t('upToDate')}</div>}
+        {state === 'fail' && <div className="notice">{t('checkFailed')}</div>}
+        {state === 'new' && <div className="notice">{t('updateAvailable')}</div>}
+      </div>
+    </>
   );
 }

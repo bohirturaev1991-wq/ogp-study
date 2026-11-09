@@ -1,4 +1,5 @@
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
+import { APK_URL, checkUpdate, downloadApk, isAndroidBrowser } from './update';
 import { useRoute, href } from './router';
 import { useStore, setState } from './store';
 import { useT, type Key } from './i18n';
@@ -88,7 +89,75 @@ export default function App() {
           </a>
         ))}
       </nav>
-      <main className="content">{body}</main>
+      <main className="content">
+        <UpdateBanner />
+        {body}
+      </main>
+    </div>
+  );
+}
+
+/** Плашка «Доступна новая версия» — только в Android-приложении и только при наличии интернета. */
+function UpdateBanner() {
+  const { t } = useT();
+  const [latest, setLatest] = useState<number | null>(null);
+  const [hidden, setHidden] = useState(false);
+  useEffect(() => {
+    const run = () => checkUpdate().then(setLatest);
+    run();
+    window.addEventListener('online', run);
+    return () => window.removeEventListener('online', run);
+  }, []);
+  // сайт, открытый на Android: предлагаем установить приложение (можно скрыть)
+  const [webHidden, setWebHidden] = useState(() => {
+    try {
+      return !!localStorage.getItem('ogp:getapp-hidden');
+    } catch {
+      return false;
+    }
+  });
+  if (isAndroidBrowser() && !webHidden)
+    return (
+      <div className="update-banner" role="status">
+        <div>
+          <strong>{t('getAndroid')}</strong>
+          <div className="small">{t('getAndroidHint')}</div>
+        </div>
+        <div className="row">
+          <a className="btn primary" href={APK_URL}>
+            ⬇ {t('updateDownload')}
+          </a>
+          <button
+            className="btn ghost"
+            onClick={() => {
+              try {
+                localStorage.setItem('ogp:getapp-hidden', '1');
+              } catch {
+                /* ignore */
+              }
+              setWebHidden(true);
+            }}
+          >
+            ✕
+          </button>
+        </div>
+      </div>
+    );
+  if (!latest || hidden) return null;
+  return (
+    <div className="update-banner" role="status">
+      <div>
+        <strong>{t('updateAvailable')}</strong>
+        <div className="small">{t('updateHint')}</div>
+      </div>
+      <div className="row">
+        <button className="btn primary" onClick={downloadApk}>
+          ⬇ {t('updateDownload')}
+        </button>
+        <button className="btn ghost" onClick={() => setHidden(true)}>
+          {t('updateLater')}
+        </button>
+      </div>
     </div>
   );
 }

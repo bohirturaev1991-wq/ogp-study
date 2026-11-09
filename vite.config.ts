@@ -4,6 +4,8 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig({
   base: './',
+  // номер сборки GitHub Actions — для проверки обновлений Android-приложения
+  define: { __BUILD__: JSON.stringify(process.env.GITHUB_RUN_NUMBER || '0') },
   plugins: [
     react(),
     VitePWA({

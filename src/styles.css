@@ -1113,3 +1113,23 @@ textarea:focus,
 .modal-head h3 {
   margin: 0;
 }
+
+/* ---------- обновление приложения ---------- */
+.update-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding: 12px 14px;
+  border-radius: 12px;
+  background: var(--primary-soft, #e8f0fa);
+  border: 1px solid var(--primary, #0b5394);
+  color: var(--text);
+}
+.get-app {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
