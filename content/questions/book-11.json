@@ -1190,5 +1190,317 @@
    ]
   },
   "answer": 0
+ },
+ {
+  "id": "b11-x001",
+  "doc": "ogp-11",
+  "lesson": "2",
+  "q": {
+   "ru": "Кто считается безработным?",
+   "uz": "Kim ishsiz hisoblanadi?"
+  },
+  "options": {
+   "ru": [
+    "Лица от 16 лет до пенсионного возраста без работы и заработка, зарегистрированные в органах труда",
+    "Любые лица без работы",
+    "Только выпускники вузов",
+    "Пенсионеры"
+   ],
+   "uz": [
+    "16 yoshdan pensiya yoshigacha boʻlgan, ishi va daromadi yoʻq, mehnat organlarida roʻyxatdan oʻtgan shaxslar",
+    "Ishi yoʻq har qanday shaxs",
+    "Faqat oliygoh bitiruvchilari",
+    "Pensionerlar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x002",
+  "doc": "ogp-11",
+  "lesson": "2",
+  "q": {
+   "ru": "Что такое моноцентры «Ishga marhamat»?",
+   "uz": "“Ishga marhamat” monomarkazlari nima?"
+  },
+  "options": {
+   "ru": [
+    "Учреждения, обучающие профессиям и помогающие трудоустроиться",
+    "Налоговые инспекции",
+    "Частные банки",
+    "Суды по трудовым спорам"
+   ],
+   "uz": [
+    "Kasbga oʻqitadigan va ishga joylashishga yordam beradigan muassasalar",
+    "Soliq inspeksiyalari",
+    "Xususiy banklar",
+    "Mehnat nizolari sudlari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x003",
+  "doc": "ogp-11",
+  "lesson": "5",
+  "q": {
+   "ru": "В какой валюте выплачивается заработная плата?",
+   "uz": "Ish haqi qaysi valyutada toʻlanadi?"
+  },
+  "options": {
+   "ru": [
+    "В национальной валюте (сумах)",
+    "В любой валюте по желанию работодателя",
+    "Только в долларах",
+    "Расписками"
+   ],
+   "uz": [
+    "Milliy valyutada (soʻmda)",
+    "Ish beruvchi xohlagan valyutada",
+    "Faqat dollarda",
+    "Tilxatlar bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x004",
+  "doc": "ogp-11",
+  "lesson": "5",
+  "q": {
+   "ru": "Для кого обязателен минимальный размер оплаты труда?",
+   "uz": "Mehnatga haq toʻlashning eng kam miqdori kimlar uchun majburiy?"
+  },
+  "options": {
+   "ru": [
+    "Для всех работодателей независимо от формы собственности",
+    "Только для государственных организаций",
+    "Только для крупных компаний",
+    "Только для иностранных фирм"
+   ],
+   "uz": [
+    "Mulk shaklidan qatʼi nazar barcha ish beruvchilar uchun",
+    "Faqat davlat tashkilotlari uchun",
+    "Faqat yirik kompaniyalar uchun",
+    "Faqat chet el firmalari uchun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x005",
+  "doc": "ogp-11",
+  "lesson": "7",
+  "q": {
+   "ru": "Сколько дней «родительского отпуска» предоставляется семье в Швеции (пример из учебника)?",
+   "uz": "Shvetsiyada oilaga necha kunlik “ota-ona taʼtili” beriladi (darslikdagi misol)?"
+  },
+  "options": {
+   "ru": [
+    "480",
+    "120",
+    "365",
+    "90"
+   ],
+   "uz": [
+    "480",
+    "120",
+    "365",
+    "90"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x006",
+  "doc": "ogp-11",
+  "lesson": "8",
+  "q": {
+   "ru": "Обязан ли работодатель возместить вред здоровью работника, полученный при исполнении трудовых обязанностей?",
+   "uz": "Ish beruvchi xodimning mehnat vazifalarini bajarishda sogʻligʻiga yetkazilgan zararni qoplashi shartmi?"
+  },
+  "options": {
+   "ru": [
+    "Да",
+    "Нет",
+    "Только при согласии профсоюза",
+    "Только если работник застрахован"
+   ],
+   "uz": [
+    "Ha",
+    "Yoʻq",
+    "Faqat kasaba uyushmasi roziligi bilan",
+    "Faqat xodim sugʻurtalangan boʻlsa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x007",
+  "doc": "ogp-11",
+  "lesson": "11",
+  "q": {
+   "ru": "Какой бонус даётся при получении платных госуслуг онлайн?",
+   "uz": "Pullik davlat xizmatlarini onlayn olishda qanday imtiyoz beriladi?"
+  },
+  "options": {
+   "ru": [
+    "Скидка",
+    "Бесплатная доставка паспорта",
+    "Ничего",
+    "Двойная стоимость"
+   ],
+   "uz": [
+    "Chegirma",
+    "Pasportni bepul yetkazish",
+    "Hech narsa",
+    "Ikki baravar narx"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x008",
+  "doc": "ogp-11",
+  "lesson": "15",
+  "q": {
+   "ru": "В каком году вступил в силу Закон «О профилактике правонарушений»?",
+   "uz": "“Huquqbuzarliklar profilaktikasi toʻgʻrisida”gi qonun qaysi yili kuchga kirgan?"
+  },
+  "options": {
+   "ru": [
+    "2014",
+    "2004",
+    "2020",
+    "1995"
+   ],
+   "uz": [
+    "2014",
+    "2004",
+    "2020",
+    "1995"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x009",
+  "doc": "ogp-11",
+  "lesson": "18",
+  "q": {
+   "ru": "Что определяет вид, размер и продолжительность наказания?",
+   "uz": "Jazoning turi, miqdori va muddatini nima belgilaydi?"
+  },
+  "options": {
+   "ru": [
+    "Тяжесть преступления, виновность лица и обстоятельства совершения",
+    "Желание потерпевшего",
+    "Решение махалли",
+    "Возраст судьи"
+   ],
+   "uz": [
+    "Jinoyatning ogʻirligi, shaxsning aybdorligi va sodir etilish holatlari",
+    "Jabrlanuvchining xohishi",
+    "Mahalla qarori",
+    "Sudyaning yoshi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x010",
+  "doc": "ogp-11",
+  "lesson": "23",
+  "q": {
+   "ru": "Что из перечисленного отнесено к преступлениям против мира и безопасности?",
+   "uz": "Quyidagilardan qaysi biri tinchlik va xavfsizlikka qarshi jinoyatlarga kiradi?"
+  },
+  "options": {
+   "ru": [
+    "Шпионаж",
+    "Кража",
+    "Неуплата алиментов",
+    "Оскорбление"
+   ],
+   "uz": [
+    "Josuslik",
+    "Oʻgʻrilik",
+    "Aliment toʻlamaslik",
+    "Haqorat"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x011",
+  "doc": "ogp-11",
+  "lesson": "25",
+  "q": {
+   "ru": "Что из перечисленного является преступлением против порядка управления?",
+   "uz": "Quyidagilardan qaysi biri boshqaruv tartibiga qarshi jinoyat?"
+  },
+  "options": {
+   "ru": [
+    "Получение взятки",
+    "Разбой",
+    "Терроризм",
+    "Незаконная охота"
+   ],
+   "uz": [
+    "Pora olish",
+    "Bosqinchilik",
+    "Terrorizm",
+    "Noqonuniy ov"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x012",
+  "doc": "ogp-11",
+  "lesson": "25",
+  "q": {
+   "ru": "Является ли преступлением посредничество во взяточничестве?",
+   "uz": "Poraxoʻrlikda vositachilik qilish jinoyatmi?"
+  },
+  "options": {
+   "ru": [
+    "Да",
+    "Нет",
+    "Только если сумма крупная",
+    "Только для госслужащих"
+   ],
+   "uz": [
+    "Ha",
+    "Yoʻq",
+    "Faqat summa katta boʻlsa",
+    "Faqat davlat xizmatchilari uchun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b11-x013",
+  "doc": "ogp-11",
+  "lesson": "30–31",
+  "q": {
+   "ru": "Чем выражается гражданско-правовая ответственность за экологическое правонарушение?",
+   "uz": "Ekologik huquqbuzarlik uchun fuqarolik-huquqiy javobgarlik nimada ifodalanadi?"
+  },
+  "options": {
+   "ru": [
+    "Возмещением материального или морального ущерба",
+    "Лишением свободы",
+    "Выговором",
+    "Лишением гражданства"
+   ],
+   "uz": [
+    "Moddiy yoki maʼnaviy zararni qoplashda",
+    "Ozodlikdan mahrum qilishda",
+    "Hayfsanda",
+    "Fuqarolikdan mahrum qilishda"
+   ]
+  },
+  "answer": 0
  }
 ]

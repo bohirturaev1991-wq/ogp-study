@@ -1734,5 +1734,341 @@
    ]
   },
   "answer": 0
+ },
+ {
+  "id": "b8-x001",
+  "doc": "ogp-8",
+  "lesson": "6",
+  "q": {
+   "ru": "Внутренние функции государства направлены на…",
+   "uz": "Davlatning ichki funksiyalari nimaga qaratilgan?"
+  },
+  "options": {
+   "ru": [
+    "выполнение внутренних задач и руководство жизнью общества",
+    "решение задач внешней политики",
+    "защиту от внешних угроз",
+    "участие в международных организациях"
+   ],
+   "uz": [
+    "ichki vazifalarni bajarish va jamiyat hayotiga rahbarlik qilishga",
+    "tashqi siyosat vazifalarini hal qilishga",
+    "tashqi tahdidlardan himoyalanishga",
+    "xalqaro tashkilotlarda ishtirok etishga"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x002",
+  "doc": "ogp-8",
+  "lesson": "6",
+  "q": {
+   "ru": "Внешние функции государства связаны с…",
+   "uz": "Davlatning tashqi funksiyalari nima bilan bogʻliq?"
+  },
+  "options": {
+   "ru": [
+    "решением задач внешней политики как субъекта международных отношений",
+    "сбором налогов",
+    "охраной общественного порядка",
+    "развитием образования внутри страны"
+   ],
+   "uz": [
+    "xalqaro munosabatlar subyekti sifatida tashqi siyosat vazifalarini hal qilish bilan",
+    "soliq yigʻish bilan",
+    "jamoat tartibini saqlash bilan",
+    "mamlakat ichida taʼlimni rivojlantirish bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x003",
+  "doc": "ogp-8",
+  "lesson": "15",
+  "q": {
+   "ru": "Для возникновения правоотношения необходимо наличие…",
+   "uz": "Huquqiy munosabat vujudga kelishi uchun nima boʻlishi zarur?"
+  },
+  "options": {
+   "ru": [
+    "юридического факта",
+    "письменного договора",
+    "решения суда",
+    "согласия государства"
+   ],
+   "uz": [
+    "yuridik fakt",
+    "yozma shartnoma",
+    "sud qarori",
+    "davlat roziligi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x004",
+  "doc": "ogp-8",
+  "lesson": "15",
+  "q": {
+   "ru": "Совершение преступления порождает какие правоотношения?",
+   "uz": "Jinoyat sodir etish qanday huquqiy munosabatlarni vujudga keltiradi?"
+  },
+  "options": {
+   "ru": [
+    "Уголовно-правовые",
+    "Гражданско-правовые",
+    "Трудовые",
+    "Семейные"
+   ],
+   "uz": [
+    "Jinoyat-huquqiy",
+    "Fuqarolik-huquqiy",
+    "Mehnatga oid",
+    "Oilaviy"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x005",
+  "doc": "ogp-8",
+  "lesson": "17–18",
+  "q": {
+   "ru": "Каким явлением, по учебнику, является поведение, так как оно заключается во взаимодействии людей?",
+   "uz": "Xulq-atvor odamlarning oʻzaro taʼsirida namoyon boʻlgani uchun darslikka koʻra qanday hodisa?"
+  },
+  "options": {
+   "ru": [
+    "Социальным",
+    "Биологическим",
+    "Только юридическим",
+    "Экономическим"
+   ],
+   "uz": [
+    "Ijtimoiy",
+    "Biologik",
+    "Faqat yuridik",
+    "Iqtisodiy"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x006",
+  "doc": "ogp-8",
+  "lesson": "17–18",
+  "q": {
+   "ru": "Правовое поведение по отношению к поведению вообще – это…",
+   "uz": "Huquqiy xulq-atvor umuman xulq-atvorga nisbatan…"
+  },
+  "options": {
+   "ru": [
+    "одна из его форм",
+    "более широкое понятие",
+    "противоположное понятие",
+    "то же самое"
+   ],
+   "uz": [
+    "uning shakllaridan biri",
+    "kengroq tushuncha",
+    "qarama-qarshi tushuncha",
+    "aynan bir xil"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x007",
+  "doc": "ogp-8",
+  "lesson": "23–24",
+  "q": {
+   "ru": "Какие меры дисциплинарного взыскания предусматривает статья 312 Трудового кодекса?",
+   "uz": "Mehnat kodeksining 312-moddasi qanday intizomiy jazo choralarini nazarda tutadi?"
+  },
+  "options": {
+   "ru": [
+    "Выговор, штраф, прекращение трудового договора",
+    "Арест, штраф, конфискация",
+    "Лишение свободы и исправительные работы",
+    "Предупреждение и лишение премии навсегда"
+   ],
+   "uz": [
+    "Hayfsan, jarima, mehnat shartnomasini bekor qilish",
+    "Qamoq, jarima, musodara",
+    "Ozodlikdan mahrum qilish va axloq tuzatish ishlari",
+    "Ogohlantirish va mukofotdan umrbod mahrum qilish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x008",
+  "doc": "ogp-8",
+  "lesson": "23–24",
+  "q": {
+   "ru": "Кому назначается направление в дисциплинарную часть?",
+   "uz": "Intizomiy qismga yuborish kimlarga tayinlanadi?"
+  },
+  "options": {
+   "ru": [
+    "Военнослужащим срочной службы",
+    "Студентам",
+    "Несовершеннолетним школьникам",
+    "Государственным служащим"
+   ],
+   "uz": [
+    "Muddatli harbiy xizmatchilarga",
+    "Talabalarga",
+    "Voyaga yetmagan oʻquvchilarga",
+    "Davlat xizmatchilariga"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x009",
+  "doc": "ogp-8",
+  "lesson": "27",
+  "q": {
+   "ru": "15-летний автор стихотворения узнал, что друг опубликовал его под своим именем. Какое право защищает автора?",
+   "uz": "15 yoshli muallif doʻsti uning sheʼrini oʻz nomidan eʼlon qilganini bildi. Muallifni qaysi huquq himoya qiladi?"
+  },
+  "options": {
+   "ru": [
+    "Гражданское право (авторские права)",
+    "Уголовно-процессуальное право",
+    "Налоговое право",
+    "Семейное право"
+   ],
+   "uz": [
+    "Fuqarolik huquqi (mualliflik huquqi)",
+    "Jinoyat-protsessual huquqi",
+    "Soliq huquqi",
+    "Oila huquqi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x010",
+  "doc": "ogp-8",
+  "lesson": "28",
+  "q": {
+   "ru": "Что главным образом отличает преступление от других правонарушений?",
+   "uz": "Jinoyatni boshqa huquqbuzarliklardan asosan nima ajratib turadi?"
+  },
+  "options": {
+   "ru": [
+    "Оно запрещено Уголовным кодексом под угрозой наказания",
+    "Его совершают только взрослые",
+    "Оно всегда умышленное",
+    "Оно не причиняет вреда"
+   ],
+   "uz": [
+    "U Jinoyat kodeksi bilan jazo tahdidi ostida taqiqlangan",
+    "Uni faqat kattalar sodir etadi",
+    "U har doim qasddan qilinadi",
+    "U zarar yetkazmaydi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x011",
+  "doc": "ogp-8",
+  "lesson": "29–30",
+  "q": {
+   "ru": "Для кого единым и обязательным является порядок производства по уголовным делам?",
+   "uz": "Jinoyat ishlarini yuritish tartibi kimlar uchun yagona va majburiy?"
+  },
+  "options": {
+   "ru": [
+    "Для всех судов, прокуратуры, следствия, дознания, адвокатуры и граждан",
+    "Только для судов",
+    "Только для адвокатов",
+    "Только для иностранцев"
+   ],
+   "uz": [
+    "Barcha sudlar, prokuratura, tergov, surishtiruv, advokatura va fuqarolar uchun",
+    "Faqat sudlar uchun",
+    "Faqat advokatlar uchun",
+    "Faqat chet elliklar uchun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x012",
+  "doc": "ogp-8",
+  "lesson": "31–32",
+  "q": {
+   "ru": "До какого возраста родители обязаны содержать своих детей?",
+   "uz": "Ota-onalar farzandlarini qaysi yoshgacha taʼminlashi shart?"
+  },
+  "options": {
+   "ru": [
+    "До их совершеннолетия",
+    "До 14 лет",
+    "До окончания вуза",
+    "До вступления детей в брак"
+   ],
+   "uz": [
+    "Ular voyaga yetgunga qadar",
+    "14 yoshgacha",
+    "Oliygohni bitirgunga qadar",
+    "Farzandlar nikohdan oʻtgunga qadar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x013",
+  "doc": "ogp-8",
+  "lesson": "31–32",
+  "q": {
+   "ru": "Кто осуществляет права ребёнка при отсутствии родителей?",
+   "uz": "Ota-ona boʻlmaganda bolaning huquqlarini kim amalga oshiradi?"
+  },
+  "options": {
+   "ru": [
+    "Лица, их заменяющие, органы опеки и попечительства, прокуратура, суд",
+    "Только махалля",
+    "Только школа",
+    "Никто"
+   ],
+   "uz": [
+    "Ularning oʻrnini bosuvchi shaxslar, vasiylik va homiylik organlari, prokuratura, sud",
+    "Faqat mahalla",
+    "Faqat maktab",
+    "Hech kim"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b8-x014",
+  "doc": "ogp-8",
+  "lesson": "33",
+  "q": {
+   "ru": "С какого возраста учащихся допускают к лёгкой работе в свободное от учёбы время?",
+   "uz": "Oʻquvchilar necha yoshdan oʻqishdan boʻsh vaqtda yengil ishga qoʻyiladi?"
+  },
+  "options": {
+   "ru": [
+    "С 15 лет при письменном согласии одного из родителей",
+    "С 12 лет без согласия",
+    "С 14 лет без согласия",
+    "Только с 18 лет"
+   ],
+   "uz": [
+    "15 yoshdan, ota-onadan birining yozma roziligi bilan",
+    "12 yoshdan, roziliksiz",
+    "14 yoshdan, roziliksiz",
+    "Faqat 18 yoshdan"
+   ]
+  },
+  "answer": 0
  }
 ]

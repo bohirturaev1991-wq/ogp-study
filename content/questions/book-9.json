@@ -1566,5 +1566,485 @@
    ]
   },
   "answer": 0
+ },
+ {
+  "id": "b9-x001",
+  "doc": "ogp-9",
+  "lesson": "6",
+  "q": {
+   "ru": "Что означает верховенство закона?",
+   "uz": "Qonun ustuvorligi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "Акты органов власти и действия должностных лиц должны соответствовать Конституции и законам",
+    "Закон важнее Конституции",
+    "Законы принимает только Президент",
+    "Законы действуют только в столице"
+   ],
+   "uz": [
+    "Hokimiyat organlarining hujjatlari va mansabdor shaxslarning harakatlari Konstitutsiya va qonunlarga mos boʻlishi kerak",
+    "Qonun Konstitutsiyadan ustun",
+    "Qonunlarni faqat Prezident qabul qiladi",
+    "Qonunlar faqat poytaxtda amal qiladi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x002",
+  "doc": "ogp-9",
+  "lesson": "7",
+  "q": {
+   "ru": "Какой регион является главным приоритетом внешней политики Узбекистана?",
+   "uz": "Oʻzbekiston tashqi siyosatining bosh ustuvor yoʻnalishi qaysi mintaqa?"
+  },
+  "options": {
+   "ru": [
+    "Центральная Азия",
+    "Европа",
+    "Латинская Америка",
+    "Африка"
+   ],
+   "uz": [
+    "Markaziy Osiyo",
+    "Yevropa",
+    "Lotin Amerikasi",
+    "Afrika"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x003",
+  "doc": "ogp-9",
+  "lesson": "11",
+  "q": {
+   "ru": "Где ID-карта удостоверяет личность и гражданство владельца?",
+   "uz": "ID-karta egasining shaxsi va fuqaroligini qayerda tasdiqlaydi?"
+  },
+  "options": {
+   "ru": [
+    "На территории Республики Узбекистан",
+    "Только за границей",
+    "Только в банках",
+    "Только при выборах"
+   ],
+   "uz": [
+    "Oʻzbekiston Respublikasi hududida",
+    "Faqat chet elda",
+    "Faqat banklarda",
+    "Faqat saylovda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x004",
+  "doc": "ogp-9",
+  "lesson": "12",
+  "q": {
+   "ru": "Куда обращается с ходатайством о восстановлении гражданства лицо, проживающее за границей?",
+   "uz": "Chet elda yashovchi shaxs fuqarolikni tiklash haqidagi iltimosnoma bilan qayerga murojaat qiladi?"
+  },
+  "options": {
+   "ru": [
+    "В консульское учреждение",
+    "В махаллю",
+    "В Конституционный суд",
+    "В налоговую"
+   ],
+   "uz": [
+    "Konsullik muassasasiga",
+    "Mahallaga",
+    "Konstitutsiyaviy sudga",
+    "Soliq idorasiga"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x005",
+  "doc": "ogp-9",
+  "lesson": "12",
+  "q": {
+   "ru": "Куда обращается лицо, проживающее в Узбекистане, для подачи ходатайства по гражданству?",
+   "uz": "Oʻzbekistonda yashovchi shaxs fuqarolik boʻyicha iltimosnoma berish uchun qayerga murojaat qiladi?"
+  },
+  "options": {
+   "ru": [
+    "В орган внутренних дел по месту жительства или регистрации",
+    "В школу",
+    "В Олий Мажлис",
+    "В банк"
+   ],
+   "uz": [
+    "Yashash yoki roʻyxatdan oʻtgan joyidagi ichki ishlar organiga",
+    "Maktabga",
+    "Oliy Majlisga",
+    "Bankka"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x006",
+  "doc": "ogp-9",
+  "lesson": "13",
+  "q": {
+   "ru": "Через что поддерживается диалог с соотечественниками за рубежом?",
+   "uz": "Chet eldagi vatandoshlar bilan muloqot nima orqali olib boriladi?"
+  },
+  "options": {
+   "ru": [
+    "Национально-культурные центры",
+    "Налоговые органы",
+    "Избирательные комиссии",
+    "Суды"
+   ],
+   "uz": [
+    "Milliy-madaniy markazlar",
+    "Soliq organlari",
+    "Saylov komissiyalari",
+    "Sudlar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x007",
+  "doc": "ogp-9",
+  "lesson": "17",
+  "q": {
+   "ru": "Что, согласно Конституции, является приоритетным: интересы личности или государства?",
+   "uz": "Konstitutsiyaga koʻra nima ustuvor: shaxs manfaatlarimi yoki davlat manfaatlari?"
+  },
+  "options": {
+   "ru": [
+    "Интересы личности",
+    "Интересы государства",
+    "Интересы партий",
+    "Интересы предприятий"
+   ],
+   "uz": [
+    "Shaxs manfaatlari",
+    "Davlat manfaatlari",
+    "Partiyalar manfaatlari",
+    "Korxonalar manfaatlari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x008",
+  "doc": "ogp-9",
+  "lesson": "18",
+  "q": {
+   "ru": "Какая статья Конституции гарантирует право на свободу и личную неприкосновенность?",
+   "uz": "Erkinlik va shaxsiy daxlsizlik huquqini Konstitutsiyaning qaysi moddasi kafolatlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 27",
+    "Статья 26",
+    "Статья 35",
+    "Статья 22"
+   ],
+   "uz": [
+    "27-modda",
+    "26-modda",
+    "35-modda",
+    "22-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x009",
+  "doc": "ogp-9",
+  "lesson": "19",
+  "q": {
+   "ru": "Кто может реализовать политические права?",
+   "uz": "Siyosiy huquqlarni kim amalga oshira oladi?"
+  },
+  "options": {
+   "ru": [
+    "Только граждане соответствующего государства",
+    "Любой человек на территории страны",
+    "Только депутаты",
+    "Только члены партий"
+   ],
+   "uz": [
+    "Faqat tegishli davlat fuqarolari",
+    "Mamlakat hududidagi har qanday shaxs",
+    "Faqat deputatlar",
+    "Faqat partiya aʼzolari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x010",
+  "doc": "ogp-9",
+  "lesson": "20",
+  "q": {
+   "ru": "Какие три правомочия включает право собственности?",
+   "uz": "Mulk huquqi qanday uchta vakolatni oʻz ichiga oladi?"
+  },
+  "options": {
+   "ru": [
+    "Владение, пользование и распоряжение",
+    "Покупка, продажа и аренда",
+    "Наследование, дарение и залог",
+    "Налог, страховка и кредит"
+   ],
+   "uz": [
+    "Egalik qilish, foydalanish va tasarruf etish",
+    "Sotib olish, sotish va ijara",
+    "Meros, hadya va garov",
+    "Soliq, sugʻurta va kredit"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x011",
+  "doc": "ogp-9",
+  "lesson": "20",
+  "q": {
+   "ru": "Какая статья Конституции гарантирует тайну банковских вкладов и счетов?",
+   "uz": "Bank omonatlari va hisobvaraqlari sirini Konstitutsiyaning qaysi moddasi kafolatlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 41",
+    "Статья 49",
+    "Статья 26",
+    "Статья 11"
+   ],
+   "uz": [
+    "41-modda",
+    "49-modda",
+    "26-modda",
+    "11-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x012",
+  "doc": "ogp-9",
+  "lesson": "21",
+  "q": {
+   "ru": "Право на труд – это право каждого…",
+   "uz": "Mehnat qilish huquqi — bu har kimning…"
+  },
+  "options": {
+   "ru": [
+    "на получение дохода по выбранной профессии или роду деятельности",
+    "заниматься любой деятельностью без требований",
+    "не работать",
+    "на бесплатное жильё"
+   ],
+   "uz": [
+    "tanlagan kasbi yoki faoliyat turi boʻyicha daromad olish huquqi",
+    "hech qanday talabsiz istalgan faoliyat bilan shugʻullanish huquqi",
+    "ishlamaslik huquqi",
+    "bepul uy-joy huquqi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x013",
+  "doc": "ogp-9",
+  "lesson": "22",
+  "q": {
+   "ru": "Где в 1972 году впервые было затронуто право на здоровую окружающую среду?",
+   "uz": "Sogʻlom atrof-muhitga boʻlgan huquq 1972-yilda ilk bor qayerda koʻtarilgan?"
+  },
+  "options": {
+   "ru": [
+    "На конференции ООН в Стокгольме",
+    "В Рио-де-Жанейро",
+    "В Нью-Йорке",
+    "В Ташкенте"
+   ],
+   "uz": [
+    "Stokgolmdagi BMT konferensiyasida",
+    "Rio-de-Janeyroda",
+    "Nyu-Yorkda",
+    "Toshkentda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x014",
+  "doc": "ogp-9",
+  "lesson": "22",
+  "q": {
+   "ru": "В каком году на конференции ООН в Рио-де-Жанейро принята декларация о праве человека на жизнь в гармонии с природой?",
+   "uz": "Inson tabiat bilan uygʻunlikda yashash huquqi haqidagi deklaratsiya Rio-de-Janeyrodagi BMT konferensiyasida qaysi yili qabul qilingan?"
+  },
+  "options": {
+   "ru": [
+    "1992",
+    "1972",
+    "1948",
+    "2000"
+   ],
+   "uz": [
+    "1992",
+    "1972",
+    "1948",
+    "2000"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x015",
+  "doc": "ogp-9",
+  "lesson": "23",
+  "q": {
+   "ru": "Какова высшая цель государства, по учебнику?",
+   "uz": "Darslikka koʻra davlatning oliy maqsadi nima?"
+  },
+  "options": {
+   "ru": [
+    "Обеспечение прав и свобод человека",
+    "Сбор налогов",
+    "Укрепление армии",
+    "Развитие промышленности"
+   ],
+   "uz": [
+    "Inson huquq va erkinliklarini taʼminlash",
+    "Soliq yigʻish",
+    "Armiyani mustahkamlash",
+    "Sanoatni rivojlantirish"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x016",
+  "doc": "ogp-9",
+  "lesson": "29",
+  "q": {
+   "ru": "Сколько государств – членов ООН имеют пост президента (по учебнику)?",
+   "uz": "Darslikka koʻra BMTga aʼzo davlatlardan nechtasida prezident lavozimi bor?"
+  },
+  "options": {
+   "ru": [
+    "143",
+    "193",
+    "100",
+    "51"
+   ],
+   "uz": [
+    "143",
+    "193",
+    "100",
+    "51"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x017",
+  "doc": "ogp-9",
+  "lesson": "29",
+  "q": {
+   "ru": "Может ли Президент Узбекистана в период полномочий заниматься предпринимательской деятельностью?",
+   "uz": "Oʻzbekiston Prezidenti vakolat davrida tadbirkorlik bilan shugʻullanishi mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да",
+    "Да, с согласия Сената",
+    "Да, если это семейный бизнес"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha",
+    "Ha, Senat roziligi bilan",
+    "Ha, oilaviy biznes boʻlsa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x018",
+  "doc": "ogp-9",
+  "lesson": "30",
+  "q": {
+   "ru": "Как называется правительство в Китайской Народной Республике?",
+   "uz": "Xitoy Xalq Respublikasida hukumat qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Государственный Совет",
+    "Кабинет Министров",
+    "Совет Министров",
+    "Сенат"
+   ],
+   "uz": [
+    "Davlat Kengashi",
+    "Vazirlar Mahkamasi",
+    "Vazirlar Kengashi",
+    "Senat"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x019",
+  "doc": "ogp-9",
+  "lesson": "31",
+  "q": {
+   "ru": "Что понимается под самоуправлением граждан?",
+   "uz": "Fuqarolarning oʻzini oʻzi boshqarishi deganda nima tushuniladi?"
+  },
+  "options": {
+   "ru": [
+    "Самостоятельная деятельность граждан по решению вопросов местного значения",
+    "Работа хокимията",
+    "Деятельность Сената",
+    "Работа судов"
+   ],
+   "uz": [
+    "Fuqarolarning mahalliy ahamiyatga ega masalalarni hal qilish boʻyicha mustaqil faoliyati",
+    "Hokimlik faoliyati",
+    "Senat faoliyati",
+    "Sudlar faoliyati"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b9-x020",
+  "doc": "ogp-9",
+  "lesson": "32",
+  "q": {
+   "ru": "Кем осуществляется судебная власть?",
+   "uz": "Sud hokimiyati kim tomonidan amalga oshiriladi?"
+  },
+  "options": {
+   "ru": [
+    "Только судами",
+    "Судами и прокуратурой",
+    "Хокимами",
+    "Органами внутренних дел"
+   ],
+   "uz": [
+    "Faqat sudlar tomonidan",
+    "Sudlar va prokuratura tomonidan",
+    "Hokimlar tomonidan",
+    "Ichki ishlar organlari tomonidan"
+   ]
+  },
+  "answer": 0
  }
 ]

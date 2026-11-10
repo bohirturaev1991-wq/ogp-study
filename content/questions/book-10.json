@@ -2022,5 +2022,485 @@
    ]
   },
   "answer": 0
+ },
+ {
+  "id": "b10-y001",
+  "doc": "ogp-10",
+  "lesson": "22",
+  "q": {
+   "ru": "Как называется соглашение о возникновении, изменении и прекращении гражданских прав и обязанностей?",
+   "uz": "Fuqarolik huquq va majburiyatlarini vujudga keltirish, oʻzgartirish va bekor qilish toʻgʻrisidagi kelishuv qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Договор",
+    "Закон",
+    "Приговор",
+    "Указ"
+   ],
+   "uz": [
+    "Shartnoma",
+    "Qonun",
+    "Hukm",
+    "Farmon"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y002",
+  "doc": "ogp-10",
+  "lesson": "22",
+  "q": {
+   "ru": "Допускается ли принуждение к заключению договора?",
+   "uz": "Shartnoma tuzishga majburlashga yoʻl qoʻyiladimi?"
+  },
+  "options": {
+   "ru": [
+    "Нет, договор заключается добровольно",
+    "Да, по решению хокима",
+    "Да, если цена выгодная",
+    "Да, для несовершеннолетних"
+   ],
+   "uz": [
+    "Yoʻq, shartnoma ixtiyoriy tuziladi",
+    "Ha, hokim qarori bilan",
+    "Ha, narx foydali boʻlsa",
+    "Ha, voyaga yetmaganlar uchun"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y003",
+  "doc": "ogp-10",
+  "lesson": "22",
+  "q": {
+   "ru": "Как называется лицо, отправившее предложение заключить договор (оферту)?",
+   "uz": "Shartnoma tuzish taklifini (oferta) yuborgan shaxs qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Оферент",
+    "Акцептант",
+    "Кредитор",
+    "Поручитель"
+   ],
+   "uz": [
+    "Oferent",
+    "Akseptant",
+    "Kreditor",
+    "Kafil"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y004",
+  "doc": "ogp-10",
+  "lesson": "22",
+  "q": {
+   "ru": "Как называется лицо, получившее предложение заключить договор?",
+   "uz": "Shartnoma tuzish taklifini olgan shaxs qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Акцептант",
+    "Оферент",
+    "Должник",
+    "Залогодатель"
+   ],
+   "uz": [
+    "Akseptant",
+    "Oferent",
+    "Qarzdor",
+    "Garovga qoʻyuvchi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y005",
+  "doc": "ogp-10",
+  "lesson": "25",
+  "q": {
+   "ru": "Что характерно для правопреемства в гражданском праве?",
+   "uz": "Fuqarolik huquqida huquqiy vorislik uchun nima xos?"
+  },
+  "options": {
+   "ru": [
+    "Меняется состав участников, а суть отношений сохраняется",
+    "Отношения полностью прекращаются",
+    "Меняется суть отношений, участники те же",
+    "Права переходят только государству"
+   ],
+   "uz": [
+    "Ishtirokchilar tarkibi oʻzgaradi, munosabatlar mohiyati saqlanadi",
+    "Munosabatlar butunlay tugaydi",
+    "Munosabatlar mohiyati oʻzgaradi, ishtirokchilar oʻsha",
+    "Huquqlar faqat davlatga oʻtadi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y006",
+  "doc": "ogp-10",
+  "lesson": "25",
+  "q": {
+   "ru": "Гарантирует ли Конституция право наследования?",
+   "uz": "Konstitutsiya meros huquqini kafolatlaydimi?"
+  },
+  "options": {
+   "ru": [
+    "Да, каждому",
+    "Нет",
+    "Только гражданам старше 18 лет",
+    "Только по решению суда"
+   ],
+   "uz": [
+    "Ha, har kimga",
+    "Yoʻq",
+    "Faqat 18 yoshdan katta fuqarolarga",
+    "Faqat sud qarori bilan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y007",
+  "doc": "ogp-10",
+  "lesson": "27",
+  "q": {
+   "ru": "С какого события, по учебнику, началось современное международное сообщество государств?",
+   "uz": "Darslikka koʻra zamonaviy xalqaro davlatlar hamjamiyati qaysi voqeadan boshlangan?"
+  },
+  "options": {
+   "ru": [
+    "Вестфальский мир после Тридцатилетней войны (1648)",
+    "Создание ООН (1945)",
+    "Распад СССР (1991)",
+    "Венский конгресс (1815)"
+   ],
+   "uz": [
+    "Oʻttiz yillik urushdan keyingi Vestfal sulhi (1648)",
+    "BMTning tashkil topishi (1945)",
+    "SSSRning parchalanishi (1991)",
+    "Vena kongressi (1815)"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y008",
+  "doc": "ogp-10",
+  "lesson": "27",
+  "q": {
+   "ru": "На каких принципах базируется международное сообщество?",
+   "uz": "Xalqaro hamjamiyat qanday prinsiplarga asoslanadi?"
+  },
+  "options": {
+   "ru": [
+    "Суверенное равенство государств и неприкосновенность их территорий",
+    "Господство сильнейших государств",
+    "Единая мировая валюта",
+    "Единое мировое правительство"
+   ],
+   "uz": [
+    "Davlatlarning suveren tengligi va hududlarining daxlsizligi",
+    "Eng kuchli davlatlar hukmronligi",
+    "Yagona jahon valyutasi",
+    "Yagona jahon hukumati"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y009",
+  "doc": "ogp-10",
+  "lesson": "28",
+  "q": {
+   "ru": "Какие два равноправных источника составляют международное право?",
+   "uz": "Xalqaro huquqni qanday ikkita teng kuchli manba tashkil etadi?"
+  },
+  "options": {
+   "ru": [
+    "Международные договоры и международный обычай",
+    "Конституция и законы",
+    "Указы и постановления",
+    "Решения судов и мнения учёных"
+   ],
+   "uz": [
+    "Xalqaro shartnomalar va xalqaro odat",
+    "Konstitutsiya va qonunlar",
+    "Farmonlar va qarorlar",
+    "Sud qarorlari va olimlar fikri"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y010",
+  "doc": "ogp-10",
+  "lesson": "28",
+  "q": {
+   "ru": "Международное право – это…",
+   "uz": "Xalqaro huquq — bu…"
+  },
+  "options": {
+   "ru": [
+    "система международных соглашений, обычаев и общепризнанных принципов для безопасности и сотрудничества",
+    "законы одного государства",
+    "решения ООН, обязательные для граждан",
+    "правила торговли между компаниями"
+   ],
+   "uz": [
+    "xavfsizlik va hamkorlik uchun xalqaro kelishuvlar, odatlar va umume’tirof etilgan prinsiplar tizimi",
+    "bitta davlatning qonunlari",
+    "fuqarolar uchun majburiy BMT qarorlari",
+    "kompaniyalar oʻrtasidagi savdo qoidalari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y011",
+  "doc": "ogp-10",
+  "lesson": "29",
+  "q": {
+   "ru": "Сколько стран приняли Устав ООН в Сан-Франциско?",
+   "uz": "San-Fransiskoda BMT Nizomini nechta davlat qabul qilgan?"
+  },
+  "options": {
+   "ru": [
+    "51",
+    "193",
+    "15",
+    "5"
+   ],
+   "uz": [
+    "51",
+    "193",
+    "15",
+    "5"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y012",
+  "doc": "ogp-10",
+  "lesson": "29",
+  "q": {
+   "ru": "Считается ли применение экономических санкций применением силы по принципу неприменения силы?",
+   "uz": "Iqtisodiy sanksiyalar qoʻllash kuch ishlatmaslik prinsipiga koʻra kuch ishlatish hisoblanadimi?"
+  },
+  "options": {
+   "ru": [
+    "Нет, «сила» означает только вооружённые силы",
+    "Да, всегда",
+    "Да, если санкции длятся более года",
+    "Только против членов ООН"
+   ],
+   "uz": [
+    "Yoʻq, “kuch” faqat qurolli kuchlarni anglatadi",
+    "Ha, har doim",
+    "Ha, sanksiyalar bir yildan ortiq davom etsa",
+    "Faqat BMT aʼzolariga qarshi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y013",
+  "doc": "ogp-10",
+  "lesson": "30",
+  "q": {
+   "ru": "Из скольких членов состоит Совет Безопасности ООН?",
+   "uz": "BMT Xavfsizlik Kengashi nechta aʼzodan iborat?"
+  },
+  "options": {
+   "ru": [
+    "15",
+    "5",
+    "10",
+    "193"
+   ],
+   "uz": [
+    "15",
+    "5",
+    "10",
+    "193"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y014",
+  "doc": "ogp-10",
+  "lesson": "30",
+  "q": {
+   "ru": "Какие государства являются постоянными членами Совета Безопасности ООН?",
+   "uz": "BMT Xavfsizlik Kengashining doimiy aʼzolari qaysi davlatlar?"
+  },
+  "options": {
+   "ru": [
+    "США, Россия, Китай, Великобритания, Франция",
+    "США, Германия, Япония, Индия, Китай",
+    "Россия, Узбекистан, Казахстан, Китай, Индия",
+    "Франция, Италия, Испания, Германия, Польша"
+   ],
+   "uz": [
+    "AQSh, Rossiya, Xitoy, Buyuk Britaniya, Fransiya",
+    "AQSh, Germaniya, Yaponiya, Hindiston, Xitoy",
+    "Rossiya, Oʻzbekiston, Qozogʻiston, Xitoy, Hindiston",
+    "Fransiya, Italiya, Ispaniya, Germaniya, Polsha"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y015",
+  "doc": "ogp-10",
+  "lesson": "30",
+  "q": {
+   "ru": "Может ли Международный суд ООН рассмотреть спор между государствами без согласия одного из них?",
+   "uz": "BMT Xalqaro sudi davlatlar oʻrtasidagi nizoni ulardan birining roziligisiz koʻrib chiqa oladimi?"
+  },
+  "options": {
+   "ru": [
+    "Нет, нужно согласие сторон",
+    "Да, всегда",
+    "Да, по решению Генсека",
+    "Да, если спор о территории"
+   ],
+   "uz": [
+    "Yoʻq, tomonlarning roziligi kerak",
+    "Ha, har doim",
+    "Ha, Bosh kotib qarori bilan",
+    "Ha, agar nizo hudud haqida boʻlsa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y016",
+  "doc": "ogp-10",
+  "lesson": "31",
+  "q": {
+   "ru": "Что означает принцип суверенного равенства государств?",
+   "uz": "Davlatlarning suveren tengligi prinsipi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "Все государства равны, ни одно не выше и не ниже других",
+    "Большие государства главнее малых",
+    "Равенство только членов ООН",
+    "Одинаковая численность населения"
+   ],
+   "uz": [
+    "Barcha davlatlar teng, hech biri boshqalardan ustun yoki past emas",
+    "Katta davlatlar kichiklaridan ustun",
+    "Faqat BMT aʼzolarining tengligi",
+    "Aholi sonining bir xilligi"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y017",
+  "doc": "ogp-10",
+  "lesson": "31",
+  "q": {
+   "ru": "В какой статье Конституции отражено международное сотрудничество Узбекистана практически со всеми государствами?",
+   "uz": "Oʻzbekistonning deyarli barcha davlatlar bilan xalqaro hamkorligi Konstitutsiyaning qaysi moddasida aks etgan?"
+  },
+  "options": {
+   "ru": [
+    "Статья 18",
+    "Статья 17",
+    "Статья 1",
+    "Статья 22"
+   ],
+   "uz": [
+    "18-modda",
+    "17-modda",
+    "1-modda",
+    "22-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y018",
+  "doc": "ogp-10",
+  "lesson": "32",
+  "q": {
+   "ru": "Может ли кто-либо быть лишён гражданства или права изменить гражданство в Узбекистане?",
+   "uz": "Oʻzbekistonda kimnidir fuqarolikdan yoki fuqarolikni oʻzgartirish huquqidan mahrum qilish mumkinmi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, по решению суда",
+    "Да, за неуплату налогов",
+    "Да, при выезде за границу"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, sud qarori bilan",
+    "Ha, soliq toʻlamaganlik uchun",
+    "Ha, chet elga chiqqanda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y019",
+  "doc": "ogp-10",
+  "lesson": "33",
+  "q": {
+   "ru": "Кем становится гражданин Узбекистана, выехав за границу?",
+   "uz": "Chet elga chiqqan Oʻzbekiston fuqarosi u yerda kim boʻladi?"
+  },
+  "options": {
+   "ru": [
+    "Иностранцем в стране пребывания",
+    "Лицом без гражданства",
+    "Гражданином той страны",
+    "Дипломатом"
+   ],
+   "uz": [
+    "Boʻlgan mamlakatida chet ellik",
+    "Fuqaroligi yoʻq shaxs",
+    "Oʻsha davlat fuqarosi",
+    "Diplomat"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-y020",
+  "doc": "ogp-10",
+  "lesson": "33",
+  "q": {
+   "ru": "Какой тип международного права лежит в основе дипломатической защиты?",
+   "uz": "Diplomatik himoya xalqaro huquqning qaysi turiga asoslanadi?"
+  },
+  "options": {
+   "ru": [
+    "Международное обычное право",
+    "Национальное налоговое право",
+    "Семейное право",
+    "Трудовое право"
+   ],
+   "uz": [
+    "Xalqaro odat huquqi",
+    "Milliy soliq huquqi",
+    "Oila huquqi",
+    "Mehnat huquqi"
+   ]
+  },
+  "answer": 0
  }
 ]
