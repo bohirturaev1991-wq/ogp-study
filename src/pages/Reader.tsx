@@ -3,7 +3,8 @@ import { buildUnits, docLang, loadDoc, useAsync, useCatalog } from '../data';
 import { useStore, setState, markUnitRead, getState, type Bookmark } from '../store';
 import { useT } from '../i18n';
 import { CardEditor, Empty, Hl, Progress } from '../components';
-import { go, href, useRoute } from '../router';
+import { href, useRoute } from '../router';
+import { useBackClose } from '../back';
 import type { Block, CatalogItem, Lang, Unit } from '../types';
 
 export default function Reader({ id }: { id: string }) {
@@ -51,7 +52,9 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
     } else topRef.current?.scrollIntoView({ block: 'start' });
   }, [item.id, unit.key, anchor]);
 
-  const goUnit = (u: Unit) => go(href('/read/' + item.id, { u: u.key }));
+  // смена главы не добавляет шаг в историю: «Назад» из читалки ведёт туда, откуда её открыли
+  const goUnit = (u: Unit) => location.replace(href('/read/' + item.id, { u: u.key }));
+  useBackClose(tocOpen, () => setTocOpen(false));
   const docShort = l(item.short);
 
   return (

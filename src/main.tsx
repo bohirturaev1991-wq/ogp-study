@@ -4,7 +4,10 @@ import { registerSW } from 'virtual:pwa-register';
 import App from './App';
 import './styles.css';
 
+import { initBackButton } from './back';
+
 registerSW({ immediate: true });
+initBackButton();
 
 createRoot(document.getElementById('root')!).render(
   <React.StrictMode>

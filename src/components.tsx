@@ -1,3 +1,4 @@
+import { useBackClose } from './back';
 import { useEffect, useState, type ReactNode } from 'react';
 import { highlight } from './search';
 import { setState } from './store';
@@ -22,6 +23,7 @@ export function Hl({ text, q }: { text: string; q?: string }) {
 }
 
 export function Modal({ onClose, children, title }: { onClose: () => void; children: ReactNode; title: string }) {
+  useBackClose(true, onClose);
   useEffect(() => {
     const h = (e: KeyboardEvent) => e.key === 'Escape' && onClose();
     window.addEventListener('keydown', h);

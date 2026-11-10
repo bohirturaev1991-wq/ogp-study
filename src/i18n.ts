@@ -149,6 +149,7 @@ const dict = {
   goalsToday: { uz: 'Bugungi vazifalar', ru: 'Задачи на сегодня' },
   overall: { uz: 'Umumiy progress', ru: 'Общий прогресс' },
   fetched: { uz: 'lex.uz dan olingan', ru: 'загружено с lex.uz' },
+  goBack: { uz: 'Orqaga', ru: 'Назад' },
   updateAvailable: { uz: 'Ilovaning yangi versiyasi chiqdi', ru: 'Доступна новая версия приложения' },
   updateHint: {
     uz: 'Yuklab oling va oʻrnating — progressingiz saqlanib qoladi.',

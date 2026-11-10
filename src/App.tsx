@@ -23,6 +23,12 @@ const NAV: { path: string; key: Key; icon: string }[] = [
   { path: '/plan', key: 'plan', icon: '📅' },
 ];
 
+// «Назад» внутри приложения: на предыдущий экран, а если его нет (открыли по ссылке) — в раздел
+function goBack() {
+  if (history.length > 1) history.back();
+  else location.hash = location.hash.startsWith('#/read') ? '#/library' : '#/';
+}
+
 export default function App() {
   const { parts } = useRoute();
   const { t, lang } = useT();
@@ -68,6 +74,11 @@ export default function App() {
   return (
     <div className="shell">
       <header className="topbar">
+        {(page === 'read' || page === 'settings') && (
+          <button className="icon-btn back-btn" onClick={goBack} aria-label={t('goBack')} title={t('goBack')}>
+            ←
+          </button>
+        )}
         <a className="brand" href="#/">
           <img src="icon.svg" alt="" width={28} height={28} />
           <span>{t('appName')}</span>
