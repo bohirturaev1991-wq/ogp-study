@@ -6,7 +6,7 @@
 
 Konstitutsiya men hech qachon tark etmaydigan yoʻriqnomadir.
 
-Jorj Vashington
+**Jorj Vashington**
 
 ### Bilib olasiz
 
@@ -32,10 +32,6 @@ Dunyo tarixidagi dastlabki konstitutsiya 1787-yilgi AQSH konstitutsiyasidir. Das
 
 Barcha qonunlar, kodekslar, qarorlar va farmonlar konstitutsiya negizida va unga muvofiq tarzda qabul qilinadi. Bu esa davlatning har bir meʼyoriy hujjati konstitutsiyaga mos kelishi shart ekanini anglatadi. Konstitutsiya jamiyat hayotining barcha sohalariga, siyosiy, iqtisodiy, maʼnaviy-axloqiy, maishiy, mehnat faoliyati, shaxsiy hayot va boshqalarga taʼsir oʻtkazadi.
 
-### Konstitutsiya – qonunchilik asosi
-
-Konstitutsiya butun huquqiy tizimning asosi boʻlib xizmat qiladi, negaki huquqning rivojlanishi konstitutsiyadan boshlanadi, aynan uning oʻzi boshqa barcha qonunlar va normativ-huquqiy hujjatlarga hayot baxsh etadi. Konstitutsiyaning oliy yuridik kuchi ham mana shun-
-
 da namoyon boʻladi. Qolgan barcha huquqiy hujjatlar asosiy qonun – konstitutsiyadan kelib chiqadi va unga muvofiq boʻlishi kerak.
 
 Huquq tizimini piramida koʻrinishida tasavvur qilib koʻring. Konstitutsiya ana shu piramida choʻqqisida turadi, desak, uning choʻqqisidan eng quyi qismigacha qonunlar, kodekslar, farmonlar, qarorlar va boshqa barcha normativ hujjatlar joy olganini koʻrasiz. Konstitutsiyaga oid bilimlar, uning mazmuni, rivojlanish tarixi, konstitutsiya turlari haqidagi toʻliq maʼlumotlar Konstitutsiyaviy huquqda oʻrganiladi.
@@ -44,7 +40,7 @@ Konstitutsiyaviy huquq normalari qolgan barcha yuridik normalar, huquqning har b
 
 ### Oliy Majlisi palatalarining qarorlari
 
-Oʻzbekiston Respublikasi Prezidentining farmonlari va qarorlari
+**Oʻzbekiston Respublikasi Prezidentining farmonlari va qarorlari**
 
 ### Konstitutsiya turlari
 
@@ -52,11 +48,13 @@ Zamonaviy dunyoda 200 dan ortiq davlatlar mavjud va ularning deyarli har biri o�
 
 Konstitutsiyalarning shakli, qabul qilinishi, amal qilishi va oʻzgartirish tartibi kabi jihatlariga koʻra quyidagi turlari mavjud.
 
-Ifoda qilish shakliga koʻra, konstitutsiyalar “yozilgan” va “yozilmagan” konstitutsiyalarga boʻlinadi. Yozilgan konstitutsiya alohida tartibda qabul qilingan, yagona hujjat sifatida eʼtirof etiladi (AQSH, Fransiya). Baʼzi davlatlarda konstitutsiyalar yagona hujjat shaklida qabul qilinmaydi, turli munosabatlarni tartibga soluvchi qonunlar qabul qilingan boʻlib, ularning yigʻindisi ham konstitutsiya hisoblanadi (Buyuk Britaniya, Yangi Zelandiya).
+**Ifoda qilish shakliga** koʻra, konstitutsiyalar “yozilgan” va “yozilmagan” konstitutsiyalarga boʻlinadi. Yozilgan konstitutsiya alohida tartibda qabul qilingan, yagona hujjat sifatida eʼtirof etiladi **(AQSH, Fransiya).** Baʼzi davlatlarda konstitutsiyalar yagona hujjat shaklida qabul qilinmaydi, turli munosabatlarni tartibga soluvchi qonunlar qabul qilingan boʻlib, ularning yigʻindisi ham konstitutsiya hisoblanadi **(Buyuk Britaniya, Yangi Zelandiya).**
 
-Qabul qilinish tartibiga koʻra, hadya qilingan konstitutsiya oʻz davlati uchun monarx tomonidan hadya qilinadi. Bunda konstitutsiya davlat rahbarining (yuqori ijro etuvchi hokimiyat organi) akti bilan kuchga kiradi (Qatar va Yaponiya). Xalq konstitutsiyasi referendum (Oʻzbekiston Konstitutsiyasining yangi tahriri), parlament, faqat konstitutsiyani qabul qilish uchun tuzilgan oliy hokimiyat organi tomonidan qabul qilinishi mumkin.
+**Qabul qilinish tartibiga koʻra**, hadya qilingan konstitutsiya oʻz davlati uchun monarx tomonidan hadya qilinadi. Bunda konstitutsiya davlat rahbarining (yuqori ijro etuvchi hokimiyat organi) akti bilan kuchga kiradi (**Qatar** va **Yaponiya)**. Xalq konstitutsiyasi referendum **(Oʻzbekiston Konstitutsiyasining yangi tahriri),** parlament, faqat konstitutsiyani qabul qilish uchun tuzilgan oliy hokimiyat organi tomonidan qabul qilinishi mumkin.
 
-Oʻzgartirish kiritish tartibiga koʻra, konstitutsiya “yumshoq” va “qattiq” kons titutsiyalarga boʻlinadi. “Yumshoq”
+**Oʻzgartirish kiritish tartibiga koʻra,** konstitutsiya “yumshoq” va “qattiq” kons titutsiyalarga boʻlinadi. “Yumshoq”
+
+![](img/ogp-9.uz/p006-1.webp "422x262")
 
 ### Oʻzgartirish kiritish tartibiga koʻra
 
@@ -80,9 +78,9 @@ Federal va unitar konstitutsiyalar
 
 konstitutsiya bu – davlatning oddiy qonunlari kabi qabul qilingan va oʻzgartiriladigan asosiy qonundir. “Qattiq” konstitutsiya bu – tegishli mamlakatning oddiy qonunlariga qaraganda ancha murakkab tarzda qabul qilinadigan va oʻzgartiriladigan asosiy qonun. Masalan, AQSH konstitutsiyasi qabul qilinganiga 200 yildan oshgan boʻlsa ham, unga 27 ta oʻzgartirish kiritilgan xolos.
 
-Davlat boshqaruv shakliga koʻra, konstitutsiyalar monarxiya va respublika turlariga boʻlinadi. Monarxiya konstitutsiyalari – monarx hokimiyati konstitutsiya bilan cheklangan boshqaruv shakliga ega mamlakatlarda oʻrnatiladi (Ispaniya, Yaponiya, Shvetsiya). Respublika konstitutsiyalari boshqaruvning respublika shakliga ega mamlakatlarda amal qiladi (Fransiya, Germaniya, AQSH).
+**Davlat boshqaruv shakliga koʻra**, konstitutsiyalar monarxiya va respublika turlariga boʻlinadi. Monarxiya konstitutsiyalari – monarx hokimiyati konstitutsiya bilan cheklangan boshqaruv shakliga ega mamlakatlarda oʻrnatiladi **(Ispaniya, Yaponiya, Shvetsiya)**. Respublika konstitutsiyalari boshqaruvning respublika shakliga ega mamlakatlarda amal qiladi **(Fransiya, Germaniya, AQSH).**
 
-Davlat tuzilishi shakliga koʻra, konstitutsiyalar federal va unitar turlarga boʻlinadi. Federal konstitutsiya federal davlatni shakllantirish tamoyillarini belgilaydi, federatsiyaning alohida subyektlarini yagona ittifoqqa birlashtirish, federatsiya subyektlari huquqiy maqomi, shuningdek, qonun chiqaruvchi, ijro etuvchi va sud hokimiyati organlarining shakllanishi va faoliyatini tartibga soladi (AQSH, Hindiston, Germaniya, Rossiya). Unitar davlat konstitutsiyalari sifatida butun davlat uchun yagona konstitutsiyalarni misol qilish mumkin (Fransiya, Italiya).
+**Davlat tuzilishi shakliga koʻra**, konstitutsiyalar federal va unitar turlarga boʻlinadi. Federal konstitutsiya federal davlatni shakllantirish tamoyillarini belgilaydi, federatsiyaning alohida subyektlarini yagona ittifoqqa birlashtirish, federatsiya subyektlari huquqiy maqomi, shuningdek, qonun chiqaruvchi, ijro etuvchi va sud hokimiyati organlarining shakllanishi va faoliyatini tartibga soladi **(AQSH, Hindiston, Germaniya, Rossiya)**. Unitar davlat konstitutsiyalari sifatida butun davlat uchun yagona konstitutsiyalarni misol qilish mumkin **(Fransiya, Italiya).**
 
 Koʻrinib turibdiki, Oʻzbekiston Respublikasi Konstitutsiyasi ifoda qilish shakliga koʻra, yozilgan; qabul qilinish tartibiga koʻra, xalq tomonidan qabul qilingan; oʻzgartirish kiritish tartibiga koʻra “qattiq”; davlat boshqaruv shakliga koʻra, respublika; davlat tuzilishi shakliga koʻra, unitar davlat konstitutsiyasi hisoblanadi.
 
@@ -90,9 +88,11 @@ Davlatning asosiy qonuni sifatida Konstitutsiya oʻziga xos tuzilishga ega. Kons
 
 ### Oʻzbekiston Respublikasi Konstitutsiyasining tuzilishi va vazifalari
 
-Muqaddima Konstitutsiyamizning mafkuraviy kirish qismidir. Konstitutsiya muqaddimasi xalqning orzu-intilishlarini ifodalaydi, umuminsoniy va milliy qadriyatlarni oʻzida aks ettiradi. Muqaddimadagi qoida va gʻoyalar keyinchalik konstitutsiya normalarida u yoki bu shaklda, koʻrinishda oʻz oʻrnini topadi. Muqaddima “Oʻzbekistonning yagona xalqi” tushunchasi bilan boshlanib, bu orqali xalqimizning yagona va boʻlinmasligiga urgʻu berilgan.
+![](img/ogp-9.uz/p007-1.webp "232x222")
 
-Konstitutsiyaning birinchi boʻlimi “Asosiy prinsiplar” deb nomlanib, “Davlat suvereniteti”, “Xalq hokimiyatchiligi”, “Kons titutsiya va qonunning ustunligi”, “Tashqi siyosat” boblariga ajratilgan. Konstitutsiyaning dastlabki boʻlimidagi prinsiplar
+**Muqaddima** Konstitutsiyamizning mafkuraviy kirish qismidir. Konstitutsiya muqaddimasi xalqning orzu-intilishlarini ifodalaydi, umuminsoniy va milliy qadriyatlarni oʻzida aks ettiradi. Muqaddimadagi qoida va gʻoyalar keyinchalik konstitutsiya normalarida u yoki bu shaklda, koʻrinishda oʻz oʻrnini topadi. Muqaddima **“Oʻzbekistonning yagona xalqi”** tushunchasi bilan boshlanib, bu orqali xalqimizning yagona va boʻlinmasligiga urgʻu berilgan.
+
+Konstitutsiyaning **birinchi boʻlimi “Asosiy prinsiplar”** deb nomlanib, “Davlat suvereniteti”, “Xalq hokimiyatchiligi”, “Kons titutsiya va qonunning ustunligi”, “Tashqi siyosat” boblariga ajratilgan. Konstitutsiyaning dastlabki boʻlimidagi prinsiplar
 
 ### Oʻzbekiston Respublikasi Konstitutsiyasining tuzilishi
 
@@ -100,13 +100,13 @@ Inson va fuqaroning asosiy huquqlari, erkinliklari va burchlari
 
 davlat va jamiyat hayotining ustunlari hisoblanadi. Chunki ushbu boʻlimda davlatning boshqaruv va tuzilish shakli, davlat suvereniteti xususiyatlari belgilangan.
 
-Konstitutsiyaning ikkinchi boʻlimi “Inson va fuqaroning asosiy huquqlari, erkinliklari va burchlari” deb nomlanadi. Mazkur boʻlimda davlat va fuqaro bir-biriga nisbatan huquq va burchlar orqali oʻzaro bogʻliqligi, inson va fuqarolarning shaxsiy huquq va erkinliklari (yashash huquqi), fuqarolik masalalari, siyosiy (saylov huquqi), iqtisodiy (mulkdor boʻlish huquqi), ijtimoiy (taʼlim olish, mehnat qilish), madaniy va ekologik huquqlar hamda huquq va erkinliklar kafolatlari, fuqarolarning burchlari belgilangan.
+Konstitutsiyaning **ikkinchi boʻlimi “Inson va fuqaroning asosiy huquqlari, erkinliklari va burchlari”** deb nomlanadi. Mazkur boʻlimda davlat va fuqaro bir-biriga nisbatan huquq va burchlar orqali oʻzaro bogʻliqligi, inson va fuqarolarning shaxsiy huquq va erkinliklari (yashash huquqi), fuqarolik masalalari, siyosiy (saylov huquqi), iqtisodiy (mulkdor boʻlish huquqi), ijtimoiy (taʼlim olish, mehnat qilish), madaniy va ekologik huquqlar hamda huquq va erkinliklar kafolatlari, fuqarolarning burchlari belgilangan.
 
-Konstitutsiyaning uchinchi boʻlimi “Jamiyat va shaxs” deb nomlangan. Unda jamiyatning iqtisodiy negizlari, fuqarolik jamiyati institutlari, oila, bolalar va yoshlarga oid masalalar hamda ommaviy axborot vositalarining huquqiy asoslari mustahkamlangan.
+Konstitutsiyaning **uchinchi boʻlimi “Jamiyat va shaxs”** deb nomlangan. Unda jamiyatning iqtisodiy negizlari, fuqarolik jamiyati institutlari, oila, bolalar va yoshlarga oid masalalar hamda ommaviy axborot vositalarining huquqiy asoslari mustahkamlangan.
 
-Toʻrtinchi boʻlim “Maʼmuriy-hududiy va davlat tuzilishi” deb nomlangan, unda Oʻzbekistonning maʼmuriy-hududiy tuzilishi hamda Qoraqalpogʻiston Respublikasining huquqiy holati alohida boblarda belgilangan.
+**Toʻrtinchi boʻlim “Maʼmuriy-hududiy va davlat tuzilishi”** deb nomlangan, unda Oʻzbekistonning maʼmuriy-hududiy tuzilishi hamda Qoraqalpogʻiston Respublikasining huquqiy holati alohida boblarda belgilangan.
 
-“Davlat hokimiyatining tashkil etilishi” deb nomlangan Konstitutsiyaning eng katta beshinchi boʻlimi “Oʻzbekiston Respublikasining Oliy Majlisi”, “Oʻzbekiston Respublikasining Prezidenti”, “Oʻzbekiston Respublikasi Vazirlar Mahkamasi”, “Mahalliy davlat hokimiyati asoslari. Fuqarolarning oʻzini oʻzi boshqarish organlari”, “Say-
+**“Davlat hokimiyatining tashkil etilishi”** deb nomlangan Konstitutsiyaning eng katta **beshinchi boʻlimi** “Oʻzbekiston Respublikasining Oliy Majlisi”, “Oʻzbekiston Respublikasining Prezidenti”, “Oʻzbekiston Respublikasi Vazirlar Mahkamasi”, “Mahalliy davlat hokimiyati asoslari. Fuqarolarning oʻzini oʻzi boshqarish organlari”, “Say-
 
 ### Yodda tuting!
 
@@ -128,15 +128,11 @@ Oʻzbekiston Respublikasi Konstitutsiyasi muqaddima, 6 boʻlim, 27 bob va 155 mo
 
 5. Konstitutsiyaning muqaddimasi va uning keyingi normalari oʻrtasida qanday bogʻliqlik mavjud?
 
-### Mustaqil ish uchun topshiriq
-
-Konstitutsiya turlari boʻyicha jadval yarating. Jadvalning chap tomoniga kons titutsiya turlari, oʻng tomoniga esa ularga mos keladigan davlatlarni yoz ing.
-
 ## 2-dars. Oʻzbekiston Respublikasi Konstitutsiyasining qabul qilinishi
 
 Barcha jamoalar uchun umumiy va doimiy konstitutsiya yaratish imkonsiz, har bir avlod oʻz konstitutsiyasini yaratish huquqiga ega.
 
-Tomas Jefferson
+**Tomas Jefferson**
 
 ### Bilib olasiz
 
@@ -158,7 +154,7 @@ Mustaqil davlatning Konstitutsiyasi – davlatning asosiy qonuni sifatida fuqaro
 
 1992-yil 8-dekabrda Oliy Kengashning XI sessiyasida loyiha maʼqullandi va Oʻzbekiston Respublikasining Konstitutsiyasi qabul qilindi. Mustaqil Oʻzbekistonning Konstitutsiyasi shu tarzda amalga kiritildi. 8-dekabr – Oʻzbekiston Respublikasining Konstitutsiyasi qabul qilingan kun, umumxalq bayrami deb eʼlon qilindi. 1992-yil 8-dekabrda qabul qilingan Oʻzbekiston Respublikasi Konstitutsiyasi muqaddima, 6 boʻlim, 26 bob va 128 moddadan iborat boʻlgan.
 
-Yangi tahrirdagi Oʻzbekiston Respublikasi Konstitutsiyasining qabul qilinishi
+**Yangi tahrirdagi Oʻzbekiston Respublikasi Konstitutsiyasining qabul qilinishi**
 
 Mamlakatimizda amalga oshirilayotgan islohotlar insonning shaʼni, qadr-qimmati, huquq va erkinliklari bundan buyon barcha sohalarda ustuvor ahamiyat kasb etishini qatʼi qoidaga aylantirish, bir soʻz bilan aytganda, bugungi islohotlarning bosh tamoyili boʻlgan “Inson – jamiyat – davlat” yondashuvini Konstitutsiyamizning mazmun-mohiyatiga chuqur singdirishni taqozo etdi.
 
@@ -166,17 +162,17 @@ Yuqoridagilardan kelib chiqib, 2022-yil 20-may kuni Oliy Majlis palatalarining q
 
 yuzasidan takliflarni shakllantirish va tashkiliy chora-tadbirlarni amalga oshirish boʻyicha Konstitutsiyaviy komissiya tashkil etildi. Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyev Konstitutsiyaviy komissiya aʼzolari bilan uchrashuvdagi nutqida: “Bosh maqsadimiz – har bir yurtdoshimiz ushbu hujjatni mening Konstitutsiyam deb faxrlanadigan mukammal darajaga olib chiqishdir”, deb taʼkidlagan edi.
 
-2023-yilning 30-aprel kuni “Oʻzbekiston Respublikasi Konstitutsiyasi toʻgʻrisida”gi Oʻzbekiston Respublikasi Konstitutsiyaviy qonuni loyihasi boʻyicha Oʻzbekiston Respublikasi referendumi oʻtkazildi va yangi tahrirdagi Konstitutsiyamiz bevosita fuqarolarimiz tomonidan qabul qilindi.
+**2023-yilning 30-aprel kuni** “Oʻzbekiston Respublikasi Konstitutsiyasi toʻgʻrisida”gi Oʻzbekiston Respublikasi Konstitutsiyaviy qonuni loyihasi boʻyicha Oʻzbekiston Respublikasi referendumi oʻtkazildi va yangi tahrirdagi Konstitutsiyamiz bevosita fuqarolarimiz tomonidan qabul qilindi.
 
-> Konstitutsiyaning dastlabki 1-moddasida Oʻzbekiston – suveren, demokratik, huquqiy, ijtimoiy, dunyoviy davlat ekani qatʼi belgilab qoʻyildi.
+> Konstitutsiyaning dastlabki 1-moddasida **Oʻzbekiston – suveren, demokratik, huquqiy, ijtimoiy, dunyoviy davlat** ekani qatʼi belgilab qoʻyildi.
 
-Huquqiy davlat huquq ustuvorligi taʼminlangan, inson va fuqarolarning huquq va erkinliklari kafolatlangan, qonunlar oldida barcha teng va hisobdor boʻlgan, hech kim qonundan ustun turmaydigan davlatdir.
+**Huquqiy davlat** huquq ustuvorligi taʼminlangan, inson va fuqarolarning huquq va erkinliklari kafolatlangan, qonunlar oldida barcha teng va hisobdor boʻlgan, hech kim qonundan ustun turmaydigan davlatdir.
 
-Ijtimoiy davlat har bir inson uchun farovon turmush darajasi, xususan, sifatli taʼlim, kafolatli tibbiy xizmat, munosib mehnat sharoiti va adolatli ish haqi, pensiya va nafaqalar, uy-joyli boʻlish sharoiti mavjud boʻlgan, hech bir fuqaro oʻz muammolari bilan yolgʻiz qolmaydigan adolatli davlatdir.
+**Ijtimoiy davlat** har bir inson uchun farovon turmush darajasi, xususan, sifatli taʼlim, kafolatli tibbiy xizmat, munosib mehnat sharoiti va adolatli ish haqi, pensiya va nafaqalar, uy-joyli boʻlish sharoiti mavjud boʻlgan, hech bir fuqaro oʻz muammolari bilan yolgʻiz qolmaydigan adolatli davlatdir.
 
-Dunyoviy davlat diniy tashkilot va birlashmalar davlatdan hamda davlat hokimiyati dindan ajratilgan, davlat boshqaruvi diniy qoidalar bilan emas, balki Konstitutsiya va qonun hujjatlari bilan tartibga solinadigan davlat hisoblanadi.
+**Dunyoviy davlat** diniy tashkilot va birlashmalar davlatdan hamda davlat hokimiyati dindan ajratilgan, davlat boshqaruvi diniy qoidalar bilan emas, balki Konstitutsiya va qonun hujjatlari bilan tartibga solinadigan davlat hisoblanadi.
 
-Yangilangan Konstitutsiyamizning eng muhim jihatlari shaxsiy huquq va erkinliklar, iqtisodiy va ijtimoiy huquqlar borasidagi normalar qariyb 3,5 baravarga koʻpaydi.
+Yangilangan Konstitutsiyamizning eng muhim jihatlari shaxsiy huquq va erkinliklar, iqtisodiy va ijtimoiy huquqlar borasidagi normalar qariyb **3,5 baravarga koʻpaydi.**
 
 Eng muhim oʻzgarishlar qatorida taʼlim sohasiga oid normalar yanada koʻpaydi. Masalan, davlatning oʻqituvchilarning shaʼni va qadr-qimmatini himoya qilishi, ularning ijtimoiy va moddiy farovonligi, kasbiy jihatdan oʻsishi toʻgʻrisida gʻamxoʻrlik qilishi mustahkamlandi (52-modda).
 
@@ -190,13 +186,13 @@ Asosiy qonun matni qariyb 65 foizga yangilandi.
 
 ### Konstitutsiyaga oʻzgartirish va qoʻshimchalar kiritish tartibi
 
-Konstitutsiyamizda uning barqarorligini taʼminlash, unga tez-tez oʻzgartirishlar kiritilishining oldini olishga qaratilgan himoya choralari nazarda tutilgan. Mazkur qoidalar Konstitutsiyaning VI boʻlimida bayon etilgan boʻlib, unda oʻzgartirishlar kiritish tartibi va shartlari keltirilgan.
+Konstitutsiyamizda uning barqarorligini taʼminlash, unga tez-tez oʻzgartirishlar kiritilishining oldini olishga qaratilgan himoya choralari nazarda tutilgan. Mazkur qoidalar Konstitutsiyaning **VI boʻlimida** bayon etilgan boʻlib, unda oʻzgartirishlar kiritish tartibi va shartlari keltirilgan.
 
-154-moddaga koʻra, Oʻzbekiston Respublikasining Konstitutsiyasiga oʻzgartirish va qoʻshimchalar tegishincha Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputatlari va Senati aʼzolari umumiy sonining kamida uchdan ikki qismidan iborat koʻpchiligi tomonidan qabul qilingan konstitutsiyaviy qonun yoki Oʻzbekiston Respublikasining referendumi bilan kiritiladi.
+**154-moddaga** koʻra, Oʻzbekiston Respublikasining Konstitutsiyasiga oʻzgartirish va qoʻshimchalar tegishincha Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputatlari va Senati aʼzolari umumiy sonining kamida uchdan ikki qismidan iborat koʻpchiligi tomonidan qabul qilingan konstitutsiyaviy qonun yoki Oʻzbekiston Respublikasining referendumi bilan kiritiladi.
 
-Shu bilan birga, Oʻzbekiston Respublikasi Oliy Majlisi tegishli taklif kiritilganidan keyin olti oy mobaynida Konstitutsiyaga oʻzgartirish va qoʻshimchalar kiritish toʻgʻrisida keng va har taraflama muhokamani hisobga olgan holda konstitutsiyaviy qonun qabul qilishi mumkin.
+Shu bilan birga, Oʻzbekiston Respublikasi Oliy Majlisi tegishli taklif kiritilganidan keyin **olti oy mobaynida** Konstitutsiyaga oʻzgartirish va qoʻshimchalar kiritish toʻgʻrisida keng va har taraflama muhokamani hisobga olgan holda konstitutsiyaviy qonun qabul qilishi mumkin.
 
-Agar Oʻzbekiston Respublikasi Oliy Majlisi Konstitutsiyani oʻzgartirish toʻgʻrisidagi taklifni rad etsa, taklif bir yil oʻtganidan keyingina qayta kiritilishi mumkin.
+Agar Oʻzbekiston Respublikasi Oliy Majlisi Konstitutsiyani oʻzgartirish toʻgʻrisidagi taklifni rad etsa, taklif **bir yil oʻtganidan keyingina qayta kiritilishi mumkin.**
 
 Xulosa qilish mumkinki, Konstitutsiyaga oʻzgartirish va qoʻshimchalar, birinchidan, Oliy Majlis palatalari tomonidan, ikkinchidan, referendum orqali bevosita xalqning oʻzi tomonidan kiritilishi mumkin.
 
@@ -204,19 +200,13 @@ Xulosa qilish mumkinki, Konstitutsiyaga oʻzgartirish va qoʻshimchalar, birinch
 
 ### Tariximizda birinchi marotaba 2023-yilning 30-aprel kuni “Oʻzbekiston Respublikasi
 
-Konstitutsiyasi toʻgʻrisida”gi Oʻzbekiston Respublikasi Konstitutsiyaviy qonunini xalqimizning oʻzi qabul qildi. Yangi tahrirdagi Konstitutsiyamizdagi yangi qoidalar va oʻzgarishlarning asosiy qismi inson huquqlari bilan bogʻliq.
+**Konstitutsiyasi toʻgʻrisida”gi** Oʻzbekiston Respublikasi Konstitutsiyaviy qonunini xalqimizning oʻzi qabul qildi. Yangi tahrirdagi Konstitutsiyamizdagi yangi qoidalar va oʻzgarishlarning asosiy qismi inson huquqlari bilan bogʻliq.
 
 Qonunchilik palatasi deputatlari va Senati aʼzolari umumiy sonining kamida uchdan ikki qismidan iborat koʻpchiligi tomonidan qabul qilingan konstitutsiyaviy qonun orqali
 
 ### Savol va topshiriqlar
 
-1. Oʻzbekiston Konstitutsiyasining yaratilishiga qanday sabablar taʼsir qildi?
-
-2. Konstitutsiyaning yaratilishi va uning yangilanishida xalqimizning roli qanday?
-
-3. Konstitutsiyani ishlab chiqishda milliy qadriyatlar qay darajada eʼtiborga olingan?
-
-4. Konstitutsiyaga nima uchun oʻzgartirish, qoʻshimchalar kiritiladi, buning tartibi qanday?
+![](img/ogp-9.uz/p011-1.webp "802x139")
 
 ### Mustaqil ish uchun topshiriq
 
@@ -224,7 +214,7 @@ Jadval yarating. Jadvalning chap tomoniga Konstitutsiyamizdagi eng muhim inson h
 
 ## 3-dars. Huquqiy davlatda konstitutsiyaning oʻrni
 
-Davlatning vazifasi insonlarni baxt-saodatga olib borishdir, bu esa ilm va yaxshi axloq yordamida qoʻlga kiritiladi. Abu Nasr Forobiy
+Davlatning vazifasi insonlarni baxt-saodatga olib borishdir, bu esa ilm va yaxshi axloq yordamida qoʻlga kiritiladi. **Abu Nasr Forobiy**
 
 ### Bilib olasiz
 
@@ -236,7 +226,7 @@ Huquqiy davlatda konstitutsiyaning ustunligi.
 
 ### Huquqiy davlat va uning belgilari
 
-Huquqiy davlat bu – huquq ustuvorligi taʼminlangan, inson va fuqarolarning huquq va erkinliklari kafolatlangan, hokimiyatni amalga oshirishda (bevosita yoki vakillar orqali) xalqning ishtiroki taʼminlanuvchi davlatdir.
+**Huquqiy davlat** bu – huquq ustuvorligi taʼminlangan, inson va fuqarolarning huquq va erkinliklari kafolatlangan, hokimiyatni amalga oshirishda (bevosita yoki vakillar orqali) xalqning ishtiroki taʼminlanuvchi davlatdir.
 
 Huquqiy davlatda davlat organlarining, mansabdor shaxslarning faoliyati faqat konstitutsiya hamda qonun hujjatlari asosida amalga oshiriladi. Konstitutsiya qoidalari davlat organlari faoliyati va insonlar hayotida toʻgʻridan toʻgʻri qoʻllanadi. Huquqiy davlatda qonun talablari barchaga birdek tatbiq etiladi. Barcha davlat organlari va mansabdor shaxslar, fuqarolar va fuqarolik jamiyati institutlari qonunlarga boʻysunadi. Huquqiy davlat toʻgʻrisidagi nazariyalar har qanday demokratik davlat intilishi kerak boʻlgan namuna vazifasini oʻtaydi.
 
@@ -244,19 +234,21 @@ Huquqiy davlatda inson va uning manfaatlari davlatning diqqat markazida turadi. 
 
 ### HUQUQIY DAVLATNING BELGILARI
 
-Hokimiyat tizimining qonun chiqaruvchi, ijro etuvchi va sud hokimiyati tarmoqlariga boʻlinishi
+**Hokimiyat tizimining qonun chiqaruvchi, ijro etuvchi va sud hokimiyati tarmoqlariga boʻlinishi**
 
 ### Qonun ustuvorligi
 
-Hokimiyat tarmoqlarining oʻzaro muvozanati va bir-birini tiyib turishi
+**Hokimiyat tarmoqlarining oʻzaro muvozanati va bir-birini tiyib turishi**
 
-Fuqaro va davlatning huquq va burchlar orqali oʻzaro bogʻliqligi va masʼulligi
+**Fuqaro va davlatning huquq va burchlar orqali oʻzaro bogʻliqligi va masʼulligi**
 
-Inson huquq va erkinliklarining kafolatlanishi, ularni hech kim buzmasligi
+**Inson huquq va erkinliklarining kafolatlanishi, ularni hech kim buzmasligi**
 
 ### Huquqiy davlat va huquqiy madaniyat
 
-Huquqiy davlat va fuqarolik jamiyatining muhim mezonlaridan biri jamiyatda aholi huquqiy ongi va madaniyati darajasining yuksakligi hisoblanadi. Oʻzbekistonda mustaqillikning ilk yillaridan ushbu masalaga alohida eʼtibor qaratildi. Aholining huquqiy ongi va madaniyatini yuksaltirish masalalari davlat siyosatining ustuvor yoʻnalishiga aylandi. Shu oʻrinda Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyevning quyidagi fikrlarini keltirib oʻtish maqsadga muvofiq: “Biz jamiyatimizda shunday huquqiy madaniyatni shakllantirishimiz kerakki, unga muvofiq konstitutsiya va qonunlarga amal qilish, boshqalarning huquq va erkinliklari, shaʼni va qadr-qimmatini hurmat qilish majburiyat emas, balki kundalik qoida va odatga aylanishi shart”.
+![](img/ogp-9.uz/p013-1.webp "312x345")
+
+Huquqiy davlat va fuqarolik jamiyatining muhim mezonlaridan biri jamiyatda aholi huquqiy ongi va madaniyati darajasining yuksakligi hisoblanadi. Oʻzbekistonda mustaqillikning ilk yillaridan ushbu masalaga alohida eʼtibor qaratildi. Aholining huquqiy ongi va madaniyatini yuksaltirish masalalari davlat siyosatining ustuvor yoʻnalishiga aylandi. Shu oʻrinda Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyevning quyidagi fikrlarini keltirib oʻtish maqsadga muvofiq: **“Biz jamiyatimizda shunday huquqiy madaniyatni shakllantirishimiz kerakki, unga muvofiq konstitutsiya va qonunlarga amal qilish, boshqalarning huquq va erkinliklari, shaʼni va qadr-qimmatini hurmat qilish majburiyat emas, balki kundalik qoida va odatga aylanishi shart”.**
 
 Huquqiy ong qonunchilik va undagi huquqiy normalar, muayyan huquqiy munosabatlarda huquqiy normalarni amalga oshirish boʻyicha davlat idoralari, fuqarolar va boshqa shaxslarning faoliyati, qonunni buzishga qarshi kurashish kabi turli munosabatlarni ifoda etadi.
 
@@ -268,19 +260,19 @@ Inson huquq va erkinliklariga hurmat munosabatini shakllantirish, aholining huqu
 
 ### Yodda tuting!
 
-> Huquqiy ong – kishilarning qonunlar va boshqa huquqiy hodisalar haqidagi bilimlari, tasavvurlari yigʻindisi.
+![](img/ogp-9.uz/p013-2.webp "352x304")
 
-> Huquqiy madaniyat – kishilarning huquqiy bilim darajasi, huquqqa nisbatan ongli munosabati, huquqni hurmat qilishi va unga rioya qilishi.
+### Huquqiy madaniyatga ega shaxs
 
-> Huquqiy nigilizm – huquqqa, qonunlarga salbiy, ularni inkor qiluvchi, hurmatsiz munosabatda boʻlish.
+![](img/ogp-9.uz/p013-3.webp "900x190")
 
 ### Huquqiy davlatda konstitutsiyaning ustunligi
 
-Huquqiy davlatning eng muhim belgilaridan biri konstitutsiya va qonun ustunligidir. Konstitutsiya va qonun ustuvorligi barcha davlat hokimiyati organlari faoliyatida konstitutsiya, qonunlar oliy yuridik kuchga egaligi, ularning hokimiyat chiqaradigan boshqa qonun hujjatlaridan ustunligi hisoblanadi. Qonun ustuvorligi jamiyatda demokratiya va qonunchilik taʼminlanishiga xizmat qiluvchi tamoyildir. Mamlakatimizda demokratik huquqiy davlat barpo etishning bosh mezoni konstitutsiya va qonun ustuvorligini taʼminlashdir. Davlatni huquqiy deb atash uchun qonun ustunligi bilan birga chinakam huquq ustuvorligi ham talab etiladi. Huquq ustuvorligi prinsipi barcha normativ-huquqiy hujjatlar (shu jumladan, konstitutsiya) va davlat hokimiyati organlari faoliyati tabiiy huquq nazariyasiga tayanadi, inson huquqlari va manfaatlarini taʼminlash va himoya qilishni talab qiladi.
+Huquqiy davlatning eng muhim belgilaridan biri konstitutsiya va qonun ustunligidir. **Konstitutsiya va qonun ustuvorligi** barcha davlat hokimiyati organlari faoliyatida konstitutsiya, qonunlar oliy yuridik kuchga egaligi, ularning hokimiyat chiqaradigan boshqa qonun hujjatlaridan ustunligi hisoblanadi. Qonun ustuvorligi jamiyatda demokratiya va qonunchilik taʼminlanishiga xizmat qiluvchi tamoyildir. Mamlakatimizda demokratik huquqiy davlat barpo etishning bosh mezoni konstitutsiya va qonun ustuvorligini taʼminlashdir. Davlatni huquqiy deb atash uchun qonun ustunligi bilan birga chinakam huquq ustuvorligi ham talab etiladi. Huquq ustuvorligi prinsipi barcha normativ-huquqiy hujjatlar (shu jumladan, konstitutsiya) va davlat hokimiyati organlari faoliyati tabiiy huquq nazariyasiga tayanadi, inson huquqlari va manfaatlarini taʼminlash va himoya qilishni talab qiladi.
 
 Huquqiy davlat insonning qadr-qimmati, erkinligi va huquqlarini himoya qilishga qaratilgan, qonunlar oldida barcha teng va hisobdor boʻlgan, hech kim qonundan ustun turmaydigan davlatdir.
 
-Bugun Oʻzbekistonda insonparvar, adolatli, erkin va xalqchil boʻlgan huquqiy davlat qurish maqsad qilingan. Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyev 2022-yil 20-iyunda Konstitutsiyaviy komissiya aʼzolari bilan uchrashuvda: “Faqat huquqiy davlat sharoitidagina insonning hayoti, erkinligi, shaʼni, qadr-qimmatini toʻliq taʼminlash, tom maʼnoda xalqparvar boshqaruv tizimini shakllantirish mumkin”, deb taʼkidlagan edi.
+Bugun Oʻzbekistonda insonparvar, adolatli, erkin va xalqchil boʻlgan huquqiy davlat qurish maqsad qilingan. Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyev 2022-yil 20-iyunda Konstitutsiyaviy komissiya aʼzolari bilan uchrashuvda: **“Faqat huquqiy davlat sharoitidagina insonning hayoti, erkinligi, shaʼni, qadr-qimmatini toʻliq taʼminlash, tom maʼnoda xalqparvar boshqaruv tizimini shakllantirish mumkin”**, deb taʼkidlagan edi.
 
 Yangi tahrirdagi konstitutsiyamizning 1-moddasida “Oʻzbekiston – huquqiy davlat” deb koʻrsatib qoʻyildi. Asosiy qonunda Oʻzbekiston huquqiy davlat ekanini alohida belgilash davlat oʻz faoliyatini, jamiyat va fuqarolar yashash tarzini faqat konstitutsiya va qonunlarga koʻra yoʻlga qoʻyishiga asos yaratadi.
 
@@ -290,7 +282,7 @@ Oʻzbekiston huquqiy davlat deb belgilanishi barchaning qonun oldida tengligini 
 
 ### Yodda tuting!
 
-> Huquq ustuvorligi (“Rule of law”) – davlat va mansabdor shaxslarning, fuqarolar va birlashmalarining faoliyati huquq bilan bogʻliqligi, huquqqa mos holda amalga oshirilishidir.
+> **Huquq ustuvorligi (“Rule of law”) –** davlat va mansabdor shaxslarning, fuqarolar va birlashmalarining faoliyati huquq bilan bogʻliqligi, huquqqa mos holda amalga oshirilishidir.
 
 ### Savol va topshiriqlar
 
@@ -310,7 +302,7 @@ Huquqiy nigilizm jamiyat taraqqiyotiga jiddiy xavf tugʻdiruvchi hamda huquqiy o
 
 Suverenitet – davlatning mutlaq va doimiy hokimiyatidir.
 
-Jan Boden
+**Jan Boden**
 
 ### Bilib olasiz
 
@@ -318,9 +310,11 @@ Davlat suvereniteti tushunchasi.
 
 Oʻzbekiston Respublikasining davlat boshqaruvi va tuzilishi shakli. Oʻzbekistonning davlat tili, davlat ramzlari.
 
+![](img/ogp-9.uz/p015-1.webp "242x374")
+
 ### Davlat suvereniteti tushunchasi
 
-Oʻzbekiston Respublikasi Konstitutsiyasining birinchi boʻlimi “Asosiy prinsiplar” deb nomlanadi. Unda davlat va konstitutsiyaviy tuzumning bosh tamoyillari belgilangan. Mazkur boʻlimning dastlabki bobi “Davlat suvereniteti” deb nomlanadi hamda 6 ta moddani oʻz ichiga oladi.
+Oʻzbekiston Respublikasi Konstitutsiyasining birinchi boʻlimi **“Asosiy prinsiplar”** deb nomlanadi. Unda davlat va konstitutsiyaviy tuzumning bosh tamoyillari belgilangan. Mazkur boʻlimning dastlabki bobi “Davlat suvereniteti” deb nomlanadi hamda 6 ta moddani oʻz ichiga oladi.
 
 Suverenitet soʻzi fransuzcha “souverainete” – “oliy hokimiyat” degan maʼnoni beradi. Suverenitet tushunchasi fransiyalik huquqshunos olim Jan Boden tomonidan kiritilgan hamda barcha xalqlar davlatchiligida mustaqillik maʼnosida ishlatiladi va xalqaro ahamiyat kasb etadi. Davlat suvereniteti hokimiyatni amalga oshirishda, bu borada yuzaga keluvchi muammolarni hal etishda nafaqat mamlakat ichkarisida, balki tashqarisida ham boshqa davlatlardan toʻla-toʻkis mustaqillikni anglatadi. Davlatning belgilaridan biri uning suvereniteti hisoblanadi. Davlat suverenitetining quyidagi asosiy prinsiplari mavjud: ✔ davlat hududi hamda chegaralarining daxlsizligi va boʻlinmasligi;
 
@@ -334,7 +328,7 @@ Suverenitet soʻzi fransuzcha “souverainete” – “oliy hokimiyat” degan 
 
 1991-yil 31-avgustda Oʻzbekiston SSR Oliy Kengashining navbatdan tashqari VI sessiyasida respublikamiz mustaqil davlat deb eʼlon qilindi. Ushbu sessiyada “Oʻzbekiston Respublikasining davlat mustaqilligi asoslari toʻgʻrisida”gi qonun qabul qilindi. U Oʻzbekiston Respublikasining Konstitutsiyasi qabul qilingan 1992-yil 8-dekabrga qadar asosiy qonun vazifasini bajardi.
 
-Asosiy prinsiplar ✔ Davlat suvereniteti ✔ Xalq hokimiyatchiligi ✔ Konstitutsiya va qonunning ustunligi ✔ Mustaqil tashqi siyosat
+**Asosiy prinsiplar** ✔ Davlat suvereniteti ✔ Xalq hokimiyatchiligi ✔ Konstitutsiya va qonunning ustunligi ✔ Mustaqil tashqi siyosat
 
 ### Oʻzbekiston
 
@@ -344,7 +338,7 @@ Davlatning “Oʻzbekiston Respublikasi” va “Oʻzbekiston” degan nomlari b
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 1-modda
+**Konstitutsiyasi, 1-modda**
 
 ### Yodda tuting!
 
@@ -352,29 +346,23 @@ Davlat xalq irodasini ifoda etib, uning manfaatlariga xizmat qiladi. Davlat orga
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 2-modda
+**Konstitutsiyasi, 2-modda**
 
 Davlat mustaqilligiga erishilishi Oʻzbekistonga mustaqil taraqqiyot yoʻliga qadam qoʻyish, jahon hamjamiyatiga xalqaro munosabatlarning toʻla huquqli subyekti sifatida kirish imkonini berdi. Davlatning xalq manfaatlariga xizmat qilishiga erishish demokratik jamiyat qurishda eng muhim shartdir. Davlatning eng birinchi vazifasi xalq irodasini ifoda etish, xalq manfaatlarini himoya qilish va unga xizmat qilishdir. Bu esa barcha davlat organlari va mansabdor shaxslar jamiyat va fuqarolar oldida masʼul ekanini bildiradi.
 
 ### Oʻzbekiston Respublikasining davlat boshqaruvi va tuzilishi shakli
 
-Respublika boshqaruv shakli deganda davlat hokimiyatining oliy organlarini tashkil etish hamda ushbu organlarning oʻzaro va aholi bilan boʻlgan munosabatlari tizimi tushuniladi. “Respublika” atamasi lotinchadan olingan boʻlib, “umumxalq ishi” degan maʼnoni bildiradi. BMT aʼzolaridan 150 ga yaqin davlat oʻz nomida respublika boshqaruv shakliga egaligini mustahkamlagan.
+**Respublika boshqaruv shakli** deganda davlat hokimiyatining oliy organlarini tashkil etish hamda ushbu organlarning oʻzaro va aholi bilan boʻlgan munosabatlari tizimi tushuniladi. “Respublika” atamasi lotinchadan olingan boʻlib, “umumxalq ishi” degan maʼnoni bildiradi. BMT aʼzolaridan 150 ga yaqin davlat oʻz nomida respublika boshqaruv shakliga egaligini mustahkamlagan.
 
-Konstitutsiyamizning 1-moddasida Oʻzbekiston respublika boshqaruv shaklidagi davlat ekani belgilangan. Oʻzbekistonda respublika boshqaruv shakli hokimiyatning barcha oliy organlari saylovlar yoki vakillik organlari tomonidan shakllanishida namoyon boʻladi. Konstitutsiyamizga koʻra, qonun chiqaruvchi organ – Oliy Majlis ham, davlat boshligʻi Prezident ham fuqarolar tomonidan saylanadi. Ijro etuvchi hokimiyat – Vazirlar Mahkamasi esa birlamchi vakillik organlari tomonidan shakllantiriladi. Bunda Oʻzbekiston Respublikasining Prezidenti davlat boshligʻi hisoblanib, u davlat hokimiyati organlarining kelishilgan holda faoliyat yuritishini hamda hamkorligini taʼminlaydi.
+Konstitutsiyamizning 1-moddasida **Oʻzbekiston respublika boshqaruv shaklidagi davlat** ekani belgilangan. Oʻzbekistonda respublika boshqaruv shakli hokimiyatning barcha oliy organlari saylovlar yoki vakillik organlari tomonidan shakllanishida namoyon boʻladi. Konstitutsiyamizga koʻra, qonun chiqaruvchi organ – Oliy Majlis ham, davlat boshligʻi Prezident ham fuqarolar tomonidan saylanadi. Ijro etuvchi hokimiyat – Vazirlar Mahkamasi esa birlamchi vakillik organlari tomonidan shakllantiriladi. Bunda Oʻzbekiston Respublikasining Prezidenti davlat boshligʻi hisoblanib, u davlat hokimiyati organlarining kelishilgan holda faoliyat yuritishini hamda hamkorligini taʼminlaydi.
 
 Xulosa qilish mumkinki, davlat boshqaruvining respublika shakli xalq hokimiyatchiligining ifodasi boʻlib, fuqarolarning konstitutsiyada kafolatlangan tabiiy huquqlari taʼminlanadi, ularning jamiyat va davlat ishlarini boshqarishda bevosita hamda oʻz vakillari orqali ishtirok etish, soʻz erkinligi, saylov, sudga shikoyat qilish kabi huquq va erkinliklaridan foydalanishi, shuningdek, davlat organlarining faoliyati ustidan jamoatchilik nazoratini amalga oshirishi uchun zarur shart-sharoitlar yaratiladi.
 
-### Boshqaruvning respublika shakliga xos boʻlgan belgilar
-
-✔ Davlat boshligʻi va oliy hokimiyat organlari vakillarining saylovlar orqali shakllantirilishi. ✔ Saylab qoʻyiladigan organlarning saylovchilar oldida javobgarligi, ularning muayyan muddatga saylanishi va tayinlanishi.
-
-✔ Davlat hokimiyati davlat boshligʻi nomidan emas, balki xalq nomidan amalga oshirilishi. ✔ Fuqarolar huquqlarining davlat tomonidan himoya qilinishi, davlat va shaxs oʻrtasida oʻzaro masʼullikning mavjudligi.
-
 Har qanday davlatning asosiy belgisi uning aholisi yashab turgan hudud mavjud ekanidir.
 
-Davlat tuzilishi shakli joylardagi hokimiyat organlarining markaziy hokimiyat organlari bilan oʻzaro munosabatlarini belgilab beruvchi, siyosiy va hududiy jihatdan tashkil etilishidir. Jahondagi aksariyat mamlakatlar davlat tuzilishining unitar shakliga egadir. Bu holda davlat hududi maʼmuriy hududlarga (viloyatlar, tumanlar va hokazolarga), yaʼni davlatchilikka ega boʻlmagan, balki boshqaruv qulay boʻlishi uchun mavjud boʻlgan qismlarga taq-
+**Davlat tuzilishi shakli** joylardagi hokimiyat organlarining markaziy hokimiyat organlari bilan oʻzaro munosabatlarini belgilab beruvchi, siyosiy va hududiy jihatdan tashkil etilishidir. Jahondagi aksariyat mamlakatlar davlat tuzilishining unitar shakliga egadir. Bu holda davlat hududi maʼmuriy hududlarga (viloyatlar, tumanlar va hokazolarga), yaʼni davlatchilikka ega boʻlmagan, balki boshqaruv qulay boʻlishi uchun mavjud boʻlgan qismlarga taq-
 
-Unitar davlat yagona davlat boʻlib, uning alohida maʼmuriy-hududiy birliklari bir xildagi huquqlarga ega, butun davlat hududida yagona konstitutsiya, yagona hukumat va yagona qonun hujjatlari amal qiladi.
+**Unitar davlat** yagona davlat boʻlib, uning alohida maʼmuriy-hududiy birliklari bir xildagi huquqlarga ega, butun davlat hududida yagona konstitutsiya, yagona hukumat va yagona qonun hujjatlari amal qiladi.
 
 Oʻzbekiston Respublikasida davlat tuzilishining unitar shakli oʻrnatilgan. Respublikamizda davlatning unitar shakliga xos barcha belgilar mavjud. Konstitutsiyaga muvofiq (83-modda), Oʻzbekiston Respublikasi viloyatlar, tumanlar, shaharlar, shaharchalar, qishloqlar, ovullar, shuningdek, Qoraqalpogʻiston Respublikasidan iborat.
 
@@ -390,7 +378,7 @@ Oʻzbekistonning davlat chegarasi va hududi daxlsiz va boʻlinmasdir.
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 3-modda
+**Konstitutsiyasi, 3-modda**
 
 ### Oʻzbekistonning davlat tili, davlat ramzlari
 
@@ -400,7 +388,7 @@ Mustaqillik uchun birinchi huquqiy qadamlardan biri oʻzbek tiliga davlat tili m
 
 Shu tariqa, dastlab Oʻzbekiston Respublikasining “Davlat tili haqida”gi qonun, keyinchalik Oʻzbekiston Respublikasi Konstitutsiyasida davlat tili haqidagi qoidalar mustahkamlangan.
 
-“Oʻzbekiston Respublikasining davlat tili haqida”gi qonunida belgilanganidek, oʻzbek tiliga davlat tili maqomining berilishi mamlakat hududida
+**“Oʻzbekiston Respublikasining davlat tili haqida”gi qonuni**da belgilanganidek, oʻzbek tiliga davlat tili maqomining berilishi mamlakat hududida
 
 ### Yodda tuting!
 
@@ -412,7 +400,9 @@ hududida istiqomat qiluvchi millat va elatlarning tillari, urf-odatlari va anʼa
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 4-modda
+**Konstitutsiyasi, 4-modda**
+
+![](img/ogp-9.uz/p018-1.webp "342x212")
 
 ### Yodda tuting!
 
@@ -422,11 +412,11 @@ Davlat ramzlari davlat himoyasidadir.
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 5-modda
+**Konstitutsiyasi, 5-modda**
 
 yashovchi millat va elatlarning oʻz ona tilini qoʻllashdan iborat konstitutsiyaviy huquqlariga monelik qilmaydi. Oʻzbekiston Respublikasida davlat tilini oʻrganish uchun barcha fuqarolarga shart-sharoit yaratiladi hamda uning hududida yashovchi millatlar va elatlarning tillariga izzat-hurmat bilan munosabatda boʻlish taʼminlanadi.
 
-Davlat ramzlari har bir davlat mustaqilligining tarixan shakllangan, eng muhim belgilari sifatida uning suverenitetini yaqqol tasdiqlaydi.
+**Davlat ramzlari** har bir davlat mustaqilligining tarixan shakllangan, eng muhim belgilari sifatida uning suverenitetini yaqqol tasdiqlaydi.
 
 Oʻzbekiston Respublikasi ham oʻz oliy davlat hokimiyati tomonidan belgilangan va konstitutsiyada mustahkamlangan davlat ramzlari – bayrogʻi, gerbi va madhiyasiga ega.
 
@@ -450,53 +440,45 @@ Davlat ramzlari Oʻzbekiston mustaqil respublika sifatida xalqaro huquqning teng
 
 5. Davlat mustaqilligi va davlat ramzlari oʻrtasida qanday bogʻliqlik mavjud?
 
-### Mustaqil ish uchun topshiriq
-
-Davlat tuzilishi shakliga oid jadval yarating. Jadvalning chap qismiga unitar davlatning belgilari va jahondagi unitar davlatlarni yozing. Jadvalning oʻng qismiga Oʻzbekistonning davlat tuzilishi shakli belgilarini yozing hamda uning oʻziga xosligini muhokama qiling.
-
 ## 5-dars. Xalq hokimiyatchiligining konstitutsiyaviy asoslari
 
 Xalq demokratiyada koʻpchilikni tashkil etishi sababli, koʻpchilikning qarori hal qiluvchi ahamiyat kasb etadi.
 
-Arastu
+**Arastu**
 
 ### Bilib olasiz
 
-Demokratiya – xalq hokimiyatchiligi.
+![](img/ogp-9.uz/p019-1.webp "802x218")
 
-Davlat hokimiyati boʻlinishi prinsipi.
-
-Demokratik huquq va erkinliklar Konstitutsiya himoyasida.
-
-### Demokratiya – xalq hokimiyatchiligi
-
-Konstitutsiyamizning 1-moddasiga koʻra, Oʻzbekiston Demokratik respublika – xalq davlat hokimiyatining birdan bir manbayi boʻlgan, davlat xalq irodasini ifoda etadigan, fuqarolar jamiyat va davlat ishlarini boshqarishda bevosita hamda oʻz vakillari orqali ishtirok etish huquqi bilan taʼminlangan, davlat hokimiyatining oliy organlari saylov yoʻli bilan shakllantiriladigan davlat hisoblanadi. Xalq davlat hokimiyatining birdan bir manbayi degan norma nafaqat oliy hokimiyat, balki barcha darajadagi hokimiyat organlari xalqqa tegishli ekanini, ularning tashkil etilishi va faoliyat yuritishi, sodda qilib aytganda, mavjudligi faqat va faqat xalqdan kelib chiqishi, xalqqa xizmat qilishini aniq belgilab bermoqda. Shuning uchun ham “Xalq hokimiyatchiligi” bobi konstitutsiyaning asosiy prinsiplari boʻlimida joylashtirilgan.
+Konstitutsiyamizning 1-moddasiga koʻra, **Oʻzbekiston Demokratik respublika** – xalq davlat hokimiyatining **birdan bir manbayi boʻlgan,** davlat **xalq irodasini ifoda etadigan,** fuqarolar jamiyat va davlat ishlarini boshqarishda **bevosita hamda oʻz vakillari orqali ishtirok etish huquqi** bilan taʼminlangan, davlat hokimiyatining oliy organlari saylov yoʻli bilan shakllantiriladigan davlat hisoblanadi. **Xalq davlat hokimiyatining birdan bir manbayi** degan norma nafaqat oliy hokimiyat, balki barcha darajadagi hokimiyat organlari xalqqa tegishli ekanini, ularning tashkil etilishi va faoliyat yuritishi, sodda qilib aytganda, mavjudligi faqat va faqat xalqdan kelib chiqishi, xalqqa xizmat qilishini aniq belgilab bermoqda. Shuning uchun ham “Xalq hokimiyatchiligi” bobi konstitutsiyaning asosiy prinsiplari boʻlimida joylashtirilgan.
 
 Davlat miqyosidagi muammolarni hal etishda xalqning bevosita ishtiroki referendumda, yaʼni mamlakat siyosiy hayotining eng muhim masalalari yuzasidan oʻtkaziladigan umumxalq muhokamasida va bevosita ovoz berishda qatnashishi orqali namoyon boʻladi.
 
-Xalq nomidan faqat u saylagan Prezident, Oliy Majlis ish olib borishi mumkin. Dav - lat qaror qabul qilishi uchun jamoatchilik fikrini bilishi zarur boʻlib qolganda konstitutsiya, qonunlarning loyihalari umumxalq muhokamasiga qoʻyilishi yoki davlat va jamiyat hayotiga oid muhim qarorlar qabul qilish maqsadida referendum oʻtkazilishi mumkin. Masalan, 2023-yil 30-aprelda yurtimizda “Oʻzbekiston Respublikasi Konstitutsiyasi toʻgʻrisida”gi Oʻzbekiston Respublikasi konstitutsiyaviy qonuni loyihasi boʻyicha referendum oʻtkazildi. Referendumda ishtirok etgan fuqarolarning koʻpchiligi (referendumda ovoz berishda ishtirok etgan fuqarolarning 90,21 foizi) mazkur masalaga ijobiy javob berdilar.
+Xalq nomidan faqat u saylagan Prezident, Oliy Majlis ish olib borishi mumkin. Dav - lat qaror qabul qilishi uchun jamoatchilik fikrini bilishi zarur boʻlib qolganda konstitutsiya, qonunlarning loyihalari umumxalq muhokamasiga qoʻyilishi yoki davlat va jamiyat hayotiga oid muhim qarorlar qabul qilish maqsadida referendum oʻtkazilishi mumkin. Masalan, 2023-yil 30-aprelda yurtimizda “**Oʻzbekiston Respublikasi Konstitutsiyasi toʻgʻrisida”**gi Oʻzbekiston Respublikasi konstitutsiyaviy qonuni loyihasi boʻyicha referendum oʻtkazildi. Referendumda ishtirok etgan fuqarolarning koʻpchiligi (referendumda ovoz berishda ishtirok etgan fuqarolarning 90,21 foizi) mazkur masalaga ijobiy javob berdilar.
 
-> Xalq hokimiyatchiligi atamasi demokratiya (yunoncha demos – xalq, kratos – hokimiyat) soʻzining aynan tarjimasidir. Ilk bor Qadimgi Yunonistonda qoʻllangan bu tushuncha butun jahonga keng tarqaldi.
+> **Xalq hokimiyatchiligi** atamasi **demokratiya** (yunoncha demos – xalq, kratos – hokimiyat) soʻzining aynan tarjimasidir. Ilk bor Qadimgi Yunonistonda qoʻllangan bu tushuncha butun jahonga keng tarqaldi.
 
 Inson huquq va erkinliklari muhofazasining kafolatlangan mexanizmi mavjudligi
 
-Bilvosita, yaʼni vakillik demokratiyasi. Xalq suveren huquqlaridan foydalanib, oʻzi saylab qoʻygan vakillari (deputatlar va senatorlar) orqali davlat ishlarini amalga oshiradi.
+**Bilvosita,** yaʼni vakillik demokratiyasi. Xalq suveren huquqlaridan foydalanib, oʻzi saylab qoʻygan vakillari (deputatlar va senatorlar) orqali davlat ishlarini amalga oshiradi.
 
-Bevosita, yaʼni toʻgʻridan toʻgʻri demokratiya. Xalq davlat ishlarini vakillarsiz oʻzi hal qiladi (saylov, referendum, fuqarolar muro jaati, qonunlar loyihalari muhokamasi va boshqalar orqali).
+**Bevosita**, yaʼni toʻgʻridan toʻgʻri demokratiya. Xalq davlat ishlarini vakillarsiz oʻzi hal qiladi (saylov, referendum, fuqarolar muro jaati, qonunlar loyihalari muhokamasi va boshqalar orqali).
+
+![](img/ogp-9.uz/p020-1.webp "182x552")
 
 ### Davlat hokimiyati boʻlinishi prinsipi
 
-Hokimiyatlar boʻlinishi davlat hokimiyati tizimi faoliyatining asosiy prinsipi boʻlib, davlat hokimiyati vakolatlari bir-biridan mustaqil boʻlgan tarmoqlar orasida taqsimlanishi, ularning oʻzaro hamkorlik va muvozanati orqali hokimiyatni suiisteʼmol qilishning oldini olishni taʼminlaydigan tamoyildir. Ushbu prinsipga muvofiq davlat hokimiyati qonunchilik, ijro etuvchi va sud hokimiyati organlariga boʻlinadi.
+**Hokimiyatlar boʻlinishi** davlat hokimiyati tizimi faoliyatining asosiy prinsipi boʻlib, davlat hokimiyati vakolatlari bir-biridan mustaqil boʻlgan tarmoqlar orasida taqsimlanishi, ularning oʻzaro hamkorlik va muvozanati orqali hokimiyatni suiisteʼmol qilishning oldini olishni taʼminlaydigan tamoyildir. Ushbu prinsipga muvofiq davlat hokimiyati qonunchilik, ijro etuvchi va sud hokimiyati organlariga boʻlinadi.
 
 Dunyo miqyosida hokimiyatlar boʻlinishi nazariyasining ilmiy asoslari rivojlanishi Yevropa va AQSHda davlat boshqaruvining yangi shakllariga oʻtilishi, siyosiy tizimning oʻzgarishi hamda uning ilk konstitutsiyalarda mustahkamlanishi davrida sodir boʻlgan.
 
-Hokimiyatlar boʻlinishi tarixiga oid adabiyotlarda angliyalik olim Jon Lokk zamonaviy hokimiyatlar boʻlinishi nazariyasining ilk muallifi sifatida eʼtirof etiladi.
+Hokimiyatlar boʻlinishi tarixiga oid adabiyotlarda angliyalik olim **Jon Lokk** zamonaviy hokimiyatlar boʻlinishi nazariyasining ilk muallifi sifatida eʼtirof etiladi.
 
-Fransiyalik olim Sharl Lui de Monteskyo hokimiyatlar taqsimlanishining tugal taʼlimotini yaratgan muallif sifatida eʼtirof etiladi. Darhaqiqat, J. Lokk hoki miyatni qonun chiqa ruvchi va ijro etuvchi tarmoqlarga boʻlgan, xolos. Sh. Monteskyo esa hokimiyatning qonun chiqaruvchi va ijro etuvchi organlari oʻrtasida mustaqillik, tenglik hamda bir-birini muvozanatda ushlab turish tizimi zarurligini taʼkidlagan. Monteskyo erkinlik va adolat qaror topishi uchun hokimiyatlar boʻlinishi prinsipida sud hokimiyatini ilk bora alohida koʻrsatib oʻtadi hamda sud hokimiyati qonun chiqaruvchi va ijro hokimiyatidan ajratilgan holda mavjud boʻlishi kerakligini taʼkidlaydi.
+Fransiyalik olim **Sharl Lui de Monteskyo** hokimiyatlar taqsimlanishining tugal taʼlimotini yaratgan muallif sifatida eʼtirof etiladi. Darhaqiqat, J. Lokk hoki miyatni qonun chiqa ruvchi va ijro etuvchi tarmoqlarga boʻlgan, xolos. Sh. Monteskyo esa hokimiyatning qonun chiqaruvchi va ijro etuvchi organlari oʻrtasida mustaqillik, tenglik hamda bir-birini muvozanatda ushlab turish tizimi zarurligini taʼkidlagan. Monteskyo erkinlik va adolat qaror topishi uchun hokimiyatlar boʻlinishi prinsipida **sud hokimiyatini** ilk bora alohida koʻrsatib oʻtadi hamda sud hokimiyati qonun chiqaruvchi va ijro hokimiyatidan ajratilgan holda mavjud boʻlishi kerakligini taʼkidlaydi.
 
 Hokimiyatlar boʻlinishi nazariyasining amaliy ifodasi 1787-yilda qabul qilingan Amerika Qoʻshma Shtatlari konstitutsiyasida aks etdi.
 
-Mamlakatimiz qonunchiligida hokimiyatning boʻlinishi Oʻzbekiston Respublikasi Konstitutsiyasining 11-moddasida mustahkamlangan. Unga muvofiq, davlat hokimiyati tizimi hokimiyatning qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga boʻlinishi prinsipiga asoslanadi. Hokimiyat vakolatlari qonun chiqaruvchi oliy vakillik organi – Oliy Majlis, ijro hokimiyatining oliy organi – Vazirlar Mahkamasi va sud hokimiyati – odil sudlovni amalga oshiruvchi Oliy sud va Konstitutsiyaviy sud oʻrtasida taqsimlangan.
+Mamlakatimiz qonunchiligida hokimiyatning boʻlinishi Oʻzbekiston Respublikasi Konstitutsiyasining 11-moddasida mustahkamlangan. Unga muvofiq, davlat hokimiyati tizimi hokimiyatning qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga boʻlinishi prinsipiga asoslanadi. Hokimiyat vakolatlari qonun chiqaruvchi oliy vakillik organi – **Oliy Majlis**, ijro hokimiyatining oliy organi – **Vazirlar Mahkamasi** va sud hokimiyati – odil sudlovni amalga oshiruvchi **Oliy sud** va **Konstitutsiyaviy sud** oʻrtasida taqsimlangan.
 
 ### Yodda tuting!
 
@@ -504,13 +486,13 @@ Xalq davlat hokimiyatining birdan bir manbayidir. Oʻzbekiston Respublikasida da
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 7-modda
+**Konstitutsiyasi, 7-modda**
 
-### Demokratik huquq va erkinliklar Konstitutsiya himoyasida
+![](img/ogp-9.uz/p021-1.webp "502x154")
 
-23 bet Oʻzbekistonda demokratik huquq va erkinliklar konstitutsiya va qonunlar bilan himoya qilinadi. Inson huquqlari va erkinliklari tan olingan xalqaro huquqning umumeʼtirof etilgan prinsiplari va normalari bilan ham qoʻriqlanadi.
+**Demokratik huquq va erkinliklar Konstitutsiya himoyasida 23 bet** Oʻzbekistonda demokratik huquq va erkinliklar konstitutsiya va qonunlar bilan himoya qilinadi. Inson huquqlari va erkinliklari tan olingan xalqaro huquqning umumeʼtirof etilgan prinsiplari va normalari bilan ham qoʻriqlanadi.
 
-Insonning shaʼni, qadr-qimmati, huquq va erkinliklari bundan buyon barcha sohalarda ustuvor ahamiyat kasb etishini qatʼi qoidaga aylantirish, bir soʻz bilan aytganda, “Inson qadri uchun” gʻoyasi hamda bugungi islohotlarning bosh tamoyili boʻlgan “Inson – jamiyat – davlat” degan yondashuv yangilangan konstitutsiyamizning mazmun-mohiyatiga chuqur singdirildi. Konstitutsiyamiz inson huquqlari toʻgʻrisidagi xalqaro hujjatlar asosida ishlab chiqilgan. Alohida taʼkidlash lozimki, yangi tahrirdagi Konstitutsiyamiz xalqaro huquqiy hujjatlar normalari asosida yanada takomillashtirildi.27 bet Oʻzbekiston Respublikasi Konstitutsiyasining 13-moddasida ham Inson huquqlari umumjahon deklaratsiyasida eʼlon qilingan umuminsoniy huquqlar oliy qadriyat darajasida belgilangan. Inson huquqlari umumjahon deklaratsiyasida insonlarning ajralmas va daxl-siz huquqlari koʻrsatilgan. Uning 1-moddasiga muvofiq, “Hamma odamlar oʻz qadr-qimmati hamda huquqlarida erkin va teng boʻlib tugʻiladilar”, 3-moddasiga koʻra esa, “Har bir inson yashash, erkin boʻlish va shaxsiy daxlsizlik huquqlariga egadir”.
+Insonning shaʼni, qadr-qimmati, huquq va erkinliklari bundan buyon barcha sohalarda ustuvor ahamiyat kasb etishini qatʼi qoidaga aylantirish, bir soʻz bilan aytganda, **“Inson qadri uchun”** gʻoyasi hamda bugungi islohotlarning bosh tamoyili boʻlgan **“Inson – jamiyat – davlat”** degan yondashuv yangilangan konstitutsiyamizning mazmun-mohiyatiga chuqur singdirildi. Konstitutsiyamiz inson huquqlari toʻgʻrisidagi xalqaro hujjatlar asosida ishlab chiqilgan. Alohida taʼkidlash lozimki, yangi tahrirdagi Konstitutsiyamiz xalqaro huquqiy hujjatlar normalari asosida yanada takomillashtirildi.**27 bet** Oʻzbekiston Respublikasi Konstitutsiyasining 13-moddasida ham Inson huquqlari umumjahon deklaratsiyasida eʼlon qilingan umuminsoniy huquqlar oliy qadriyat darajasida belgilangan. Inson huquqlari umumjahon deklaratsiyasida insonlarning ajralmas va daxl-siz huquqlari koʻrsatilgan. Uning 1-moddasiga muvofiq, “Hamma odamlar oʻz qadr-qimmati hamda huquqlarida erkin va teng boʻlib tugʻiladilar”, 3-moddasiga koʻra esa, “Har bir inson yashash, erkin boʻlish va shaxsiy daxlsizlik huquqlariga egadir”.
 
 Konstitutsiyamizning eng muhim jihatlari inson, uning hayoti, erkinligi, qadr-qimmati, daxlsiz huquqlari va manfaatlarini taʼminlash, erkin va adolatli fuqarolik jamiyatini rivojlantirish hamda demokratik huquqiy davlat qurish bilan bogʻliqdir.
 
@@ -536,13 +518,13 @@ Jamiyat hayotining barcha jabhalarida qonunlarning qatʼiy hukumronligini bildir
 
 ### Mustaqil ish uchun topshiriq
 
-Hokimiyatning boʻlinishi prinsipiga oid jadval yarating. Jadvalda ularning vakolatlarini yoriting.
+![](img/ogp-9.uz/p021-2.webp "900x139")
 
 ## 6-dars. Oʻzbekiston Respublikasida konstitutsiya va qonunning ustunligi
 
 Agar tarbiya va jazo haqidagi qonunlar boʻlmasa, davlat faoliyati buziladi va inson huquqlari poymol boʻladi.
 
-Voiz Koshifiy
+**Voiz Koshifiy**
 
 ### Bilib olasiz
 
@@ -551,6 +533,8 @@ Konstitutsiya va qonun.
 Konstitutsiya va qonun ustuvorligini taʼminlash.
 
 ### Konstitutsiya va qonun
+
+![](img/ogp-9.uz/p022-1.webp "292x222")
 
 Oʻzbekiston Respublikasida Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlarining ustunligi soʻzsiz tan olinadi. Oʻzbekiston Respublikasi Konstitutsiyasi mamlakatning butun hududida oliy yuridik kuchga ega, toʻgʻridan toʻgʻri amal qiladi va yagona huquqiy makonning asosini tashkil etadi.
 
@@ -570,9 +554,11 @@ Konstitutsiyaning eng asosiy xususiyatlaridan biri uning oliy yuridik kuchga ega
 
 Konstitutsiya oliy yuridik kuchga ega deganda qonunchilik hujjatlari tizimida (iyerarxiyasida) eng yuqori oʻrinda turishi hamda uning boshqa har qanday normativ-huquqiy hujjatlardan ustunligi tushuniladi.
 
+![](img/ogp-9.uz/p023-1.webp "352x259")
+
 Qonun ustuvorligi, sodda qilib aytganda, qonunlarga rioya etishni anglatadi. Mazkur qarash har qanday rivojlangan davlatning poydevorini tashkil etadi.
 
-Sohibqiron Amir Temur: “Saltanatim martabasini toʻra va tuzuklar asosida shunday saqladimki, uning ishlariga aralashishga hech bir kimsaning qurbi yetmasdi”, deb oʻz davlatini qatʼi qoidalar, qonunlar orqali boshqarilganini taʼkidlaydi.
+Sohibqiron Amir Temur: **“Saltanatim martabasini toʻra va tuzuklar asosida shunday saqladimki, uning ishlariga aralashishga hech bir kimsaning qurbi yetmasdi”,** deb oʻz davlatini qatʼi qoidalar, qonunlar orqali boshqarilganini taʼkidlaydi.
 
 Konstitutsiyaning oliy yuridik kuchga ega ekani uning siyosiy-huquqiy hujjatligi, parlamentda qabul qilinishining alohida tartibi mavjudligi yoki umumxalq ovozi (referendum) asosida qabul qilinishi, davlatning ichki va tashqi siyosatining asosiy strategik yoʻnalishlarini, insonning asosiy huquq va erkinliklarini belgilashida ham namoyon boʻladi.
 
@@ -582,9 +568,11 @@ Konstitutsiyamizning 16-moddasida “Ushbu Konstitutsiyaning birorta qoidasi Oʻ
 
 Qonun ustuvorligi xalq hokimiyati va inson huquqlari tushunchalari bilan bevosita bogʻliq prinsipdir. Chunki xalq hokimiyati deganda fuqarolarning qarorlar qabul qilish jarayonida bevo sita yoki bilvosita ishtirok etish huquqi tushuniladi. Shu maʼnoda xalq irodasining ifodasi boʻlgan, fuqarolarning parlamentga saylab qoʻygan vakillari orqali yoki oʻzlari tomonidan bevo sita referendum orqali qabul qilingan qonunlar xalq hokimiyatchiligining natijasi, majoziy qilib aytganda, mevasi hisoblanadi. Inson huquq va erkinliklari qonunlar vositasida hayotga joriy etiladi, aslida qonunlarning pirovard maqsadi ham inson, uning huquq va erkinliklarini himoya qilishdan iboratdir.
 
+![](img/ogp-9.uz/p023-2.webp "900x370")
+
 Chunki xalq hokimiyati deganda fuqarolarning qarorlar qabul qilish jarayonida bevosita yoki bilvosita ishtirok etish huquqi tushuniladi.
 
-Qonun ustuvorligi xalq hokimiyati va inson huquqlari tushunchalari bilan bevosita bogʻliq prinsipdir.
+**Qonun ustuvorligi xalq hokimiyati va inson huquqlari tushunchalari bilan bevosita bogʻliq prinsipdir.**
 
 Xalq irodasining ifodasi boʻlgan, fuqarolarning parlamentga saylab qoʻygan vakillari orqali yoki oʻzlari tomonidan bevosita referendum orqali qabul qilingan qonunlar xalq hokimiyatchiligining natijasi, majoziy qilib aytganda, mevasi hisoblanadi.
 
@@ -618,6 +606,8 @@ Uchinchidan, birorta ham qonun yoki boshqa normativ-huquqiy hujjat Konstitutsiya
 
 Oʻzbekiston Respublikasi Konstitutsiyasining muqaddimasida Oʻzbekiston xalqi huquqiy davlat barpo etishni koʻzlagani qayd qilingan. Huquqiy davlatning muhim va ajralmas belgisi qonun ustuvorligi hisoblanadi.
 
+### QONUN USTUVORLIGI TAMOYILI
+
 Jamiyat hayotining barcha jabhalarida qonunlarning qatʼiy hukmronligini bildirib, yuqorida taʼkidlanganidek, barcha davlat organlari, mansabdor shaxslar va fuqarolarning konstitutsiya va qonunlarga soʻzsiz itoat etishida
 
 Huquq buzilishi hollarining oldini olish, shuningdek, huquqiy munosabat ishtirokchilari qonunni buzgan taqdirda qonunda belgilangan tartibda, javobgarlikka tortish uchun qonunlarning huquqiy asos vazifasini bajarishida namoyon boʻladi
@@ -636,9 +626,7 @@ Mamlakatda hokimiyatlar boʻlinishi prinsipining real joriy etilgani Oʻzbekisto
 
 Qonun ustuvorligi shaxsga oʻz huquq va erkinliklarini moneliksiz amalga oshirish, oʻz hayoti, erkinligi, shaʼni, qadr-qimmati va boshqa daxlsiz huquqlari qonunan kafolatlanganligi tufayli tinch, osoyishta, xotirjam, hech qanday tashqi taʼsirlardan, zoʻravonlik va oʻzboshimchalikdan qoʻrqmay yashash imkoniyatini beradi.
 
-### Yodda tuting!
-
-Oʻzbekiston Respublikasining Konstitutsiyasiga muvofiq, mamlakat Prezidenti fuqarolarning huquqlari va erkinliklariga, Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlarga rioya etilishining, Oʻzbekiston Respublikasi suvereniteti, xavfsizligi va hududiy yaxlitligining kafilidir (109-modda).
+![](img/ogp-9.uz/p026-1.webp "512x132")
 
 Qonun ustuvorligi, shuningdek, shaxsga uning uchun majburiy boʻlgan mazkur hujjatlarni qabul qilish jarayonida uning oʻzi yoki saylab qoʻygan vakillari orqali ishtirok etish, davlat boshqaruviga taʼsir oʻtkazish, davlat organlarining faoliyati ustidan jamoatchilik nazoratini amalga oshirish, oʻz huquq va erkinliklarini sud orqali himoya qilish, davlat organlari, mansabdor shaxslar, jamoat birlashmalarining gʻayriqonuniy xatti-harakatlari ustidan sudga shikoyat qilish huquqini taʼminlaydi.
 
@@ -654,15 +642,15 @@ Yangi Konstitutsiya oliy yuridik kuchga ega ekanidan kelib chiqib, davlat organl
 
 Mazkur Konstitutsiya normalarini ularni amalga oshirish uchun boshqa qonunchilik hujjatlarining mavjud emasligi yoki qonunchilikka Konstitutsiyaga muvofiq oʻzgartirish va qoʻshimchalar kiritilmaganligi vaji bilan qoʻllashni rad etish qatʼian taqiqlanadi.
 
-Oʻzbekiston Respublikasida konstitutsiya va qonunlarining ustunligi soʻzsiz tan olinadi
+**Oʻzbekiston Respublikasida konstitutsiya va qonunlarining ustunligi soʻzsiz tan olinadi**
 
 ### RESPUBLIKASI
 
-KONSTITUTSIYASI
+**KONSTITUTSIYASI**
 
-Birorta ham qonun yoki boshqa normativ-huquqiy hujjat konstitutsiya normalari va qoidalariga zid kelishi mumkin emas
+**Birorta ham qonun yoki boshqa normativ-huquqiy hujjat konstitutsiya normalari va qoidalariga zid kelishi mumkin emas**
 
-Davlat, uning organlari, mansabdor shaxslar, jamoat birlashmalari, fuqarolar konstitutsiya va qonunlarga muvofiq ish koʻradilar
+![](img/ogp-9.uz/p026-2.webp "802x121")
 
 Prezidentning bu boradagi faoliyati muhim siyosiy-yuridik ahamiyatga ega. U oʻz farmonlari, qarorlari bilan konstitutsiyaviy tamoyillarning, qonunlarda mustahkamlangan qoidalarning hayotga toʻla joriy etilishi uchun yoʻl ochadi, tegishli huquqiy mexanizmlarni yaratadi.
 
@@ -694,7 +682,7 @@ Davlatning asosiy qonuni –....
 
 Oʻzbekistonda konstitutsiya va qonunlar ustunligini taʼminlashning muhim kafolati –....
 
-Quyida berilgan gaplar ishtirokida esse yozing.
+**Quyida berilgan gaplar ishtirokida esse yozing.**
 
 Oʻzbekiston Respublikasida konstitutsiya va qonunlarning ustunligi soʻzsiz tan olinadi. Davlat, uning organlari, mansabdor shaxslar, jamoat birlashmalari, fuqarolar konstitutsiya va qonunlarga muvofiq ish koʻradilar.
 
@@ -704,11 +692,13 @@ Qonun ustuvorligi xalq hokimiyati va inson huquqlari tushunchalari bilan bevosit
 
 Qonun ustuvorligi taʼminlanmagan jamiyatda iqtisod ham rivojlanmaydi, iqtisodiy islohotlar ham samara bermaydi.
 
+![](img/ogp-9.uz/p027-1.webp "802x222")
+
 ## 7-dars. Oʻzbekiston Respublikasining tashqi siyosati
 
 Yangi Oʻzbekistonning tashqi siyosati, avvalo, xalqimiz, Vatanimiz manfaatlarini har tomonlama hisobga olgan holda amalga oshiriladi.
 
-Shavkat Mirziyoyev
+**Shavkat Mirziyoyev**
 
 ### Bilib olasiz
 
@@ -732,11 +722,9 @@ Oʻzbekiston mintaqa davlatlari bilan doʻstona va ahil qoʻshnichilik munosabat
 
 MDH mamlakatlari bilan hamkorlik ham Oʻzbekiston tashqi siyosatining ustuvor yoʻnalishi hisoblanadi. Mazkur davlatlar bilan respublikamiz tarixan shakllangan siyosiy, iqtisodiy, transport-kommunikatsion va boshqa aloqalarga ega. Oʻzbekiston Hamdoʻstlik mamlakatlari bilan tenglik, oʻzaro foydalilik, bir-birining manfaatlarini hurmat qilish va eʼtiborga olish tamoyillari asosida ikki tomonlama hamkorlik munosabatlarini mustahkamlashni davom ettiradi.
 
-### Yodda tuting!
+> **Barcha davlatlar – BMT ishtirokchilari oʻz faoliyatlarida quyidagi prinsiplarga rioya qilish majburiyatini oladilar**
 
-> Tashqi siyosat – davlatning oʻz chegaralaridan tashqarida xalqaro hayotda ishtirok etgan holda xalqaro munosabatlardagi umumiy siyosatini amalga oshirishdan iborat faoliyatidir.
-
-> Barcha davlatlar – BMT ishtirokchilari oʻz faoliyatlarida quyidagi prinsiplarga rioya qilish majburiyatini oladilar
+![](img/ogp-9.uz/p029-1.webp "802x293")
 
 Boshqa davlatlar bilan oʻzaro munosabatlardagi oʻz huquq va burchlarini tashqaridan qandaydir tazyiqsiz amalga oshirishga qodir boʻlgan mustaqil davlatgina xalqaro munosabatlar subyektiga aylanishi mumkin. Xalqaro huquq subyekti bir davlatning boshqa bir davlat ustidan hokimligini tan olmaydi. Bunday davlat oʻzining ichki va tashqi siyosatini amalga oshirish borasida mustaqil boʻladi.
 
@@ -746,55 +734,41 @@ Hozir dunyoning 150 ga yaqin mamlakati Oʻzbekistonni mustaqil davlat sifatida t
 
 ### Yodda tuting!
 
-Oʻzbekiston Respublikasi xalqaro munosabatlarning toʻla huquqli subyektidir. Oʻzbekistonning tashqi siyosati davlatlarning suveren tengligi, kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik, chegaralarning buzilmasligi, davlatlarning hududiy yaxlitligi, nizolarni tinch yoʻl bilan hal etish, boshqa davlatlarning ichki ishlariga aralashmaslik prinsiplariga hamda xalqaro huquqning umumeʼtirof etilgan boshqa prinsip va normalariga asoslanadi.
-
-### Oʻzbekiston Respublikasi Konstitutsiyasi, 17-modda
+![](img/ogp-9.uz/p029-2.webp "812x468")
 
 Mustaqillik eʼlon qilingan dastlabki kunlardanoq Oʻzbekiston Respublikasi dunyo hamjamiyatiga kirish yoʻlini tanladi:
 
-### 1991-yil 21-dekabrda MDH
-
-(Mustaqil davlatlar hamdoʻstligi tashkiloti)ga
-
-### 1992-yil 30-yanvarda mamlakatimiz
-
-YXHT (Yevropada xavfsizlik va hamkorlik tashkiloti)ga
-
-### 1993-yil 26-oktyabrda Birlashgan
-
-Millatlar Tashkilotining Taʼlim, fan va madaniyatga ixtisoslashgan muassasasi – UNЕSCOga
-
-### 2001-yil 15-iyunda SHHT
-
-(Shanxay hamkorlik tashkiloti)ga qabul qilindi.
+![](img/ogp-9.uz/p030-1.webp "762x200")
 
 ### Yangi Oʻzbekiston tashqi siyosatining ustuvor yoʻnalishlari
 
 Yangi Oʻzbekistonning zamonaviy tashqi siyosiy holati dunyoda va mintaqada shiddat bilan oʻzgarayotgan vaziyat hamda mamlakat ichidagi keng koʻlamli oʻzgarishlarga asoslanib shakllanmoqda.
 
-Davlatlarning suveren tengligi tamoyili bu – xalqaro huquqning kuch ishlatishni taqiqlash, davlatlarning ichki ishlariga aralashishga yoʻl qoʻyilmasligi, xalqlarning oʻz taqdirini oʻzi belgilash huquqi kabi eng muhim tamoyillarning boshlangʻich nuqtasidir. Xalqaro huquq va tartibni taʼminlash faqat ishtirokchilarning huquqiy tengligi toʻliq hurmat qilingan holda taʼminlanishi mumkin. Har bir davlat tizimning boshqa ishtirokchilari suverenitetini, yaʼni oʻz hududida qonun chiqaruvchi, ijro etuvchi, maʼmuriy va sud hokimiyatini boshqa davlatlarning aralashuvisiz amalga oshirish, shuningdek, oʻz tashqi siyosatini mustaqil ravishda amalga oshirish huquqini hurmat qilishga majburdir.
+> **Davlatlarning suveren tengligi tamoyili** bu – xalqaro huquqning kuch ishlatishni taqiqlash, davlatlarning ichki ishlariga aralashishga yoʻl qoʻyilmasligi, xalqlarning oʻz taqdirini oʻzi belgilash huquqi kabi eng muhim tamoyillarning boshlangʻich nuqtasidir. Xalqaro huquq va tartibni taʼminlash faqat ishtirokchilarning huquqiy tengligi toʻliq hurmat qilingan holda taʼminlanishi mumkin. Har bir davlat tizimning boshqa ishtirokchilari suverenitetini, yaʼni oʻz hududida qonun chiqaruvchi, ijro etuvchi, maʼmuriy va sud hokimiyatini boshqa davlatlarning aralashuvisiz amalga oshirish, shuningdek, oʻz tashqi siyosatini mustaqil ravishda amalga oshirish huquqini hurmat qilishga majburdir.
 
-Kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik tamoyili – tomonlarning boshqa davlatlarga qarshi bevosita yoki bilvosita kuch ishlatishni ifodalovchi har qanday harakatlardan oʻzini tiyib turishini anglatadi. Bu masala ilk bor Ikkinchi jahon urushi yillarida yuzaga keldi va xalqlarning urushdan keyin xalqaro munosabatlarni adolatli asosda oʻrnatishga boʻlgan intilishlari va umidlarini aks ettirdi. Bu qonuniyat birinchi marta xalqaro huquq prinsipiga aylandi va BMT nizomida mustahkamlab qoʻyildi.
+> **Kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik tamoyili** – tomonlarning boshqa davlatlarga qarshi bevosita yoki bilvosita kuch ishlatishni ifodalovchi har qanday harakatlardan oʻzini tiyib turishini anglatadi. Bu masala ilk bor Ikkinchi jahon urushi yillarida yuzaga keldi va xalqlarning urushdan keyin xalqaro munosabatlarni adolatli asosda oʻrnatishga boʻlgan intilishlari va umidlarini aks ettirdi. Bu qonuniyat birinchi marta xalqaro huquq prinsipiga aylandi va BMT nizomida mustahkamlab qoʻyildi.
 
-Chegaralar daxlsizligi tamoyili uch qoida asosida izohlanadi: birinchidan, xalqaro huquqiy meʼyorlarga muvofiq, yuridik jihatdan belgilangan mavjud chegaralarning tan olinishi; ikkinchidan, ayni vaqtda yoki kelajakda har qanday hududiy daʼvolardan voz kechish; uchinchidan, har qanday bosqinchilik harakatlari va tahdidlardan, jumladan, kuch ishlatish yoki kuch bilan tahdid solishdan voz kechish hisoblanadi.
+**Chegaralar daxlsizligi tamoyili** uch qoida asosida izohlanadi: birinchidan, xalqaro huquqiy meʼyorlarga muvofiq, yuridik jihatdan belgilangan mavjud chegaralarning tan olinishi; ikkinchidan, ayni vaqtda yoki kelajakda har qanday hududiy daʼvolardan voz kechish; uchinchidan, har qanday bosqinchilik harakatlari va tahdidlardan, jumladan, kuch ishlatish yoki kuch bilan tahdid solishdan voz kechish hisoblanadi.
 
-Davlatlarning hududiy yaxlitligi tamoyili BMT nizomi qabul qilinishi bilan oʻz tasdigʻini topgan. Huquqiy adabiyotlarda hududiy yaxlitlik, hududiy daxlsizlik, hududiy butunlik iboralarini uchratish mumkin. BMT nizomi kuch ishlatish yoki kuch bilan tahdid solish davlatning hududiy yaxlitligi (daxlsizlik) va har qanday davlatning siyosiy mustaqilligiga qarshi qoʻllanishini taqiqlab qoʻygan. Xususan, har bir davlat: birinchidan, boshqa davlatning milliy butunligi va hududiy daxlsizligini qisman yoki toʻla buzilishiga qaratilgan har qanday xatti-harakatdan oʻzini tiyib turishi kerak; ikkinchidan, davlatning hududi nizom qoidalarini buzish orqali kuch ishlatish natijasida harbiy bosib olish obyekti boʻlmasligi lozim.
+**Davlatlarning hududiy yaxlitligi tamoyili** BMT nizomi qabul qilinishi bilan oʻz tasdigʻini topgan. Huquqiy adabiyotlarda hududiy yaxlitlik, hududiy daxlsizlik, hududiy butunlik iboralarini uchratish mumkin. BMT nizomi kuch ishlatish yoki kuch bilan tahdid solish davlatning hududiy yaxlitligi (daxlsizlik) va har qanday davlatning siyosiy mustaqilligiga qarshi qoʻllanishini taqiqlab qoʻygan. Xususan, har bir davlat: birinchidan, boshqa davlatning milliy butunligi va hududiy daxlsizligini qisman yoki toʻla buzilishiga qaratilgan har qanday xatti-harakatdan oʻzini tiyib turishi kerak; ikkinchidan, davlatning hududi nizom qoidalarini buzish orqali kuch ishlatish natijasida harbiy bosib olish obyekti boʻlmasligi lozim.
 
-Nizolarni tinch yoʻl bilan hal etish tamoyili BMTning barcha aʼzolari xalqaro nizolarni xalqaro tinchlik, xavfsizlik hamda adolatga xavf solmaydigan holda tinch yoʻllar bilan hal qiladilar. Ushbu prinsip qator xalqaro shartnoma va bitimlarda belgilab qoʻyilgan. Ularda urush
+**Nizolarni tinch yoʻl bilan hal etish tamoyili** BMTning barcha aʼzolari xalqaro nizolarni xalqaro tinchlik, xavfsizlik hamda adolatga xavf solmaydigan holda tinch yoʻllar bilan hal qiladilar. Ushbu prinsip qator xalqaro shartnoma va bitimlarda belgilab qoʻyilgan. Ularda urush
+
+![](img/ogp-9.uz/p031-1.webp "782x348")
 
 Xalqaro huquqning umumeʼtirof etilgan boshqa prinsip va normalariga amal qiladi
 
 usuliga murojaat qilish huquqda chegaralanib, xalqaro nizolarni tinch yoʻl bilan hal etish vositalari rivojlantirilgan va davlatlar zimmasiga bunday vositalarni qoʻllash majburiyati yuklangan.
 
-Boshqa davlatlarning ichki ishlariga aralashmaslik tamoyili xalqaro munosabatlarda umumiy tamoyil sifatida millatlarning oʻz davlatchiligi uchun kurashishlari jarayonida shakllandi. Ilgarigi davrlarda ushbu tamoyil bir oz cheklangan ravishda qoʻllanardi, chunki xalqaro huquq koʻp holatlarda davlatning ichki ishlariga turli xil aralashuvlar, hattoki qurolli aralashuvlarga ham yoʻl qoʻya olar edi. Boshqa davlatlarning ichki ishlariga aralashmaslik tamoyili hozirgi nuqtayi nazardan umumiy shaklda BMT nizomining 2-moddasi, 7-bandida qayd etilgan boʻlib, yuqorida tilga olingan xalqaro hujjatlarda koʻrsatib oʻtilgan. BMT nizomiga muvofiq, BMT hech bir davlatning tub ichki vakolatiga kiruvchi ishlarga aralashish huquqiga ega emas. Bunday taqiqlash nafaqat BMTning oʻziga, balki xalqaro munosabatlarning barcha ishtirokchilariga ham taalluqlidir.
+**Boshqa davlatlarning ichki ishlariga aralashmaslik tamoyili** xalqaro munosabatlarda umumiy tamoyil sifatida millatlarning oʻz davlatchiligi uchun kurashishlari jarayonida shakllandi. Ilgarigi davrlarda ushbu tamoyil bir oz cheklangan ravishda qoʻllanardi, chunki xalqaro huquq koʻp holatlarda davlatning ichki ishlariga turli xil aralashuvlar, hattoki qurolli aralashuvlarga ham yoʻl qoʻya olar edi. Boshqa davlatlarning ichki ishlariga aralashmaslik tamoyili hozirgi nuqtayi nazardan umumiy shaklda BMT nizomining 2-moddasi, 7-bandida qayd etilgan boʻlib, yuqorida tilga olingan xalqaro hujjatlarda koʻrsatib oʻtilgan. BMT nizomiga muvofiq, BMT hech bir davlatning tub ichki vakolatiga kiruvchi ishlarga aralashish huquqiga ega emas. Bunday taqiqlash nafaqat BMTning oʻziga, balki xalqaro munosabatlarning barcha ishtirokchilariga ham taalluqlidir.
 
 Yangi Oʻzbekiston tashqi siyosatining ustuvor yoʻnalishlari besh yoki oltita tamoyildan iborat emas, yaʼni xalqaro huquqning umumeʼtirof etilgan boshqa prinsip va normalariga ham asoslanadi.
 
-Masalan, xalqlarning oʻz taqdirini oʻzi belgilashi tamoyili har bir xalqning oʻz taraqqiyot yoʻli va shakllarini erkin tanlay olish huquqining soʻzsiz hurmat qilinishi xalqaro munosabatlardagi asosiy tamoyillardan biri hisoblanadi. Bu xalqlarning oʻz taqdirini oʻzi belgilashi tamoyilida oʻz aksini topgan. BMT nizomining 1-moddasi 2-bandida BMT faoliyatidagi muhim qoidalardan biri “Xalqlarning teng huquqliligi va oʻz taqdirini oʻzi belgilashi tamoyiliga hurmat asosida millatlararo doʻstlik aloqalarini rivojlantirishdir”, deyilgan. Bugungi kunda ushbu tamoyil mustamlaka va qaram mamlakatlardagi muammolarni hal etish chogʻida asosiy qoida hisoblanadi.
+Masalan, **xalqlarning oʻz taqdirini oʻzi belgilashi tamoyili** har bir xalqning oʻz taraqqiyot yoʻli va shakllarini erkin tanlay olish huquqining soʻzsiz hurmat qilinishi xalqaro munosabatlardagi asosiy tamoyillardan biri hisoblanadi. Bu xalqlarning oʻz taqdirini oʻzi belgilashi tamoyilida oʻz aksini topgan. BMT nizomining 1-moddasi 2-bandida BMT faoliyatidagi muhim qoidalardan biri “Xalqlarning teng huquqliligi va oʻz taqdirini oʻzi belgilashi tamoyiliga hurmat asosida millatlararo doʻstlik aloqalarini rivojlantirishdir”, deyilgan. Bugungi kunda ushbu tamoyil mustamlaka va qaram mamlakatlardagi muammolarni hal etish chogʻida asosiy qoida hisoblanadi.
 
 ### Yodda tuting!
 
-> Birlashgan Millatlar Tashkiloti (BMT) – Yer yuzida tinchlikni mustahkamlash va xavfsizlikni taʼminlash, davlatlarning oʻzaro hamkorligini rivojlantirish maqsadida tashkil etilgan xalqaro tashkilot. 1945-yil 24-oktyabrda tuzilgan.
+![](img/ogp-9.uz/p031-2.webp "900x171")
 
 Shu bilan birga, tashqi siyosatni olib borishdagi asosiy eʼtibor siyosiy, savdo-iqtisodiy, ijtimoiy-gumanitar va boshqa sohalarga, shuningdek, Oʻzbekiston atrofida tinch, barqaror hamda xavfsiz muhitni shakllantirishga qaratilmoqda.
 
@@ -802,7 +776,7 @@ Yuqoridagilardan kelib chiqib, Prezident Shavkat Mirziyoyev Markaziy Osiyo davla
 
 Konstitutsiyamizning 18-moddasida “Oʻzbekiston Respublikasi davlatlar va xalqaro tashkilotlar bilan ikki va koʻp tomonlama munosabatlarni har taraflama rivojlantirishga qaratilgan tinchliksevar tashqi siyosatni amalga oshiradi. Oʻzbekiston Respublikasi davlatning, xalqning oliy manfaatlaridan, uning farovonligi va xavfsizligidan kelib chiqqan holda ittifoqlar tuzishi, hamdoʻstliklarga va boshqa davlatlararo tuzilmalarga kirishi hamda ulardan chiqishi mumkin”, deb belgilangan.
 
-Oʻzbekiston Respublikasi xalqaro munosabatlarning toʻla huquqli subyekti
+**Oʻzbekiston Respublikasi xalqaro munosabatlarning toʻla huquqli subyekti**
 
 Oʻzbekiston Respublikasi davlat suverenitetini qoʻlga kiritgach, xalqaro munosabatlarning toʻla huquqli subyekti sifatida faoliyat yurita boshladi. Oʻzbekiston Respublikasining Konstitutsiyasida yuqorida koʻrsatilgan xalqaro huquq tamoyillarining aksariyati belgilab qoʻyilib (17-modda), “xalqaro huquqning boshqa umum tan olingan tamoyil va meʼyorlari”ni hurmatlash aytib oʻtilgan.
 
@@ -810,7 +784,7 @@ Oʻzbekiston Respublikasi xalqaro hamjamiyatning ana shu tamoyil va meʼyorlarig
 
 Oʻzbekiston barcha xorijiy hamkorlar bilan oʻzaro foydali munosabatlarni rivojlantirishdan manfaatdor boʻlib, asosiy tashqi siyosiy harakatlarini eng muhim sohalarga qaratgan.
 
-Tashqi siyosat sohasida quyidagi eng muhim ustuvor yoʻnalishlar shakllantirildi:
+**Tashqi siyosat sohasida quyidagi eng muhim ustuvor yoʻnalishlar shakllantirildi:**
 
 – davlat mustaqilligi va suverenitetini mustahkamlash, mamlakatning xalqaro munosabatlarning toʻlaqonli subyekti sifatida oʻrnini, rolini yanada mustahkamlash, rivojlangan demokratik davlatlar qatoriga kirish, Oʻzbekiston atrofida xavfsizlik, barqarorlik va doʻstona qoʻshnichilik munosabatlari mintaqasini yaratish;
 
@@ -834,27 +808,11 @@ Umuman, Oʻzbekistonning tashqi siyosat sohasidagi ustuvor yoʻnalishlari barqar
 
 Xalqaro munosabatlarning teng huquqli aʼzosi. Xalqaro huquq meʼyorlari ustuvorligining eʼtirof etilishi.
 
-### Tashqi siyosat prinsiplari
-
-• davlatlarning suveren tengligi;
-
-• kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik;
-
-• chegaralarning daxlsizligi;
-
-• • •
-
-davlatlarning hududiy yaxlitligi;
-
-nizolarni tinch yoʻl bilan hal etish;
-
-boshqa davlatlarning ichki ishlariga aralashmaslik.
-
-Oʻzbekiston Respublikasining davlat mustaqilligini 150 ga yaqin mamlakat tan olgan.
+![](img/ogp-9.uz/p033-1.webp "900x772")
 
 ## 8-dars. Ijodiy faoliyat
 
-1-topshiriq. Quyidagi vaziyatni oʻrganing va savollarga javob bering.
+**1-topshiriq. Quyidagi vaziyatni oʻrganing va savollarga javob bering.**
 
 Oʻzbekiston Respublikasi Konstitutsiyasi oliy yuridik kuchga ega va Oʻzbekistonning butun hududida qoʻllanadi. Oʻzbekiston Respublikasining qonunlari va boshqa normativ-huquqiy hujjatlar Konstitutsiya asosida va uni ijro etish uchun qabul qilinadi hamda uning normalari va prinsiplariga zid boʻlishi mumkin emas.
 
@@ -862,11 +820,15 @@ Turli normativ-huquqiy hujjatlarning yuridik kuchi boʻyicha oʻzaro nisbati Oʻ
 
 Baʼzi vaziyatlarda qonunlar va boshqa normativ-huquqiy hujjatlar konstitutsiyaga zid boʻlishi mumkinmi?
 
-Sizningcha, bunday holatda konstitutsiyaning ustunligi tamoyili qanday taʼminlanadi hamda asosiy qonun-qoidalari qay usulda himoya qilinadi?
+**Sizningcha, bunday holatda konstitutsiyaning ustunligi tamoyili qanday taʼminlanadi hamda asosiy qonun-qoidalari qay usulda himoya qilinadi?**
 
-2-topshiriq. Ijodiy faoliyat.
+**2-topshiriq. Ijodiy faoliyat.**
 
 Oʻzbekiston Respublikasi Konstitutsiyasining 4 ta asosiy prinsipini jadvalning chap tomoniga yozing. Jadvalning oʻng tomonida esa Konstitutsiyaning birinchi boʻlimidagi boblardan bittadan moddani tanlab olish orqali ushbu prinsiplarni tahlil qiling. Bunda ularning mazmuni va ahamiyatini misollar yordamida bayon qiling. Masalan, Konstitutsiyaning 1-bobi “Davlat suvereniteti” deb nomlangan. Mazkur bobning 1-moddasida: “Oʻzbekiston – boshqaruvning respublika shakliga ega boʻlgan suveren, demokratik, huquqiy, ijtimoiy va dunyoviy davlat”, deyilgan. Shundan soʻng koʻrsatilgan normaning mazmunini izohlang.
+
+### Konstitutsiyaning asosiy prinsiplari
+
+![](img/ogp-9.uz/p034-1.webp "900x559")
 
 ## 9-dars. Nazorat ishi
 
@@ -898,13 +860,21 @@ Bunday boshqaruv shaklida saylab qoʻyiladigan organlar saylovchilar oldida javo
 
 Umumxalq ovoz berish yoʻli bilan qonunlar qabul qilish va davlat ahamiyatiga molik eng muhim masalalarni hal qilish shakli.
 
+### Dunyoviy davlat
+
+![](img/ogp-9.uz/p035-1.webp "166x111")
+
+### OʻZBEKISTON RESPUBLIKASI FUQAROLIGI
+
+![](img/ogp-9.uz/p036-1.webp "900x1051")
+
 # II bob. Oʻzbekiston Respublikasi fuqaroligi
 
 ## 10-dars. Oʻzbekiston Respublikasida fuqarolikning umumiy qoidalari
 
 Odamlar burchlarini unutishga, huquqlarini eslashga moyil boʻladilar.
 
-Indira Gandi
+**Indira Gandi**
 
 ### Bilib olasiz
 
@@ -920,6 +890,8 @@ Fuqarolikni olgan shaxs oʻz davlati hududida ham, uning chegarasidan tashqarida
 
 Fuqaro nafaqat hokimiyat organlariga oʻz vakilini saylash, balki ushbu organlarga oʻzi saylanish huquqiga ham ega boʻlishi mumkin. Fuqaroligi
 
+![](img/ogp-9.uz/p037-1.webp "332x292")
+
 boʻlmagan shaxs bunday huquqqa ega emas.
 
 Agar harbiy xizmatni oʻtash fuqarolar uchun fuqarolik burchi va majburiyati boʻlsa, bunday majburiyat fuqaroligi boʻlmagan shaxslarga nisbatan qonunan qoʻllanmaydi. Fuqaroligi boʻlmagan shaxslar partiyalarga aʼzo boʻlishi, davlat organlarida rahbarlik lavozimlarini egallashi, saylovlarda qatnashishi mumkin emas.
@@ -930,23 +902,23 @@ Chet davlat fuqarolari va fuqaroligi boʻlmagan shaxslar (apatridlar) xalqaro-hu
 
 ### Yodda tuting!
 
-> Fuqarolik – shaxsning muayyan davlat bilan doimiy huquqiy aloqasi. Bu shaxs va davlatning oʻzaro huquq va majburiyatlarida ifodalanadi. Shaxs fuqarolikka ega boʻlgach, davlat uning hamma huquq va erkinliklarini eʼtirof etadi, ularning amalga oshishini taʼminlash choralarini koʻradi. Fuqarolarning manfaatlarini davlat, fuqarolar boshqa mamlakatlar hududida turgan vaqtda ham himoya qiladi, ularga homiylik koʻrsatadi.
+> **Fuqarolik** – shaxsning muayyan davlat bilan doimiy huquqiy aloqasi. Bu shaxs va davlatning oʻzaro huquq va majburiyatlarida ifodalanadi. Shaxs fuqarolikka ega boʻlgach, davlat uning hamma huquq va erkinliklarini eʼtirof etadi, ularning amalga oshishini taʼminlash choralarini koʻradi. Fuqarolarning manfaatlarini davlat, fuqarolar boshqa mamlakatlar hududida turgan vaqtda ham himoya qiladi, ularga homiylik koʻrsatadi.
 
 Oʻzbekiston Respublikasi hududidagi chet el fuqarolarining va fuqaroligi boʻlmagan shaxslarning huquq va erkinliklari xalqaro huquq normalariga muvofiq taʼminlanadi. Ular Oʻzbekiston Respublikasining Konstitutsiyasi, qonunlari va xalqaro shartnomalarida belgilangan burchlarni ado etadilar.
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 24-modda
+**Konstitutsiyasi, 24-modda**
 
 ### Oʻzbekiston Respublikasi fuqaroligiga qabul qilish asoslari
 
-Oʻzbekiston Respublikasi fuqaroligiga quyidagi hollarda ega boʻlish mumkin:
+**Oʻzbekiston Respublikasi fuqaroligiga quyidagi hollarda ega boʻlish mumkin:**
 
 tugʻilishi boʻyicha, yaʼni bola qayerda tugʻilishidan qatʼi nazar, agar bola tugʻilgan vaqtda ota-onasi (yoki ota-onasidan biri) Oʻzbekiston Respublikasi fuqarosi boʻlsa;
 
 Oʻzbekiston Respublikasi fuqaroligiga qabul qilinishi va tiklanishi natijasida.
 
-Oʻzbekiston Respublikasi fuqaroligiga qabul qilish turlari.
+**Oʻzbekiston Respublikasi fuqaroligiga qabul qilish turlari.**
 
 Oʻzbekiston Respublikasi fuqaroligiga qabul qilish quyidagicha amalga oshiriladi:
 
@@ -956,7 +928,7 @@ Oʻzbekiston Respublikasi fuqaroligiga qabul qilish quyidagicha amalga oshirilad
 
 – alohida tartibda.
 
-Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning umumiy tartibi. Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning umumiy tartibi chet davlat fuqarosiga yoki fuqaroligi boʻlmagan shaxsga nisbatan quyidagi hollarda amalga oshiriladi, agar u:
+**Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning umumiy tartibi.** Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning umumiy tartibi chet davlat fuqarosiga yoki fuqaroligi boʻlmagan shaxsga nisbatan quyidagi hollarda amalga oshiriladi, agar u:
 
 a) chet davlat fuqaroligidan chiqishni rasmiylashtirgan boʻlsa;
 
@@ -964,15 +936,9 @@ b) fuqaroligi boʻlmagan shaxsga yashash guvohnomasi olingan kundan eʼtiboran v
 
 ### Yodda tuting!
 
-> Fuqaroligi boʻlmagan shaxs – Oʻzbekiston Respublikasi hududida doimiy yashab turgan, Oʻzbekiston Respublikasining fuqarosi boʻlmagan va oʻzining chet davlat fuqaroligiga mansubligiga doir dalilga ega boʻlmagan shaxs.
+> **Yashash guvohnomasi** – fuqaroligi boʻlmagan shaxsning yoki chet davlat fuqarosining shaxsini tasdiqlaydigan, Oʻzbekiston Respublikasi hududida doimiy yashashga ruxsat etilganligining tasdigʻi sifatida berilgan hujjat.
 
-Chet davlat fuqarosi – Oʻzbekiston Respublikasining fuqaroligiga ega boʻlmagan, boshqa davlat fuqaroligiga va oʻzining boshqa davlat fuqaroligiga mansubligiga doir dalilga ega boʻlgan shaxs.
-
-### Yodda tuting!
-
-> Yashash guvohnomasi – fuqaroligi boʻlmagan shaxsning yoki chet davlat fuqarosining shaxsini tasdiqlaydigan, Oʻzbekiston Respublikasi hududida doimiy yashashga ruxsat etilganligining tasdigʻi sifatida berilgan hujjat.
-
-Diskriminatsiya maʼlum bir toifadagi fuqarolarning huquqi jinsi, millati, diniy yoki siyosiy eʼtiqodi sabab asossiz ravishda cheklanishi yoki kamsitilishidir.
+**Diskriminatsiya** maʼlum bir toifadagi fuqarolarning huquqi jinsi, millati, diniy yoki siyosiy eʼtiqodi sabab asossiz ravishda cheklanishi yoki kamsitilishidir.
 
 davomida jami bir yuz sakson uch kundan koʻp boʻlmagan muddatda Oʻzbekiston Respublikasidan tashqariga chiqqan boʻlsa, Oʻzbekiston Respublikasi hududida boʻlish muddati uzluksiz hisoblanadi;
 
@@ -980,7 +946,7 @@ c) tirikchilikning qonuniy manbayiga ega boʻlsa;
 
 d) Oʻzbekiston Respublikasi Konstitutsiyasiga rioya etish majburiyatini oʻz zimmasiga olsa; e) davlat tilini muloqot qilish uchun zarur darajada bilsa.
 
-Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning soddalashtirilgan tartibi chet davlat fuqarosi yoki fuqaroligi boʻlmagan shaxs hisoblangan vatandoshga nisbatan quyidagi hollarda amalga oshiriladi, agar u:
+**Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning soddalashtirilgan tartibi chet davlat fuqarosi yoki fuqaroligi boʻlmagan shaxs hisoblangan vatandoshga nisbatan quyidagi hollarda amalga oshiriladi, agar u:**
 
 a) Oʻzbekiston Respublikasi hududida yashaydigan va Oʻzbekiston Respublikasi fuqarosi boʻlgan, nasl-nasab shajarasi boʻyicha toʻgʻridan toʻgʻri tutashgan loaqal bitta oʻzidan oldingi qarindoshga ega boʻlsa;
 
@@ -988,7 +954,7 @@ b) tirikchilikning qonuniy manbayiga ega boʻlsa;
 
 d) Oʻzbekiston Respublikasi Konstitutsiyasiga rioya etish majburiyatini oʻz zimmasiga olsa; e) davlat tilini qonunchilikda belgilangan tartibda muloqot qilish uchun zarur darajada bilsa. Oʻzbekiston Respublikasi fuqaroligiga qabul qilish ariza beruvchi chet davlat fuqaroligidan chiqqanligi haqida hujjat taqdim etganidan keyin, Oʻzbekiston Respublikasi Prezidentining farmoniga muvofiq amalga oshiriladi.
 
-Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning alohida tartibi Oʻzbekiston Respublikasi Prezidenti milliy manfaatlardan kelib chiqib, chet davlatlarning fuqarolari va fuqaroligi boʻlmagan shaxslar (olimlar, sportchilar, yozuvchilar va boshqalar)ni Oʻzbekiston Respublikasi fuqaroligiga qabul qilishi mumkin.
+**Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning alohida tartibi** Oʻzbekiston Respublikasi Prezidenti milliy manfaatlardan kelib chiqib, chet davlatlarning fuqarolari va fuqaroligi boʻlmagan shaxslar (olimlar, sportchilar, yozuvchilar va boshqalar)ni Oʻzbekiston Respublikasi fuqaroligiga qabul qilishi mumkin.
 
 ### Savol va topshiriqlar
 
@@ -1004,11 +970,11 @@ Oʻzbekiston Respublikasi fuqaroligiga qabul qilishning alohida tartibi Oʻzbeki
 
 ### Mustaqil ish uchun topshiriq
 
-Oʻzbekiston Respublikasi Konstitutsiyasidagi fuqarolikka oid normalarni toping va mazmunini tahlil qiling.
+![](img/ogp-9.uz/p039-1.webp "900x189")
 
 ## 11-dars. Fuqarolarning shaxsini tasdiqlovchi hujjatlar
 
-Xаlq qonunlаrgа ehtiyoj sezib, ulаrni puxtа oʻrgаnsа, bu fаqаt uning oʻzigа foydа keltirаdi. Аks holdа qonundаn koʻzlаngаn mаqsаdgа erishib boʻlmаyd i. Aflotun
+Xаlq qonunlаrgа ehtiyoj sezib, ulаrni puxtа oʻrgаnsа, bu fаqаt uning oʻzigа foydа keltirаdi. Аks holdа qonundаn koʻzlаngаn mаqsаdgа erishib boʻlmаyd i. **Aflotun**
 
 ### Bilib olasiz
 
@@ -1016,9 +982,9 @@ Oʻzbekiston Respublikasi fuqarosining identifikatsiyalovchi ID-kartasi va chet 
 
 Chet el fuqarolarining Oʻzbekiston Respublikasidagi huquqiy holati.
 
-Oʻzbekiston Respublikasi fuqarosining identifikatsiyalovchi ID-kartasi va chet elga chiqish biometrik pasporti
+**Oʻzbekiston Respublikasi fuqarosining identifikatsiyalovchi ID-kartasi va chet elga chiqish biometrik pasporti**
 
-> Oʻzbekiston Respublikasi fuqarosining identifikatsiya ID-kartasi – Oʻzbekiston Respublikasi hududida egasining shaxsini va Oʻzbekiston Respublikasining fuqaroligini tasdiqlaydigan, ID-karta egasining shaxsiy biografik va biometrik maʼlumotlari kiritilgan elektron tashuvchi qurilma (chip)ga ega boʻlgan hujjat.
+> **Oʻzbekiston Respublikasi fuqarosining identifikatsiya ID-kartasi** – Oʻzbekiston Respublikasi hududida egasining shaxsini va Oʻzbekiston Respublikasining fuqaroligini tasdiqlaydigan, ID-karta egasining shaxsiy biografik va biometrik maʼlumotlari kiritilgan elektron tashuvchi qurilma (chip)ga ega boʻlgan hujjat.
 
 ID-karta maʼlumotlarni yigʻish punkti tomonidan fuqarolarga quyidagi muddatlarga beriladi:
 
@@ -1028,7 +994,7 @@ ID-karta maʼlumotlarni yigʻish punkti tomonidan fuqarolarga quyidagi muddatlar
 
 – 16 yoshdan – 10 yil muddatga.
 
-> Oʻzbekiston Respublikasi fuqarosining xorijga chiqish biometrik pasporti – xorijga chiqish hamda Oʻzbekiston Respublikasi hududiga kirish, shuningdek, xorijda turish vaqtida egasining shaxsini va Oʻzbekiston Respublikasining fuqaroligini tasdiqlaydigan, pasport egasining shaxsiy biografik va biometrik maʼlumotlari saqlangan elektron axborot tashuvchiga (chipga) ega boʻlgan hujjat.
+> **Oʻzbekiston Respublikasi fuqarosining xorijga chiqish biometrik pasporti** – xorijga chiqish hamda Oʻzbekiston Respublikasi hududiga kirish, shuningdek, xorijda turish vaqtida egasining shaxsini va Oʻzbekiston Respublikasining fuqaroligini tasdiqlaydigan, pasport egasining shaxsiy biografik va biometrik maʼlumotlari saqlangan elektron axborot tashuvchiga (chipga) ega boʻlgan hujjat.
 
 Xorijga chiqish biometrik pasporti fuqarolarga quyidagi amal qilish muddatlariga beriladi:
 
@@ -1040,7 +1006,9 @@ Xorijga chiqish biometrik pasporti fuqarolarga quyidagi amal qilish muddatlariga
 
 Shaxsni tasdiqlovchi hujjatlar shaxsning kimligini aniqlash, uning huquqlarini himoya qilish va ijtimoiy hayotda faol ishtirok etish imkoniyatini taʼminlashga xizmat qiladi.
 
-Voyaga yetmagan fuqarolar uchun Oʻzbekiston Respublikasi fuqaroligini tasdiqlovchi hujjatlar
+![](img/ogp-9.uz/p040-1.webp "900x316")
+
+**Voyaga yetmagan fuqarolar uchun Oʻzbekiston Respublikasi fuqaroligini tasdiqlovchi hujjatlar**
 
 16 yoshgacha boʻlgan bolaning Oʻzbekiston Respublikasi fuqaroligini tasdiqlovchi hujjati quyidagilar:
 
@@ -1056,7 +1024,7 @@ Oʻzbekiston Respublikasining 2021-yil 4-iyundagi “Oʻzbekiston Respublikasida
 
 Oʻzbekiston Respublikasida vaqtincha yoki doimiy yashovchi chet el fuqarolari va fuqaroligi boʻlmagan shaxslar boʻlish qoidalarini buzganliklari va Oʻzbekiston Respublikasi qonun hujjatlarida nazarda tutilgan boshqa huquqbuzarliklar uchun maʼmuriy yoki jinoiy javobgarlikka tortilishi mumkin. Ularga nisbatan Oʻzbekiston Respublikasi qonun hujjatlarida belgilangan tartibda maʼmuriy chiqarib yuborish ham qoʻllanishi, Oʻzbekiston Respublikasi hududiga kirishiga taqiq qoʻyilishi, boʻlish muddati qisqartirilishi mumkin.
 
-Quyidagilar chet el fuqarolarining shaxsini tasdiqlovchi hujjatlar boʻlishi mumkin: a) identifikatsiyalovchi ID-kartasi;
+**Quyidagilar chet el fuqarolarining shaxsini tasdiqlovchi hujjatlar boʻlishi mumkin:** a) identifikatsiyalovchi ID-kartasi;
 
 b) yashash guvohnomasi;
 
@@ -1074,7 +1042,7 @@ c) Oʻzbekiston Respublikasida siyosiy boshpana berish toʻgʻrisida guvohnoma.
 
 ### Mustaqil ish uchun topshiriq
 
-ID-kartada qanday maʼlumotlar keltiriladi? Ota-onangizning ID-kartasini koʻzdan kechirib, qanday maʼlumotlar mavjudligini bilib oling.
+![](img/ogp-9.uz/p041-1.webp "900x166")
 
 ## 12-dars. Oʻzbekiston Respublikasi fuqaroligini tugatish va tiklash asoslari
 
@@ -1100,7 +1068,7 @@ Oʻzbekiston Respublikasining butun hududida yagona fuqarolik oʻrnatiladi. Oʻz
 
 ### Oʻzbekiston Respublikasi Konstitutsiyasi, 22-modda
 
-Quyidagi holatlar Oʻzbekiston Respublikasining fuqaroligi masalalariga oid materiallarni koʻrib chiqishni tugatish asoslari hisoblanadi:
+**Quyidagi holatlar Oʻzbekiston Respublikasining fuqaroligi masalalariga oid materiallarni koʻrib chiqishni tugatish asoslari hisoblanadi:**
 
 – shaxsning davlat oldida bajarilmagan majburiyatlari yoki fuqarolar yoxud davlat organlari va boshqa tashkilotlar manfaatlari bilan bogʻliq boʻlgan uning mulkiy majburiyatlari mavjudligi;
 
@@ -1124,19 +1092,17 @@ Oʻzbekiston Respublikasi hududida yashovchi shaxs iltimosnoma yuborish uchun o�
 
 ### Oʻzbekiston Respublikasida fuqarolarning huquqiy himoyasi
 
-Mamlakatimizda jamiyat hayotining barcha jabhalarida, jumladan, inson huquqlari, erkinliklari va qonuniy manfaatlarini taʼminlashda keng koʻlamli demokratik oʻzgarishlar amalga oshirilmoqda. Davlatimiz rahbari tashabbusi bilan Prezidentning xalq va virtual qabulxonalarining ishga tushirilishi bu borada muhim qadam boʻldi. Bu chora-tadbirlar “Xalq davlat hokimiyati organlariga emas, davlat hokimiyati organlari xalqqa xizmat qilishi kerak”, degan insonparvar gʻoya hayotga toʻliq tatbiq etilishida muhim omil boʻlmoqda.
+Mamlakatimizda jamiyat hayotining barcha jabhalarida, jumladan, inson huquqlari, erkinliklari va qonuniy manfaatlarini taʼminlashda keng koʻlamli demokratik oʻzgarishlar amalga oshirilmoqda. Davlatimiz rahbari tashabbusi bilan **Prezidentning xalq va virtual qabulxonalarining** ishga tushirilishi bu borada muhim qadam boʻldi. Bu chora-tadbirlar **“Xalq davlat hokimiyati organlariga emas, davlat hokimiyati organlari xalqqa xizmat qilishi kerak”,** degan insonparvar gʻoya hayotga toʻliq tatbiq etilishida muhim omil boʻlmoqda.
 
 BMT Bosh Assambleyasining 75-sessiyasidagi nutqida (2020-yil 23-sentyabr), Prezident Shavkat Mirziyoyev BMT Bosh Assambleyasining barqaror rivojlanish maqsadlariga erishish va inson huquqlarini taʼminlashda parlamentlarning rolini oshirish boʻyicha maxsus rezolyutsiya qabul qilishni taklif qildi.
 
-2020-yil 23-iyunda Inson huquqlari boʻyicha Oʻzbekiston Respublikasining Milliy strategiyasi qabul qilingan edi. Milliy strategiyada inson huquqlarini himoya qilish va ularga rioya etish davlat siyosatining ustuvor yoʻnalishlaridan biri ekanligi belgilab qoʻyilgan.
+2020-yil 23-iyunda **Inson huquqlari boʻyicha Oʻzbekiston Respublikasining Milliy strategiyasi** qabul qilingan edi. Milliy strategiyada inson huquqlarini himoya qilish va ularga rioya etish davlat siyosatining ustuvor yoʻnalishlaridan biri ekanligi belgilab qoʻyilgan.
 
-Oʻzbekiston Respublikasi fuqarolari uchun mamlakat Ombudsmanining onlayn qabulxonasi ishga tushirildi. Qabulxonaga har bir fuqaro internet orqali kirish va ariza berish huquqiga ega. Bu oʻzbekistonliklarga oʻz huquqlari buzilayotgani toʻgʻrisida Oliy Majlis vakiliga zudlik bilan xabar qilish imkoniyatini beradi.
+Oʻzbekiston Respublikasi fuqarolari uchun **mamlakat Ombudsmanining onlayn qabulxonasi** ishga tushirildi. Qabulxonaga har bir fuqaro internet orqali kirish va ariza berish huquqiga ega. Bu oʻzbekistonliklarga oʻz huquqlari buzilayotgani toʻgʻrisida Oliy Majlis vakiliga zudlik bilan xabar qilish imkoniyatini beradi.
 
-Oʻzbekiston Respublikasi fuqaroligi toʻgʻrisidagi qonunchilikni buzganlikda aybdor shaxslar belgilangan tartibda javobgar boʻladi.
+![](img/ogp-9.uz/p043-1.webp "900x174")
 
-“Oʻzbekiston Respublikasining fuqaroligi toʻgʻrisida”gi qonun, 54-modda
-
-Oʻzbekiston Respublikasi fuqaroligini tiklash toʻgʻrisidagi iltimosnomaga quyidagilar ilova qilinadi:
+**Oʻzbekiston Respublikasi fuqaroligini tiklash toʻgʻrisidagi iltimosnomaga quyidagilar ilova qilinadi:**
 
 d) agar iltimosnomada koʻrsatilgan boʻlsa, bolaning tugʻilganligi haqidagi guvohnoma va agar mavjud boʻlsa, bolaning yashash guvohnomasi
 
@@ -1166,19 +1132,19 @@ Mazkur masala yuzasidan fikringizni bildiring. Maktab rahbariyatining harakati t
 
 ## 13-dars. Chet elda yashovchi vatandoshlar bilan munosabatlarni saqlash va rivojlantirish
 
-Raiyat ahvolidan ogoh bo‘ ldim, ulug‘ larni og‘ a qatorida, kichiklarni farzand o‘ rnida ko‘ rdim. Amir Temur
+Raiyat ahvolidan ogoh bo‘ ldim, ulug‘ larni og‘ a qatorida, kichiklarni farzand o‘ rnida ko‘ rdim. **Amir Temur**
 
 ### Bilib olasiz
 
 Chet elda yashovchi shaxslarning Oʻzbekiston Respublikasi fuqaroligini saqlab qolishi. Oʻzbekiston Respublikasining oʻz fuqarolariga homiylik qilish kafolati.
 
-Chet elda yashovchi shaxslarning Oʻzbekiston Respublikasi fuqaroligini saqlab qolishi Hozirgi kunda fuqarolarimiz chet eldagi oliy oʻquv yurtlarida tahsil olmoqda yoki chet elda ishlamoqda. Ular bilan muloqot qilish uchun milliy-madaniy markazlar faoliyat yuritmoqda. Rossiya, AQSH, Turkiya va Markaziy Osiyoning barcha respublikalarida: Afgʻoniston, Tojikiston, Qirgʻiziston, Qozogʻiston, Turkmanistonda koʻp sonli oʻzbeklar yashaydi.
+**Chet elda yashovchi shaxslarning Oʻzbekiston Respublikasi fuqaroligini saqlab qolishi** Hozirgi kunda fuqarolarimiz chet eldagi oliy oʻquv yurtlarida tahsil olmoqda yoki chet elda ishlamoqda. Ular bilan muloqot qilish uchun milliy-madaniy markazlar faoliyat yuritmoqda. Rossiya, AQSH, Turkiya va Markaziy Osiyoning barcha respublikalarida: Afgʻoniston, Tojikiston, Qirgʻiziston, Qozogʻiston, Turkmanistonda koʻp sonli oʻzbeklar yashaydi.
 
 Xorijdagi konsullik faoliyati Oʻzbekiston Respublikasining boshqa davlatlar bilan yaxshi qoʻshnichilik va doʻstona munosabatlarini rivojlantirishga koʻmaklashish, iqtisodiy, savdo, ilmiy-texnik, madaniy va boshqa aloqalarini kengaytirishga qaratilgan.
 
 Oʻzbekiston Respublikasi, uning diplomatik vakolatxonalari va konsullik muassasalari Oʻzbekiston Respublikasi fuqarolarini qabul qiluvchi davlat qonunchiligida belgilangan hamda Oʻzbekiston Respublikasi va ushbu mamlakat oʻrtasida tuzilgan xalqaro shartnomalarda nazarda tutilgan barcha huquqlardan fuqarolarimiz toʻliq foydalanish imkoniyatiga ega boʻlishlari uchun kerakli choralarni koʻrishlari shart.
 
-“Oʻzbekiston Respublikasining xorijda istiqomat qilayotgan vatandoshlar bilan hamkorlik qilish sohasidagi davlat siyosati konsepsiyasi”ga muvofiq quyidagilar chet elda yashovchi vatandoshlar hisoblanadi:
+**“Oʻzbekiston Respublikasining xorijda istiqomat qilayotgan vatandoshlar bilan hamkorlik qilish sohasidagi davlat siyosati konsepsiyasi”ga muvofiq quyidagilar chet elda yashovchi vatandoshlar hisoblanadi:**
 
 a) Oʻzbekiston hududidan tashqarida doimo istiqomat qiladigan yoki taʼlim olish, mehnat faoliyati bilan shugʻullanish, oilaviy sabablar va boshqa sharoitlardan kelib chiqib vaqtinchalik chet elda yurgan Oʻzbekiston Respublikasi fuqarolari;
 
@@ -1196,7 +1162,7 @@ Konsullik mansabdor shaxsi Oʻzbekiston Respublikasi qonun hujjatlarida belgilan
 
 Oʻzbekiston Respublikasi fuqarosining xorijda yashashi Oʻzbekiston Respublikasi fuqaroligining tugatilishiga sabab boʻlmaydi.
 
-“Oʻzbekiston Respublikasi fuqaroligi toʻgʻrisida”gi qonun, 9-modda
+**“Oʻzbekiston Respublikasi fuqaroligi toʻgʻrisida”gi qonun, 9-modda**
 
 ### Chet elda boʻlgan vatandoshlarimiz quyidagilarga rioya qilishlari va bilishlari kerak
 
@@ -1210,7 +1176,7 @@ Oʻzbekiston Respublikasi fuqarosining xorijda yashashi Oʻzbekiston Respublikas
 
 – jamoat tartibini.
 
-Agar sizga nisbatan qabul qiluvchi mamlakat qonunlari buzilgan boʻlsa, unda quyidagicha yoʻl tutishingiz mumkin:
+**Agar sizga nisbatan qabul qiluvchi mamlakat qonunlari buzilgan boʻlsa, unda quyidagicha yoʻl tutishingiz mumkin:**
 
 – qabul qiluvchi davlatning huquqni muhofaza qilish organlariga, prokuratura yoki sudga tegishli ariza bilan murojaat qilish;
 
@@ -1222,7 +1188,7 @@ Agar sizga nisbatan qabul qiluvchi mamlakat qonunlari buzilgan boʻlsa, unda quy
 
 – agar Oʻzbekiston Respublikasi fuqarosini ushlash, hibsda saqlash, maʼmuriy qamoqqa olish yoki ozodlikdan mahrum qilish jarayonlarida huquqlari buzilgan boʻlsa, konsullik xodimi ularni tiklash uchun oʻz vakolatlari doirasida kerakli choralarni koʻradi.
 
-Oʻzbekiston Respublikasining oʻz fuqarolariga homiylik qilish kafolati Oʻzbekiston Respublikasining vatandoshlar bilan hamkorlik qilish sohasidagi davlat siyosatining asosiy maqsadlari quyidagilardan iborat:
+**Oʻzbekiston Respublikasining oʻz fuqarolariga homiylik qilish kafolati** Oʻzbekiston Respublikasining vatandoshlar bilan hamkorlik qilish sohasidagi davlat siyosatining asosiy maqsadlari quyidagilardan iborat:
 
 – chet eldagi vatandoshlarning huquq va erkinliklarini xalqaro huquqning umumeʼtirof etilgan tamoyillari va meʼyorlariga, istiqomat qilayotgan davlat qonunchiligiga hamda Oʻzbekiston Respublikasining xalqaro shartnomalariga muvofiq amalga oshirishga yordam koʻrsatish;
 
@@ -1266,7 +1232,7 @@ Bunday holda ushbu bayonnoma chet el fuqarosining huquqlari buzilganligini tasdi
 
 Bu darsda berilgan topshiriqdan kelib chiqib, qonun buzilishi holatlari boʻyicha boʻlib oʻtadigan sud jarayonini sahnalashtirasiz.
 
-1-topshiriq. Quyidagi vaziyatni oʻrganing va savollarga javob bering.
+**1-topshiriq.** Quyidagi vaziyatni oʻrganing va savollarga javob bering.
 
 Yangi yil arafasida M. pirotexnika vositalari foydalanib, qoʻshnisi A. bilan oʻynab qoʻshnisi Ixtiyor akaning oʻgʻliga tegishli “DAMAS” rusumidagi avtomobiliga zarar yetkazdi. Ixtiyor aka va uning oʻgʻli bundan xabar topib, M. va A.ning ota-onasi bilan bilan gaplashish maqsadida ularning uyiga kelishdi.
 
@@ -1282,7 +1248,7 @@ Ish materiallari bilan tanishib chiqing va sud jarayonida sudya, jabrlanuvchi, g
 
 Sud jarayoni davomida siz ishga doir faktlarga tayanishingiz kerak. Shuningdek, sodir etilgan huquqbuzarlikka, guvohlarga va jarayonning boshqa ishtirokchilariga boʻlgan munosabatingizda oʻzingizning badiiy isteʼdodingiz va huquqiy bilimingizni koʻrsatishingiz zarur.
 
-Sud jarayoni ishtirokchilari uchun koʻrsatmalar
+**Sud jarayoni ishtirokchilari uchun koʻrsatmalar**
 
 Ishtirokchi shaxslar quyidagi huquqlarga ega:
 
@@ -1318,7 +1284,7 @@ Ishtirokchi shaxslar quyidagi huquqlarga ega:
 
 – sud jarayoni davomida yuzaga kelgan muammolarni hal qiladi, sud zalida tartibni saqlaydi.
 
-– buzilgan yoki bahsli huquqlarini himoya qilish uchun guvohlik beradi. Javobgar:
+– buzilgan yoki bahsli huquqlarini himoya qilish uchun guvohlik beradi. **Javobgar:**
 
 – tushuntirishlar beradi, dalillarni taqdim etadi, iltimosnomalar beradi;
 
@@ -1326,11 +1292,7 @@ Ishtirokchi shaxslar quyidagi huquqlarga ega:
 
 – sudga qoʻshimcha guvohlarni chaqirishni talab qilishga haqli.
 
-– ishni sudda koʻrishda yuzaga keladigan masalalar yuzasidan fikr bildiradi. Ekspert:
-
-– oʻz xulosasini yozma ravishda taqdim etishi shart;
-
-– agar sud ekspertizani sifatsiz deb hisoblasa, u qayta ekspertiza tayinlashi mumkin.
+![](img/ogp-9.uz/p049-1.webp "802x151")
 
 – har bir shaxs alohida soʻroq qilinadi, soʻroq qilinayotgan guvohlar jarayon tugaguniga qadar sud zalida qoladilar;
 
@@ -1372,9 +1334,13 @@ Raislik qiluvchi ishtirok etuvchi shaxslardan ish materiallariga biror qoʻshimc
 
 Oilada, maktabda va doʻstlaringiz bilan munosabatga kirishish jarayonida, oʻz haq-huquqlaringizni bilishda va oʻzgalar huquqlarini hurmat qilishingizda koʻproq qaysi qonunlarning mavjudligi qoʻl keladi. Fikringizni www.lex.uz sayti maʼlumotlari bilan asoslang.
 
-Mustaqil ish topshirigʻi. Hayotda duch keladigan qonun va qonunosti hujjatlarini jadval koʻrinishiga keltiring.(Izoh: normativ-huquqiy hujjatlarning nomi va tartibga solish sohasi, qabul qilingan sanasi).
+**Mustaqil ish topshirigʻi**. Hayotda duch keladigan qonun va qonunosti hujjatlarini jadval koʻrinishiga keltiring.(**Izoh:** normativ-huquqiy hujjatlarning nomi va tartibga solish sohasi, qabul qilingan sanasi).
 
 Shundan soʻng koʻrsatilgan normaning mazmunini izohlang.
+
+### Qonunosti hujjatlar
+
+![](img/ogp-9.uz/p050-1.webp "900x627")
 
 ## 16-dars. Nazorat ishi
 
@@ -1392,25 +1358,29 @@ Fuqaroligi boʻlmagan shaxsning yoki chet davlat fuqarosining shaxsini tasdiqlay
 
 Oʻzbekiston Respublikasida fuqarolik shaxsning davlat bilan oʻzaro huquqlari, majburiyatlari va javobgarligi yigʻindisida ifodalanadigan hamda inson qadr-qimmati, asosiy huquqlari va erkinliklarini eʼtirof etish hamda hurmat qilishga asoslanadigan doimiy siyosiy-huquqiy aloqasini belgilaydi.
 
-Oʻn olti yoshga toʻlmagan bolaning
+**Oʻn olti yoshga toʻlmagan bolaning**
 
 ### Respublikasi
 
-fuqaroligini tasdiqlovchi hujjat
+**fuqaroligini tasdiqlovchi hujjat**
 
-INSON VA FUQAROLARNING ASOSIY HUQUQLARI, ERKINLIKLARI VA BURCHLARI
+**INSON VA FUQAROLARNING ASOSIY HUQUQLARI, ERKINLIKLARI VA BURCHLARI**
+
+![](img/ogp-9.uz/p052-1.webp "900x898")
 
 # III bob. Inson va fuqarolarning asosiy huquqlari, erkinliklari va burchlari
 
 ## 17-dars. Inson va fuqarolarning asosiy huquq va erkinliklari
 
-Inson huquqlari va qonun ustuvorligi hurmat qilinmasa, barqaror tinchlik va rivojlanish boʻlmaydi. Jan Eliasson
+Inson huquqlari va qonun ustuvorligi hurmat qilinmasa, barqaror tinchlik va rivojlanish boʻlmaydi. **Jan Eliasson**
 
 ### Bilib olasiz
 
 Inson huquq va erkinliklari tushunchasi. Inson huquq va erkinliklari tizimi.
 
 ### Inson huquq va erkinliklari tushunchasi
+
+![](img/ogp-9.uz/p053-1.webp "232x172")
 
 Inson huquqlari insoniyat tafakkuri va sivilizatsiyasi eʼtirof etgan qadriyatdir.
 
@@ -1446,7 +1416,7 @@ Inson qaysi davlat fuqarosi boʻlishidan qatʼi nazar, dunyoga kelishi bilan tab
 
 Inson huquq va erkinliklari masalasini tushunishimiz uchun ularni guruhlash, tizimlashtirish muhim ahamiyat kasb etadi. Oʻzbekiston Respublikasi Konstitutsiyasining ikkinchi boʻlimida ifodalangan inson huquq va erkinliklari ham mazmuni va bajarilish sohalari boʻyicha tizimlashtirilgan.
 
-Oʻzbekiston Respublikasi Konstitutsiyasida inson huquq va erkinliklari mazmuni va bajarilish sohalari boʻyicha quyidagi tartibda boʻlinadi
+![](img/ogp-9.uz/p054-1.webp "752x137")
 
 3. Iqtisodiy, ijtimoiy, madaniy va ekologik huquqlar (IX bob, 41–53-moddalar)
 
@@ -1464,13 +1434,13 @@ Oʻzbekiston Respublikasi Konstitutsiyasida mustahkamlab qoʻyilgan asosiy huquq
 
 ### Mustaqil ish uchun topshiriq
 
-Quyidagi tushunchalarni qiyosiy tahlil asosida yoritib bering.
+![](img/ogp-9.uz/p054-2.webp "900x237")
 
 ## 18-dars. Shaxsiy huquq va erkinliklar
 
 Kechiktirilgan huquq – rad etilgan huquqdir.
 
-Martin Lyuter King
+**Martin Lyuter King**
 
 ### Bilib olasiz
 
@@ -1480,13 +1450,15 @@ Aybsizlik prezumpsiyasi.
 
 ### Shaxsiy huquq va erkinliklar tushunchasi hamda tizimi
 
+![](img/ogp-9.uz/p055-1.webp "262x254")
+
 Insonning yashash huquqi, erkinlik huquqi borasidagi gʻoyalar insoniyat tarixining ilk davrlaridayoq shakllana boshlagan. Bunday huquqlar uchun hamma davrlarda, turli jamiyatlarda kurashlar boʻlgan. Shaxsiy huquq va erkinliklar inson huquqlari tizimida eng muhim oʻrinni egallab, insonning shaxsiy hayotidagi erkinligini taʼminlaydi.
 
 Shaxsiy huquq va erkinliklar oʻz mohiyati bilan har qanday insonning huquqlari hisoblanib, uning qaysi davlat fuqaroligiga mansub ekaniga bogʻliq boʻlmaydi.
 
 Oʻzbekiston Respublikasi Konstitutsiyasining 26-moddasiga koʻra, insonning shaʼni va qadr -qimmati daxlsizdir. Hech narsa ularni kamsitish uchun asos boʻlishi mumkin emas. Hech kim qiynoqqa solinishi, zoʻravonlikka, boshqa shafqatsiz, gʻayriinsoniy yoki inson qadr-qimmatini kamsituvchi muomalaga yoxud jazoga duchor etilishi mumkin emas. Hech kim ustida uning roziligisiz tibbiy va ilmiy tajribalar oʻtkazilishi mumkin emas.
 
-Oʻz huquqlari hamda qonuniy manfaatlari bilan tanishish huquqi
+![](img/ogp-9.uz/p055-2.webp "900x498")
 
 ### Yodda tuting!
 
@@ -1500,21 +1472,13 @@ Shaxsiy huquq va erkinliklar inson tugʻilgan zahoti ega boʻladigan, uning asos
 
 Har kim erkinlik va shaxsiy daxlsizlik huquqiga ega ekanini taʼminlovchi 27-moddada, shuningdek, hech kim qonunga asoslanmagan holda hibsga olinishi, ushlab turilishi, qamoqqa olinishi, qamoqda saqlanishi yoki uning ozodligi boshqacha tarzda cheklanishi mumkin emasligi, hibsga olishga, qamoqqa olishga va qamoqda saqlashga faqat sudning qaroriga koʻra yoʻl qoʻyilishi belgilangan. Shaxs sudning qarorisiz qirq sakkiz soatdan ortiq muddat ushlab turilishi mumkin emasligi qonunlarda mustahkamlab qoʻyilgan. Mazkur normaning mazmuni 1679-yil Angliyada qabul qilingan Xabeas korpus aktiga muvofiq keladi.
 
-Xabeas korpus ingliz jinoyat-protsessual huquqiga tegishli qoida boʻlib, unga koʻra, qamoqqa olingan shaxs yoki uning nomidan boshqa bir fuqaro nima sababdan hibsga olinayotgani yoki qamoqqa olish toʻgʻrisidagi hujjat boʻyicha sudga murojaat qilishi va hibsga olish yoki ushlab turishning qonuniyligini tekshirish uchun maxsus sud qarorini talab qilishi mumkin. Sudning qarori boʻlmagan taqdirda shaxsni 48 soatdan ortiq ushlab turish mumkin emas.
+**Xabeas korpus** ingliz jinoyat-protsessual huquqiga tegishli qoida boʻlib, unga koʻra, qamoqqa olingan shaxs yoki uning nomidan boshqa bir fuqaro nima sababdan hibsga olinayotgani yoki qamoqqa olish toʻgʻrisidagi hujjat boʻyicha sudga murojaat qilishi va hibsga olish yoki ushlab turishning qonuniyligini tekshirish uchun maxsus sud qarorini talab qilishi mumkin. Sudning qarori boʻlmagan taqdirda shaxsni 48 soatdan ortiq ushlab turish mumkin emas.
 
 Shaxsiy huquq va erkinliklar tizimida insonlarning mamlakat boʻylab erkin harakatlanishi, turar va yashash joyini tanlash huquqi muhim ahamiyatga ega.
 
 Hamma uchun vijdon erkinligi kafolatlanishi Oʻzbekiston Respublikasi Konstitutsiyasining 35-moddasida mustahkamlangan boʻlib, har kim xohlagan diniga eʼtiqod qilish yoki hech qaysi dinga eʼtiqod qilmaslik huquqiga ega.
 
 “Oʻzbekiston Respublikasining vijdon erkinligi va diniy tashkilotlar toʻgʻrisida”gi qonunida Oʻzbekiston Respublikasining konstitutsiyaviy tuzumini zoʻrlik bilan oʻzgartirish, uning suvereniteti va hududiy yaxlitligiga putur yetkazish, fuqarolarning konstitutsiyaviy huquq va erkinliklarini kamsitish, urushni, milliy, irqiy, etnik yoki diniy adovatni targʻib qilish, fuqarolarning sogʻligʻi va axloqiga tajovuz qilish, fuqarolar totuvligini buzish, vaziyatni beqarorlashtiruvchi tuhmatdan iborat uydirmalarni tarqatish, aholi oʻrtasida sarosima uygʻotish hamda shaxs, jamiyat va davlatga qarshi qaratilgan boshqa harakatlar sodir etish maqsadida dindan foydalanishga yoʻl qoʻyilmasligi belgilangan.
-
-### Yodda tuting!
-
-Oʻzbekiston Respublikasida taʼlim tizimi dindan ajratilgandir.
-
-Har kim diniy taʼlim muassasalarida professional diniy taʼlim olish huquqiga ega.
-
-Oʻzbekiston Respublikasining “Vijdon erkinligi va diniy tashkilotlar toʻgʻrisida”gi qonuni, 8-modda
 
 ### Yashash huquqining taʼminlanishi
 
@@ -1534,7 +1498,7 @@ Oʻzbekiston Respublikasida oʻlim jazosi taqiqlanadi.
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 25-modda
+**Konstitutsiyasi, 25-modda**
 
 Insonning yashash huquqini mustahkamlovchi xalqaro huquqning umumeʼtirof etilgan prinsiplari va normalaridan, shuningdek, Oʻzbekiston Respublikasi Konstitutsiyasi qoidalaridan kelib chiqqan holda Oʻzbekistonda 2008-yilning 1-yanvaridan oʻlim jazosini bekor qilingan.
 
@@ -1546,11 +1510,13 @@ Yashash huquqi har bir insonning ajralmas huquqidir. Bu huquq qonun bilan himoya
 
 Hech kim oʻzboshimchalik bilan insonni yashashdan mahrum qila olmaydi.
 
-Fuqaroviy va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt, 6-modda
+**Fuqaroviy va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt, 6-modda**
 
 ### Aybsizlik prezumpsiyasi
 
-Aybsizlik prezumpsiyasi bu – asossiz ayblash va jazolashning oldini oluvchi tamoyil boʻlib, aybdorning jinoyati qonuniy tartibda isbot qilinmaguncha u aybsiz hisoblanadi va aybsizligini isbotlab berishga majbur emas. Shaxsning aybsizlik prezumpsiyasi shaxs huquq va erkinliklarining mustahkam kafolati boʻlib, mazkur tartib jahon tajribasida deyarli barcha mamlakatlar qonunchiligida ifoda etilgan. Aybsizlik prezumpsiyasi tamoyili ilk bor 1789-yilda Fransiyada qabul qilingan Inson va fuqaro huquqlari deklaratsiyasida amalga kiritilgan boʻlsa-da, Oʻrta asrlar islom huquqshunosligida mazkur tamoyil “Aybsizlik – asosiy qoidadir” shaklidagi fiqhiy qoida sifatida eʼtirof etilgan.
+**Aybsizlik prezumpsiyasi** bu – asossiz ayblash va jazolashning oldini oluvchi tamoyil boʻlib, aybdorning jinoyati qonuniy tartibda isbot qilinmaguncha u aybsiz hisoblanadi va aybsizligini isbotlab berishga majbur emas. Shaxsning aybsizlik prezumpsiyasi shaxs huquq va erkinliklarining mustahkam kafolati boʻlib, mazkur tartib jahon tajribasida deyarli barcha mamlakatlar qonunchiligida ifoda etilgan. Aybsizlik prezumpsiyasi tamoyili ilk bor 1789-yilda Fransiyada qabul qilingan Inson va fuqaro huquqlari deklaratsiyasida amalga kiritilgan boʻlsa-da, Oʻrta asrlar islom huquqshunosligida mazkur tamoyil “Aybsizlik – asosiy qoidadir” shaklidagi fiqhiy qoida sifatida eʼtirof etilgan.
+
+![](img/ogp-9.uz/p057-1.webp "372x282")
 
 Mazkur qoida Oʻzbekiston Respublikasi Konstitutsiyasining 28-moddasida mustahkamlangan boʻlib, unga koʻra, jinoyat sodir etganlikda ayblanayotgan shaxs uning aybi qonunda nazarda tutilgan tartibda oshkora sud muhokamasi yoʻli bilan isbotlanmaguncha va sudning qonuniy kuchga kirgan hukmi bilan aniqlanmaguncha aybsiz deb hisoblanadi. Ayblanuvchi oʻzini himoya qilishi uchun barcha imkoniyatlar taʼminlanadi.
 
@@ -1562,13 +1528,13 @@ Shaxsning aybi isbotlanishi bilan jinoyat eʼtirof etiladi. Keyin esa sud hukmi 
 
 Har bir shaxsning aybi aniqlanmaguncha aybsiz hisoblangani sababli shaxsni hibsga olish zarur deb topilgan hollarda kerak boʻlmagan har qanday haddan tashqari qattiq choralar qonun bilan taqiqlanishi zarur.
 
-1789-yili Fransiyada qabul qilingan Inson va fuqaro huquqlari deklaratsiyasi, 9-modda Jinoyat sodir etganlikda ayblangan har bir inson himoya uchun barcha imkoniyatlar taʼminlangan holda, ochiq sud majlisi yoʻli bilan uning aybi qonuniy tartibda aniqlanmaguncha aybsiz deb hisoblanishga haqlidir.
+**1789-yili Fransiyada qabul qilingan Inson va fuqaro huquqlari deklaratsiyasi, 9-modda** Jinoyat sodir etganlikda ayblangan har bir inson himoya uchun barcha imkoniyatlar taʼminlangan holda, ochiq sud majlisi yoʻli bilan uning aybi qonuniy tartibda aniqlanmaguncha aybsiz deb hisoblanishga haqlidir.
 
 ### Inson huquqlari umumjahon deklaratsiyasi, 11-modda
 
 Jinoyat sodir etganlikda ayblangan har qanday kishi qonunga muvofiq aybi isbotlanmaguncha begunoh deb sanalish huquqiga ega.
 
-Fuqaroviy va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt, 14-modda, 2-band
+**Fuqaroviy va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt, 14-modda, 2-band**
 
 ### Savol va topshiriqlar
 
@@ -1588,7 +1554,7 @@ Quyidagi shaxsiy huquq va erkinliklarning mohiyatini yoritib bering.
 
 Tenglik hukm surgan joyda sotqin, aldamchi ehtiroslar, gʻam-gʻussa boʻlmaydi.
 
-Abu Rayhon Beruniy
+**Abu Rayhon Beruniy**
 
 ### Bilib olasiz
 
@@ -1598,7 +1564,7 @@ Siyosiy huquqlar tushunchasi va tizimi. Fuqarolarning saylovda teng huquqliligi.
 
 Fuqarolarning jamiyat va davlat hayotida faol boʻlishida siyosiy huquqlar muhim oʻrin tutadi. Siyosiy huquqlar insonni mamlakat hayotiga faol kiritishga qaratilgan. Siyosiy huquqlar shaxs va jamiyat, fuqaro va jamiyat oʻrtasidagi aloqalarni mustahkamlash uchun sharoit yaratadi.
 
-Siyosiy huquqlar fuqarolarning jamiyat va davlat boshqaruvida, siyosiy hayotida ishtirok etish imkoniyatini taʼminlovchi huquqlardir.
+**Siyosiy huquqlar** fuqarolarning jamiyat va davlat boshqaruvida, siyosiy hayotida ishtirok etish imkoniyatini taʼminlovchi huquqlardir.
 
 Siyosiy huquqlarning aksariyati shaxsning fuqaroligi bilan bogʻliq boʻlib, u tegishli davlatning fuqarolariga davlat va jamiyat ishlarini boshqarish imkoniyatini beradi. Shuning uchun ularni ikkita guruhga boʻlish mumkin: 1) davlat hokimiyati mexanizmining shakllanishi va faoliyatida ishtirok etish huquqlari (saylov huquqi, referendumda ishtirok etish huquqi, murojaat qilish huquqi); 2) jamiyatda ishtirok etish huquqi (birlashish huquqi, namoyish oʻtkazish huquqi).
 
@@ -1618,9 +1584,7 @@ Oʻzbekiston Respublikasining fuqarolari jamiyat va davlat ishlarini boshqarishd
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 36-modda
-
-### Davlat xizmatiga kirish huquqi
+**Konstitutsiyasi, 36-modda**
 
 Siyosiy huquqlarning boshqa bir xususiyati shundaki, ulardan tegishli huquqiy munosabat yuzaga kelgan davlatning fuqarolari foydalanishi mumkin.
 
@@ -1642,10 +1606,6 @@ Oʻzbekiston Respublikasining Konstitutsiyasida siyosiy huquqlarning quyidagi ko
 
 Saylovda qatnashish fuqarolarga mamlakatni boshqarishda ishtirok etish imkonini beradi. Fuqarolar bevosita yoki saylanadigan vakillari orqali ushbu imkoniyatni amalga oshiradi. Bu huquq fuqarolar har qanday saylab qoʻyiladigan organlarni saylash yoki tegishli organlarga saylanish huquqiga ega ekani bilan kafolatlangan. Fuqaro shu tariqa hokimiyatga va qabul qilinadigan qarorlarga taʼsir oʻtkazadi. Oʻzbekiston Respublikasining Konstitutsiyasida saylovda qatnashish huquqi jamiyat va davlat ishlarini boshqarishda bevosita hamda oʻz vakillari orqali ishtirok etish, davlat organlarini demokratik tarzda shakllantirish tarzida keltirilgan.
 
-### Yodda tuting!
-
-Davlat organlariga hamda tashkilotlariga, fuqarolarning oʻzini oʻzi boshqarish organlariga, mansabdor shaxslarga yoki xalq vakillariga murojaat qilish huquqidan foydalanish uchun shaxsdan mazkur davlat fuqarosi boʻlishi talab etilmaydi. Chet el fuqarosi va fuqaroligi boʻlmagan shaxslar ham mazkur siyosiy huquq turidan foydalanilishi mumkin.
-
 Mamlakatimizda oʻtkaziladigan saylovda faqatgina Oʻzbekiston Respublikasi fuqarolari ishtirok etishlari mumkin. Fuqarolar saylovda bir necha nomzod orasidan faqat bittasini yoqlab ovoz beradilar. Ovoz berishda qatnashish uchun (saylash huquqi) fuqarolar saylov kuni 18 yoshga toʻlgan boʻlishlari lozim.
 
 Fuqarolar jinsi, irqiy va milliy mansubligi, tili, dinga munosabati, ijtimoiy kelib chiqishi, eʼtiqodi, shaxsiy va ijtimoiy mavqeyi, maʼlumoti, mashgʻulotining turi va xususiyatidan qatʼi nazar, teng saylov huquqiga egadir. Bu saylovda ishtirok etuvchi har bir fuqaro bir ovozga ega boʻlishini anglatadi.
@@ -1658,17 +1618,19 @@ Oʻzbekiston Respublikasining fuqarolari davlat hokimiyati vakillik organlariga 
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 128-modda
+**Konstitutsiyasi, 128-modda**
 
 ### Uyushish va yigʻilishlar erkinligi huquqi
 
 Fuqarolarning siyosiy huquqlaridan yana biri bu siyosiy partiyalar, kasaba uyushmalari, turli jamoat birlashmalariga aʼzo boʻlib kirish huquqidir. Mazkur huquq fuqarolarga oʻz qiziqishlari, manfaatlarini birgalikda amalga oshirish, himoya qilish imkonini beradi.
 
+![](img/ogp-9.uz/p061-2.webp "342x202")
+
 Siyosiy partiyalarda, jamoat birlashmalarida, ommaviy harakatlarda, shuningdek, davlat hokimiyati vakillik organlarida ozchilikni tashkil etuvchi muxolifatchi shaxslarning huquqlari, erkinliklari va qadr-qimmatini hech kim kamsitishi mumkin emas.
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 39-modda
+**Konstitutsiyasi, 39-modda**
 
 Tashkilot, korxona, muassasalarda fuqarolar oʻzlarining iqtisodiy manfaatlarini himoya qilish, kasaba uyushmalariga esa mehnat sharoitlarini yaxshilashni yoʻlga qoʻyish, mehnat huquqlarini himoya qilish maqsadida birlashadi.
 
@@ -1678,7 +1640,7 @@ Oʻzbekiston Respublikasi fuqarolari kasaba uyushmalariga, siyosiy partiyalarga 
 
 ### Oʻzbekiston Xalq demokratik partiyasi
 
-> Tadbirkorlar va ishbilarmonlar hara kati – Oʻzbekiston liberaldemokratik partiyasi
+![](img/ogp-9.uz/p061-1.webp "422x259")
 
 ### Yodda tuting!
 
@@ -1692,9 +1654,9 @@ Har bir jamoat birlashmasi oʻz faoliyat maqsadlaridan kelib chiqqan holda ish y
 
 Siyosiy huquqlarning yana bir koʻrinishi yigʻilishlar, mitinglar va namoyishlar oʻtkazish huquqi hisoblanadi.
 
-Miting – maʼlum bir shaxslar va tashkilotlarning xatti-harakatlari, ijtimoiy-siyosiy voqealarga nisbatan munosabatini oshkora ifodalash maqsadidagi fuqarolarning tinch yigʻini.
+**Miting** – maʼlum bir shaxslar va tashkilotlarning xatti-harakatlari, ijtimoiy-siyosiy voqealarga nisbatan munosabatini oshkora ifodalash maqsadidagi fuqarolarning tinch yigʻini.
 
-Namoyish – maʼlum bir siyosiy talablarni bildirish maqsadidagi ommaviy yurish. Yigʻilish – biror-bir muhim jamoatchilik masalasini birgalikda muhokama qilish uchun fuqarolar ishtiroki.
+**Namoyish** – maʼlum bir siyosiy talablarni bildirish maqsadidagi ommaviy yurish. **Yigʻilish** – biror-bir muhim jamoatchilik masalasini birgalikda muhokama qilish uchun fuqarolar ishtiroki.
 
 Fuqarolarning mana shulardagi ishtiroki ularning jamiyat va davlat hayotidagi ijtimoiy faolliklarini namoyon etadi. Bu huquq hukumatga xalqning fikri haqida axborot yetkazib turish, mamlakatda boʻlayotgan jarayonlarda fuqarolar kuzatuvchi sifatidagina ishtirok etmasdan, ularga oʻz munosabatini bildirishi uchun ham zarurdir. Mazkur faoliyat fuqarolarni tashvishlantirayotgan muammolarga hukumat eʼtibor qaratishi va tegishli choralarni koʻrishiga xizmat qiladi. Mitinglar, yigʻilishlar va namoyishlar Oʻzbekiston Respublikasi qonunlariga muvofiq tash kil etilishi va oʻtkazilishi lozim.
 
@@ -1708,7 +1670,7 @@ Fuqarolar oʻz ijtimoiy faolliklarini Oʻzbekiston Respublikasi qonunlariga muvo
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 38-modda
+**Konstitutsiyasi, 38-modda**
 
 Murojaatlar Oʻzbekiston Respublikasining “Jismoniy va yuridik shaxslarning murojaatlari toʻgʻrisida”gi qonuni bilan tartibga solinib, ogʻzaki, yozma yoki elektron shaklda boʻlishi mumkin.
 
@@ -1716,11 +1678,13 @@ Murojaatnomada fuqaroning ismi, familiyasi, otasining ismi koʻrsatilishi, turar
 
 Bugun mamlakatimizda aholi bilan toʻgʻridan toʻgʻri muloqotni tashkil etish, shaxslarning huquqlari, erkinliklari va qonuniy manfaatlarini toʻlaqonli himoya qilish maqsadida xalq qabulxonalari hamda virtual qabulxonalar tashkil etilgan.
 
-Ariza – fuqarolarning oʻz huquqlari, erkinliklari va qonuniy manfaatlarini amalga oshirish uchun koʻmak soʻrab qilgan murojaatlari. Masalan, fuqaroning xorijda davolanish uchun vakolatli organga yordam soʻrab qilgan murojaati.
+**Ariza** – fuqarolarning oʻz huquqlari, erkinliklari va qonuniy manfaatlarini amalga oshirish uchun koʻmak soʻrab qilgan murojaatlari. Masalan, fuqaroning xorijda davolanish uchun vakolatli organga yordam soʻrab qilgan murojaati.
 
-Taklif – fuqarolarning davlat va jamoatchilik faoliyatini takomillashtirish boʻyicha tavsiyalarini ifodalovchi murojaatlar. Masalan, Oʻzbekiston Respublikasi qonunchiligini takomillashtirish yuzasidan fuqarolar tomonidan takliflar berilishi.
+**Taklif –** fuqarolarning davlat va jamoatchilik faoliyatini takomillashtirish boʻyicha tavsiyalarini ifodalovchi murojaatlar. Masalan, Oʻzbekiston Respublikasi qonunchiligini takomillashtirish yuzasidan fuqarolar tomonidan takliflar berilishi.
 
-Shikoyat – fuqarolarning buzilgan huquqlari, erkinliklari va qonuniy manfaatlarini tiklashni talab qiluvchi murojaatlari. Masalan, fuqarolar turarjoyiga yaqin joylashgan dam olish maskanining aholi tungi osoyishtaligini buzayotgani yuzasidan ichki ishlar organlariga berilgan shikoyat.
+**Shikoyat** – fuqarolarning buzilgan huquqlari, erkinliklari va qonuniy manfaatlarini tiklashni talab qiluvchi murojaatlari. Masalan, fuqarolar turarjoyiga yaqin joylashgan dam olish maskanining aholi tungi osoyishtaligini buzayotgani yuzasidan ichki ishlar organlariga berilgan shikoyat.
+
+![](img/ogp-9.uz/p063-1.webp "900x345")
 
 ### Hayotiy vaziyat
 
@@ -1748,7 +1712,7 @@ Ichki ishlar organi xodimlarining harakatlariga huquqiy baho bering.
 
 ## 20-dars. Iqtisodiy va madaniy huquqlar
 
-Ishbilarmon mardlik va shijoat sohibi, azmi qatʼi, tadbirkor va hushyor bir kishi minglab tadbirsiz, loqayd kishilardan yaxshidir. Amir Temur
+Ishbilarmon mardlik va shijoat sohibi, azmi qatʼi, tadbirkor va hushyor bir kishi minglab tadbirsiz, loqayd kishilardan yaxshidir. **Amir Temur**
 
 ### Bilib olasiz
 
@@ -1776,7 +1740,7 @@ Bank siri hisoblanuvchi maʼlumotlar ayrim hollardagina vakolatli organlarning s
 
 Bank sirini tashkil etuvchi maʼlumotlarning muhofaza qilinishi bank tomonidan kafolatlanadi.
 
-Oʻzbekiston Respublikasining “Bank siri toʻgʻrisida”gi qonuni, 7-modda
+**Oʻzbekiston Respublikasining “Bank siri toʻgʻrisida”gi qonuni, 7-modda**
 
 ### Mulkdor boʻlish huquqi. Meros huquqi
 
@@ -1810,7 +1774,9 @@ Insonlarning mulk bilan bogʻliq munosabatlarida meros huquqi alohida oʻringa e
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 41-modda
+**Konstitutsiyasi, 41-modda**
+
+![](img/ogp-9.uz/p067-1.webp "382x212")
 
 muvofiq oʻtkazilishini tartibga soladi. Merosga ega chiqadiganlar “merosxoʻrlar” deb ataladi.
 
@@ -1844,13 +1810,13 @@ Har bir inson rivojlanishi, maʼnaviy ozuqa olishi, barkamollikka erishishida ij
 
 Madaniy huquqlar madaniy xilmaxillikni va jamiyat rivojlanishini taʼminlaydi, shuningdek, madaniy merosni saqlashga yordam beradi.
 
-Madaniy huquqlar shaxsning madaniy boyliklardan foydalanish va yaratish, madaniy hayotda ishtirok etish erkinligini taʼminlaydigan huquqlardir.
+**Madaniy huquqlar** shaxsning madaniy boyliklardan foydalanish va yaratish, madaniy hayotda ishtirok etish erkinligini taʼminlaydigan huquqlardir.
 
 Oʻzbekiston Respublikasi Konstitutsiyasiga koʻra, har kim ilmiy, texnikaviy va badiiy ijod erkinligi, madaniyat yutuqlaridan foydalanish huquqiga egadir. Ijod – sifat jihatidan yangi moddiy va maʼnaviy qadriyatlarni yaratish jarayoni. U erkin boʻlib, huquq mazkur erkinlikni kafolatlaydi. Inson oʻzi istagancha ijod qilishi mumkin. Ammo ijodkorlik natijasi muayyan shaklga ega boʻlishi bilanoq ushbu ijod natijasining huquqiy maqomini belgilaydigan, muallifining huquq va qonuniy manfaatlarini himoya qiladigan normalar ishga tushadi. Oʻzbekiston Respublikasida shaxslarning ijodiy ishlari “Mualliflik huquqi va turdosh huquqlar toʻgʻrisida”gi, “Ixtirolar, foydali
 
 ### MADANIY HUQUQLARNI AMALGA OSHIRISH SHAKLLARI
 
-Madaniy anʼana va urf-odatlarni saqlash va ulardan foydalanish
+![](img/ogp-9.uz/p068-1.webp "802x176")
 
 modellar va sanoat namunalari toʻgʻrisida”gi qonunlar bilan muhofaza qilinadi. Intellektual mulk huquqi mualliflik huquqlari, patentlar, nalari va intellektual mulkni himoya qilishning boshqa shakllarini oʻz ichiga oladi. Intellektual mulk mualliflarga oʻz ishlari uchun mukofot olish imkonini beradi va ularni noqonuniy foydalanishdan himoya qiladi. Hozirgi texnologiyalari rivojlangan davr bir tomondan intellektual mulkni himoya qilishi imkoniyatlarini oshirsa, ikkinchi tomondan undan noqonuniy foydalanuvchilar sonining ortishiga ham yordam beradi. Bunga ijtimoiy tarmoqlar orqali yangi yaratilgan ijod namunasining hali taqdimoti boʻlmasdan tarqalib ketish holatini misol qilib keltirish mumkin. Intellektual mulkni himoya qilish jahon miqyosida ahamiyatga ega boʻlib, mazkur masalalar bilan Jahon intellektual mulk tashkiloti shugʻullanadi.
 
@@ -1860,7 +1826,9 @@ Davlat jamiyatning madaniy, ilmiy va texnikaviy rivojlanishi haqida gʻamxoʻrli
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 53-modda
+**Konstitutsiyasi, 53-modda**
+
+![](img/ogp-9.uz/p068-2.webp "172x175")
 
 ### Yodda tuting!
 
@@ -1868,9 +1836,7 @@ Ixtirolar, ilmiy kashfiyotlar, adabiy asarlar, musiqiy asarlarni yaratish kabi i
 
 ### Hayotiy vaziyat
 
-Fuqaro B. chet eldan kelgach, otasidan uy meros qolganidan xabar topadi. Uyni koʻrgach, “U juda eski ekan, menga kerak emas”, deb merosdan voz kechadi. B.ning ukasi D. notarius orqali uyni oʻzining nomiga rasmiylashtirib oladi. D. uyni baholatadi. Uyni mashhur meʼmor qurgani sababli narxi yuqori chiqadi. Bundan xabar topgan B. notariusga borib, merosni qaytarib olmoqchiligini aytadi.
-
-Ushbu holatda notarius qanday yoʻl tutishi lozim?
+![](img/ogp-9.uz/p068-3.webp "802x276")
 
 ### Savol va topshiriqlar
 
@@ -1888,13 +1854,13 @@ Ushbu holatda notarius qanday yoʻl tutishi lozim?
 
 ### Huquqni amalga oshirish shakli
 
-Madaniy anʼana va urf-odatlarni saqlash va ulardan foydalanish
+![](img/ogp-9.uz/p069-1.webp "900x798")
 
 ## 21-dars. Ijtimoiy huquqlar
 
 Ilmni kim vositayi joh etar, Oʻzini-yu xalqni gumroh etar.
 
-Alisher Navoiy
+**Alisher Navoiy**
 
 ### Bilib olasiz
 
@@ -1906,11 +1872,15 @@ Ijtimoiy taʼminot olish va uy-joyga boʻlgan huquq. Taʼlim olish huquqi.
 
 ### Ijtimoiy huquqlar tushunchasi va tizimi
 
+![](img/ogp-9.uz/p070-1.webp "272x242")
+
 Konstitutsiyamizda Oʻzbekiston Respublikasi ijtimoiy davlat sifatida belgilangan. Ijtimoiy davlatning asosiy belgisi shaxs manfaatlari davlat manfaatlaridan ustun boʻlishidir. Ijtimoiy davlatda har bir insonning munosib hayot kechirishini taʼminlash, betoblik, qarilik, ishsizlik yoki insonga bogʻliq boʻlmagan boshqa turli holatlarda ularni qoʻllab-quvvatlashga qaratilgan sharoit yaratilishi lozim. Mana shunday imkoniyat va sharoitlar avvalo shaxslarning ijtimoiy huquqlarini qonunchilikda mustahkamlash va ularni amalga oshirishga koʻmaklashishda namoyon boʻladi.
 
-Ijtimoiy huquqlar – fuqarolarning ijtimoiy himoyasi va farovonligini taʼminlaydigan huquqlar.
+**Ijtimoiy huquqlar** – fuqarolarning ijtimoiy himoyasi va farovonligini taʼminlaydigan huquqlar.
 
 Ijtimoiy huquqlar demokratik jamiyatning ajralmas qismi boʻlib, barcha fuqarolar uchun teng imkoniyatlar yaratilishiga xizmat qiladi. Taʼlim, sogʻliqni saqlash, ijtimoiy taʼminot, uy-joy, mehnat va ish bilan taʼminlanish, dam olish huquqi kabilar shaxslarning munosib hayot kechirish, ijtimoiy jihatdan rivojlanish, davlat gʻamxoʻrligi ostida boʻlishiga qaratilgan huquqlardir. Oʻzbekiston Konstitutsiyasidagi ijtimoiy huquqlar doirasi, qoʻllanish tarzi, belgilangan qoidalar xalqaro hujjat normalariga va ulardagi talablarga mosdir. Shaxslarning asosiy ijtimoiy huquqlari doirasi Oʻzbekiston Respublikasining Konstitutsiyasida keltirib oʻtilgan.
+
+![](img/ogp-9.uz/p070-2.webp "900x369")
 
 ### Mehnat qilish huquqi va bandlik
 
@@ -1924,7 +1894,7 @@ Ish joyini tanlash ish beruvchiga bevosita murojaat qilish yoki mehnat organlari
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 42-modda
+**Konstitutsiyasi, 42-modda**
 
 Ishga qabul qilish yoshi va talablar Faoliyat turi Umumiy tartibda
 
@@ -1952,11 +1922,13 @@ Ishga qabul qilish yoshi va talablar Faoliyat turi Umumiy tartibda
 
 – ota-onadan birining yozma roziligi bilan.
 
+![](img/ogp-9.uz/p071-1.webp "252x92")
+
 – ota-onaning har ikkisi roziligi;
 
 – vasiylik va homiylik organining ruxsati bilan.
 
-Majburiy mehnat – biror-bir jismoniy shaxsga jazoni qoʻllash tahdidi ostida, uning ixtiyoriga qarshi ravishda muayyan ishni bajartirish.
+**Majburiy mehnat** – biror-bir jismoniy shaxsga jazoni qoʻllash tahdidi ostida, uning ixtiyoriga qarshi ravishda muayyan ishni bajartirish.
 
 Mehnat qilish erkin boʻlib, hech kim oʻz xohishiga qarshi muayyan bir ishni qilishga majburlanishi mumkin emas.
 
@@ -1978,15 +1950,17 @@ Bolalar mehnatining bolaning sog‘- ligʻiga, xavfsizligiga, axloqiga, aqliy va
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 44-modda
+**Konstitutsiyasi, 44-modda**
 
 Davlat fuqarolarning bandligini taʼminlash, ularni ishsizlikdan himoya qilish, shuningdek, kambagʻallikni qisqartirish choralarini koʻradi. Davlat fuqarolarning kasbiy tayyorgarligini va qayta tayyorlanishini tashkil etadi hamda ragʻbatlantiradi.
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 43-modda
+**Konstitutsiyasi, 43-modda**
 
 ### Ijtimoiy taʼminot olish va uy-joyga boʻlgan huquq
+
+![](img/ogp-9.uz/p072-1.webp "232x197")
 
 Ijtimoiy taʼminot olish huquqi shaxslarning asosiy ijtimoiy huquqlaridan biri hisoblanadi. Shaxs yosh oʻtishi bilan muayyan kasallik, mayib boʻlish natijasida mehnat qobiliyatini yoʻqotishi mumkin. Muayyan bir shaxs kimningdir qaramogʻida boʻlib, asosiy boquvchi vafot etishi natijasida yoki boshqa sabablar bilan qaramogʻidagi shaxslarni taʼminlay olmay qoladi. Mana shunday vaqtlarda davlat ularni ijtimoiy jihatdan himoya qilish choralarini koʻradi.
 
@@ -1996,7 +1970,7 @@ Har kim qariganda, mehnat qobiliyatini yoʻqotganda, ishsizlikda, shuningdek, bo
 
 Qonunda belgilangan pensiyalar, nafaqalar va boshqa turdagi ijtimoiy yordamning miqdorlari rasman belgilangan eng kam isteʼmol xarajatlaridan oz boʻlishi mumkin emas.
 
-Oʻzbekiston Respublikasi Konstitutsiyasi, 46-modda
+**Oʻzbekiston Respublikasi Konstitutsiyasi, 46-modda**
 
 Konstitutsiyada qonunda koʻzda tutilgan boshqa hollarda ham fuqarolar ijtimoiy taʼminot olish huquqiga egaligi belgilangan. Bu farzand tugʻish va uni maʼlum yoshigacha parvarish qilish muddatidagi nafaqa; tabiiy ofat yoki boshqa falokatlar tufayli jiddiy iqtisodiy va boshqa zarar koʻrganlarga beriladigan nafaqalar; kam taʼminlanganlarga beriladigan nafaqalar va boshqalar.
 
@@ -2012,7 +1986,7 @@ Har kim uy-joyli boʻlish huquqiga ega. Hech kim sudning qarorisiz va qonunga zi
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 47-modda
+**Konstitutsiyasi, 47-modda**
 
 ### Taʼlim olish huquqi
 
@@ -2021,6 +1995,8 @@ Taʼlim olish huquqi koʻplab mamlakatlar konstitutsiyasida mustahkamlangan inso
 Ushbu huquqqa muvofiq davlat barcha shaxslar uchun taʼlim olish imkoniyati va sifatini taʼminlashi, shuningdek, taʼlim dasturlari va muassasalarini tanlash erkinligini kafolatlashi zarur.
 
 Konstitutsiyamizda bepul umumiy oʻrta taʼlim va boshlangʻich professional taʼlim davlat tomonidan kafolatlanishi mustahkamlangan.
+
+![](img/ogp-9.uz/p073-1.webp "900x336")
 
 Har kim taʼlim olish huquqiga ega.
 
@@ -2046,7 +2022,7 @@ Barcha davlatlarda taʼlim olish huquqi birdek taʼminlangan deb boʻlmaydi. Ko�
 
 Ayrim bolalar taʼlim olishda, oʻzlashtirishda, maʼlumotlarni qabul qilishda boshqa bolalardan ajralib turadi. Bunday bolalarga alohida kitoblar, oʻqituvchilar, xonalar kerak boʻlishi mumkin. Konstitutsiyamizga koʻra, shunday hollarda ularga inklyuziv taʼlim va tarbiya tashkil etiladi.
 
-Inklyuziv taʼlim – alohida taʼlim ehtiyojlari va individual imkoniyatlarning xilmaxilligini hisobga olgan holda barcha uchun teng imkoniyatlarni taʼminlagan holda beriladigan taʼlim.
+**Inklyuziv taʼlim** – alohida taʼlim ehtiyojlari va individual imkoniyatlarning xilmaxilligini hisobga olgan holda barcha uchun teng imkoniyatlarni taʼminlagan holda beriladigan taʼlim.
 
 Oliy maʼlumot olishda (bakalavr va magistratura) bepul va toʻlov-shartnoma asosida taʼlim olish birga olib boriladi. Yaʼni oliy oʻquv yurtlariga qabul qilinadigan talabalar belgilangan kvotalar boʻyicha davlat hisobidan bepul taʼlim oladi. Ular kirish sinovlarida yuqori natijaga erishgan talabgorlardir. Davlat byudjeti doirasida aniqlangan miqdor uchun yetarli ball toʻplay olmagan talabgorlar orasidan yuqori koʻrsatkichlarga erishganlari oʻz ixtiyori bilan toʻlov-kontrakt asosida oliy oʻquv yurtiga qabul qilinishi mumkin.
 
@@ -2055,6 +2031,8 @@ Konstitutsiyaga kiritilgan yangiliklardan biri oʻqituvchilar maqomining mustahk
 Oʻzbekiston Respublikasida oʻqituvchining mehnati jamiyat va davlatni rivojlantirish, sogʻlom, barkamol avlodni shakllantirish va tarbiyalash, xalqning maʼnaviy va madaniy salohiyatini saqlash hamda boyitishning asosi sifatida eʼtirof etiladi.
 
 Davlat oʻqituvchilarning shaʼni va qadr-qimmatini himoyalaydi, ularning ijtimoiy va moddiy farovonligi, kasbiy jihatdan oʻsishi toʻgʻrisida gʻamxoʻrlik qiladi.
+
+![](img/ogp-9.uz/p074-1.webp "322x192")
 
 ### Savol va topshiriqlar
 
@@ -2070,13 +2048,13 @@ Davlat oʻqituvchilarning shaʼni va qadr-qimmatini himoyalaydi, ularning ijtimo
 
 1. Taʼlim olish huquqi taʼminlanishi uchun eng zarur omillarga nimalarni kiritasiz? Javobingiz asosida quyidagi jadvalni toʻldiring.
 
-2. F. ismli maktab oʻquvchisi internet blogerlari faoliyatini koʻrib, qiziqib qoladi. Uyda dadasining telefoni va kompyuteridan foydalangan holda turli oʻyinlarni oʻynab, ularni sharhlab, internetga joylashni boshlaydi. Bundan xabar topgan maktab maʼmuriyati F.ning oʻzlashtirishi pasayib ketayotganligini ota-onasiga aytadi.
+**2.** F. ismli maktab oʻquvchisi internet blogerlari faoliyatini koʻrib, qiziqib qoladi. Uyda dadasining telefoni va kompyuteridan foydalangan holda turli oʻyinlarni oʻynab, ularni sharhlab, internetga joylashni boshlaydi. Bundan xabar topgan maktab maʼmuriyati F.ning oʻzlashtirishi pasayib ketayotganligini ota-onasiga aytadi.
 
 F.ning ota-onasiga qanday yoʻl tutishni maslahat berasiz? Javobingizni asoslang.
 
 ## 22-dars. Ekologik huquqlar
 
-Orol dengizining qurishi bilan bogʻliq vaziyatning tobora keskin tus olayotgani ekologik xavfsizlikni gʻoyat dolzarb masalaga aylantirdi. Shavkat Mirziyoyev
+Orol dengizining qurishi bilan bogʻliq vaziyatning tobora keskin tus olayotgani ekologik xavfsizlikni gʻoyat dolzarb masalaga aylantirdi. **Shavkat Mirziyoyev**
 
 ### Bilib olasiz
 
@@ -2097,8 +2075,6 @@ Oʻzbekiston Respublikasi Konstitutsiyasining 49-moddasida har kim qulay atrof-m
 Oʻzbekiston Respublikasi “Tabiatni muhofaza qilish toʻgʻrisida”gi qonunining maqsadlaridan biri fuqarolarning qulay atrof-muhitga ega boʻlish huquqini taʼminlashdan iborat. Insonning yashash muhiti boʻlmish biosfera va ekologiya tizimlari barqarorligini saqlab qolish, odamlarning ekologik jihatdan xavfsizligi, inson va uning kelgusi avlodlari genetik fondi haqida gʻamxoʻrlik qilish, atrof tabiiy muhit va inson sihat-salomatligi uchun zararli, tiklab boʻlmas oqibatlarga yoʻl qoʻymaslik davlat ekologik siyosatining asosiy yoʻnalishlari hisoblanadi.
 
 Oʻzbekiston Respublikasi aholisi oʻzi va kelajak avlodning salomatligi uchun qulay tabiiy muhitda yashash, oʻz salomatligini atrof-muhitning zararli taʼsiridan muhofaza qilish huquqiga ega boʻlib, ana shu maqsadda Oʻzbekiston Respublikasi aholisi tabiatni muhofaza qilish boʻyicha jamoat tashkilotlariga birlashish, atrof tabiiy muhitning ahvoli hamda uni muhofaza qilish yuzasidan koʻrilayotgan chora-tadbirlarga doir axborotlarni talab qilish va olish huquqiga ega.
-
-5-iyun – Butunjahon atrof-muhitni muhofaza qilish kuni. Shu kuni atrof-muhit muhofazasi boʻyicha BMT dasturi – YUNEPga asos solingan (1972-yil).
 
 Oʻzbekiston Ekologik partiyasining asosiy maqsadi barqaror rivojlanishga, ekologik xavfsizlikka erishish, hozirgi va kelajak avlod uchun tabiiy resurslarni saqlash va qulay atrof-muhitni yaratishga yoʻnaltirilgan davlat siyosatini roʻyobga chiqarishni taʼminlash, atrof-muhitni muhofaza qilish va tabiiy resurslarni saqlash davlat, jamiyat va mamlakat har bir fuqarosining vazifasi boʻlishiga erishish yoʻlida koʻmaklashishdir.
 
@@ -2132,6 +2108,8 @@ Bugungi kunda davlatimiz tomonidan atrof-muhitni yaxshilash, tiklash va muhofaza
 
 – ekologik jihatdan eng kam xavf tugʻdiruvchi materiallar, mahsulotlardan, ishlab chiqarish obyektlari va boshqa obyektlardan ustuvor darajada foydalanish;
 
+![](img/ogp-9.uz/p078-1.webp "802x414")
+
 ### Yodda tuting!
 
 > Atrof-muhitni muhofaza qilish – inson faoliyatining atrof-muhitga salbiy taʼsirini cheklash va uning buzilishining oldini olishga qaratilgan chora-tadbirlar majmuyi.
@@ -2156,6 +2134,8 @@ Orolboʻyi hududidagi xalqning qulay atrof-muhitga boʻlgan huquqi insonning aso
 
 Orol dengizi uzoq yillardan buyon barhayot boʻlib, atrofida yashovchi xalqlarga rizqnasiba berib kelgan.
 
+![](img/ogp-9.uz/p079-1.webp "362x206")
+
 Amudaryo va Sirdaryo suvidan foydalanishda yoʻl qoʻyilgan xatolar uning qurishiga sabab boʻlgan. Orol dengizining maydoni oʻn, suv hajmi bir necha barobarga kamayib ketgan. Suv tarkibidagi tuzning koʻrsatkichi koʻtarilishi natijasida baliq va jonivorlar yasholmay, biologik jihatdan oʻlik dengizga aylangan.1981-yildan Amudaryoda kema va parom qatnovi toʻxtatildi. Orolboʻyidagi ilgari yirik ishlab chiqarish quvvatlariga ega port shahar boʻlgan Moʻynoq keyinchalik dengizning oʻlik qirgʻoqlaridagi kemalar qabristoniga aylandi. Orol dengizining yuz kilometrdan koʻproq ichkariga chekinishi natijasida kemalar quruq qum ustida qolib ketdi.
 
 ### Orol dengizi qurishining salbiy oqibatlari
@@ -2172,7 +2152,7 @@ Ekin maydonlarining keskin qisqarishiga olib keldi.
 
 Bugun Orolboʻyi mintaqasini rivojlantirish masalasi davlat siyosatining ustuvor yoʻnalishiga aylanib, Orol fojiasi oqibatlarini yumshatish boʻyicha salmoqli ishlar qilinmoqda.
 
-Orolboʻyidagi ekologik inqirozning salbiy taʼsirini yumshatish choralari:
+**Orolboʻyidagi ekologik inqirozning salbiy taʼsirini yumshatish choralari:**
 
 – Orol dengizi akvatoriyasidagi tabiiy suv havzalari tizimini saqlash;
 
@@ -2182,11 +2162,9 @@ Orolboʻyidagi ekologik inqirozning salbiy taʼsirini yumshatish choralari:
 
 Bu rezolyutsiyalar Orol dengizi qurishining atrof-muhit va aholi salomatligiga salbiy oqibatlariga qarshi kurashish, yuzaga kelgan muammolarni bartaraf etish, mintaqada yashovchi aholi bandligini taʼminlash orqali ularning turmush sharoiti yaxshilanishida katta ahamiyat kasb etmoqda.
 
-Oʻzbekiston Respublikasi Prezidenti tashabbusi bilan BMT Bosh Assambleyasi tomonidan qabul qilingan rezolyutsiyalar:
+**Oʻzbekiston Respublikasi Prezidenti tashabbusi bilan BMT Bosh Assambleyasi tomonidan qabul qilingan rezolyutsiyalar:**
 
-2021-yil 18-may kuni BMT Bosh Assambleyasining 75-sessiyasi yalpi majlisida qabul qilingan “Orolboʻyi mintaqasini ekologik innovatsiya va texnologiyalar hududi deb eʼlon qilish toʻgʻrisida”gi rezolyutsiya
-
-2018-yil 27-noyabrda Orolboʻyi minta qasi uchun Inson xavfsizligi boʻyicha koʻp sheriklik Trast jamgʻarmasiga asos solinishiga xizmat qilgan rezolyutsiya
+![](img/ogp-9.uz/p080-1.webp "802x231")
 
 ### Savol va topshiriqlar
 
@@ -2206,45 +2184,35 @@ Oʻzbekiston Respublikasi Prezidenti tashabbusi bilan BMT Bosh Assambleyasi tomo
 
 ### Ekologik madaniyat
 
-2. Muammoli vaziyatning yechimini toping.
-
-Aholi yashaydigan hududda qoʻriqxonadan chiqib ketgan ayiq bolasi paydo boʻlib qoldi. Oʻsha hududda yashovchi fuqarolardan biri uni ov miltigʻi bilan otib oʻldirib, aholiga ziyon yet kazilishining oldini olmoqchi boʻldi. Boshqa kishi bunga qarshilik qilib boshqacha yoʻl tutish zarurligini taʼkidladi. Sizningcha, bu muammo qanday hal qilinishi zarur?
+![](img/ogp-9.uz/p080-2.webp "900x532")
 
 ## 23-dars. Inson huquq va erkinliklarining kafolatlanishi
 
-Agar kimda-kim barcha qonunlarni oʻrganishni xohlasa, uning qonunlarni buzishga vaqti boʻlmaydi. Gyote
+Agar kimda-kim barcha qonunlarni oʻrganishni xohlasa, uning qonunlarni buzishga vaqti boʻlmaydi. **Gyote**
 
-### Bilib olasiz
-
-Inson huquq va erkinliklarining kafolatlanishi tushunchasi. Huquq va erkinliklarni sud orqali himoya qilish.
-
-Inson huquqlari boʻyicha milliy institutlar.
-
-Inson huquqlarini xalqaro darajada himoya qilish.
+![](img/ogp-9.uz/p081-1.webp "602x164")
 
 ### Inson huquq va erkinliklarining kafolatlanishi tushunchasi
 
 Inson huquq va erkinliklari huquqiy jihatdan davlat konstitutsiyasi va boshqa qonun hujjatlarida aks ettiriladi. Biroq ularni mana shunday yozib qoʻyishning oʻzi yetarli emas. Huquq va erkinliklar asosiy qonun va boshqa normalarda qanday yozilgan boʻlsa, shunday amalga oshirilishi uchun kafolatlar zarur hisoblanadi.
 
-Inson huquq va erkinliklarining kafolatlari shaxs huquq va erkinliklarini amalga oshirishni taʼminlashga qaratilgan huquqiy vositalar, yuridik usullar va shart-sharoitlar majmuyidir.
+**Inson huquq va erkinliklarining kafolatlari** shaxs huquq va erkinliklarini amalga oshirishni taʼminlashga qaratilgan huquqiy vositalar, yuridik usullar va shart-sharoitlar majmuyidir.
 
 Kafolatlashning asosiy maqsadi shaxslarning huquq va erkinliklarini amalga oshirish jarayonida vujudga keladigan toʻsiqlarni bartaraf etish bilan bogʻliq. Inson huquq va erkinliklarining kafolatlari xalqaro va milliy darajada muayyan mexanizmlar yordamida amalga oshiriladi.
 
 Xalqaro darajada inson huquqlarini himoya qiluvchi turli organlar davlatlar insonlarning asosiy huquq va erkinliklariga qay darajada rioya qilayotganini oʻrganib boradi.
 
+![](img/ogp-9.uz/p081-2.webp "192x182")
+
 ### Inson huquqlari himoyasi
 
 Milliy darajada huquq va erkinliklarning davlat tomonidan taʼminlanishi tegishli vakolatli tuzilmalar faoliyat koʻrsatishida namoyon boʻladi.
 
+![](img/ogp-9.uz/p081-3.webp "392x387")
+
 Konstitutsiyamizda “Inson hamda fuqaroning huquq va erkinliklari kafolatlari” alohida bob sifatida ajratilganining oʻzi bunga eʼtiborning kuchli ekanini koʻrsatadi.
 
-Insonning huquq va erkinliklarini taʼminlash davlatning oliy maqsadidir.
-
-Davlat inson hamda fuqaroning konstitutsiya va qonunlarda mustahkamlangan huquqlari va erkinliklarini taʼminlaydi.
-
-### Oʻzbekiston Respublikasi
-
-Konstitutsiyasi, 54-modda
+![](img/ogp-9.uz/p081-4.webp "900x123")
 
 Konstitutsiyaga koʻra, har kim oʻz huquq va erkinliklarini qonunda taqiqlanmagan barcha usullar bilan himoya qilishga haqli. Fuqarolar oʻz huquq va erkinliklari davlat organlari, mansabdor shaxslar, boshqa shaxslar tomonidan buzilyapti yoki yetarli darajada taʼminlamayapti deb hisoblasa, huquqlari tiklanishini soʻrab sudga, boshqa davlat organlariga murojaat qilishlari mumkin.
 
@@ -2258,7 +2226,7 @@ Huquq va erkinliklar barchaga bir xilda beriladi. Barcha huquq va erkinliklarda 
 
 Inson huquq va erkinliklarini himoya qilishda asosiy organ suddir. Aynan sud shaxs huquq va erkinliklarini tiklash, taʼminlash, javobgar shaxslarga chora koʻrish haqida qaror chiqara oladi.
 
-Sud orqali himoya qilish sudlarning shaxslarning buzilgan huquq va erkinliklarini tiklashga qaratilgan, protsessual qonunlarda belgilangan tartibda amalga oshiriladigan faoliyatidir.
+**Sud orqali himoya qilish** sudlarning shaxslarning buzilgan huquq va erkinliklarini tiklashga qaratilgan, protsessual qonunlarda belgilangan tartibda amalga oshiriladigan faoliyatidir.
 
 Huquq va erkinliklarni sud orqali himoya qilish, odil sudlovni taʼminlash davlatlarning inson huquqlarini taʼminlashdagi asosiy majburiyatlaridan hisoblanadi.
 
@@ -2272,7 +2240,7 @@ Har kimga buzilgan huquq va erkinliklarini tiklash uchun uning ishi qonunda belg
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 55-modda
+**Konstitutsiyasi, 55-modda**
 
 ### Inson huquqlari boʻyicha milliy institutlar
 
@@ -2294,17 +2262,21 @@ Ombudsmanga nafaqat Oʻzbekiston fuqarolari, balki Oʻzbekistondagi chetelliklar
 
 Shaxslar baʼzida oʻz buzilgan huquq va erkinliklarini davlatning barcha himoya vositalaridan, sudning barcha bosqichlaridan foydalanib boʻlgandan keyin ham tiklay olmasliklari mumkin. Mana shunday vaqtlarda endi kim inson huquqlarini tiklab beradi degan savol yuzaga keladi. Inson huquqlarini xalqaro darajada himoya qilish tartibini bilish yuqoridagi kabi holatga tushgan shaxslar uchun muhim hisoblanadi
 
+![](img/ogp-9.uz/p083-1.webp "262x232")
+
 Inson huquqlari boʻyicha milliy institutlar inson huquqlari va erkinliklarini himoya qilishning mavjud shakllari hamda vositalarini toʻldiradi, fuqarolik jamiyatini rivojlantirishga va inson huquqlari madaniyatini yuksaltirishga koʻmaklashadi.
 
 Davlat inson huquqlari boʻyicha milliy institutlar faoliyatini tashkil etish uchun shart-sharoitlar yaratadi.
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 56-modda
+**Konstitutsiyasi, 56-modda**
 
 Har kim Oʻzbekiston Respublikasining qonunchiligiga va xalqaro shartnomalariga muvofiq, agar davlatning huquqiy himoyaga doir barcha ichki vositalaridan foydalanib boʻlingan boʻlsa, insonning huquq va erkinliklarini himoya qiluvchi xalqaro organlarga murojaat etishga haqli.
 
 ### Oʻzbekiston Respublikasi Konstitutsiyasi, 55-modda
+
+![](img/ogp-9.uz/p084-1.webp "442x323")
 
 Oʻzbekiston Respublikasining Konstitutsiyasiga kiritilgan yangiliklardan biri shaxs larning insonning huquq va erkinliklarini himoya qiluvchi xalqaro organlarga murojaat etish huquqining belgilanganidir.
 
@@ -2312,13 +2284,11 @@ Shaxs oʻzining huquq va erkinliklari buzildi deb hisoblab toʻgʻridan toʻgʻr
 
 Inson huquqlari boʻyicha xalqaro organga murojaat qilinayotganda shaxsning davlatning qonunlaridagi emas, balki Oʻzbekiston qoʻshilgan xalqaro shartnomalarda belgilangan huquqlari buzilganini koʻrsatishi lozim.
 
-BMT tizimidagi inson huquqlarini himoya qiluvchi xalqaro organlar
+![](img/ogp-9.uz/p084-2.webp "802x392")
 
 ### Hayotiy vaziyat
 
-Chet el fuqarosi Oʻzbekistonga sayyoh sifatida keldi. Doʻkonga oziq-ovqat mahsulotlarini xarid qilish uchun kirganda bank plastik kartasi yoʻqolganini bilib qoladi. Shunda doʻkon egasiga kuzatuv kamerasini koʻzdan kechirmoqchi ekani, shu orqali karta qayerda yoʻqolganini aniqlashtirmoqchiligini aytganida unga kamerani koʻrishga ruxsat berilmasligini maʼlum qilishadi.
-
-Sizningcha, chet el fuqarosi ushbu vaziyatda qanday yoʻl tutishi kerak?
+![](img/ogp-9.uz/p085-1.webp "812x288")
 
 ### Savol va topshiriqlar
 
@@ -2334,11 +2304,15 @@ Sizningcha, chet el fuqarosi ushbu vaziyatda qanday yoʻl tutishi kerak?
 
 1. Quyidagi huquqlarni amalga oshirish shakllari nimalarda namoyon boʻladi? Jadvalni toʻldiring.
 
+### Amalga oshirish shakli
+
+![](img/ogp-9.uz/p085-2.webp "900x472")
+
 ## 24-dars. Oʻzbekiston Respublikasi fuqarolarining konstitutsiyaviy burchlari
 
 Burchingni ado etishga harakat qil, shunda darhol oʻzingning kimligingni bilib olasan.
 
-Lev Tolstoy
+**Lev Tolstoy**
 
 ### Bilib olasiz
 
@@ -2358,7 +2332,7 @@ Barcha fuqarolar Konstitutsiyada belgilab qoʻyilgan burchlarini bajaradilar.
 
 ### Oʻzbekiston Respublikasi
 
-Konstitutsiyasi, 59-modda
+**Konstitutsiyasi, 59-modda**
 
 ### Yodda tuting!
 
@@ -2384,9 +2358,9 @@ Fuqarolar tomonidan burchlarning bajarilishi jamiyat manfaatlari uchun zarurdir.
 
 Tabiiy muhitni qanchalik asray olsak, sof atrof-muhitda yashash huquqimizni taʼminlash imkoniyati kuchayadi. Shu bois har birimiz konstitutsiyaviy burchimizga rioya etishimiz – atrof-muhitga ehtiyotkorona munosabatda boʻlishimiz zarur.
 
-Fuqarolarning soliqlar va yigʻimlarni toʻlash bilan bogʻliq burchlari ham muhimdir. Soliq deganda belgilangan, Oʻzbekiston Respublikasining Davlat byudjetiga yoki davlat maqsadli jamgʻarmasiga toʻlanadigan majburiy begʻaraz toʻlov tushuniladi.
+Fuqarolarning soliqlar va yigʻimlarni toʻlash bilan bogʻliq burchlari ham muhimdir. **Soliq** deganda belgilangan, Oʻzbekiston Respublikasining Davlat byudjetiga yoki davlat maqsadli jamgʻarmasiga toʻlanadigan majburiy begʻaraz toʻlov tushuniladi.
 
-Yigʻim deganda byudjet tizimiga qonun hujjatlarida belgilangan majburiy toʻlov tushuni-
+**Yigʻim** deganda byudjet tizimiga qonun hujjatlarida belgilangan majburiy toʻlov tushuni-
 
 ladi.
 
@@ -2394,13 +2368,13 @@ Davlat toʻplangan soliqlarni mamlakatning mudofaa qobiliyatini, fuqarolarning x
 
 Oʻzbekiston Respublikasi Konstitutsiyasida soliq va yigʻimlar adolatli boʻlishi hamda fuqarolarning konstitutsiyaviy huquqlarini amalga oshirishiga toʻsqinlik qilmasligi kerak ekani mustahkamlab qoʻyilgan.
 
-Oʻzbekiston xalqining tarixiy, maʼnaviy, madaniy, ilmiy va tabiiy merosini asrab-avaylash
+**Oʻzbekiston xalqining tarixiy, maʼnaviy, madaniy, ilmiy va tabiiy merosini asrab-avaylash**
 
 Oʻzbekistonning har bir fuqarosi xalqimizning tarixiy, madaniy, ilmiy va tabiiy merosini asrab-avaylab, kelgusi avlodlarga yetkazishni oʻzi uchun muqaddas vazifa deb bilishi zarur.
 
 Shunday tarixiy davrlar boʻlgan: oʻzbek xalqi yaratgan tarixiy-madaniy yodgorliklar toptalgan, yoʻq qilingan va xorijiy davlatlarga olib ketilgan. Bugungi kunda ularni qaytarish davlatimizning asosiy maqsadlaridan biri hisoblanadi.
 
-Yurtimizda tarixiy yodgorliklarni har taraflama himoya qilishning qonuniy asoslari ishlab chiqildi, ularni saqlash va taʼmirlash boʻyicha muayyan dasturlar Oʻzbekiston Respublikasi asosida chora-tadbirlar amalga oshirib kelinmoqda. Konstitutsiyasi, 61-modda
+Yurtimizda tarixiy yodgorliklarni har taraflama himoya qilishning qonuniy asoslari ishlab chiqildi, ularni saqlash va taʼmirlash boʻyicha muayyan dasturlar **Oʻzbekiston Respublikasi** asosida chora-tadbirlar amalga oshirib kelinmoqda. **Konstitutsiyasi, 61-modda**
 
 Fuqarolar Oʻzbekiston xalqining tarixiy, maʼnaviy, madaniy, ilmiy va tabiiy merosini asrab-avaylashi shart.
 
@@ -2408,17 +2382,11 @@ Tarixiy, maʼnaviy, madaniy, ilmiy va tabiiy meros davlat tomonidan muhofaza qil
 
 Moddiy madaniy meros obyektlarini asrash chora-tadbirlari ularni konservatsiyalash, tuzatish, taʼmirlash, hozirgi zamonda foydalanishga moslashtirishni, shuningdek, ular bilan bogʻliq ilmiy va ilmiy-texnik tadqiqotlar, loyihalash hamda ishlab chiqarish ishlarini oʻz ichiga oladi.
 
-“Madaniy meros obyektlarini muhofaza qilish va ulardan foydalanish toʻgʻrisida”gi Oʻzbekiston Respublikasining qonuni
+**“Madaniy meros obyektlarini muhofaza qilish va ulardan foydalanish toʻgʻrisida”gi Oʻzbekiston Respublikasining qonuni**
 
 Tarixiy, maʼnaviy, madaniy, ilmiy va tabiiy merosni muhofaza qilishda YUNESKO xalqaro tashkiloti bilan hamkorlik ham katta ahamiyat kasb etib kelmoqda.
 
 Oʻzbekiston hududidagi toʻrt qadimiy shahar – Samarqand, Buxoro, Xiva, Shahrisabz, shuningdek, Navroʻz bayrami, Katta ashula, “Shashmaqom”, askiya insoniyatning madaniy merosi sifatida YUNESKO roʻyxatiga kiritilgan.
-
-### Madaniy meros obyektlari
-
-Tarixiy, ilmiy, badiiy yoki oʻzgacha madaniy qimmatga ega boʻlgan urf-odatlar, xalq ijodiyoti (soʻz, raqs, musiqa, tomosha sanʼati), shuningdek, ular hamda xalq badiiy hunarmandchiligi va amaliy sanʼati bilan bogʻliq bilimlar, koʻnikmalar, asbob-anjomlar, artefaktlar, madaniy makonlar
-
-Tarixiy, ilmiy, badiiy yoki oʻzgacha madaniy qimmatga ega boʻlgan ansambllar, diqqatga sazovor joylar va yodgorliklar
 
 Tarixiy va madaniy merosimizni muhofaza qilish bilan birga Oʻzbekistonning tabiiy merosini saqlash va uning kelgusi avlodlarga bezavol yetkazilishini taʼminlash, tabiiy ekologik tizimlarning tanazzulga uchrashi surʼatlarini pasaytirish va bioxilmaxillikni saqlab qolish ham fuqarolarning konstitutsiyaviy burchlari hisoblanadi.
 
@@ -2428,23 +2396,15 @@ Davlat mustaqilligini, uning hududiy yaxlitligini, aholining tinch hayot kechiri
 
 Harbiy xizmatga birinchi marta chaqirilgan yoki ixtiyoriy ravishda (kontrakt boʻyicha) kirgan fuqarolar Oʻzbekiston Respublikasi davlat bayrogʻi oldida Vatanga qasamyod qabul qiladilar. Vatanga qasamyodning mazmuni Umumiy harbiy majburiyat va harbiy xizmat toʻgʻrisidagi Oʻzbekiston Respublikasi qonunining 3-moddasida bayon etilgan.
 
-### Yodda tuting!
-
-> Harbiy xizmat – Oʻzbekiston Respublikasi fuqarolarining Qurolli Kuchlar safida umumiy harbiy majburiyatni bajarish borasidagi davlat xizmatining alohida turidir.
-
-Oʻzbekiston Respublikasini himoya qilish Oʻzbekiston Respublikasi har bir fuqarosining burchidir. Fuqarolar qonunda belgilangan tartibda harbiy yoki muqobil xizmatni oʻtashga majburdirlar.
-
-### Oʻzbekiston Respublikasi
-
-Konstitutsiyasi, 64-modda
-
-safarbarlik chaqiruvi rezervidagi harbiy xizmat kontrakt boʻyicha harbiy xizmat
+![](img/ogp-9.uz/p088-2.webp "900x230")
 
 Oʻzbekiston Respublikasi Qurolli Kuchlari safida harbiy xizmatni oʻtagan rezervchilar xizmati
 
+![](img/ogp-9.uz/p089-1.webp "432x242")
+
 Tinchlik davrida oddiy askarlar va serjantlar tarkibi lavozimlarida muddatli harbiy xizmatga, shuningdek, safarbarlik chaqiruvi rezervidagi xizmatga oʻn sakkiz yoshdan yigirma yetti yoshgacha boʻlgan, salomatligiga koʻra Qurolli Kuchlar safida harbiy xizmatni oʻtashga yaroqli erkak fuqarolar chaqiriladi. Muddatli harbiy xizmat kalendar hisobida oʻn ikki oy etib belgilanadi.
 
-Muqobil xizmat fuqarolarning umumiy harbiy majburiyatni bajarishining chaqiruv boʻyicha harbiy xizmat oʻrniga iqtisodiyot, ijtimoiy sohaning turli tarmoqlarida kam malaka talab etiladigan (yordamchi) ishlarni, shuningdek, falokatlar, halokatlar, tabiiy ofatlar va boshqa favqulodda vaziyatlar oqibatlarini bartaraf etish ishlarini bajarish bilan bogʻliq boʻlgan alohida turidir.
+**Muqobil xizmat** fuqarolarning umumiy harbiy majburiyatni bajarishining chaqiruv boʻyicha harbiy xizmat oʻrniga iqtisodiyot, ijtimoiy sohaning turli tarmoqlarida kam malaka talab etiladigan (yordamchi) ishlarni, shuningdek, falokatlar, halokatlar, tabiiy ofatlar va boshqa favqulodda vaziyatlar oqibatlarini bartaraf etish ishlarini bajarish bilan bogʻliq boʻlgan alohida turidir.
 
 Oʻn sakkiz yoshdan yigirma yetti yoshgacha boʻlgan, harbiy roʻyxatda turuvchi va xizmatga chaqirilishi lozim boʻlgan fuqarolar, agar ularning diniy taʼlimoti qurol-yarogʻdan foydalanish va Qurolli Kuchlarda xizmat qilishga yoʻl qoʻymasa, roʻyxatga olingan diniy tashkilotlar hisobida tursalar, muqobil xizmat huquqiga ega.
 
@@ -2462,11 +2422,11 @@ Muqobil xizmatning muddati yigirma toʻrt oyni, oliy maʼlumotli fuqarolar uchun
 
 ### Mustaqil ish uchun topshiriq
 
-Quyidagi tushunchalarning mohiyatini yoritib bering.
+![](img/ogp-9.uz/p089-2.webp "900x393")
 
 ## 25-dars. Ijodiy faoliyat
 
-1-topshiriq. Quyidagi vaziyatni oʻrganing va savollarga javob bering.
+**1-topshiriq.** Quyidagi vaziyatni oʻrganing va savollarga javob bering.
 
 Tasavvur qiling, siz chiqindini qayta ishlaydigan zavod joylashgan shaharda yashaysiz. Mazkur zavod bir necha yillardan beri ishlab kelmoqda. Oʻtgan davr davomida aholi oʻrtasida yurak-qontomir va oʻpka kasalliklari koʻpaydi.
 
@@ -2478,61 +2438,61 @@ Aholi salomatligini tekshirish natijasida kasallikning koʻpayib borishi atrof-m
 
 3. Ushbu holatda qanday himoya mexanizmlariga murojaat qilish samarali boʻladi?
 
-2-topshiriq. Quyidagi vaziyatlarda inson huquqlarini himoya qilishning qaysi mexanizmlaridan foydalanish mumkin?
+**2-topshiriq.** Quyidagi vaziyatlarda inson huquqlarini himoya qilishning qaysi mexanizmlaridan foydalanish mumkin?
 
-Sizni taʼqib qilishmoqda, jazolash tahdid solishmoqda, tinimsiz qoʻngʻiroq qilib, haqoratlashmoqda.
-
-Adolatsiz jabrlanganingizga, sizni qilishganiga, haqoratlashganiga ishonch hosil qildingiz.
-
-Chet elda oʻrtogʻingiz bilan kechki sayrdan qaytyapsiz. Sizni politsiya xodimi toʻxtatib, politsiya boʻlimiga olib ketmoqchi.
+![](img/ogp-9.uz/p090-1.webp "900x759")
 
 ## 26-dars. Nazorat ishi
 
-1. Inson shaxsiy huquq va erkinliklarga qachon ega boʻladi?
+**1.** Inson shaxsiy huquq va erkinliklarga qachon ega boʻladi?
 
 A) tugʻilgan zahoti B) 16 yoshga toʻlganda D) 18 yoshga toʻlganda E) maktab yoshiga yetganda
 
-2. Xabeas korpus akti dastlab qaysi davlatda qabul qilingan?
+**2.** Xabeas korpus akti dastlab qaysi davlatda qabul qilingan?
 
 A) AQSHda B) Angliyada D) Fransiyada E) Germaniyada
 
-3. Har kim bilim olish huquqiga ega ekani Oʻzbekiston Respublikasi Konstitutsiyasining nechanchi moddasida mustahkamlangan?
+**3.** Har kim bilim olish huquqiga ega ekani Oʻzbekiston Respublikasi Konstitutsiyasining nechanchi moddasida mustahkamlangan?
 
 A) 49-modda B) 50-modda D) 51-modda E) 52-modda
 
-4. “Ombudsman” soʻzining lugʻaviy maʼnosi nima?
+**4.** “Ombudsman” soʻzining lugʻaviy maʼnosi nima?
 
 A) himoyachi B) mansabdor shaxs D) vositachi E) ayblovchi
 
-5. Oʻzbekiston Respublikasi Konstitutsiyasining 27-moddasiga koʻra, shaxs sudning qarorisiz necha soatdan ortiq ushlab turilishi mumkin emas?
+**5.** Oʻzbekiston Respublikasi Konstitutsiyasining 27-moddasiga koʻra, shaxs sudning qarorisiz necha soatdan ortiq ushlab turilishi mumkin emas?
 
 A) 24 soatdan B) 36 soatdan D) 48 soatdan E) 54 soatdan
 
-6. Aybsizlik prezumpsiyasi tamoyili ilk bor qaysi davlatda amalga kiritilgan?
+**6.** Aybsizlik prezumpsiyasi tamoyili ilk bor qaysi davlatda amalga kiritilgan?
 
 A) AQSHda B) Angliyada D) Fransiyada E) Germaniyada
 
-7. Ovoz berishda qatnashish uchun (saylash huquqi) fuqarolar saylov kuni necha yoshga toʻlgan boʻlishlari lozim?
+**7.** Ovoz berishda qatnashish uchun (saylash huquqi) fuqarolar saylov kuni necha yoshga toʻlgan boʻlishlari lozim?
 
 A) 16 yoshga B) 18 yoshga D) 24 yoshga E) 30 yoshga
 
-8. 15 yoshga toʻlgan bolalar qanday tartibda ishga qabul qilinadi?
+**8.** 15 yoshga toʻlgan bolalar qanday tartibda ishga qabul qilinadi?
 
 A) ota-onadan birining yozma roziligi bilan B) ota-onaning har ikkisining roziligi bilan D) 15 yoshga toʻlgan shaxsning roziligi bilan E) 15 yoshga toʻlgan shaxs ishga qabul qilinmaydi
 
-9. Fuqarolar necha yoshdan umumiy tartibda ishga qabul qilinadilar?
+**9.** Fuqarolar necha yoshdan umumiy tartibda ishga qabul qilinadilar?
 
 A) 14 yoshdan B) 15 yoshdan D) 16 yoshdan E) 18 yoshdan
 
-10. Kimlar uchun inklyuziv taʼlim va tarbiya taʼminlanadi?
+**10.** Kimlar uchun inklyuziv taʼlim va tarbiya taʼminlanadi?
 
 A) alohida taʼlim ehtiyojlariga ega boʻlgan bolalar uchun B) yetim bolalar uchun D) maktab yoshidagi barcha bolalar uchun E) chekka hududlarda yashaydigan bolalar uchun
+
+### FUQAROLIK JAMIYATI VA DAVLAT HOKIMIYATI
+
+![](img/ogp-9.uz/p092-1.webp "900x1041")
 
 # IV bob. Fuqarolik jamiyati va davlat hokimiyati
 
 ## 27-dars. Jamiyat va shaxs. Fuqarolik jamiyati
 
-Jamiyat davlat bilan kuchlidir, chunki u yetuklashgani sayin oʻz aʼzolarini himoya ostiga oladi. Abu Nasr Forobiy
+Jamiyat davlat bilan kuchlidir, chunki u yetuklashgani sayin oʻz aʼzolarini himoya ostiga oladi. **Abu Nasr Forobiy**
 
 ### Bilib olasiz
 
@@ -2542,6 +2502,8 @@ Oila, bolalar va yoshlar hamda ularning huquqlari. Ommaviy axborot vositalari.
 
 ### Fuqarolik jamiyati tushunchasi va uning belgilari
 
+![](img/ogp-9.uz/p093-1.webp "272x245")
+
 Fuqarolik jamiyati haqida ilk tasavvurlar Aristotelning “Siyosat” asarida bayon etilgan. Unga koʻra, insonning erkin yashash huquqi kishilik jamiyatining adolat va qonun ustuvorligi asosida tashkil etilishi orqali taʼminlanishi lozim.
 
 Fuqarolik jamiyati iqtisodiy, siyosiy va madaniy hayot shakl larini erkin tanlash kafolatlanadigan, qonun ustuvorligi va inson huquqlari hamda erkinliklari qaror topadigan, koʻp partiyaviylik, siyosiy institutlar, mafkura va fikrlarning xilmaxilligi taʼminlanadigan hamda oʻzini oʻzi boshqarish organlarining mavqeyi baland boʻlgan ijtimoiy tuzum hisoblanadi. Fuqarolik jamiyatida har bir shaxs siyosiy, ijtimoiy, iqtisodiy, maʼnaviy va huquqiy jihatdan oʻz ehtiyojlarini jamoat birlashmalari va fondlari, oʻzini oʻzi boshqarish organlari, siyosiy partiyalar va nodavlat notijorat tashkilotlar ishida faol ishtirok etib qondiradilar.
@@ -2550,19 +2512,25 @@ Fuqarolik jamiyatining amalda yuzaga kelishida Huquqlar haqidagi bill (Angliya, 
 
 Fuqarolik jamiyati uchta asosga tayanadi: iqtisodiy asos, ijtimoiy-siyosiy asos, maʼnaviy asos.
 
-Iqtisodiy asos – mulk shakllarining xilmaxilligi, iqtisodiy plyuralizm, erkin bozor munosabatlarining mavjudligi. Bunda jamiyatda uning har bir aʼzosi qandaydir mulkka, sarflash huquqiga ega boʻladi, mulkni oʻz xohishi bilan tasarruf etadi, xususiy mulk daxlsizligi, davlat tomonidan kafolatlangan tadbirkorlik, mehnat va isteʼmol faoliyati erkinligi taʼminlanadi.
+**Iqtisodiy asos** – mulk shakllarining xilmaxilligi, iqtisodiy plyuralizm, erkin bozor munosabatlarining mavjudligi. Bunda jamiyatda uning har bir aʼzosi qandaydir mulkka, sarflash huquqiga ega boʻladi, mulkni oʻz xohishi bilan tasarruf etadi, xususiy mulk daxlsizligi, davlat tomonidan kafolatlangan tadbirkorlik, mehnat va isteʼmol faoliyati erkinligi taʼminlanadi.
 
-Ijtimoiy-siyosiy asos – oʻz manfaatlarini himoya qilish uchun insonlarning maʼlum tashkilotlarga birlashishi, iqtisodiy va siyosiy hokimiyatning ajratilishi. Siyosiy plyuralizm, davlat hokimiyati funksiyalarining sekin-asta fuqarolik jamiyati institutlariga berib borilishi.
+**Ijtimoiy-siyosiy asos** – oʻz manfaatlarini himoya qilish uchun insonlarning maʼlum tashkilotlarga birlashishi, iqtisodiy va siyosiy hokimiyatning ajratilishi. Siyosiy plyuralizm, davlat hokimiyati funksiyalarining sekin-asta fuqarolik jamiyati institutlariga berib borilishi.
 
-Maʼnaviy asos – fuqarolar oʻz qadr-qimmatini biladigan, jamiyatning asosiy qadriyatlarini himoyalay oladigan, zarurat tugʻilganda ular uchun kurasha oladigan boʻlishi, vijdon erkinligining taʼminlanishi, axloqiy normalarga rioya qilinishi, fuqarolar davlat boshqaruvi sohasida bevosita va bilvosita ishtirok etishi, fuqarolik pozitsiyasiga ega ekani.
+**Maʼnaviy asos** – fuqarolar oʻz qadr-qimmatini biladigan, jamiyatning asosiy qadriyatlarini himoyalay oladigan, zarurat tugʻilganda ular uchun kurasha oladigan boʻlishi, vijdon erkinligining taʼminlanishi, axloqiy normalarga rioya qilinishi, fuqarolar davlat boshqaruvi sohasida bevosita va bilvosita ishtirok etishi, fuqarolik pozitsiyasiga ega ekani.
 
 ### Yodda tuting!
 
 Fuqarolik jamiyatida mulkchilik shakllarining xilma-xil va teng boʻlishi, mehnat va tadbirkorlikning erkinligiga yoʻl qoʻyilishi, mafkuraviy xilmaxillik va axborot erkinligi, inson huquq va erkinliklarining daxlsizligi, rivojlangan oʻzini oʻzi boshqarish hamda jamiyat hayotining barcha sohalarida qonun ustuvorligi taʼminlanishi muhim hisoblanadi.
 
+![](img/ogp-9.uz/p093-2.webp "900x158")
+
+### Iqtisodiy erkinlik
+
+![](img/ogp-9.uz/p094-1.webp "812x551")
+
 ### Fuqarolik jamiyati institutlari
 
-Fuqarolarning davlat va jamiyat ishlarini boshqarishda ishtirok etishini rivojlantirish, kishilarning fuqarolik, iqtisodiy, ijtimoiy va madaniy sohalardagi huquq hamda erkinliklarini amalga oshirish va himoya qilish maqsadida fuqarolik jamiyati institutlari tashkil etiladi.
+Fuqarolarning davlat va jamiyat ishlarini boshqarishda ishtirok etishini rivojlantirish, kishilarning fuqarolik, iqtisodiy, ijtimoiy va madaniy sohalardagi huquq hamda erkinliklarini amalga oshirish va himoya qilish maqsadida **fuqarolik jamiyati institutlari** tashkil etiladi.
 
 Fuqarolik jamiyati institutlariga quyidagilar kiradi:
 
@@ -2584,31 +2552,31 @@ Fuqarolarning xohish irodalarini erkin bildirishlari natijasida vujudga kelgan i
 
 Jamoat birlashmalarida ishtirok etish uchun barchaga teng imkoniyatlar yaratiladi. Oʻzbekiston Respublikasi fuqarolari, chet el fuqarolari va fuqaroligi boʻlmagan shaxslar jamoat birlashmasi aʼzolari (qatnashchilari) boʻlishi mumkin.
 
-Jamoat birlashmasini tuzish tartibi:
+**Jamoat birlashmasini tuzish tartibi:**
 
 jamoat birlashmasi kamida oʻn nafar fuqaroning tashabbusi bilan tuziladi. Jamoat birlashmasini tuzish tashabbuskorlari taʼsis syezdini (konferensiyasini) yoki umumiy yigʻilishini chaqiradilar, unda ustav (nizom, oʻzga asosiy hujjat) qabul qilinadi va rahbar idoralar tuziladi. Jamoat birlashmasi belgilangan tartibda Oʻzbekiston Respublikasi Adliya vazirligi va viloyatlar, Toshkent shahar adliya boshqarmalari tomonidan roʻyxatdan oʻtkaziladi.
 
-Jamoat birlashmalarining turlari:
+**Jamoat birlashmalarining turlari:**
 
 kasaba uyushmalari, siyosiy partiyalar, olimlarning jamiyatlari, xotin-qizlar tashkilotlari, faxriylar, yoshlar va nogironligi boʻlgan shaxslar tashkilotlari, ijodiy uyushmalar, ommaviy harakatlar hamda fuqarolarning boshqa birlashmalari.
 
-Masalan, Oʻzbekiston yoshlar ittifoqi, Oʻzbekiston kasaba uyushmalari federatsiyasi. Quyidagi jamoat birlashmalarini tuzish taqiqlanadi:
+Masalan, Oʻzbekiston yoshlar ittifoqi, Oʻzbekiston kasaba uyushmalari federatsiyasi. **Quyidagi jamoat birlashmalarini tuzish taqiqlanadi:**
 
 faoliyati jamiyatning axloqiy negizlarini, umumbashariy insonparvarlik qadriyatlarini buzishga qaratilgan, shuningdek, konstitutsion tuzumni gʻayriqonuniy yoʻl bilan oʻzgartirish yoki Oʻzbekiston Respublikasi hududining birligini buzish, urushni, zoʻravonlikni va shafqatsizlikni, jamiyatni parchalashga olib boradigan ijtimoiy, shu jumladan, sinfiy, shuningdek, irqiy, milliy va diniy adovatni avj oldirish, qonunchilik bilan taqiqlangan boshqa xatti-harakatlar qilish maqsadini koʻzlaydigan jamoat birlashmalari.
 
-Oʻzbekiston Respublikasi fuqarosi bir paytning oʻzida faqat bitta siyosiy partiyaga aʼzo boʻlishi mumkin. Biroq ayrim toifadagi shaxslar siyosiy partiyaga aʼzo boʻla olmaydilar. Masalan, sudyalar, Hisob palatasining mansabdor shaxslari, prokurorlar va prokuratura tergovchilari, ichki ishlar, milliy gvardiya, davlat xavfsizlik xizmati xodimlari, harbiy xizmatchilar; xorijiy davlatlarning fuqarolari va fuqaroligi boʻlmagan shaxslar.
+Oʻzbekiston Respublikasi fuqarosi bir paytning oʻzida **faqat bitta siyosiy partiyaga aʼzo boʻlishi mumkin.** Biroq ayrim toifadagi shaxslar siyosiy partiyaga aʼzo boʻla olmaydilar. Masalan, sudyalar, Hisob palatasining mansabdor shaxslari, prokurorlar va prokuratura tergovchilari, ichki ishlar, milliy gvardiya, davlat xavfsizlik xizmati xodimlari, harbiy xizmatchilar; xorijiy davlatlarning fuqarolari va fuqaroligi boʻlmagan shaxslar.
 
 ### Siyosiy partiyani tuzish bosqichlari
 
-Kamida yigirma ming fuqaroning imzosi toʻplanishi (kamida sakkizta hududiy 1-bosqich subyektda (viloyatda), Qoraqalpogʻiston Respublikasi va Toshkent shahrida yashayotgan hamda partiyaga birlashish istagida boʻlgan shaxslar tomonidan);
+Kamida yigirma ming fuqaroning imzosi toʻplanishi (kamida sakkizta hududiy **1-bosqich** subyektda (viloyatda), Qoraqalpogʻiston Respublikasi va Toshkent shahrida yashayotgan hamda partiyaga birlashish istagida boʻlgan shaxslar tomonidan);
 
-Siyosiy partiya tuzish tashabbuskorlari (kamida ellik kishidan iborat) tomonidan 2-bosqich partiya taʼsis hujjatlarini tayyorlash, aʼzolar tarkibini shakllantirish, taʼsis syezdi yoki konferensiyasini chaqirish boʻyicha tashkiliy qoʻmitani tuzish;
+Siyosiy partiya tuzish tashabbuskorlari (kamida ellik kishidan iborat) tomonidan **2-bosqich** partiya taʼsis hujjatlarini tayyorlash, aʼzolar tarkibini shakllantirish, taʼsis syezdi yoki konferensiyasini chaqirish boʻyicha tashkiliy qoʻmitani tuzish;
 
-6 bosqich Siyosiy partiyaning Adliya vazirligi tomonidan roʻyxatga olinishi.
+![](img/ogp-9.uz/p095-1.webp "782x122")
 
-### Yodda tuting!
+**6 bosqich** Siyosiy partiyaning Adliya vazirligi tomonidan roʻyxatga olinishi.
 
-Siyosiy partiya Oʻzbekiston Respublikasi fuqarolarining qarashlar, manfaatlar va maqsadlar mushtarakligi asosida tuzilgan, davlat hokimiyati organlarini shakllantirishda jamiyat muayyan qismining siyosiy irodasini roʻyobga chiqarishga intiluvchi hamda oʻz vakillari orqali davlat va jamoat ishlarini idora etishda qatnashuvchi koʻngilli birlashmadir.
+![](img/ogp-9.uz/p095-2.webp "900x161")
 
 ### Oila, bolalar va yoshlar hamda ularning huquqlari
 
@@ -2618,7 +2586,7 @@ Oilaviy munosabatlar, xususan, nikoh tuzish tartibi Oʻzbekiston Respublikasi Ko
 
 Barcha fuqarolar oilaviy munosabatlarda teng huquqlarga egadir. Oiladagi erkak va ayol munosabatlari er va xotinning shaxsiy hamda mulkiy huquqlari tengligi, ichki oilaviy masalalarning oʻzaro kelishuv yoʻli bilan hal qilinishi, oilada bolalar tarbiyasi, ularning farovon hayot kechirishi va kamoloti haqida gʻamxoʻrlik qilish, voyaga yetmagan va mehnatga layoqatsiz oila aʼzolarining huquq va manfaatlarini himoya qilish ustuvorligi tamoyillari asosiga quriladi.
 
-Nikoh – ikki jins vakillarining oʻzaro rozilik asosida tuzilgan ittifoqi hisoblanadi. Oʻzbekiston Respublikasida nikoh Oʻzbekiston xalqining anʼanaviy oilaviy qadriyatlariga asoslanadi (mehnatsevarlik, sadoqat, samimiyat, ishonch, vatanni sevish, adolat, poklik, toʻgʻrilik).
+**Nikoh** – ikki jins vakillarining oʻzaro rozilik asosida tuzilgan ittifoqi hisoblanadi. Oʻzbekiston Respublikasida nikoh Oʻzbekiston xalqining anʼanaviy oilaviy qadriyatlariga asoslanadi (mehnatsevarlik, sadoqat, samimiyat, ishonch, vatanni sevish, adolat, poklik, toʻgʻrilik).
 
 Onalik va bolalik davlat tomonidan muhofaza qilinadi. Bolalarning huquq va manfaatlarini himoya qilish ularning ota-onasi zimmasiga yuklatiladi.
 
@@ -2638,6 +2606,8 @@ Oʻzbekiston Respublikasida 30 yoshgacha boʻlgan yoshlar va bolalar aholining 6
 
 ### Ommaviy axborot vositalari
 
+![](img/ogp-9.uz/p097-1.webp "302x292")
+
 Fuqarolarning axborot sohasidagi konstitutsiyaviy huquqlarini taʼminlash, jamiyatda ochiqlik va oshkoralik, qonuniylik muhitini mustahkamlashda ommaviy axborot vositalari (OAV) katta ahamiyatga ega.
 
 OAVning axborotni izlash, olish, foydalanish va uni tarqatish huquqi kafolatlanishi jamiyatning ishonchli axborotga boʻlgan ehtiyojlarini toʻlaroq qondirishga, aholining siyosiy va huquqiy madaniyati rivojlanishiga xizmat qiladi. Shuning uchun davlat ommaviy axborot vositalari faoliyatining erkinligini, ularning axborotni izlash, olish, undan foydalanish va tarqatishga boʻlgan huquqlari amalga oshirilishini kafolatlaydi. Davlat OAV va jurnalistlar emin-erkin, turli maʼmuriy bosimlardan qoʻrqmasdan faoliyat yuritishini taʼminlaydi hamda jamiyatda ochiqlik va oshkoralik muhitining rivojlanishiga sharoit yaratadi. Ommaviy axborot vositalarining faoliyatiga toʻsqinlik qilish yoki aralashish qonunga muvofiq javobgarlikka sabab boʻladi.
@@ -2650,7 +2620,7 @@ Oʻzbekiston Respublikasida ommaviy axborot vositalarini senzura qilishga yoʻl 
 
 ### Qiziqarli maʼlumot
 
-Oʻzbekistonda 2140 ta ommaviy axborot vositasi faoliyat yuritmoqda. Ularning 65 foizi nodavlat media vositalari, internet nashrlari soni esa 745 ta.
+![](img/ogp-9.uz/p097-2.webp "900x404")
 
 ### Hayotiy vaziyat
 
@@ -2688,7 +2658,7 @@ Siyosiy partiyaga aʼzolik ishga qabul qilmaslikka asos boʻla oladimi?
 
 Siyosiy erkinlik xohlagancha ish tutish degani emas. Agar fuqaro qonunda taqiqlangan ishga qoʻl ursa, erkinlikdan mahrum boʻladi.
 
-Sharl Lui de Monteskyo
+**Sharl Lui de Monteskyo**
 
 ### Bilib olasiz
 
@@ -2714,15 +2684,17 @@ Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputati va Sena
 
 Oliy Majlisi
 
-Oliy davlat vakillik organi boʻlib, qonun chiqaruvchi hokimiyatni amalga oshiradi
+![](img/ogp-9.uz/p099-1.webp "900x398")
+
+**Oliy davlat vakillik organi boʻlib, qonun chiqaruvchi hokimiyatni amalga oshiradi**
 
 Senat hududiy vakillik palatasi hisoblanadi va u yerda senatorlar faoliyat yuritadi
 
 25 yoshga toʻlgan, kamida 5 yil Oʻzbekiston hududida muqim yashayotgan Oʻzbekiston fuqarosi
 
-Ikki palatadan iborat:
+**Ikki palatadan iborat:**
 
-Qonunchilik palatasi (quyi palata) va Senat (yuqori palata)
+**Qonunchilik palatasi (quyi palata) va Senat (yuqori palata)**
 
 – 91-modda –
 
@@ -2730,11 +2702,11 @@ Qonunchilik palatasi deputati, shuningdek, Senat aʼzosi boʻlishi mumkin
 
 ### Yodda tuting!
 
-Xorijiy davlatlarda parlament turlicha nomlanadi: AQSHda Kongress, Rossiya Federatsiyasida Federal Majlis, Buyuk Britaniyada Parlament, Koreya Respublikasida Milliy Majlis, Hindistonda Sansad, Yaponiyada Kokkay.
+![](img/ogp-9.uz/p100-1.webp "900x544")
 
 ### OʻZBEKISTON RESPUBLIKASI OLIY MAJLISI TUZILISHI
 
-Oliy Majlis Qonunchilik Palatasi (quyi palata) 150 nafar deputat Qonunchilik palatasi Spikeri va uning oʻrinbosarlari Qonunchilik palatasi kengashi (quyi palataning faoliyatini tashkillashtiradi)
+Oliy Majlis Qonunchilik Palatasi (quyi palata) 150 nafar deputat Qonunchilik palatasi Spikeri va uning oʻrinbosarlari **Qonunchilik palatasi kengashi** (quyi palataning faoliyatini tashkillashtiradi)
 
 Oliy Majlis Senati (yuqori palata) 65 nafar senator Oliy Majlis Senat Raisi va uning oʻrinbosarlari
 
@@ -2744,7 +2716,7 @@ Oliy Majlis Senati (yuqori palata) 65 nafar senator Oliy Majlis Senat Raisi va u
 
 ### Senatning qoʻmitalari
 
-(muhokamaga kiritiladigan masalalarni dastlabki tarzda koʻrib chiqish, tayyorlash hamda qonun va qarorlar ijrosini nazorat qilish) Senat komissiyalari (muayyan vazifalarni amalga oshirish uchun tuziladi)
+(muhokamaga kiritiladigan masalalarni dastlabki tarzda koʻrib chiqish, tayyorlash hamda qonun va qarorlar ijrosini nazorat qilish) **Senat komissiyalari** (muayyan vazifalarni amalga oshirish uchun tuziladi)
 
 ### Qonunchilik palatasining qoʻmitalari
 
@@ -2752,13 +2724,13 @@ Oliy Majlis Senati (yuqori palata) 65 nafar senator Oliy Majlis Senat Raisi va u
 
 ### Qonunchilik palatasi komissiyalari
 
-(muayyan vazifalarni amalga oshirish uchun tuziladi) Fraksiyalar (partiyalar manfaatlarini ifodalash uchun tuziladi)
+(muayyan vazifalarni amalga oshirish uchun tuziladi) **Fraksiyalar** (partiyalar manfaatlarini ifodalash uchun tuziladi)
 
 ### Oliy Majlis Qonunchilik palatasi
 
 Qonunchilik palatasi (quyi palata) koʻppartiyaviylik, umumiy, teng va toʻgʻridan toʻgʻri saylov huquqi asosida yashirin ovoz berish yoʻli bilan saylanadigan bir yuz ellik nafar deputatdan iborat. Qonunchilik palatasi deputatlarning 75 nafari bevosita majoritar tizim asosida, yaʼni saylovchilar aniq shaxslarga ovoz berishi yoʻli bilan, qolgan 75 nafari esa, proporsional tizim boʻyicha siyosiy partiyalarga berilgan ovozlar asosida aralash saylov tizimida saylanadi.Yaʼni saylovchilar Qonunchilik palatasi deputatligiga saylovda ikkita byulleten orqali ovoz beradi: birinchisida aniq nomzodga, ikkinchisida esa oʻzlari tanlagan siyosiy partiyaga ovoz beradi.
 
-Deputat – Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasiga saylangan va Oʻzbekiston Respublikasining Saylov kodeksiga muvofiq Oʻzbekiston Respublikasi Markaziy saylov komissiyasi tomonidan roʻyxatga olingan Oʻzbekiston Respublikasi fuqarosi. Deputatlikka nomzodlar koʻrsatish siyosiy partiyalarning yuqori organlari tomonidan amalga oshiriladi.
+**Deputat** – Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasiga saylangan va Oʻzbekiston Respublikasining Saylov kodeksiga muvofiq Oʻzbekiston Respublikasi Markaziy saylov komissiyasi tomonidan roʻyxatga olingan Oʻzbekiston Respublikasi fuqarosi. Deputatlikka nomzodlar koʻrsatish siyosiy partiyalarning yuqori organlari tomonidan amalga oshiriladi.
 
 Qonunchilik palatasi oʻzining vakolatlariga kiritilgan masalalar yuzasidan, shuningdek, palataning ichki faoliyatini tashkil etish masalalari yuzasidan qarorlar qabul qiladi. Qarorlar asosan deputatlar umumiy sonining koʻpchilik ovozi bilan qabul qilinadi.
 
@@ -2766,19 +2738,19 @@ Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi oʻz tarkibidan 
 
 Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi mutlaq vakolatlari.
 
-Oʻzbekiston Respublikasi Konstitutsiyasi, 94-modda
+**Oʻzbekiston Respublikasi Konstitutsiyasi, 94-modda**
 
 ### Oliy Majlis Senati
+
+![](img/ogp-9.uz/p102-1.webp "352x232")
 
 Oʻzbekiston Respublikasi Oliy Majlisining Senati aʼzolari Qoraqalpogʻiston Respublikasi Joʻqorgʻi Kengesi, viloyatlar, tumanlar va shaharlar davlat hokimiyati vakillik organlari deputatlarining tegishli qoʻshma majlislarida mazkur deputatlar orasidan yashirin ovoz berish yoʻli bilan Qoraqalpogʻiston Respublikasi, viloyatlar va Toshkent shahridan teng miqdorda – toʻrt kishidan saylanadi.
 
 Oʻzbekiston Respublikasi Oliy Majlisi Senatining toʻqqiz nafar aʼzosi fan, sanʼat, adabiyot, ishlab chiqarish sohasida hamda davlat va jamiyat faoliyatining boshqa tarmoqlarida katta amaliy tajribaga ega boʻlgan hamda alohida xizmat koʻrsatgan eng obroʻli fuqarolar orasidan Oʻzbekiston Respublikasi Prezidenti tomonidan tayinlanadi.
 
-Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi va Senatining qoʻshma majlislari quyidagi hollarda oʻtkaziladi
+**Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi va Senatining qoʻshma majlislari quyidagi hollarda oʻtkaziladi**
 
-Prezident mamlakat ijtimoiy-iqtisodiy hayotining, ichki va tashqi siyosatining eng muhim masalalari yuzasidan nutq soʻzlaganda
-
-Chet davlatlarning rahbarlari Palatalarning kelishuviga koʻra boshqa masalalar nutq soʻzlaganda
+![](img/ogp-9.uz/p102-2.webp "792x227")
 
 Senat palataning ichki faoliyatini tashkil etish va oʻzining vakolatlariga kiritilgan masalalar yuzasidan qarorlar qabul qiladi, mazkur qarorlar Senat aʼzolari umumiy sonining koʻpchilik ovozi bilan qabul qilinadi.
 
@@ -2796,7 +2768,7 @@ Oliy Majlis Senati aʼzolari Qoraqalpogʻiston Respublikasi, viloyatlar va Toshk
 
 Oʻzbekiston Respublikasi Oliy Majlisining Senati mutlaq vakolatlari.
 
-Oʻzbekiston Respublikasi Konstitutsiyasi, 95-modda
+**Oʻzbekiston Respublikasi Konstitutsiyasi, 95-modda**
 
 Oʻzbekiston Respublikasi Oliy Majlisining Senati Raisi oʻrinbosarlaridan biri Qoraqalpogʻiston Respublikasining vakili boʻladi.
 
@@ -2808,29 +2780,29 @@ Qonunchilik palatasi yoki Senat tarkibida ularning normal faoliyatiga tahdid sol
 
 Qonunchilik palatasi yoki Senat bir necha marta Oʻzbekiston Respublikasi Konstitutsiyasiga zid qarorlar qabul qilgan taqdirda.
 
-Qonunchilik palatasi bilan Senat oʻrtasida Oʻzbekiston Respublikasi Oliy Majlisining normal faoliyatiga tahdid soluvchi hal qilib boʻlmaydigan ixtiloflar yuz berganda. Izoh: bunday hollarda Prezident Konstitutsiyaviy sud bilan bamaslahat qaror qabul qiladi.
+Qonunchilik palatasi bilan Senat oʻrtasida Oʻzbekiston Respublikasi Oliy Majlisining normal faoliyatiga tahdid soluvchi hal qilib boʻlmaydigan ixtiloflar yuz berganda. **Izoh:** bunday hollarda Prezident Konstitutsiyaviy sud bilan bamaslahat qaror qabul qiladi.
 
 Oliy Majlis Qonunchilik palatasi tomonidan Bosh vazir lavozimiga nomzod uch marta rad etilgan taqdirda Oʻzbekiston Respublikasi Prezidenti Bosh vazirni tayin laydi va Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasini tarqatib yuboradi.
 
 Qonunchilik palatasi yoki Senat oʻzini oʻzi tarqatib yuborish toʻgʻrisida deputatlar 5-holat yoki senatorlar umumiy sonining kamida uchdan ikki qismidan iborat koʻpchilik ovozi bilan qaror qabul qilishi mumkin.
 
-Izoh: Qonunchilik palatasi oʻzini oʻzi tarqatib yuborgan hollarda yangi saylov ikki oy ichida oʻtkaziladi, Senat oʻzini oʻzi tarqatib yuborgan taqdirda bir oy mobaynida uning yangi tarkibi shakllantiriladi.
+**Izoh:** Qonunchilik palatasi oʻzini oʻzi tarqatib yuborgan hollarda yangi saylov **ikki oy ichida** oʻtkaziladi, Senat oʻzini oʻzi tarqatib yuborgan taqdirda **bir oy mobaynida** uning yangi tarkibi shakllantiriladi.
 
 ### Yodda tuting!
 
 Oʻzbekiston Respublikasi Oliy Majlisining Senati hududiy vakillik palatasi boʻlib, Senat aʼzolaridan (senatorlardan) iborat.
 
-Oʻzbekiston Respublikasi Konstitutsiyasi, 92-modda
+**Oʻzbekiston Respublikasi Konstitutsiyasi, 92-modda**
 
 Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi va Senatining birgalikdagi vakolatlari.
 
 ### Hayotiy vaziyat
 
-1. Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasiga boʻlib oʻtgan saylovlardan keyin Oʻzbekiston Respublikasi Bosh vaziri nomzodi Qonunchilik palatasi koʻrib chiqishi va maʼqullashi uchun Oʻzbekiston Respublikasi Prezidenti tomonidan taqdim etildi. Bosh vazir nomzodi uchun ovoz berish natijasiga koʻra Bosh vazir nomzodi deputatlar tomonidan maʼqullanmadi.
+**1.** Oʻzbekiston Respublikasi Oliy Majlisi Qonunchilik palatasiga boʻlib oʻtgan saylovlardan keyin Oʻzbekiston Respublikasi Bosh vaziri nomzodi Qonunchilik palatasi koʻrib chiqishi va maʼqullashi uchun Oʻzbekiston Respublikasi Prezidenti tomonidan taqdim etildi. Bosh vazir nomzodi uchun ovoz berish natijasiga koʻra Bosh vazir nomzodi deputatlar tomonidan maʼqullanmadi.
 
 Vaziyatga baho bering va oʻz fikringizni asoslang.
 
-2. Oʻzbekiston Respublikasi Bosh prokurori Oliy Majlis Qonunchilik palatasi deputati A.ni Oʻzbekiston Respublikasi Jinoyat kodeksining tegishli moddasi bilan aybdor deb topib, uni jinoiy javobgarlikka tortish uchun daxlsizlik huquqidan mahrum etishni soʻrab, Oliy Majlis Senatiga taqdimnoma kiritdi. Oliy Majlis Senati mazkur masala uning vakolatiga kirmasligi va Oliy Majlis Qonunchilik palatasiga murojaat qilish kerakligi vaji bilan taqdimnomani rad etdi.
+**2.** Oʻzbekiston Respublikasi Bosh prokurori Oliy Majlis Qonunchilik palatasi deputati A.ni Oʻzbekiston Respublikasi Jinoyat kodeksining tegishli moddasi bilan aybdor deb topib, uni jinoiy javobgarlikka tortish uchun daxlsizlik huquqidan mahrum etishni soʻrab, Oliy Majlis Senatiga taqdimnoma kiritdi. Oliy Majlis Senati mazkur masala uning vakolatiga kirmasligi va Oliy Majlis Qonunchilik palatasiga murojaat qilish kerakligi vaji bilan taqdimnomani rad etdi.
 
 Vaziyatni tahlil qiling va deputat yoki senatorni daxlsizlik huquqidan mahrum qilish tartibini tushuntirib bering.
 
@@ -2848,11 +2820,13 @@ Vaziyatni tahlil qiling va deputat yoki senatorni daxlsizlik huquqidan mahrum qi
 
 6. Deputat soʻrovi va senator soʻrovining maqsadi, tartibini bayon eting.
 
+![](img/ogp-9.uz/p104-1.webp "900x503")
+
 ## 29-dars. Oʻzbekiston Respublikasi Prezidenti
 
 Tanqidiy tahlil, qatʼiy tartib-intizom va shaxsiy javobgarlik – har bir rahbar faoliyatining kundalik qoidasi boʻlishi kerak.
 
-Shavkat Mirziyoyev
+**Shavkat Mirziyoyev**
 
 ### Bilib olasiz
 
@@ -2864,11 +2838,11 @@ Hozirgi vaqtda BMTga aʼzo boʻlgan 193 ta davlatning 143 tasida prezident lavoz
 
 Oʻzbekistonda prezident lavozimi 1990-yil 24-martda joriy qilingan. Oʻzbekiston Prezidenti davlat boshligʻi maqomiga ega boʻlib, Konstitutsiyada uning vakolatlar belgilangan. Oʻzbekiston Respublikasining Prezidenti Konstitutsiyaga va qonunlarga asoslanib hamda ularni ijro etish yuzasidan respublikaning butun hududida majburiy kuchga ega boʻlgan farmonlar, qarorlar va farmoyishlar chiqaradi.
 
-Prezidentning daxlsizlik va immunitet huquqi.
+**Prezidentning daxlsizlik va immunitet huquqi.**
 
 Oʻzbekiston Respublikasi Prezidenti oʻz vazifasini bajarib turgan davrda boshqa haq toʻlanadigan lavozimni egallashi, vakillik organining deputati boʻlishi, tadbirkorlik faoliyati bilan shugʻullanishi mumkin emas.
 
-Oʻzbekiston Respublikasi Prezidentining shaxsi daxlsizdir va qonun bilan muhofaza etiladi. Oʻzbekiston Respublikasi Prezidentining daxlsizligi uning turarjoy va xizmat xonalariga, bagajiga, shaxsiy va xizmat transport vositalariga, yozishmalariga, foydalanadigan aloqa vositalariga, shuningdek, unga tegishli hujjatlarga tatbiq etiladi. Oʻzbekiston Respublikasi Prezidenti va uning oila aʼzolariga davlat muhofazasi beriladi.
+Oʻzbekiston Respublikasi Prezidentining shaxsi daxlsizdir va qonun bilan muhofaza etiladi. Oʻzbekiston Respublikasi Prezidentining daxlsizligi uning turarjoy va xizmat xonalariga, bagajiga, shaxsiy va xizmat transport vositalariga, yozishmalariga, foydalanadigan aloqa vositalariga, shuningdek, unga tegishli hujjatlarga tatbiq etiladi. Oʻzbekiston Respublikasi Prezidenti va uning oila aʼzolariga **davlat muhofazasi** beriladi.
 
 Oʻzbekiston Respublikasi Prezidentiga muddati oʻttiz olti ish kunidan iborat yillik haq toʻlanadigan taʼtil beriladi. Oʻzbekiston Respublikasi Prezidenti Oʻzbekiston Respublikasi Prezidentining belgisi va shtandartiga (bayrogʻiga) ega boʻladi.
 
@@ -2876,11 +2850,7 @@ Oʻzbekiston Respublikasi Prezidentiga muddati oʻttiz olti ish kunidan iborat y
 
 Prezidentning huquqiy maqomiga uning qaysi yoʻl bilan saylanishi (xalq tomonidanmi, vakillik organlari yoki maxsus organlar tomonidanmi), faqat davlat boshligʻi yoki davlat va ijro hokimiyati boshligʻi ekani, davlat boshqaruvining prezidentlik, parlamentar, aralash shakllari taʼsir qiladi va bular prezidentning hokimiyat tizimidagi oʻrnini aniqlashda ham asosiy mezon boʻladi.
 
-### Yodda tuting!
-
-Oʻzbekiston Respublikasining Prezidenti davlat boshligʻidir va davlat hokimiyati organlarining kelishilgan holda faoliyat yuritishini hamda hamkorligini taʼminlaydi.
-
-Oʻzbekiston Respublikasi Konstitutsiyasi, 105-modda
+![](img/ogp-9.uz/p105-1.webp "900x147")
 
 ### Oʻzbekiston Respublikasi Prezidentini saylash
 
@@ -2890,7 +2860,7 @@ Bevosita xalq tomonidan toʻgʻridan toʻgʻri saylangan prezident kuchli vakola
 
 Oʻzbekiston Respublikasi Prezidentligiga nomzod siyosiy partiyadan koʻrsatiladi. Qasddan sodir etilgan jinoyati uchun ilgari sudlangan fuqarolar hamda diniy tashkilotlar va birlashmalarning professional xizmatchilari Oʻzbekiston Respublikasi Prezidentligiga nomzod sifatida roʻyxatga olinmaydi.
 
-Oʻzbekiston Respublikasi Prezidentligiga nomzodning saylov jarayoni bosqichlari Oʻzbekiston Respublikasi Prezidentligi saylovida ishtirok etish uchun siyosiy partiya Markaziy saylov komissiyasiga murojaat qiladi (saylovga kamida yetmish kun qolganida);
+**Oʻzbekiston Respublikasi Prezidentligiga nomzodning saylov jarayoni bosqichlari** Oʻzbekiston Respublikasi Prezidentligi saylovida ishtirok etish uchun siyosiy partiya Markaziy saylov komissiyasiga murojaat qiladi (saylovga kamida yetmish kun qolganida);
 
 Markaziy saylov komissiyasi taqdim qilingan hujjatlar asosida partiyaning saylovda ishtirok etishiga ijozat berish toʻgʻrisidagi qaror, siyosiy partiya vakolatli vakiliga roʻyxatga olinganlik guvohnomasi, imzo varaqalarining blankalarini taqdim qiladi;
 
@@ -2902,17 +2872,11 @@ Markaziy saylov komissiyasi hujjatlar muvofiqligini oʻrganadi va xulosa taqdim 
 
 Markaziy saylov komissiyasi prezidentlikka nomzodni roʻyxatga oladi; Saylov jarayoni;
 
-### Yodda tuting!
-
-Oʻzbekiston Respublikasining Prezidenti Oʻzbekiston Respublikasining fuqarolari tomonidan umumiy, teng va toʻgʻridan toʻgʻri saylov huquqi asosida yashirin ovoz berish yoʻli bilan yetti yil muddatga saylanadi.
-
-Oʻzbekiston Respublikasi Prezidenti lavozimiga oʻttiz besh yoshdan kichik boʻlmagan, davlat tilini yaxshi biladigan, bevosita saylovgacha kamida 10 yil Oʻzbekiston hududida muqim yashayotgan Oʻzbekiston Respublikasi fuqarosi saylanishi mumkin.
-
 ### Qiziqarli maʼlumot
 
-Prezidentni umumiy, teng, toʻgʻridan toʻgʻri saylov asosida yashirin ovoz berish yoʻli bilan saylash dunyoning 110 ta davlatida qabul qilingan usuldir.
+![](img/ogp-9.uz/p107-1.webp "802x197")
 
-Oʻzbekiston Respublikasi Prezidenti Markaziy saylov komissiyasi tomonidan Oʻzbekiston Respublikasi Prezidenti saylovi natijalari rasmiy ravishda eʼlon qilingan kundan eʼtiboran, kechi bilan ikki oy ichida Oʻzbekiston Respublikasi Oliy Majlisi palatalarining qoʻshma majlisida qasamyod qilgan paytdan eʼtiboran oʻz lavozimiga kirishadi.
+Oʻzbekiston Respublikasi Prezidenti Markaziy saylov komissiyasi tomonidan Oʻzbekiston Respublikasi Prezidenti saylovi natijalari rasmiy ravishda eʼlon qilingan kundan eʼtiboran, kechi bilan **ikki oy ichida Oʻzbekiston Respublikasi Oliy Majlisi palatalarining qoʻshma majlisida qasamyod qilgan** paytdan eʼtiboran oʻz lavozimiga kirishadi.
 
 Amaldagi Oʻzbekiston Respublikasi Prezidenti oʻz vakolatlarini yangi saylangan Oʻzbekiston Respublikasi
 
@@ -2944,23 +2908,21 @@ Prezident Oʻzbekiston Respublikasining suvereniteti, xavfsizligi va hududiy yax
 
 ### Yodda tuting!
 
-Oʻzbekiston Respublikasining Prezidenti fuqarolarning huquqlari va erkinliklari, konstitutsiya va qonunlarga rioya etilishining kafili hisoblanadi.
+![](img/ogp-9.uz/p107-2.webp "900x197")
 
-Prezident Oʻzbekiston Respublikasi Qurolli Kuchlarining Oliy Bosh qoʻmondoni hisoblanadi. Qurolli Kuchlarning oliy qoʻmondonlarini tayinlaydi va vazifasidan ozod qiladi, oliy harbiy unvonlar beradi.
+![](img/ogp-9.uz/p108-1.webp "812x290")
 
-### Prezidentlikka saylanadigan shaxs
-
-saylovgacha kamida 10 yil Oʻzbekiston hududida muqim yashayotgan boʻlishi
+**saylovgacha kamida 10 yil Oʻzbekiston hududida muqim yashayotgan boʻlishi**
 
 ### Respublikasi
 
-fuqarosi boʻlishi kerak
+**fuqarosi boʻlishi kerak**
 
-Prezident mamlakat ichkarisida va xalqaro munosabatlarda Oʻzbekiston Respublikasi nomidan ish koʻradi. Jumladan, Oʻzbekiston Respublikasining chet davlatlardagi diplomatik va boshqa vakillarini tayinlash uchun nomzodlarni Oliy Majlisining Senatiga taqdim etadi hamda oʻz huzurida akkreditatsiyadan oʻtgan diplomatik hamda boshqa vakillarning ishonch va chaqiruv yorliqlarini qabul qiladi.
+**Prezident mamlakat ichkarisida va xalqaro munosabatlarda Oʻzbekiston Respublikasi nomidan ish koʻradi.** Jumladan, Oʻzbekiston Respublikasining chet davlatlardagi diplomatik va boshqa vakillarini tayinlash uchun nomzodlarni Oliy Majlisining Senatiga taqdim etadi hamda oʻz huzurida akkreditatsiyadan oʻtgan diplomatik hamda boshqa vakillarning ishonch va chaqiruv yorliqlarini qabul qiladi.
 
-Prezident respublika oliy hokimiyat va boshqaruv organlarining bahamjihat ishlashini taʼminlaydi; vazirliklar, davlat qoʻmitalari hamda davlat boshqaruvining boshqa organlarini Oʻzbekiston Respublikasi Vazirlar Mahkamasining taqdimiga binoan tuzadi va tugatadi, shu masalalarga doir farmonlarni keyinchalik Oliy Majlisning palatalari tasdigʻiga kiritadi.
+**Prezident respublika oliy hokimiyat va boshqaruv organlarining bahamjihat ishlashini taʼminlaydi;** vazirliklar, davlat qoʻmitalari hamda davlat boshqaruvining boshqa organlarini Oʻzbekiston Respublikasi Vazirlar Mahkamasining taqdimiga binoan tuzadi va tugatadi, shu masalalarga doir farmonlarni keyinchalik Oliy Majlisning palatalari tasdigʻiga kiritadi.
 
-Prezidentning muhim vakolatlaridan biri davlat hokimiyati va boshqaruv organlari rahbarlarini lavozimga tayinlash hisoblanadi. Jumladan:
+**Prezidentning muhim vakolatlaridan biri davlat hokimiyati va boshqaruv organlari rahbarlarini lavozimga tayinlash hisoblanadi. Jumladan:**
 
 – Senat Raisi lavozimiga nomzodni Oliy Majlis Senatiga taqdim etadi;
 
@@ -2990,13 +2952,13 @@ Vakolati tugashi munosabati bilan isteʼfoga chiqqan Prezident umrbod Senat aʼz
 
 ### Hayotiy vaziyat
 
-1. Oʻzbekiston Respublikasi Prezidentiga imzolash uchun Senat tomonidan qonun yuborildi. Biroq davlat boshligʻi oʻz eʼtirozlari bilan qonunni imzolamasdan qaytardi. Qonunchilik palatasi deputatlari va Senati aʼzolari umumiy sonining toʻrtdan uch qismidan iborat koʻpchilik ovozi bilan qaytarilgan qonun oʻzgartirish kiritilmasdan ayni tahrirda maʼqullandi. Qonunni imzolash uchun yana Prezidentga yuborildi.
+**1.** Oʻzbekiston Respublikasi Prezidentiga imzolash uchun Senat tomonidan qonun yuborildi. Biroq davlat boshligʻi oʻz eʼtirozlari bilan qonunni imzolamasdan qaytardi. Qonunchilik palatasi deputatlari va Senati aʼzolari umumiy sonining toʻrtdan uch qismidan iborat koʻpchilik ovozi bilan qaytarilgan qonun oʻzgartirish kiritilmasdan ayni tahrirda maʼqullandi. Qonunni imzolash uchun yana Prezidentga yuborildi.
 
 Vaziyatga huquqiy baho bering.
 
 Ushbu holat Oʻzbekiston Respublikasi qonunchiligi doirasida qanday hal qilinadi?
 
-2. Maʼlumki, Oʻzbekiston Respublikasi Prezidenti saylovi jarayoni Konstitutsiya va Saylov kodeksi bilan tartibga solinadi. Shu nuqtayi nazardan Prezident saylovi qachon oʻtkaziladi?
+**2.** Maʼlumki, Oʻzbekiston Respublikasi Prezidenti saylovi jarayoni Konstitutsiya va Saylov kodeksi bilan tartibga solinadi. Shu nuqtayi nazardan Prezident saylovi qachon oʻtkaziladi?
 
 Oʻzbekistonda saylovlar qaysi oyda oʻtkaziladi? Saylov qanday tashkil etiladi? Masalani atroflicha tahlil qiling.
 
@@ -3014,7 +2976,7 @@ Oʻzbekistonda saylovlar qaysi oyda oʻtkaziladi? Saylov qanday tashkil etiladi?
 
 Insonlarning haqiqiy tengligi ularning barchasi bir xilda qonunga boʻysunishida namoyon boʻladi.
 
-Jan Le Ron Alamber
+**Jan Le Ron Alamber**
 
 ### Bilib olasiz
 
@@ -3030,7 +2992,7 @@ Oʻzbekiston Respublikasi Vazirlar Mahkamasi ijro etuvchi hokimiyatni amalga osh
 
 Vazirlar Mahkamasi mamlakatda iqtisodiy, ijtimoiy va maʼnaviy sohalarning samarali faoliyat koʻrsatishida kollegial organ sifatida ish olib boradi.
 
-Vazirlar Mahkamasi oʻz faoliyatida:
+**Vazirlar Mahkamasi oʻz faoliyatida:**
 
 – Oʻzbekiston Respublikasi Konstitutsiya va qonunlarining ustunligini taʼminlaydi va qonunchilik tashabbusi huquqiga ega;
 
@@ -3056,10 +3018,6 @@ Respublikasi Prezidenti farmonlari, qarorlari va farmoyishlari ijrosini taʼminl
 
 Konstitutsiyasi va qonunlari
 
-### Yodda tuting!
-
-> Hukumat – davlatning oliy kollegial ijroiya organi. Hukumat turli mamlakatlarda turlicha nom bilan ataladi: Vazirlar Kengashi (Fransiya, Italiya, Polsha), Vazirlar Mahkamasi (Buyuk Britaniya, Oʻzbekiston), Davlat Kengashi (XXR) va hokazo.
-
 ### Respublikasi
 
 Bosh vaziri
@@ -3067,6 +3025,8 @@ Bosh vaziri
 ### Oʻzbekiston
 
 Respublikasi Bosh vaziri oʻrinbosarlari
+
+![](img/ogp-9.uz/p111-1.webp "702x146")
 
 ### Oʻzbekiston Respublikasi Bosh vaziri
 
@@ -3080,21 +3040,21 @@ Respublikasi Bosh vaziri oʻrinbosarlari
 
 ### Oʻzbekiston
 
-Respublikasi Bosh vaziri nomzodi
+**Respublikasi Bosh vaziri nomzodi**
 
-Qonunchilik palatasi koʻrib chiqishi va maʼqullashi uchun Oʻzbekiston Respublikasi Prezidenti tomonidan taqdim etiladi
+**Qonunchilik palatasi koʻrib chiqishi va maʼqullashi uchun Oʻzbekiston Respublikasi Prezidenti tomonidan taqdim etiladi**
 
 Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi Oʻzbekiston Respublikasi Prezidenti tomonidan taqdim etilgan Oʻzbekiston Respublikasi Bosh vaziri nomzodini taqdimnoma kiritilgan kundan eʼtiboran oʻn kun ichida koʻrib chiqadi.
 
 ### VAZIRLAR MAHKAMASI
 
+![](img/ogp-9.uz/p111-2.webp "222x471")
+
 Bosh vazir, uning oʻrinbosarlari, vazirlar va Qoraqalpogʻiston Respublikasi hukumatining boshligʻidan iborat.
 
 Oʻzbekistonning butun hududidagi barcha organlar, korxonalar, muassasalar, tashkilotlar, mansabdor shaxslar va fuqarolar tomonidan bajarilishi majburiy boʻlgan qarorlar va farmoyishlar chiqaradi.
 
-Oliy Majlisning Qonunchilik palatasida uning nomzodi koʻrib chiqilayotganda Vazirlar Mahkamasining harakat dastu rini taqdim etadi.
-
-Oliy Majlisning Qonunchilik palatasi deputatlari umumiy sonining yarmidan koʻpi tomonidan ovoz berilgan taqdirda maʼqullangan hisoblanadi.
+![](img/ogp-9.uz/p111-3.webp "900x386")
 
 ### Yodda tuting!
 
@@ -3102,15 +3062,15 @@ Oʻzbekiston Respublikasi Vazirlar Mahkamasi yoshlarga oid davlat siyosatining a
 
 Oʻzbekiston Respublikasi Vazirlar Mahkamasining aʼzolari ularning nomzodlari Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi tomonidan maʼqullanganidan keyin Oʻzbekiston Respublikasi Prezidenti tomonidan lavozimga tayinlanadi.
 
-Vazirlar Mahkamasining vakolatlari Oʻzbekiston Respublikasi Konstitutsiyasining yangi tahriri asosida Vazirlar Mahkamasi vakolatlari tizimlashtirildi va aniqlashtirildi.
+**Vazirlar Mahkamasining vakolatlari** Oʻzbekiston Respublikasi Konstitutsiyasining yangi tahriri asosida Vazirlar Mahkamasi vakolatlari tizimlashtirildi va aniqlashtirildi.
 
 Vazirlar Mahkamasining vakolatlari 12 bandda aniq-ravshan etib ifodalandi. Oʻzbekiston Respublikasi Konstitutsiyasiga koʻra, Vazirlar Mahkamasining butun faoliyatini 3 ta yoʻnalishga ajratish mumkin.
 
-Birinchi yoʻnalish iqtisodiy va ijtimoiy sohalarga tegishli umumiy vakolatlar (115-moddaning 1-, 2-, 3-, 4-bandlari)
+**Birinchi yoʻnalish** iqtisodiy va ijtimoiy sohalarga tegishli umumiy vakolatlar (115-moddaning 1-, 2-, 3-, 4-bandlari)
 
-Ikkinchi yoʻnalish fuqarolik jamiyati institutlari va fuqarolarning huquq va erkinliklariga tegishli vakolatlar (115-moddaning 5-, 6-, 7-bandlari)
+**Ikkinchi yoʻnalish** fuqarolik jamiyati institutlari va fuqarolarning huquq va erkinliklariga tegishli vakolatlar (115-moddaning 5-, 6-, 7-bandlari)
 
-Uchinchi yoʻnalish ijroni amalga oshirishga tegishli vakolatlar (115-moddaning 8-, 9-, 10-,11-bandlari)
+**Uchinchi yoʻnalish** ijroni amalga oshirishga tegishli vakolatlar (115-moddaning 8-, 9-, 10-,11-bandlari)
 
 ### Savol va topshiriqlar
 
@@ -3122,21 +3082,11 @@ Uchinchi yoʻnalish ijroni amalga oshirishga tegishli vakolatlar (115-moddaning 
 
 4. Vazirlar Mahkamasining vakolatlariga nimalar kiradi?
 
-### Mustaqil ish uchun topshiriq
-
-Quyidagi jadvalni Oʻzbekiston Respublikasi Konstitutsiyasi moddalari asosida toʻldiring.
-
-Savol Oʻzbekiston Respublikasi Bosh vaziri nomzodi qaysi organ maʼqullashi uchun Oʻzbekiston Respublikasi Prezidenti tomonidan taqdim etiladi?
-
-Oʻzbekiston Respublikasi Prezidenti qachon Oʻzbekiston Respublikasi Bosh vaziri nomzodini taqdim etadi?
-
-Oliy Majlisning Qonunchilik palatasi Oʻzbekiston Respublikasi Prezidenti tomonidan taqdim etilgan Bosh vazir nomzodini necha kunda koʻrib chiqadi?
-
-Oʻzbekiston Respublikasi Vazirlar Mahkamasining aʼzolari lavozimga qanday tayinlanadi?
+![](img/ogp-9.uz/p112-1.webp "900x311")
 
 ## 31-dars. Mahalliy davlat hokimiyati
 
-Birovga koʻrsatilgan kichik bir mehribonlik ming martalik ibodatdan koʻra afzaldir. Mahatma Gandi
+Birovga koʻrsatilgan kichik bir mehribonlik ming martalik ibodatdan koʻra afzaldir. **Mahatma Gandi**
 
 ### Bilib olasiz
 
@@ -3150,13 +3100,13 @@ Oʻzbekiston Respublikasida mahalliy davlat hokimiyati hududdagi (viloyat, Toshk
 
 Ular mahalliy (viloyat, Toshkent shahri, shahar va tumanlar) ahamiyatga molik masalalarni oʻz vakolatlari doirasida hal etadilar. Oʻz hududlarida yashayotgan fuqarolarning manfaatlarini davlat manfaatlari bilan birga uygʻunlashtiradilar.
 
-### Davlat hokimiyati vakillik organlari
+![](img/ogp-9.uz/p113-2.webp "142x82")
 
 Yagona davlat hokimiyati organlarining tarkibiy boʻgʻini sifatida yuqori davlat organlari qarorlarining amalga oshirilishini taʼminlaydilar.
 
 Xalq deputatlari Kengashiga uning deputatlari orasidan qonunga muvofiq saylanadigan rais boshchilik qiladi. Xalq deputatlari Kengashlarining vakolat muddati – besh yil. Ayni bir shaxs surunkasiga ikki muddatdan ortiq ayni bir viloyat, tuman, shahar xalq deputatlari Kengashining raisi etib saylanishi mumkin emas.
 
-Xalq deputatlari Kengashining vakolatlari:
+**Xalq deputatlari Kengashining vakolatlari:**
 
 1) tegishli mahalliy byudjetni koʻrib chiqadi va qabul qiladi, ularning ijro etilishi ustidan nazoratni amalga oshiradi;
 
@@ -3165,10 +3115,6 @@ Xalq deputatlari Kengashining vakolatlari:
 3) hokimni lavozimga tasdiqlaydi, uning faoliyati toʻgʻrisidagi hisobotlarni eshitadi;
 
 4) Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlarida nazarda tutilgan boshqa vakolatlarni amalga oshiradi.
-
-### Yodda tuting!
-
-Viloyat, tuman, shahar hokimi lavozimini egallab turgan shaxs bir vaqtning oʻzida xalq deputatlari Kengashining raisi lavozimini egallashi mumkin emas.
 
 ### Yodda tuting!
 
@@ -3192,6 +3138,14 @@ Fuqarolarning oʻzini oʻzi boshqarishi deganda, ularning mahalliy ahamiyatga mo
 
 Fuqarolar jinsi, irqi, millati, tili, dini, ijtimoiy kelib chiqishi, eʼtiqodi, shaxsiy va ijtimoiy mavqeyidan qatʼi nazar, bevosita yoki oʻzlarining saylanadigan vakillari orqali oʻzini oʻzi boshqarishda teng huquqlarga ega.
 
+### OʻZINI OʻZI BOSHQARISH ORGANLARI
+
+![](img/ogp-9.uz/p114-1.webp "142x92")
+
+![](img/ogp-9.uz/p114-2.webp "252x92")
+
+![](img/ogp-9.uz/p114-3.webp "282x162")
+
 ### Yodda tuting!
 
 Fuqarolar yigʻini fuqarolar yigʻini raisini saylaydi.
@@ -3210,21 +3164,21 @@ Fuqarolarning oʻzini oʻzi boshqarish organlari tomonidan jamoatchilik nazorati
 
 Quyidagilarni Oʻzbekiston Respublikasining “Mahalliy davlat hokimiyati toʻgʻrisida”gi qonuniga koʻra toʻldiring:
 
-1. Xalq deputatlari viloyat, tuman, shahar Kengashi Oʻzbekiston Respublikasining............
+**1.** Xalq deputatlari viloyat, tuman, shahar Kengashi Oʻzbekiston Respublikasining............
 
 saylanadigan xalq deputatlaridan iborat boʻladi.
 
-2. Viloyat, tuman, shahar ijroiya hokimiyatiga........... boshchilik qiladi.
+**2.** Viloyat, tuman, shahar ijroiya hokimiyatiga........... boshchilik qiladi.
 
-3. Viloyat va Toshkent shahri hokimining birinchi oʻrinbosari hamda oʻrinbosarlari hokim tomonidan........ kelishilgan holda lavozimga tayinlanadi va lavozimidan ozod etiladi.
+**3.** Viloyat va Toshkent shahri hokimining birinchi oʻrinbosari hamda oʻrinbosarlari hokim tomonidan........ kelishilgan holda lavozimga tayinlanadi va lavozimidan ozod etiladi.
 
-4. Xalq deputatlari viloyat, tuman, shahar Kengashlarining Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlariga, Oʻzbekiston Respublikasi Prezidentining farmonlari, qarorlari va farmoyishlariga zid keladigan qarorlari belgilangan tartibda........... bekor qilinadi.
+**4.** Xalq deputatlari viloyat, tuman, shahar Kengashlarining Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlariga, Oʻzbekiston Respublikasi Prezidentining farmonlari, qarorlari va farmoyishlariga zid keladigan qarorlari belgilangan tartibda........... bekor qilinadi.
 
-5. Yuqori turuvchi davlat hokimiyati organlari oʻz vakolatlari doirasida qabul qilgan qarorlar........ uchun majburiydir.
+**5.** Yuqori turuvchi davlat hokimiyati organlari oʻz vakolatlari doirasida qabul qilgan qarorlar........ uchun majburiydir.
 
 ## 32-dars. Oʻzbekiston Respublikasining sud hokimiyati
 
-Sudyaning ishi qonunni hadya etish emas, balki uni toʻgʻri talqin qilishdir. Frensis Bekon
+Sudyaning ishi qonunni hadya etish emas, balki uni toʻgʻri talqin qilishdir. **Frensis Bekon**
 
 ### Bilib olasiz
 
@@ -3240,7 +3194,7 @@ Sud hokimiyati faqat sudlar tomonidan amalga oshiriladi. Hech qaysi boshqa organ
 
 Bugun odamlarning odil sudlovga boʻlgan ishonchi mustahkamlandi. Sud jazolovchi organ emas, balki adolat qoʻrgʻoni sifatida namoyon boʻlib, xalq bilan hamnafas boʻlib kelmoqda.
 
-Korxonalar va muassasalarning huquqlari va qonuniy manfaatlarini muhofazalash
+![](img/ogp-9.uz/p116-1.webp "702x327")
 
 ### Oʻzbekiston Respublikasida sud tizimi quyidagilardan iborat
 
@@ -3262,11 +3216,9 @@ Korxonalar va muassasalarning huquqlari va qonuniy manfaatlarini muhofazalash
 
 – tumanlararo maʼmuriy sudlar.
 
-### Yodda tuting!
-
-Sud hokimiyatining hujjatlari barcha davlat organlari va boshqa tashkilotlar, mansabdor shaxslar hamda fuqarolar uchun majburiydir. Sud hujjatini ijro etmaslik qonunda belgilangan javobgarlikka sabab boʻladi.
-
 ### Oʻzbekiston Respublikasi Konstitutsiyaviy sudi va Oliy sudi
+
+![](img/ogp-9.uz/p117-1.webp "362x254")
 
 Endi Oʻzbekiston Respublikasi sud tizimi tarkibidagi sudlar haqida maʼlumotlarni koʻrib chiqamiz. Oʻzbekiston Respublikasining Konstitutsiyaviy sudi davlatimiz mustaqillikni qoʻlga kiritgan davrdan boshlab faoliyat yuritib kelmoqda. Konstitutsiyaviy sud qonun chiqaruvchi va ijro etuvchi hokimiyat hujjatlarining konstitutsiyaga muvofiqligi toʻgʻrisidagi ishlarni koʻradi. Konstitutsiyaviy sud doimiy faoliyat yurituvchi sud organi hisoblanadi.
 
@@ -3276,7 +3228,9 @@ Konstitutsiyaviy sud Oʻzbekiston Respublikasi Prezidentining taqdimiga binoan, 
 
 Oʻzbekiston Respublikasi Konstitutsiyaviy sudi oʻz tarkibidan Oʻzbekiston Respublikasi Konstitutsiyaviy sudining raisini va uning oʻrinbosarini besh yillik muddatga saylaydi.
 
-Oʻzbekiston Respublikasi Konstitutsiyaviy sudi quyidagi hujjatlarning Oʻzbekiston Respublikasining Konstitutsiyasiga muvofiqligini aniqlaydi:
+**Oʻzbekiston Respublikasi Konstitutsiyaviy sudi quyidagi hujjatlarning Oʻzbekiston Respublikasining Konstitutsiyasiga muvofiqligini aniqlaydi:**
+
+![](img/ogp-9.uz/p117-2.webp "702x232")
 
 ### Oʻzbekiston Respublikasi Konstitutsiyaviy sudi
 
@@ -3284,11 +3238,7 @@ Oʻzbekiston Respublikasi Konstitutsiyaviy sudi quyidagi hujjatlarning Oʻzbekis
 
 – Referendumga chiqarilayotgan masalalarning Oʻzbekiston Respublikasi Konstitutsiyasiga muvofiqligi toʻgʻrisida xulosa beradi.
 
-### Yodda tuting!
-
-Konstitutsiyaviy sudning faoliyatini tartibga solish maqsadida Konstitutsiyaviy sud toʻgʻrisida qonun qabul qilingan.
-
-Konstitutsiyaviy sudning qarori rasmiy eʼlon qilingan kundan eʼtiboran kuchga kiradi. Konstitutsiyaviy sudning qarori qatʼi va uning ustidan shikoyat qilinishi mumkin emas.
+![](img/ogp-9.uz/p117-3.webp "900x169")
 
 – Qoraqalpogʻiston Respublikasi Konstitutsiyasining Oʻzbekiston Respublikasi Konstitutsiyasiga, Qoraqalpogʻiston Respublikasi qonunlarining Oʻzbekiston Respublikasining qonunlariga muvofiqligi toʻgʻrisida xulosa beradi.
 
@@ -3298,7 +3248,7 @@ Konstitutsiyaviy sudning qarori rasmiy eʼlon qilingan kundan eʼtiboran kuchga 
 
 Fuqarolar va yuridik shaxslar sud tomonidan oʻziga nisbatan qoʻllangan qonunning konstitutsiyaga muvofiqligi toʻgʻrisidagi shikoyat bilan Oʻzbekiston Respublikasi Konstitutsiyaviy sudiga murojaat qilishga haqli.
 
-Oʻzbekiston Respublikasi Oliy sudi:
+**Oʻzbekiston Respublikasi Oliy sudi:**
 
 – Fuqarolik, jinoiy, iqtisodiy, maʼmuriy sud ishlarini yuritadi.
 
@@ -3308,7 +3258,7 @@ Oʻzbekiston Respublikasi Oliy sudi:
 
 – Raisi va uning oʻrinbosarlari besh yillik muddatga saylanadi. Ayni bir shaxs surunkasiga ikki muddatdan ortiq Oʻzbekiston Respublikasi Oliy sudining raisi, rais oʻrinbosari etib saylanishi mumkin emas.
 
-Oʻzbekiston Respublikasining harbiy sudlari sud tizimida alohida oʻrin egallaydi.
+**Oʻzbekiston Respublikasining harbiy sudlari sud tizimida alohida oʻrin egallaydi.**
 
 ### Respublikasi
 
@@ -3317,6 +3267,8 @@ Harbiy sudi
 ### Sudyalar mustaqilligi
 
 Oʻzbekiston Respublikasida sud hokimiyati qonun chiqaruvchi va ijro etuvchi hokimiyatdan, siyosiy partiyalardan, fuqarolik jamiyatining boshqa institutlaridan mustaqil holda ish yuritadi. Sud hokimiyati mustaqilligi jismoniy va yuridik shaxslar huquqlari va qonuniy manfaatlarini muhofaza etishga va jamiyat rivojlanishiga xizmat qiladi.
+
+![](img/ogp-9.uz/p118-1.webp "900x222")
 
 ### Yodda tuting!
 
@@ -3344,33 +3296,29 @@ Oʻzbekiston Respublikasi Sudyalar oliy kengashi sudyalar hamjamiyatining mustaq
 
 ### Respublikasi
 
-Konstitutsiyaviy sudi
+**Konstitutsiyaviy sudi**
 
 ### Respublikasi
 
-Oliy sudi
+**Oliy sudi**
+
+![](img/ogp-9.uz/p119-1.webp "900x498")
 
 ## 33-dars. Ijodiy faoliyat
 
-Nazariy tushuncha bering.
+### Fuqarolik jamiyati
 
-Asosiy omillarini yoriting.
+![](img/ogp-9.uz/p120-1.webp "812x474")
 
-Konstitutsiyaviy asosini keltiring.
-
-### 2-topshiriq. Davlat hokimiyatiga doir qonunchilikni bilasizmi?
-
-Qonunchilikdanhuquqiyasosinitoping. (Qanday qonunlar qabul qilingan?)
-
-Qonunlarning maqsadi nima? Ularga tegishli 10 tadan huquqiy atama keltiring.
-
-3-topshiriq. Oʻzbekiston Respublikasi Konstitutsiyasi va “Yoshlarga oid davlat siyosati toʻgʻrisida”gi qonun asosida quyidagi huquqiy meʼyorlarni toʻldiring.
+**3-topshiriq. Oʻzbekiston Respublikasi Konstitutsiyasi va “Yoshlarga oid davlat siyosati toʻgʻrisida”gi qonun asosida quyidagi huquqiy meʼyorlarni toʻldiring.**
 
 Davlat yoshlarning intellektual, ijodiy, jismoniy va axloqiy jihatdan shakllanishi hamda rivojlanishi uchun, ularning taʼlim olishga, sogʻligʻini saqlashga, uy-joyga, ishga joylashishga, bandlik va dam olishga boʻlgan huquqlarini amalga oshirish uchun.........
 
 Jinsi, irqi, millati, tili, dini, ijtimoiy kelib chiqishi, eʼtiqodi, shaxsi va ijtimoiy mavqeyidan qatʼi nazar, yoshlarning huquqlari va erkinliklarini biror-bir tarzda bevosita yoki bilvosita cheklashga yoʻl qoʻyilmaydi hamda bunday cheklash......
 
 “Yoshlarga oid davlat siyosati toʻgʻrisida”gi qonunning maqsadi............... tartibga solishdan iborat.
+
+![](img/ogp-9.uz/p120-2.webp "900x333")
 
 ## 34-dars. Nazorat ishi
 
@@ -3398,139 +3346,129 @@ Favqulodda sudlar tuzishga yoʻl qoʻyiladi.
 
 ### Hayotiy vaziyat
 
-Fuqaro oʻz huquqini himoya qilish maqsadida Konstitutsiyaviy sudga murojaat qilmoqchi boʻlgan, lekin fuqaroga rad javobi berilgan. Fuqaro Konstitutsiyaviy sudga murojaat qilishga haqlimi?
-
-Ushbu vaziyatni huquqiy tahlil qiling.
-
-Savol:
-
-1. Qanday hollarda fuqarolar Konstitutsiyaviy sudga murojaat qilishi mumkin?
-
-2. Fuqaro Konstitutsiyaviy sudga nima toʻgʻrisida murojaat qilishga haqli?
-
-3. Konstitutsiyaviy sudning qarori qachon kuchga kiradi?
-
-4. Konstitutsiyaviy sud qanday huquqiy hujjat qabul qiladi?
+![](img/ogp-9.uz/p121-1.webp "900x519")
 
 # Lugʻat
 
 ## Ayrim yuridik atamalarning izohli lugʻati
 
-> Ariza – fuqarolarning oʻz huquqlari, erkinliklari va qonuniy manfaatlarini amalga oshirish uchun koʻmak soʻrab qilgan murojaatlari.
+> **Ariza** – fuqarolarning oʻz huquqlari, erkinliklari va qonuniy manfaatlarini amalga oshirish uchun koʻmak soʻrab qilgan murojaatlari.
 
-> Atrof-muhitni muhofaza qilish – inson faoliyatining atrof-muhitga salbiy taʼsirini cheklash va uning oldini olishga qaratilgan chora-tadbirlar majmuyi.
+> **Atrof-muhitni muhofaza qilish** – inson faoliyatining atrof-muhitga salbiy taʼsirini cheklash va uning oldini olishga qaratilgan chora-tadbirlar majmuyi.
 
-> Aybsizlik prezumpsiyasi – jinoyat sodir etganlikda ayblanayotgan shaxs uning aybi qonunda nazarda tutilgan tartibda oshkora sud muhokamasi yoʻli bilan isbotlanmaguncha va sudning qonuniy kuchga kirgan hukmi bilan aniqlanmaguncha aybsiz deb hisoblanishi.
+> **Aybsizlik prezumpsiyasi** – jinoyat sodir etganlikda ayblanayotgan shaxs uning aybi qonunda nazarda tutilgan tartibda oshkora sud muhokamasi yoʻli bilan isbotlanmaguncha va sudning qonuniy kuchga kirgan hukmi bilan aniqlanmaguncha aybsiz deb hisoblanishi.
 
-> Burch – kishining biror shaxs, oila, jamoa, el-yurt, vatan oldidagi majburiyatini anglatuvchi axloqiy tushuncha. Huquqiy holatda esa jamiyat va davlat tomonidan belgilangan va huquqiy normalarda oʻz aksini topgan talablarni bajarish.
+> **Burch** – kishining biror shaxs, oila, jamoa, el-yurt, vatan oldidagi majburiyatini anglatuvchi axloqiy tushuncha. Huquqiy holatda esa jamiyat va davlat tomonidan belgilangan va huquqiy normalarda oʻz aksini topgan talablarni bajarish.
 
-> Davlat suvereniteti – hokimiyatni amalga oshirishda mamlakat ichkarisi va tashqarisida toʻla-toʻkis mustaqillik.
+> **Davlat suvereniteti** – hokimiyatni amalga oshirishda mamlakat ichkarisi va tashqarisida toʻla-toʻkis mustaqillik.
 
-> Demokratiya – fuqarolarning davlatni boshqarishda ishtirok etish usullari orqali davlatni boshqarish. Bu tushuncha ilk marotaba Qadimgi Yunonistonda vujudga kelgan.
+> **Demokratiya** – fuqarolarning davlatni boshqarishda ishtirok etish usullari orqali davlatni boshqarish. Bu tushuncha ilk marotaba Qadimgi Yunonistonda vujudga kelgan.
 
-> Deputat – Davlat vakillik organining saylab qoʻyilgan aʼzosi. Oʻzbekiston Respublikasida – xalqning Oʻzbekiston Respublikasi Oliy Majlisi, Qoraqalpogʻiston Respublikasi Joʻqorgʻi Kengesi, xalq deputatlari viloyat, tuman va shahar kengashlaridagi vakolatli vakili.
+> **Deputat** – Davlat vakillik organining saylab qoʻyilgan aʼzosi. Oʻzbekiston Respublikasida – xalqning Oʻzbekiston Respublikasi Oliy Majlisi, Qoraqalpogʻiston Respublikasi Joʻqorgʻi Kengesi, xalq deputatlari viloyat, tuman va shahar kengashlaridagi vakolatli vakili.
 
-> Dunyoviy davlat – diniy tashkilotlar va birlashmalar davlatdan hamda davlat hokimiyati dindan ajratilgan, davlat boshqaruvi Konstitutsiya va qonun hujjatlari bilan tartibga solinadigan davlat.
+> **Dunyoviy davlat** – diniy tashkilotlar va birlashmalar davlatdan hamda davlat hokimiyati dindan ajratilgan, davlat boshqaruvi Konstitutsiya va qonun hujjatlari bilan tartibga solinadigan davlat.
 
-> Erkinlik – inson uchun oliy neʼmat boʻlib, uning qonunda taqiqlanmagan har qanday ishni qila olishi.
+> **Erkinlik** – inson uchun oliy neʼmat boʻlib, uning qonunda taqiqlanmagan har qanday ishni qila olishi.
 
-> Fraksiya – biror-bir siyosiy partiyaning siyosatini parlamentda ifoda etuvchi, mahalliy oʻzini oʻzi boshqaruvda, jamoat tashkilotlarida oʻz organlariga ega boʻlgan ayni partiya vakillaridan iborat tashkiliy guruh.
+> **Fraksiya** – biror-bir siyosiy partiyaning siyosatini parlamentda ifoda etuvchi, mahalliy oʻzini oʻzi boshqaruvda, jamoat tashkilotlarida oʻz organlariga ega boʻlgan ayni partiya vakillaridan iborat tashkiliy guruh.
 
 > Fuqarolarning oʻzini oʻzi boshqarish organlari – shaharchalar, qishloqlar va ovullar, shuningdek, shaharlardagi, shaharchalardagi, qishloqlardagi hamda ovullardagi mahallalar fuqarolar yigʻinlaridir.
 
-> Fuqarolarning oʻzini oʻzi boshqarishi – fuqarolarning mahalliy ahamiyatga molik masalalarni oʻz manfaatlaridan, rivojlanishning tarixiy xususiyatlaridan, shuningdek, milliy va maʼnaviy qadriyatlardan, mahalliy urf-odatlar va anʼanalardan kelib chiqqan holda hal qilish borasidagi Oʻzbekiston Respublikasining Konstitutsiyasi va qonunlari bilan kafolatlanadigan mustaqil faoliyati.
+> **Fuqarolarning oʻzini oʻzi boshqarishi** – fuqarolarning mahalliy ahamiyatga molik masalalarni oʻz manfaatlaridan, rivojlanishning tarixiy xususiyatlaridan, shuningdek, milliy va maʼnaviy qadriyatlardan, mahalliy urf-odatlar va anʼanalardan kelib chiqqan holda hal qilish borasidagi Oʻzbekiston Respublikasining Konstitutsiyasi va qonunlari bilan kafolatlanadigan mustaqil faoliyati.
 
-> Fuqarolik jamiyati – uzviy bogʻliqlikda boʻlgan hamda axloqiy madaniyatga tayanadigan huquqiy va siyosiy madaniyatga ega odamlardan iborat jamiyat.
+> **Fuqarolik jamiyati** – uzviy bogʻliqlikda boʻlgan hamda axloqiy madaniyatga tayanadigan huquqiy va siyosiy madaniyatga ega odamlardan iborat jamiyat.
 
-> Hokim – Oʻzbekiston Respublikasida viloyat, tuman, shaharda oliy mansabdor shaxs. Mahalliy vakillik va ijro etuvchi hokimiyat boshligʻi.
+> **Hokim** – Oʻzbekiston Respublikasida viloyat, tuman, shaharda oliy mansabdor shaxs. Mahalliy vakillik va ijro etuvchi hokimiyat boshligʻi.
 
-> Hokimiyatlar boʻlinishi prinsipi – davlat hokimiyati tizimi faoliyatining asosiy prinsipi boʻlib, unga koʻra, davlat hokimiyati qonunchilik, ijro etuvchi va sud hokimiyati organlariga boʻlinadi.
+> **Hokimiyatlar boʻlinishi prinsipi** – davlat hokimiyati tizimi faoliyatining asosiy prinsipi boʻlib, unga koʻra, davlat hokimiyati qonunchilik, ijro etuvchi va sud hokimiyati organlariga boʻlinadi.
 
-> Huquq – davlat tomonidan oʻrnatilgan va u tomonidan himoya qilinadigan barcha uchun majburiy boʻlgan xulq-atvor qoidalari tizimi.
+> **Huquq** – davlat tomonidan oʻrnatilgan va u tomonidan himoya qilinadigan barcha uchun majburiy boʻlgan xulq-atvor qoidalari tizimi.
 
-> Huquqiy davlat – huquq ustuvorligi taʼminlangan, inson va fuqarolarning huquq va erkinliklari kafolatlangan, qonunlar oldida barcha teng boʻlgan, hech kim qonundan ustun turmaydigan davlat.
+> **Huquqiy davlat** – huquq ustuvorligi taʼminlangan, inson va fuqarolarning huquq va erkinliklari kafolatlangan, qonunlar oldida barcha teng boʻlgan, hech kim qonundan ustun turmaydigan davlat.
 
-> Huquqiy madaniyat – kishilarning huquqiy bilim darajasi, huquqni hurmat qilishi va unga rioya qilishi.
+> **Huquqiy madaniyat** – kishilarning huquqiy bilim darajasi, huquqni hurmat qilishi va unga rioya qilishi.
 
-> Huquqiy nigilizm – huquqqa, qonunlarga salbiy, ularni inkor qiluvchi, hurmatsiz munosabatda boʻlish.
+> **Huquqiy nigilizm** – huquqqa, qonunlarga salbiy, ularni inkor qiluvchi, hurmatsiz munosabatda boʻlish.
 
-> Huquqiy tartibot – jamiyatdagi munosabatlarning maʼlum bir holati, unga davlatning huquqiy meʼyorlarida mavjud boʻlgan barcha qonun-qoidalarga majburiy ravishda rioya qilinishi natijasida erishiladi.
+> **Huquqiy tartibot** – jamiyatdagi munosabatlarning maʼlum bir holati, unga davlatning huquqiy meʼyorlarida mavjud boʻlgan barcha qonun-qoidalarga majburiy ravishda rioya qilinishi natijasida erishiladi.
 
-> Imtiyoz – turli xil afzalliklar, yengilliklar berish.
+> **Imtiyoz** – turli xil afzalliklar, yengilliklar berish.
 
-> Inson huquqlari – insonning ijtimoiy hayotdagi, qonunlarda belgilab qoʻyilgan vakolatlari va imkoniyatlari.
+> **Inson huquqlari** – insonning ijtimoiy hayotdagi, qonunlarda belgilab qoʻyilgan vakolatlari va imkoniyatlari.
 
-> Intellektual mulk – ixtirolar, ilmiy kashfiyotlar, adabiy, musiqiy asarlarni yaratish kabi ijodiy faoliyat natijalari.
+> **Intellektual mulk** – ixtirolar, ilmiy kashfiyotlar, adabiy, musiqiy asarlarni yaratish kabi ijodiy faoliyat natijalari.
 
-> Jamoat birlashmasi – oʻz huquqlari, erkinliklarini hamda siyosat, iqtisodiyot, ijtimoiy rivojlanish, fan, madaniyat, ekologiya va hayotning boshqa sohalaridagi qonuniy manfaatlarini birgalikda roʻyobga chiqarish uchun birlashgan fuqarolarning xohish-irodalarini erkin bildirishlari natijasida vujudga kelgan ixtiyoriy tuzilma.
+> **Jamoat birlashmasi** – oʻz huquqlari, erkinliklarini hamda siyosat, iqtisodiyot, ijtimoiy rivojlanish, fan, madaniyat, ekologiya va hayotning boshqa sohalaridagi qonuniy manfaatlarini birgalikda roʻyobga chiqarish uchun birlashgan fuqarolarning xohish-irodalarini erkin bildirishlari natijasida vujudga kelgan ixtiyoriy tuzilma.
 
-> Konstitutsiya – yuridik kuchga ega boʻlgan rasmiy hujjat boʻlib, unda inson va fuqaroning huquq va erkinliklari belgilanadi, davlat boshqaruvi va hududiy tuzilishi, davlat organlarining vakolatlari bеlgilab qoʻyiladi.
+> **Konstitutsiya** – yuridik kuchga ega boʻlgan rasmiy hujjat boʻlib, unda inson va fuqaroning huquq va erkinliklari belgilanadi, davlat boshqaruvi va hududiy tuzilishi, davlat organlarining vakolatlari bеlgilab qoʻyiladi.
 
-> Konstitutsiya muqaddimasi – Konstitutsiyada qabul qilinayotgan maqsadlar va prinsiplarni xalq nomidan tantanali eʼlon qilish. Muqaddimada Konstitutsiya mamlakat xalqi nomidan eʼlon qilinayotgani va uning orzu-umidlari, niyatlari va majburiyatlarini oʻzida mujassamlashtirishi koʻrsatiladi.
+> **Konstitutsiya muqaddimasi** – Konstitutsiyada qabul qilinayotgan maqsadlar va prinsiplarni xalq nomidan tantanali eʼlon qilish. Muqaddimada Konstitutsiya mamlakat xalqi nomidan eʼlon qilinayotgani va uning orzu-umidlari, niyatlari va majburiyatlarini oʻzida mujassamlashtirishi koʻrsatiladi.
 
-> Konstitutsiyaviy huquq – huquqning mustaqil tarmogʻi sifatida mamlakatning konstitutsiyaviy tuzilishi asoslarini, jamiyat tuzilishini, davlat hokimiyati va boshqaruv tuzilishini, davlat organlari vakolatlarini, shu davlat hududida yashab turgan fuqarolarning asosiy huquq va erkinliklarini belgilovchi yuridik meʼyorlardan iborat.
+> **Konstitutsiyaviy huquq** – huquqning mustaqil tarmogʻi sifatida mamlakatning konstitutsiyaviy tuzilishi asoslarini, jamiyat tuzilishini, davlat hokimiyati va boshqaruv tuzilishini, davlat organlari vakolatlarini, shu davlat hududida yashab turgan fuqarolarning asosiy huquq va erkinliklarini belgilovchi yuridik meʼyorlardan iborat.
 
-> Madaniy huquqlar – shaxsning madaniy boyliklardan foydalanish va yaratish, madaniy hayotda ishtirok etish erkinligini taʼminlaydigan huquqlar.
+> **Madaniy huquqlar** – shaxsning madaniy boyliklardan foydalanish va yaratish, madaniy hayotda ishtirok etish erkinligini taʼminlaydigan huquqlar.
 
-> Miting – maʼlum bir shaxslar va tashkilotlarning xatti-harakatlari, ijtimoiy-siyosiy voqealarga nisbatan munosabatini oshkora ifodalash maqsadidagi fuqarolarning tinch yigʻini.
+> **Miting** – maʼlum bir shaxslar va tashkilotlarning xatti-harakatlari, ijtimoiy-siyosiy voqealarga nisbatan munosabatini oshkora ifodalash maqsadidagi fuqarolarning tinch yigʻini.
 
-> Mulkdor boʻlish huquqi – mulkka qanday egalik qilish, undan foydalanish va uni tasarruf etishni belgilovchi, shuningdek, ushbu vakolatlarni himoya qilishni taʼminlaydigan huquqiy normalar yigʻindisi.
+> **Mulkdor boʻlish huquqi –** mulkka qanday egalik qilish, undan foydalanish va uni tasarruf etishni belgilovchi, shuningdek, ushbu vakolatlarni himoya qilishni taʼminlaydigan huquqiy normalar yigʻindisi.
 
-> Nodavlat notijorat tashkiloti – jismoniy va (yoki) yuridik shaxslar tomonidan ixtiyoriylik asosida tashkil etilgan, daromad (foyda) olishni oʻz faoliyatining asosiy maqsadi qilib olmagan hamda olingan daromadlarni (foydani) oʻz qatnashchilari (aʼzolari) oʻrtasida taqsimlamaydigan oʻzini oʻzi boshqarish tashkiloti.
+> **Nodavlat notijorat tashkiloti** – jismoniy va (yoki) yuridik shaxslar tomonidan ixtiyoriylik asosida tashkil etilgan, daromad (foyda) olishni oʻz faoliyatining asosiy maqsadi qilib olmagan hamda olingan daromadlarni (foydani) oʻz qatnashchilari (aʼzolari) oʻrtasida taqsimlamaydigan oʻzini oʻzi boshqarish tashkiloti.
 
-> Normativ-huquqiy hujjat – vakolatli davlat organlari tomonidan qabul qilingan huquqiy normalarni belgilashga, oʻzgartirishga yoki bekor qilishga qaratilgan rasmiy hujjat.
+> **Normativ-huquqiy hujjat** – vakolatli davlat organlari tomonidan qabul qilingan huquqiy normalarni belgilashga, oʻzgartirishga yoki bekor qilishga qaratilgan rasmiy hujjat.
 
-> Odil sudlov – haqiqiy holatni aniqlab, odamlar orasidagi, ular bilan jamiyat va davlat oʻrtasidagi kelishmovchilik va nizolarni faqat sud tomonidan hal etilishi.
+> **Odil sudlov** – haqiqiy holatni aniqlab, odamlar orasidagi, ular bilan jamiyat va davlat oʻrtasidagi kelishmovchilik va nizolarni faqat sud tomonidan hal etilishi.
 
-> Ombudsman – mansabdor shaxs boʻlib, davlat organlari, korxonalar, tashkilotlar va muassasalar, mansabdor shaxslar tomonidan inson huquqlari hamda erkinliklari toʻgʻrisidagi qonunchilikka rioya etilishi ustidan parlament nazoratini olib boradi.
+> **Ombudsman** – mansabdor shaxs boʻlib, davlat organlari, korxonalar, tashkilotlar va muassasalar, mansabdor shaxslar tomonidan inson huquqlari hamda erkinliklari toʻgʻrisidagi qonunchilikka rioya etilishi ustidan parlament nazoratini olib boradi.
 
-> Oʻzbekiston Respublikasi Vazirlar Mahkamasi – Oʻzbekiston Respublikasi hukumati. Ijro etuvchi hokimiyatning markaziy organi.
+> **Oʻzbekiston Respublikasi Vazirlar Mahkamasi** – Oʻzbekiston Respublikasi hukumati. Ijro etuvchi hokimiyatning markaziy organi.
 
-> Prezident – respublika boshqaruv shaklidagi koʻplab mamlakatlarda maʼlum muddatga saylab qoʻyiladigan davlat boshligʻi.
+> **Prezident** – respublika boshqaruv shaklidagi koʻplab mamlakatlarda maʼlum muddatga saylab qoʻyiladigan davlat boshligʻi.
 
-> Qonun ustuvorligi – barcha davlat hokimiyati organlari faoliyatida qonunlar oliy yuridik kuchga ega boʻlishi.
+> **Qonun ustuvorligi** – barcha davlat hokimiyati organlari faoliyatida qonunlar oliy yuridik kuchga ega boʻlishi.
 
-> Referendum – umumxalq ovoz berish yoʻli bilan qonunlar qabul qilish va davlat ahamiyatiga molik eng muhim masalalarni hal qilish shakli. Referendumning saylovdan farqi shundaki, unda muayyan shaxslarning nomzodlari emas, davlat va jamiyat ahamiyatiga oid ishlar, qonun, qonun loyihasi, Konstitutsiyaga oʻzgartirish va qoʻshimcha kiritish kabi masalalar muhokamaga qoʻyiladi. Fuqarolar ushbu masalalar yuzasidan oʻz ovozlarini beradilar.
+> **Referendum** – umumxalq ovoz berish yoʻli bilan qonunlar qabul qilish va davlat ahamiyatiga molik eng muhim masalalarni hal qilish shakli. Referendumning saylovdan farqi shundaki, unda muayyan shaxslarning nomzodlari emas, davlat va jamiyat ahamiyatiga oid ishlar, qonun, qonun loyihasi, Konstitutsiyaga oʻzgartirish va qoʻshimcha kiritish kabi masalalar muhokamaga qoʻyiladi. Fuqarolar ushbu masalalar yuzasidan oʻz ovozlarini beradilar.
 
-> Reglament – muayyan davlat organi yoki boʻlinmasining ichki tashkiliy hamda faoliyat tartibini belgilovchi normativ-huquqiy hujjat, yaʼni vakillik organlari majlis, yigʻilish, sessiya va syezdlarini olib borish tartibi.
+> **Reglament** – muayyan davlat organi yoki boʻlinmasining ichki tashkiliy hamda faoliyat tartibini belgilovchi normativ-huquqiy hujjat, yaʼni vakillik organlari majlis, yigʻilish, sessiya va syezdlarini olib borish tartibi.
 
-> Respublika – bunday boshqaruv shaklida saylab qoʻyiladigan organlar saylovchilar oldida javobgar boʻladi, ular muayyan muddatga saylanadi va davlat hokimiyatini xalq nomidan amalga oshiradi.
+> **Respublika** – bunday boshqaruv shaklida saylab qoʻyiladigan organlar saylovchilar oldida javobgar boʻladi, ular muayyan muddatga saylanadi va davlat hokimiyatini xalq nomidan amalga oshiradi.
 
-> Senat – davlat hokimiyatining yuqori organi boʻlib, koʻpincha qonunchilik kengashlari (parlament)ning yuqori palatasi shunday nomlanadi. Oʻzbekiston Respublikasi Oliy Majlisining yuqori palatasi.
+> **Senat** – davlat hokimiyatining yuqori organi boʻlib, koʻpincha qonunchilik kengashlari (parlament)ning yuqori palatasi shunday nomlanadi. Oʻzbekiston Respublikasi Oliy Majlisining yuqori palatasi.
 
-> Siyosiy huquqlar – fuqarolarning jamiyat va davlat boshqaruvida, siyosiy hayotida ishtirok etish imkoniyatini taʼminlovchi huquqlar.
+> **Siyosiy huquqlar** – fuqarolarning jamiyat va davlat boshqaruvida, siyosiy hayotida ishtirok etish imkoniyatini taʼminlovchi huquqlar.
 
-> Siyosiy partiya – Oʻzbekiston Respublikasi fuqarolarining qarashlar, manfaatlar va maqsadlar mushtarakligi asosida tuzilgan, davlat hokimiyati organlarini shakllantirishda jamiyat muayyan qismining siyosiy irodasini roʻyobga chiqarishga intiluvchi hamda oʻz vakillari orqali davlat va jamoat ishlarini idora etishda qatnashuvchi koʻngilli birlashmasi.
+> **Siyosiy partiya** – Oʻzbekiston Respublikasi fuqarolarining qarashlar, manfaatlar va maqsadlar mushtarakligi asosida tuzilgan, davlat hokimiyati organlarini shakllantirishda jamiyat muayyan qismining siyosiy irodasini roʻyobga chiqarishga intiluvchi hamda oʻz vakillari orqali davlat va jamoat ishlarini idora etishda qatnashuvchi koʻngilli birlashmasi.
 
-> Sud hokimiyati – hokimiyatlar boʻlinishi qoidasiga koʻra, davlat hokimiyatining alohida va mustaqil tarmogʻi.
+> **Sud hokimiyati** – hokimiyatlar boʻlinishi qoidasiga koʻra, davlat hokimiyatining alohida va mustaqil tarmogʻi.
 
-> Taklif – fuqarolarning davlat va jamoatchilik faoliyatini takomillashtirish boʻyicha tavsiyalarini ifodalovchi murojaatlar.
+> **Taklif** – fuqarolarning davlat va jamoatchilik faoliyatini takomillashtirish boʻyicha tavsiyalarini ifodalovchi murojaatlar.
 
-> Тashqi siyosat – хalqaro hayotda ishtirok etgan holda oʻz chеgarasidan tashqarisida davlatning boshqa davlatlar, хalqaro tashkilotlar bilan munosabatini, davlatning хalqaro munosabatlardagi umumiy yoʻnalishini amalga oshirishdan iborat.
+> **Тashqi siyosat** – хalqaro hayotda ishtirok etgan holda oʻz chеgarasidan tashqarisida davlatning boshqa davlatlar, хalqaro tashkilotlar bilan munosabatini, davlatning хalqaro munosabatlardagi umumiy yoʻnalishini amalga oshirishdan iborat.
 
-> Unitar davlat – yagona davlat boʻlib, uning alohida maʼmuriy-hududiy birliklari bir xildagi huquqlarga ega, butun davlat hududida yagona konstitutsiya, yagona hukumat va yagona qonun hujjatlari amal qiladi.
+> **Unitar davlat** – yagona davlat boʻlib, uning alohida maʼmuriy-hududiy birliklari bir xildagi huquqlarga ega, butun davlat hududida yagona konstitutsiya, yagona hukumat va yagona qonun hujjatlari amal qiladi.
 
-> Vasiyatnoma – vasiyat qiluvchi oʻz merosxoʻrlarini va ularga merosni berish tartibini belgilaydigan hujjat.
+> **Vasiyatnoma** – vasiyat qiluvchi oʻz merosxoʻrlarini va ularga merosni berish tartibini belgilaydigan hujjat.
 
-> Vazir – Oʻzbekiston Respublikasida hukumat aʼzosi hamda maʼlum bir vazirlikni boshqaruvchi yuqori mansabdor shaxs.
+> **Vazir** – Oʻzbekiston Respublikasida hukumat aʼzosi hamda maʼlum bir vazirlikni boshqaruvchi yuqori mansabdor shaxs.
 
-> Vijdon erkinligi – har kimning xohlagan dinga eʼtiqod qilish yoki hech qaysi dinga eʼtiqod qilmaslik huquqi.
+> **Vijdon erkinligi** – har kimning xohlagan dinga eʼtiqod qilish yoki hech qaysi dinga eʼtiqod qilmaslik huquqi.
 
-> Xalqaro huquq – xalqaro muloqot jarayonida davlatlararo munosabatlarni tartibga solib turuvchi yuridik qoidalar majmuyi.
+> **Xalqaro huquq** – xalqaro muloqot jarayonida davlatlararo munosabatlarni tartibga solib turuvchi yuridik qoidalar majmuyi.
 
-> Yigʻilish – biror-bir muhim jamoatchilik masalasini jamoa boʻlib birgalikda muhokama qilish uchun fuqarolar ishtiroki.
+> **Yigʻilish** – biror-bir muhim jamoatchilik masalasini jamoa boʻlib birgalikda muhokama qilish uchun fuqarolar ishtiroki.
 
-> YUNEP – atrof-muhit muhofazasi boʻyicha BMT dasturi.
+> **YUNEP** – atrof-muhit muhofazasi boʻyicha BMT dasturi.
 
-> Shaxs daxlsizligi (Oʻzbekiston Respublikasida) – har bir kimsaning tugʻilganidan boshlab tan olinadigan uzviy huquqi. Shaxs daxlsizligi jismoniy, axloqiy va maʼnaviy jihatlarga ega.
+> **Shaxs daxlsizligi** (Oʻzbekiston Respublikasida) – har bir kimsaning tugʻilganidan boshlab tan olinadigan uzviy huquqi. Shaxs daxlsizligi jismoniy, axloqiy va maʼnaviy jihatlarga ega.
 
-> Shaxsiy huquq va erkinliklar – inson tugʻilgan zahoti ega boʻladigan, uning asosiy hayotiy ehtiyojlarini taʼminlaydigan, tabiiy, ajralmas huquqlari.
+> **Shaxsiy huquq va erkinliklar** – inson tugʻilgan zahoti ega boʻladigan, uning asosiy hayotiy ehtiyojlarini taʼminlaydigan, tabiiy, ajralmas huquqlari.
 
-> Shikoyat – fuqarolarning buzilgan huquqlari, erkinliklari va qonuniy manfaatlarini tiklashni talab qiluvchi murojaatlari.
+> **Shikoyat** – fuqarolarning buzilgan huquqlari, erkinliklari va qonuniy manfaatlarini tiklashni talab qiluvchi murojaatlari.
 
 ### Ijaraga beriladigan darslik holatini koʻrsatuvchi jadval
 
-> Darslik ijaraga berilib, oʻquv yili yakunida qaytarib olinganda yuqoridagi jadval sinf rahbarlari tomonidan quyidagi baholash mezonlariga asosan toʻldiriladi:
+![](img/ogp-9.uz/p126-1.webp "802x612")
+
+> **Darslik ijaraga berilib, oʻquv yili yakunida qaytarib olinganda yuqoridagi jadval sinf rahbarlari tomonidan quyidagi baholash mezonlariga asosan toʻldiriladi:**
 
 > Darslikning birinchi marta foydalanishga berilgandagi holati.
 

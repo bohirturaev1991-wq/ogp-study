@@ -30,7 +30,8 @@ const stats = (blocks, lang) => ({
 
 // ---------- Книги (markdown) ----------
 // # раздел (после названия книги), ## урок/глава — единица чтения, ### подзаголовок,
-// пустая строка разделяет абзацы, строка "> текст" — выделенное определение.
+// пустая строка разделяет абзацы, строка "> текст" — выделенное определение,
+// ![подпись](img/…webp "WxH") — рисунок/схема (файлы из content/books/img копируются в public/content/img).
 function mdToBlocks(md) {
   const blocks = [];
   let titleSeen = false;
@@ -50,6 +51,11 @@ function mdToBlocks(md) {
       }
       // # раздел/глава (группирует уроки), ## урок — единица чтения, ### подзаголовок
       blocks.push({ t: 'h', l: Math.min(h[1].length, 3), x: h[2] });
+    } else if (/^!\[[^\]]*\]\([^)]+\)/.test(line)) {
+      // рисунок: ![подпись](img/ogp-8.ru/p007-1.webp "ширинаxвысота")
+      flush();
+      const m = line.match(/^!\[([^\]]*)\]\(([^\s)]+)(?:\s+"(\d+)x(\d+)")?\)/);
+      blocks.push({ t: 'img', src: m[2], x: m[1], ...(m[3] ? { w: +m[3], h: +m[4] } : {}) });
     } else if (line.startsWith('>')) {
       flush();
       blocks.push({ t: 'p', x: line.replace(/^>\s?/, ''), k: 'def' });
@@ -61,6 +67,8 @@ function mdToBlocks(md) {
 }
 
 const books = readJson(path.join(C, 'books.json'), { books: [] }).books;
+const imgSrc = path.join(C, 'books', 'img');
+if (fs.existsSync(imgSrc)) fs.cpSync(imgSrc, path.join(OUT, 'img'), { recursive: true });
 for (const b of books) {
   const langs = {};
   for (const lang of LANGS) {

@@ -1,5 +1,5 @@
 import MiniSearch from 'minisearch';
-import type { CatalogItem, Lang } from './types';
+import { plain, type CatalogItem, type Lang } from './types';
 import { buildUnits, docLang, loadDoc, norm, unitOfBlock } from './data';
 
 export interface Hit {
@@ -56,7 +56,7 @@ export function getIndex(items: CatalogItem[], lang: Lang) {
             } else {
               art = null;
               if (b.t === 'p') {
-                const e = { id: `${item.id}#b${i}`, doc: item.id, unit, anchor: `b${i}`, label: units.find((u) => u.key === unit)?.title || '', text: b.x };
+                const e = { id: `${item.id}#b${i}`, doc: item.id, unit, anchor: `b${i}`, label: units.find((u) => u.key === unit)?.title || '', text: plain(b.x) };
                 entries.set(e.id, e);
               }
             }

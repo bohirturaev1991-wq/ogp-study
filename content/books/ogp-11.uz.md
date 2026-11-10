@@ -20,6 +20,8 @@ Rasmlarga eʼtibor qarating va quyidagi savollarga javob bering.
 
 6. 4-rasmda tasvirlangan mijozlar uchun veb-sahifa yaratib berish kabi onlayn xizmatlarni ham mehnat munosabatlariga misol keltirish mumkinmi? Nima uchun?
 
+![](img/ogp-11.uz/p006-1.webp "792x217")
+
 ### Asosiy tushunchalar
 
 > Mehnatga oid huquqiy munosabatlar — bu ish beruvchi va xodim oʻrtasida mehnat shartnomasiga asosan yuzaga keladigan huquqiy munosabatlardir. Bunday munosabatlarni tartibga solishdan koʻzlangan asosiy maqsad ish beruvchi va xodim oʻrtasidagi mehnat jarayonini tartibga solish, har ikki tomonning huquq hamda majburiyatlarini belgilash, shuningdek himoya qilish hisoblanadi.
@@ -31,6 +33,8 @@ Har kim munosib mehnat qilish, kasb va faoliyat turini erkin tanlash, xavfsizlik
 ### Yodda tuting
 
 Ish beruvchi xodimlar uchun xavfsiz va qulay mehnat sharoitlarini yaratib berishiga oid munosabatlar
+
+![](img/ogp-11.uz/p007-1.webp "392x253")
 
 Ish beruvchi va xodim oʻrtasidagi mehnat shartnomasini tuzishga oid munosabatlar
 
@@ -58,7 +62,7 @@ Jahd qilgʻil, agar gavharing har nechakim asl boʻlsa, unga gʻarra boʻlmagʻi
 
 Andoqkim debdurlar: "Ulugʻlik aql va donishlik biladur, gavhar va nasab bila
 
-Oʻzbekiston Respublikasining qonunlari va boshqa normativ-huquqiy hujjatlar
+![](img/ogp-11.uz/p008-1.webp "792x389")
 
 ### Yodda tuting
 
@@ -84,13 +88,13 @@ Quyidagi vaziyatlarda mehnatga oid munosabatlarni huquqiy jihatdan tartibga soli
 
 2-vaziyat. Malika doʻkonda sotuvchi boʻlib ishlaydi va uning ish vaqti kuniga 8 soat qilib belgilangan. Doʻkon mudiri ish hajmi oshgani uchun Malikaga har kuni IO soat ishlashi kerakligini, lekin buning uchun qoʻshimcha ish haqi toʻlanmasligini bildirdi. 3-vaziyat. Aziz xususiy firmada ishlaydi, lekin boshqa joydan yaxshiroq ish taklifini oldi. U direktorga ariza yozib, shartnomaga koʻra oʻz xohishiga binoan ishdan ketmoqchi ekanligini bildirdi. Direktor ish beruvchi sifatida firmaning kelajagi uchun Aziz yaxshi xodim ekanligini vaj qilib, mehnat shartnomasini bekor qilishga rozi boʻlmadi.
 
+![](img/ogp-11.uz/p009-1.webp "232x114")
+
 4-vaziyat. Qurilish kompaniyasidagi xodimlar xavfsizlik vositalari yetarli emasligidan shikoyat qilishdi. Kasaba uyushmasi kompaniya rahbariyati bilan masalani muhokama qilib, barcha xodimlarga zarur himoya kiyimlari berilishini talab qildi. Ammo qurilish kompaniyasining boshligʻi hozirda mablagʻlar yetarli emasligidan kelib chiqib, xodimlar oʻz hisobidan xavfsizlik vositalarini sotib olishini buyurdi.
 
 ## 2-dars. Aholini ishga joylashtirish
 
-### Faollashtiruvchi savollar
-
-Ishga joylashish jarayoni aks etgan quyidagi rasmlarning mantiqiy ketma-ketligini aniqlang. Quyidagi savollarga javob bering.
+![](img/ogp-11.uz/p010-1.webp "792x264")
 
 1. Ish izlab topishning qanday usullarini bilasiz? Ularga misol keltiring?
 
@@ -117,6 +121,10 @@ Davlat fuqarolarning bandligini taʼminlash, ularni ishsizlikdan himoya qilish, 
 Davlat fuqarolarning kasbiy tayyorgarligini va qayta tayyorlanishini tashkil etadi hamda ragʻbatlantiradi.
 
 Ish bilan taʼminlash sohasida davlat tomonidan taqdim etiladigan kafolatlarga quyidagi misollarni keltirish mumkin:
+
+![](img/ogp-11.uz/p011-1.webp "112x102")
+
+![](img/ogp-11.uz/p011-3.webp "152x82")
 
 Minimal ish haqi kafolati davlat mehnatga haq toʻlashning eng kam miqdorini belgilaydi.
 
@@ -172,6 +180,8 @@ Ishsizlik nafaqasiga soliq solinmaydi.
 
 Ishsizlik nafaqasi ishsiz deb tan olingan shaxsga u mahalliy mehnat organida ish qidirayotgan shaxs sifatida roʻyxatga olingan birinchi kundan eʼtiboran hisoblanadi va toʻlanadi. Ishsizlik nafaqasi oʻn ikki oylik davr ichida koʻpi bilan yigirma olti kalendar hafta davomida toʻlanadi.
 
+![](img/ogp-11.uz/p012-1.webp "272x282")
+
 Ishsizlik nafaqasining miqdori qancha?
 
 Ishsizlik nafaqasining miqdori turlicha boʻlishi mumkin. Masalan, ishdan va ish haqidan (mehnat daromadidan) soʻnggi oʻn ikki oylik davr ichida mahrum boʻlgan shaxslarga — avvalgi ish joyidagi oʻrtacha oylik ish haqining ellik foizi miqdorida belgilanadi.
@@ -194,15 +204,21 @@ toʻrtinchisi — sabr-chidamlilik va tinchliksevarlik.
 
 Kimki shu toʻrt sifatga ega boʻlsa, unday odamni vazirlik martabasiga loyiq kishi deb bilsinlar. Uni vazir yoki maslahatchi etib tayinlasinlar. Mamlakat ishlarini, sipoh va raiyat ixtiyorini unga topshirsinlar. Bunday vazirga toʻrt imtiyoz: ishonch, eʼtibor, ixtiyor va iqtidor berilsin. Kamolotga erishgan vazir ulkim, davlat muomalalarini tartibga keltirib, mulkiy va moliyaviy ishlarni toʻgʻrilik bilan, asli-nasli tozaligini koʻrsatib, ajoyib tarzda bajaradi".
 
+![](img/ogp-11.uz/p013-1.webp "212x212")
+
 ### Izlanishda davom eting
 
 Oʻzbekiston Respublikasi Mehnat kodeksining 118-moddasi bilan tanishib chiqing. Ishga qabul qilishga yoʻl qoʻyiladigan yosh masalasini muhokama qiling. Quyida keltirilgan vaziyatlarni mazkur norma asosida tahlil eting.
 
 1-vaziyat. Ahrorjon oʻn toʻrt yoshda. U juda yosh boʻlishiga qaramasdan, karate sport turi boʻyicha jahon chempioni boʻlib ulgurgan. "Humo" karate sport jamoasi Ahrorjonni murabbiy yordamchisi sifatida ishga qabul qilishni rejalashtirmoqda. Ahrorjonning ota-onasi bunga rozi boʻlishdi
 
+![](img/ogp-11.uz/p013-3.webp "242x152")
+
 2-vaziyat. Farzona oʻn ikki yoshda. Yoshiga nisbatan uning suxandonlik iqtidori ancha yuqori. Ozining blogerlik faoliyatini ota-onasining koʻmagi bilan olib boradi. Farzonani "Bolajon" televideniyesiga boshlovchi sifatida ishga taklif etishdi. Farzonaning onasi juda xursand boʻldi. Biroq uning otasi qizining mehnat faoliyatini boshlashiga hali juda erta ekanligini taʼkidladi.
 
 3-vaziyat. Aʼzamjon oʻn sakkiz yoshga toʻlishi bilan ota-onasiga koʻmaklashish maqsadida maktabdan boʻsh vaqtida "Dunyo" mehmonxonasida menejerlik faoliyatini boshlab yubordi. Uning ota-onasi mehnat qilish uchun hali "vaqtli" ekanligini aytib, Aʼzamjon faqat taʼlim olishga diqqat qilishini bildirishdi.
+
+![](img/ogp-11.uz/p013-4.webp "329x202")
 
 ## 3-dars. Mehnat shartnomasi
 
@@ -210,11 +226,7 @@ Oʻzbekiston Respublikasi Mehnat kodeksining 118-moddasi bilan tanishib chiqing.
 
 Quyida keltirilgan mehnat shartnomasida belgilanishi lozim boʻlgan maʼlumotlarni oʻzaro moslashtiring. Soʻngra quyidagi savollarga javob bering.
 
-4. Mehnat shartnomasi taraflarining huquq va majburiyatlari
-
-5. Mehnat shartnomasining amal qilish muddati
-
-6. Mehnat shartnomasini bekor qilish shartlari
+![](img/ogp-11.uz/p014-1.webp "792x345")
 
 2. Siz ish beruvchisiz. Korxonangizdagi xodimlar bilan mehnat shartnomasi tuzishingiz kerak, qanday qoidalarga amal qilasiz?
 
@@ -230,11 +242,15 @@ Xodim va ish beruvchi mehnat shartnomasining taraflaridir. Mehnat shartnomasi xo
 
 Mehnat shartnomasi ish beruvchi va xodim tomonidan imzolangan kundan eʼtiboran kuchga kiradi. Xodim mehnat shartnomasida belgilangan sanadan eʼtiboran mehnat vazifalarini bajarishga kirishishi shart.
 
+![](img/ogp-11.uz/p014-2.webp "192x115")
+
 ### Yodda tuting
 
 Mehnat shartnomasini tuzish va bekor qilish, shuningdek unga oʻzgartish va qoʻshimchalar kiritish qonunchilikda belgilangan tartibda "Yagona milliy mehnat tizimi" idoralararo dasturiy-apparat kompleksida roʻyxatdan oʻtkazilishi shart.
 
 "Yagona milliy mehnat tizimi" idoralararo dasturiy-apparat kompleksidan foydalanish barcha shaxslar uchun bepuldir. Mehnat munosabatlariga oid hujjatlarni rasmiylashtirishda mazkur tizimdan foydalanish barcha shaxslar uchun majburiydir. my.mehnat.uz sayti orqali mehnatga oid koʻplab huquqiy harakatlarni amalga oshirish mumkin.
+
+![](img/ogp-11.uz/p015-1.webp "282x103")
 
 ### Qonun belgilaydi
 
@@ -262,7 +278,7 @@ Mehnat shartnomasiga qonunchilikka zid shartlar kiritilishi shartnomaning toʻli
 
 Ammo unutmaslik lozimki, mehnat shartnomasi ayrim shartlarining haqiqiy emas deb topilishi mehnat shartnomasining umumiy yuridik kuchiga taʼsir etmaydi. Bu mehnat shartnomasining qisman haqiqiy emas deb topilishiga misol boʻla oladi. Umuman olganda, bunday holatlar yuz bermasligi uchun xodimlar mehnat shartnomasini imzolashdan avval uning shartlari bilan yaqindan tanishib chiqishlari lozim. Aks holda, xodimlarning huquqlari ish beruvchilar tomonidan buzilishi kabi holatlarni keltirib chiqarishi mumkin.
 
-Xodimning hayoti, sogʻligʻi, shaʼn, qadr-qimmatiga putur yetkazsa
+![](img/ogp-11.uz/p016-1.webp "672x390")
 
 ### Xulosa qiling
 
@@ -296,6 +312,8 @@ Nizo qanday kelib chiqqan edi?
 
 Vizcaino va uning jamoasi bu holatdan norozi boʻlib, sudga murojaat qiladi. Sud "Microsoft" kompaniyasi tomonidan Vizcaino va uning jamoasini mustaqil xizmat koʻrsatuvchi sifatida tasniflashini qonunchilikka zid deb topadi. Ular kompaniya xodimlarining maqomiga tenglashtiriladi. Kompaniya Vizcaino va uning jamoasi aʼzolariga xodimlarga taalluqli boʻlgan imtiyozlar, ragʻbat va qoʻshimcha toʻlovlarni amalga oshirish majburiyatini oladi. Shu sababli, mehnat shartnomasi va xizmat koʻrsatish shartnomalarini oʻzaro farqlab olish talab etiladi.
 
+![](img/ogp-11.uz/p017-1.webp "900x394")
+
 ## 4-dars. Ish vaqti va dam olish vaqti
 
 ### Faollashtiruvchi savollar
@@ -311,6 +329,14 @@ Vizcaino va uning jamoasi bu holatdan norozi boʻlib, sudga murojaat qiladi. Sud
 5. Besh kunlik ish haftasida xodim bir kunda necha soat ishlaydi? Qaysi rasmda besh kunlik ish haftasida har kungi ishning (smenaning) davomiyligi keltirilgan?
 
 6. Bayram kunlari arafasida xodimlar uchun ish vaqti kamida necha soatga qisqartirilishini bilasizmi?
+
+![](img/ogp-11.uz/p018-1.webp "282x190")
+
+![](img/ogp-11.uz/p018-2.webp "102x172")
+
+![](img/ogp-11.uz/p018-3.webp "122x172")
+
+![](img/ogp-11.uz/p018-4.webp "242x182")
 
 ### Asosiy tushunchalar
 
@@ -344,6 +370,8 @@ Olti kunlik ish haftasida — yetti soatdan oshishi mumkin emas. Besh kunlik ish
 
 I va II guruh nogironligi boʻlgan xodimlar yoki noqulay mehnat sharoitlaridagi ishlarda band boʻlgan xodimlar uchun kunlik ishning (smenaning) davomiyligi olti kunlik ish haftasida — olti soatdan, besh kunlik ish haftasida — yetti soatu oʻttiz daqiqadan ortib ketmasligi kerak.
 
+![](img/ogp-11.uz/p019-2.webp "369x316")
+
 Har yilgi asosiy eng kam mehnat taʼtilining davomiyligi yigirma bir kalendar kunni tashkil etadi.
 
 Xodimlarga onalik, bolalarni parvarishlash, taʼlim olish uchun qulay shart-sharoitlar yaratish maqsadida, shuningdek boshqa ijtimoiy maqsadlarda beriladigan taʼtillar.
@@ -351,6 +379,8 @@ Xodimlarga onalik, bolalarni parvarishlash, taʼlim olish uchun qulay shart-shar
 Mehnat shartnomasi yoki boshqa mehnatga oid ichki hujjatlarda ish haqi qisman saqlanadigan taʼtil nazarda tutilishi mumkin. Bunday taʼtilning davomiyligi toʻgʻrisidagi masala taraflarining kelishuviga koʻra hal etiladi.
 
 Xodimning yozma arizasiga koʻra unga ish haqi saqlanmaydigan taʼtil berilishi mumkin boʻlib, uning davomiyligi xodim va ish beruvchi oʻrtasidagi kelishuvga koʻra belgilanadi, lekin u oʻn ikki oylik davr mobaynida jami uch oydan ortiq boʻlmasligi kerak.
+
+![](img/ogp-11.uz/p020-1.webp "900x436")
 
 Dam olish vaqti — xodim mehnat majburiyatlarini bajarishdan ozod boʻlgan va oʻz ixtiyoriga koʻra foydalanishi mumkin boʻlgan vaqtdir.
 
@@ -382,6 +412,8 @@ Sud uning tarafini oldi, chunki raqamli format ish beruvchining barcha qonuniy k
 
 Nima deb oʻylaysiz, yangi texnologiyalar tufayli mehnat qonunchiligi oʻzgarishi kerakmi?
 
+![](img/ogp-11.uz/p021-1.webp "900x323")
+
 ## 5-dars. Mehnatga haq toʻlash
 
 ### Faollashtiruvchi savollar
@@ -401,6 +433,10 @@ daromad soligʻi (12.0 %);
 kasaba uyushmasi uchun toʻlov (1.0 %);
 
 Soliq va majburiy toʻlovlarni chegirib qolganda Aʼzamjonning qoʻlida qancha miqdordagi pul qoladi? Hisoblab chiqing.
+
+![](img/ogp-11.uz/p022-1.webp "552x265")
+
+![](img/ogp-11.uz/p022-2.webp "242x242")
 
 ### Asosiy tushunchalar
 
@@ -462,6 +498,8 @@ Xoʻjalik yurituvchi subyektlarga va boshqa tashkilotlarga ish haqi, pensiyalar,
 
 Kichik guruhlarga boʻlining. Quyidagi jadvalni muhokama qiling. Siz ish beruvchi boʻlganingizda xodimlarga haq toʻlashning qaysi shaklidan foydalangan boʻlar edingiz?
 
+![](img/ogp-11.uz/p025-1.webp "152x119")
+
 Izoh. Ishbay — xodimga bajargan ish miqdoriga qarab haq toʻlanishini anglatadi. Vaqtbay — xodimga ish haqi ishlagan vaqti (soat, kun, oy) uchun toʻlanadi.
 
 ### Izlanishda davom eting
@@ -502,6 +540,8 @@ belgilanmagan hududlarga chiqindi tashlash.
 
 4. Rasmlardagi holatlar boʻyicha moddiy zarar kelib chiqadimi yoki maʼnaviy ziyon? Nima uchun? Fikringizni asoslang.
 
+![](img/ogp-11.uz/p026-1.webp "792x211")
+
 ### Yodda tuting
 
 Xodim tomonidan oʻz mehnat majburiyatlarini qasddan yoki ehtiyotsizlik oqibatida gʻayriqonuniy ravishda bajarmaganligi yoki lozim darajada bajarmaganligi intizomiy javobgarlikni keltirib chiqaradi.
@@ -517,6 +557,10 @@ Oʻziga nisbatan intizomiy jazo chorasini qoʻllash haqidagi buyruq bilan tanish
 > Intizomiy javobgarlik — bu xodim tomonidan ichki tartib-qoidalarga rioya qilmaganligi uchun qoʻllaniladigan huquqiy javobgarlik turi.
 
 Agar xodim mehnat intizomi qoidalarini buzsa, ish beruvchi xodimga nisbatan intizomiy jazo qoʻllashi mumkin. Umumiy intizomiy javobgarlikda intizomiy jazolarning bir nechta turlari mavjud boʻlib, ish beruvchi holatdan kelib chiqib xodimga jazo choralarini belgilaydi.
+
+![](img/ogp-11.uz/p027-1.webp "502x297")
+
+![](img/ogp-11.uz/p027-2.webp "192x222")
 
 ### Xulosa qiling
 
@@ -538,13 +582,7 @@ Intizomiy jazo intizomiy qilmish sodir etilgan kundan eʼtiboran olti oydan kech
 
 Ish beruvchi ham oʻz navbatida xodimga yetkazilgan ziyonning oʻrnini qoplashi shart. Bu holatlar qonunchilikda belgilangan. Agar ish beruvchining qonunga xilof harakatlari bilan xodimga jismoniy yoki maʼnaviy ziyon yetkazilgan boʻlsa, xodimga majburiy toʻlovlar amalga oshiriladi.
 
-Ish beruvchi quyidagi hollarda xodimga yetkazilgan ziyonning oʻrnini qoplaydi:
-
-xodimning hayoti yoki sogʻligʻiga ziyon yetkazilganda
-
-xodimga ish haqi toʻlash va unga toʻlanishi lozim boʻlgan boshqa toʻlovlar kechiktirilsa
-
-xodimning mol-mulkiga ziyon yetkazilganda
+![](img/ogp-11.uz/p028-1.webp "792x304")
 
 ### Tarixga nazar
 
@@ -555,8 +593,6 @@ Qadimgi Rimda xodimlarga jarima jazosini qoʻllash haqida oʻylab koʻring. "Sal
 Dastlab, bu mukofot toʻgʻridan-toʻgʻri tuz shaklida boʻlgan yoki tuzning narxiga muvofiqlashtirilgan. Vaqt oʻtishi bilan "salarium" tushunchasi kengayib, har qanday xizmat yoki mehnat evaziga toʻlanadigan haq maʼnosini ola boshladi. Aynan shu soʻz hozirgi ingliz tilidagi "salary" — yaʼni oylik ish haqi atamasining ildizidir.
 
 Rim imperiyasi davrida salarium orqali ish haqi olish mehnat munosabatlarini huquqiylashtirishga zamin yaratdi. Bu tizim keyinchalik Yevropa davlatlari orqali butun dunyoga tarqaldi va ish haqi toʻlashning muhim tarixiy bosqichi sifatida eʼtirof etildi. Shunday qilib, salarium tushunchasi nafaqat iqtisodiy, balki huquqiy jihatdan ham mehnat munosabatlarining shakllanishida asosiy omillardan biri boʻlgan.
-
-### Izlanishda davom eting
 
 Quyida keltirilgan vaziyat bilan tanishib chiqing.
 
@@ -580,6 +616,8 @@ Kichik guruhlarga boʻlining.
 
 Quyidagi jadvalni daftaringizga koʻchiring. Keltirilgan vaziyatlar roʻy berganda qanday javobgarlik choralari vujudga kelishini tahlil eting.
 
+![](img/ogp-11.uz/p029-2.webp "152x92")
+
 Ish joyida ehtiyotsizlik tufayli zarar yetkazish Ish vaqtida shaxsiy ishlarga vaqt ajratish xodimga topshirilgan mulkka qasddan zarar yetkazish
 
 ## 7-dars. Ayrim toifadagi xodimlar mehnatini tartibga solish
@@ -597,6 +635,8 @@ Ish joyida ehtiyotsizlik tufayli zarar yetkazish Ish vaqtida shaxsiy ishlarga va
 5. Nogironligi boʻlgan shaxslar qanday ishlarda mehnat faoliyati olib borishi mumkin?
 
 6. Ayollar, voyaga yetmagan yoki nogironligi boʻlgan shaxslarga berilgan qoʻshimcha imtiyozlarni taqdim etmaslik qanday javobgarlikni keltirib chiqarishi mumkin?
+
+![](img/ogp-11.uz/p030-1.webp "792x215")
 
 ### Yodda tuting
 
@@ -632,6 +672,8 @@ Shvetsiyada oilada farzand dunyoga kelganda 480 kunlik "ota-ona taʼtili" berila
 
 Nima deb oʻylaysiz, Oʻzbekistonda ham otalarga bola parvarishi uchun taʼtil beriladimi? Fikringizni Oʻzbekiston Respublikasi Mehnat kodeksining 405-moddasi bilan asoslang.
 
+![](img/ogp-11.uz/p031-1.webp "279x306")
+
 ### Tarixga nazar
 
 Mustaqil Oʻzbekiston Respublikasining ilk Mehnat kodeksi 1995-yilda qabul qilinib, 1996-yilda kuchga kirgan.
@@ -639,6 +681,10 @@ Mustaqil Oʻzbekiston Respublikasining ilk Mehnat kodeksi 1995-yilda qabul qilin
 Ammo yillar oʻtishi bilan jamiyat hayotida mehnat sohasi rivojlanib bordi. Shuningdek, mehnat huquqiga oid xalqaro shartnoma normalarini Oʻzbekiston qonunchiligiga joriy etish maqsadida yangi Mehnat kodeksi ishlab chiqildi.
 
 Amaldagi Mehnat kodeksi 2022-yilda qabul qilindi. 2023-yilda esa kuchga kirdi.
+
+![](img/ogp-11.uz/p032-1.webp "512x222")
+
+![](img/ogp-11.uz/p032-2.webp "182x172")
 
 Homiladorligi yoki farzandlari borligi sababli ishga qabul qilishni rad etish, ishdan boʻshatish yoki ish haqini kamaytirish taqiqlanadi.
 
@@ -716,6 +762,8 @@ Berilgan savollar asosida quyidagi infografikadan toʻgʻri keladigan javobni to
 
 3. Qay biri orqali mehnat daftarchasini rasmiylashtirish mumkin?
 
+![](img/ogp-11.uz/p034-1.webp "712x552")
+
 ### Yodda tuting
 
 Mehnatni muhofaza qilish deganda xodimlarning ish joyida xavfsiz ishlashini taʼminlash uchun qabul qilingan qoidalar va choralar tushuniladi. Bu tizim xodimlarning hayoti va sogʻligʻini saqlash, jarohatlanish va kasalliklarning oldini olishga qaratilgan.
@@ -736,11 +784,7 @@ Mehnat inspeksiyasi ish beruvchilar tomonidan mehnat toʻgʻrisidagi qonunchilik
 
 Oʻzbekiston Respublikasining Mehnat kodeksi, 535-modda
 
-Ish joylariga nisbatan qanday talablar qoʻyiladi?
-
-Ish joyi uning funksional maqsadiga va mehnat xavfsizligi va mehnatni muhofaza qilish talablariga mos boʻlishi kerak.
-
-Ishlash uchun moʻljallangan asbob-uskunalar mazkur turdagi asbob-uskunalar uchun belgilangan xavfsizlik normalariga mos boʻlishi shart.
+![](img/ogp-11.uz/p035-1.webp "802x212")
 
 Xodimlarning binodan chiqishi uchun avariya yoʻllari va chiqish joylari belgilangan boʻlishi kerak.
 
@@ -757,6 +801,8 @@ Agar texnika xavfsizligi, sanoat sanitariyasi yoki mehnatni muhofaza qilish qoid
 Bu degani, mehnat xavfsizligi qoidalarini buzgan masʼul shaxs sud tomonidan jinoiy javobgarlikka tortilishi va unga nisbatan jarima, axloq tuzatish ishlari yoki hatto ozodlikdan mahrum qilish jazosi qoʻllanilishi mumkin.
 
 Ish beruvchilar va masʼul shaxslar xavfsizlik qoidalariga qatʼiy rioya qilishlari shart.
+
+![](img/ogp-11.uz/p036-1.webp "262x122")
 
 ### Xulosa qiling
 
@@ -778,6 +824,8 @@ Kichik guruhlarga boʻlingan holda quyidagi vazifalarni bajarishga harakat qilin
 
 6. Xulosa yozing.
 
+![](img/ogp-11.uz/p036-2.webp "222x209")
+
 ### Tarixga nazar
 
 Abu Ali ibn Sino mehnat muhofazasi sohasida muhim ilmiy asoslarni yaratgan. Uning ilmiy ishlarida "mehnat muhofazasi" tushunchasi aynan qoʻllanilmagan boʻlsa-da, yashash sharoitlari hamda mehnat qilish muhiti insonlarning sogʻligʻiga bevosita taʼsir etishi ilmiy jihatdan asoslab berilgan.
@@ -785,6 +833,8 @@ Abu Ali ibn Sino mehnat muhofazasi sohasida muhim ilmiy asoslarni yaratgan. Unin
 Olim tibbiyotda kasalliklarning oldini olish, gigiyena va sanitariya qoidalarini targʻib qilgan. U ish joylarida xavfsiz va toza sharoitlar muhimligini eʼtirof etib, kasalliklarning oldini olish uchun profilaktik choralar zarurligini taʼkidlagan.
 
 "Tibbiyotning asosiy vazifasi — sogʻligʻini saqlash, agar kasallik paydo boʻlgan boʻlsa, bu kasallikni keltirib chiqargan sabablarni aniqlash va ularni yoʻqotish orqali sogʻliqni tiklashdan iborat".
+
+![](img/ogp-11.uz/p037-1.webp "422x318")
 
 ### Izlanishda davom eting
 
@@ -797,6 +847,8 @@ Mazkur qonunga kiritilgan oʻzgartirishlar natijasida korxonalarga yiliga kamida
 Tekshiruv natijalariga koʻra, yuqori stressga ega xodimlar bepul psixologik maslahat va zarurat boʻlsa, tibbiy yordam olish huquqiga ega.
 
 Ish beruvchilar stress tahlili natijalari asosida ish sharoitlarini yaxshilash boʻyicha choralar koʻrishi shart, aks holda ularga maʼmuriy choralar yoki jarimalar qoʻllanilishi mumkin.
+
+![](img/ogp-11.uz/p037-2.webp "889x318")
 
 ## 9-dars. Ijodiy faoliyat
 
@@ -824,9 +876,15 @@ Gorizontal
 
 Tasavvur qiling. Siz huquqshunossiz. Quyidagi shaxslarga huquqiy maslahat bering.
 
+![](img/ogp-11.uz/p039-1.webp "272x162")
+
 1-vaziyat. Javohir maktabni bitirgach, ishga joylashmoqchi edi. Avval, internet orqali ish qidirdi. Malakasi yetarli darajada emasligi tufayli koʻplab tashkilotlardan rad javobini oldi. Javohir qaysi davlat tashkilotiga murojaat etib oʻz malakasini hech qanday toʻlovlarsiz oshirishi mumkin?
 
+![](img/ogp-11.uz/p039-2.webp "262x162")
+
 2-vaziyat. Akobirjon maktabdan boʻsh vaqtlarida onlayn mehnat qilar edi. Bu bilan ota-onasiga moddiy koʻmak berib, tayyorlov kurslari uchun mablag' toʻplar edi. Uning onlayn ish boshqaruvchisi Akobirjonning yoshi kichikligi tufayli boshqalardan koʻra kamroq maosh tayinladi. Akobirjon bu haqida qaysi davlat organiga shikoyat qilish mumkinligini oʻylay boshladi.
+
+![](img/ogp-11.uz/p039-3.webp "252x176")
 
 3-vaziyat. Bilol qurilish tashkilotida ishlar edi. Korxona rahbariyati xavfsizlik holatidan kelib chiqib, har bir xodim maxsus bosh kiyim sotib olishi majburiy ekanligini eʼlon qildi. Bilol maxsus bosh kiyim unga qimmatlik qilishini aytib, korxona talabini bajarmadi. Korxona rahbari Bilol bilan tuzilgan mehnat shartnomasini bekor qildi. Bilo/ buzilgan huquqlarini qanday qilib tiklashi mumkin?
 
@@ -838,11 +896,9 @@ Madina esa bu qaror ustidan sudga murojaat qildi.
 
 Sudga yoʻllagan daʼvo arizasida huquqlari buzilganini asoslab berdi.
 
-4-topshiriq.
+![](img/ogp-11.uz/p039-4.webp "349x294")
 
-Quyidagi soʻzli boshqotirmadan mehnat huquqiga oid soʻz va terminlarni toping. Ularning mazmun-mohiyatini tushuntirib bering.
-
-Yoʻriqnoma. Soʻzlarni qidirishda turli yoʻnalishlarda () harakatlanish mumkin. Aniqlangan soʻzlarni jadval ostidagi javoblar roʻyxatiga kiriting.
+![](img/ogp-11.uz/p040-1.webp "886x1039")
 
 # II bob. Maʼmuriy huquq
 
@@ -860,21 +916,17 @@ Buning uchun qaysi sudga murojaat etish kerak?
 
 Tegishli jinoyat ishlari boʻyicha sudgami yoki maʼmuriy sudgami? Nima uchun?
 
+![](img/ogp-11.uz/p042-1.webp "292x81")
+
 3-vaziyat. Umida farzandli boʻldi. Onalik baxtidan u juda ham mamnun. Uning turmush oʻrtogʻi farzandiga tugʻilganlik toʻgʻrisidagi guvohnoma olish uchun tugʻuruqxonaga murojaat qildi. Tugʻuruqxona mutasaddilari bunday harakatlarni amalga oshirmasliklarini bildirdi.
 
 Bu vaziyatda Umidaga huquqshunos rolida huquqiy maslahat bering.
 
+![](img/ogp-11.uz/p042-2.webp "262x131")
+
 > Maʼmuriy huquq — bu davlat boshqaruvi faoliyatida yuzaga keluvchi munosabatlarni tartibga soluvchi huquq sohasi hisoblanadi. Shu jumladan, davlat organlari va fuqarolar oʻrtasidagi munosabatlar ham maʼmuriy huquq bilan tartibga solinadi.
 
-Ichki ishlar organlari hamda jismoniy va yuridik shaxslar oʻrtasidagi munosabatlar kelib chiqadi.
-
-Davlat xizmatlari markazlari hamda jismoniy va yuridik shaxslar oʻrtasidagi munosabatlar vujudga keladi.
-
-Oliygohlarga kirish imtihonlarida qatnashish uchun roʻyxatdan oʻtish
-
-Bilim va malakalarni baholash agentligi hamda jismoniy shaxslar oʻrtasida munosabatlar kelib chiqadi.
-
-Tegishli maʼmuriy organ hamda jismoniy va yuridik shaxslar oʻrtasidagi munosabatlar kelib chiqadi.
+![](img/ogp-11.uz/p043-1.webp "722x369")
 
 ### Asosiy tushunchalar
 
@@ -926,17 +978,15 @@ Maʼmuriy organ tushunchasiga berilgan taʼrifni oʻqing. Kichik guruhlar tuzib,
 
 Maʼmuriy organ — maʼmuriy boshqaruv vakolati berilgan ijro etuvchi hokimiyat organlari, fuqarolarning oʻzini oʻzi boshqarish organlari, shuningdek ushbu faoliyatni amalga oshirishga vakolatli boʻlgan boshqa tashkilotlardir.
 
+![](img/ogp-11.uz/p044-1.webp "242x128")
+
+![](img/ogp-11.uz/p045-1.webp "642x415")
+
 ### Izlanishda davom eting
 
 Quyidagi vaziyatlar "ma 'muriy huquq" yoki "maʼmuriy javobgarlik" tushunchalariga aloqadorligi boʻyicha qaror qabul qiling. Fikringizni asoslang.
 
-Avtomototransport vositalarini qayta jihozlash uchun ruxsatnoma olish
-
-Haqorat qilish, shaxsning shaʼni va qadr-qimmatini qasddan kamsitish
-
-Nodavlat taʼlim xizmatlarini koʻrsatish faoliyati uchun litsenziya olish
-
-Oʻzini oʻzi band qilgan shaxslarni roʻyxatdan oʻtkazish tungi soat 23:00 dan 06:00 gacha fuqarolarning osoyishtaligi va normal dam olishini buzish Tuhmat, yaʼni bila turib yolgʻon, boshqa bir shaxsni sharmanda qiluvchi uydirmalarni tarqatish
+![](img/ogp-11.uz/p045-2.webp "889x552")
 
 ## 11-dars. Davlat xizmatlaridan foydalanish
 
@@ -950,13 +1000,21 @@ Qanday qilib bu ishni uddalash mumkin?
 
 Tushuntirib bering.
 
+![](img/ogp-11.uz/p046-1.webp "266x164")
+
+![](img/ogp-11.uz/p046-2.webp "222x159")
+
 2-vaziyat. Sizning ukangiz ijtimoiy tarmoqlarda faoliyat olib boradi. Turli materiallar tayyorlab ularning sotuvini tashkil etadi. Lekin u biror-bir davlat roʻyxatidan oʻtmagan.
 
 Ukangiz oʻzini oʻzi band qilgan shaxs sifatida roʻyxatdan oʻtmoqchi. Chunki bu borada soliqdan chegirmalar mavjud.
 
 Qanday qilib, oʻzini oʻzi band qilgan shaxs sifatida roʻyxatdan oʻtish mumkin. Tushuntirib bering.
 
+![](img/ogp-11.uz/p046-3.webp "212x164")
+
 3-vaziyat. Otangiz yaqin doʻstidan "Tracker" rusumli mashinani ijaraga oldi. Otangiz mashinaning boshqaruvi uchun jismoniy shaxslarga beriladigan elektron ishonchnoma olish imkoniyati borligini bilib qoldi. Shu kabi ishonchnomani rasmiylashtirishda otangizga yordam bering.
+
+![](img/ogp-11.uz/p046-4.webp "222x152")
 
 4-vaziyat. Ukangiz chet tilini bilish darajasini aniqlash boʻyicha milliy imtihonlarda ishtirok etmoqchi. Bu uchun roʻyxatdan oʻtish majburiy ekan.
 
@@ -975,6 +1033,8 @@ Jismoniy va yuridik shaxslar foydalanishi mumkin boʻlgan davlat xizmatlarining 
 Uy-joy kommunal xoʻjaligi Uy-joy kommunal xoʻjaligi xizmatlariga ulanish, tariflar, balansni tekshirish Koʻchmas mulk mulkni rasmiylashtirish va mulk huquqi, kadastr va qurilish transport Sugʻurta polisi, haydovchilik guvohnomalarini almashtirish Taʼlim Maktabgacha taʼlim, oʻrta va Oliy taʼlim, nostrifikatsiya axborot va aloqa axborot texnologiyalari, ommaviy axborot vositalari va aloqa itsenziyalash Litsenziya va ruxsatnomalarni rasmiylashtirish Sogʻliqni saqlash tibbiyot, farmatsevtika va salomatlik
 
 aʼlumotnomala Har qanday hayotiy vaziyatlar uchun maʼlumotnomalar Investitsiya va savdo ishlab chiqarish, savdo va isteʼmolchilar huquqi Bojxona Ruxsat beruvchi hujjatlar, bojxona toʻlovlari Adliya Yuridik xizmatlar, notarial harakatlar Ekologiya Tabiatdan foydalanish, ekologiya va atrof-muhit muhofazasi fuqarolik Fuqarolarni roʻyxatga qoʻyish, pasport xizmatlari adbirkorli Tadbirkorlik subyektini roʻyxatdan oʻtkazish
+
+![](img/ogp-11.uz/p047-1.webp "182x218")
 
 Internetda Yagona interaktiv davlat xizmatlari portalining (YIDXP) veb-sayti hisoblangan my.gov.uz saytida mustaqil tarzda davlat xizmatlaridan foydalanish mumkin. Davlat xizmatlari onlayn koʻrsatilsa, pulli xizmatlar uchun chegirma beriladi.
 
@@ -1014,6 +1074,8 @@ Mamlakatimizning jahondagi oʻrnini aniqlang.
 
 Yagona interaktiv davlat xizmatlari portali uchun (my.gov.uz) yana qanday elektron xizmatlar yaratish mumkinligi boʻyicha takliflar ishlab chiqing.
 
+![](img/ogp-11.uz/p048-1.webp "582x327")
+
 ## 12-dars. Maʼmuriy-huquqiy nizolar
 
 ### Faollashtiruvchi savollar
@@ -1021,6 +1083,10 @@ Yagona interaktiv davlat xizmatlari portali uchun (my.gov.uz) yana qanday elektr
 Quyida tasvirlangan vaziyatlarga e 'tibor bering. Aks ettirilgan maʼmuriy-huquqiy nizolarga munosabat bildiring. Savollarga javob berishga harakat qiling.
 
 1-vaziyat. Ichki ishlar xodimi sizdan shaxsni tasdiqlovchi hujjatingizni soʻradi. Sizning yoningizda hech qanday hujjat mavjud emasligi bois, organ xodimi sizni yaqin oradagi ichki ishlar idorasiga borishingizni talab qildi. Huquqni muhofaza qilish organlari qanday holatda shaxslarni majburan olib ketishi mumkin?
+
+![](img/ogp-11.uz/p049-1.webp "212x132")
+
+![](img/ogp-11.uz/p049-2.webp "232x132")
 
 2-vaziyat. Yoʻlni kengaytirish zarurati kelib chiqdi. Sizning yoʻl boʻyidagi uyingizni ommaviy ehtiyojlardan kelib chiqib, bu- Zish ishlari boshlandi. Biroq uy uchun kompensatsiya toʻlovlari toʻlab berilmasdan, yoʻl quruvchilari uyingizni buzish ishlarini boshlab yuborishdi.
 
@@ -1030,6 +1096,10 @@ Bunday holatda mulkdor oʻz huquqlarini qanday himoya qilishi mumkin?
 
 Akobirjon bu qarorga rozi emas. Endi u qanday yoʻl tutishi mumkin?
 
+![](img/ogp-11.uz/p049-3.webp "202x127")
+
+![](img/ogp-11.uz/p049-4.webp "212x172")
+
 4-vaziyat. Madina Oliy taʼlim muassasasiga kirish uchun imtihon topshirdi. U oʻz hisobiga koʻra 180 ball toʻpladi, lekin rasmiy natijalarda 160 ball deb yozilgan edi. Madina bu holatdan norozi boʻlib, bilim va malakani baholash agentligiga apellyatsiya arizasini yozdi. Arizasida u aniq test savollarini koʻrsatib, baholashda xato boʻlganini isbotlashga harakat qildi.
 
 Bilim va malakani baholash agentligi Madinaning vajlarini asossiz deb hisoblab, rad etsa, u qanday yoʻl tutishi mumkin?
@@ -1038,6 +1108,8 @@ Bilim va malakani baholash agentligi Madinaning vajlarini asossiz deb hisoblab, 
 
 Ismoil bu holatda oʻz huquqini qanday himoya qilishi mumkin?
 
+![](img/ogp-11.uz/p049-5.webp "192x165")
+
 ### Asosiy tushunchalar
 
 Har bir shaxs davlat idoralari bilan har xil munosabatlarga kirishadi. Masalan, pasport olish, tadbirkorlik faoliyatini yuritish yoki davlat mansabdor shaxslarining qarorlari, harakati yoki harakatsizligidan norozi boʻlish kabi holatlar davlat bilan bogʻliq boʻlgan huquqiy munosabatlar hisoblanadi.
@@ -1045,6 +1117,8 @@ Har bir shaxs davlat idoralari bilan har xil munosabatlarga kirishadi. Masalan, 
 Agar shaxs davlat organining harakati, qarori yoki harakatsizligidan norozi boʻlsa va bu masala qonun doirasida hal qilinmasa, maʼmuriy-huquqiy nizo yuzaga keladi.
 
 > Maʼmuriy-huquqiy nizo — bu shaxslar bilan davlat organlari oʻrtasida, davlat xizmatlari yoki maʼmuriy choralar boʻyicha kelib chiqqan kelishmovchilikdir.
+
+![](img/ogp-11.uz/p050-1.webp "672x151")
 
 ### Xulosa qiling
 
@@ -1063,6 +1137,8 @@ Jismoniy va yuridik shaxslar davlat organlarining noqonuniy qarorlari, harakatla
 Ariza yoki shikoyat masalani mazmunan hal etishi shart boʻlgan davlat organiga, tashkilotiga yoki ularning mansabdor shaxsiga kelib tushgan kundan eʼtiboran oʻn besh kun ichida, qoʻshimcha oʻrganish va (yoki) tekshirish, qoʻshimcha hujjatlarni soʻrab olish talab etilganda esa, bir oygacha boʻlgan muddatda koʻrib chiqiladi.
 
 Oʻzbekiston Respublikasining Maʼmuriy sud ishlarini yuritish toʻgʻrisidagi kodeksi maʼmuriy huquqiy nizolarni sud tartibida hal etishni tartibga soluvchi asosiy huquq manbasi hisoblanadi.
+
+![](img/ogp-11.uz/p050-2.webp "432x160")
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -1086,6 +1162,8 @@ Partadoshingiz bilan muhokama qiling.
 
 ### Izlanishda davom eting
 
+![](img/ogp-11.uz/p051-1.webp "262x230")
+
 "Hech kim sudning qarorisiz va qonunga zid tarzda uy-joyidan mahrum etilishi mumkin emas. Uy-joyidan mahrum etilgan mulkdorga uy-joyning qiymati hamda u koʻrgan zararlarning oʻrni qonunda nazarda tutilgan hollarda va tartibda oldindan hamda teng qiymatda qoplanishi taʼminlanadi".
 
 Yuqoridagi huquq normasi qaysi hujjatda keltirilgan, deb oʻylaysiz?
@@ -1106,17 +1184,25 @@ Quyidagi rasmlarga eʼtibor qarating va savollarga javob bering.
 
 4. Shaxs faqat jazodan qoʻrqishi tufayli huquqbuzarlik sodir etmasligi mumkinmi? Yoki oiladagi tarbiya, maktabdagi taʼlim ham muhim deb hisoblaysizmi? Nima uchun?
 
+![](img/ogp-11.uz/p052-1.webp "792x223")
+
 ### Asosiy tushunchalar
 
 Jamiyatning barcha aʼzolari har doim ham munosib huquqiy xulq-atvorda boʻlavermaydi. Ayrim shaxslar huquqqa zid xatti-harakatlar ham sodir etib turadi. Shu sababli, huquqshunoslik fanida huquqbuzarlik tushunchasi va uning xususiyatlari alohida oʻrganiladi.
 
 Maʼmuriy huquqbuzarlik — maʼmuriy javobgarlikka tortish nazarda tutilgan, shaxsga, fuqarolarning huquqlari va erkinliklariga, mulkchilikka, davlat va jamoat tartibiga, tabiiy muhitga tajovuz qiluvchi gʻayriqonuniy, aybli harakat yoki harakatsizlikdir.
 
+![](img/ogp-11.uz/p052-2.webp "152x222")
+
 Mamlakatimizda Maʼmuriy javobgarlik toʻgʻrisidagi kodeks amalda boʻlib, mazkur kodeks bilan taqiqlangan qilmishni sodir etish maʼmuriy huquqbuzarlik sifatida baholanadi va javobgarlikni keltirib chiqaradi.
 
 Maʼmuriy huquqbuzarlikka misol sifatida mayda bezorilik, yoʻl harakati va transport vositalaridan foydalanish qoidalarini buzish, pasport tizimi va turar-joyni qayd etish qoidalarini buzish, elektr energiyasidan foydalanish qoidalarini buzish, atrof-muhit, tarixiy va madaniy yodgorliklarni muhofaza qilish sohasidagi huquqbuzarliklarni keltirib oʻtish mumkin.
 
-Fuqarolarning huquq va erkinliklariga tajovuz qiladigan huquqbuzarliklar
+![](img/ogp-11.uz/p053-1.webp "722x392")
+
+### Tabiatdan foydalanish sohasidagi huquqbuzarliklar
+
+![](img/ogp-11.uz/p053-2.webp "382x124")
 
 ### Asosiy tushunchalar
 
@@ -1129,6 +1215,8 @@ Maʼmuriy jazoning maqsadi jazolash emas!
 ### Xulosa qiling
 
 Demak, maʼmuriy jazo maʼmuriy huquqbuzarlik sodir etgan shaxsni qonunlarni hurmat qilish va ularga rioya etish ruhida tarbiyalash, yangi huquqbuzarlik sodir etilishining oldini olish maqsadida qoʻllaniladi.
+
+![](img/ogp-11.uz/p054-1.webp "742x374")
 
 Chet el fuqarolarini va fuqaroligi boʻlmagan shaxslarni Oʻzbekiston Respublikasi hududidan maʼmuriy tarzda chiqarib yuborish
 
@@ -1168,7 +1256,11 @@ Bu kabi harakatlar jinoiy yoki maʼmuriy javobgarlikka olib kelishi mumkinligi h
 
 ### Izlanishda davom eting
 
+![](img/ogp-11.uz/p055-1.webp "322x196")
+
 Oʻzbekiston Respublikasi qonunchilik maʼlumotlari milliy bazasidan (lex.uz) Jinoyat kodeksi va Maʼmuriy javobgarlik toʻgʻrisidagi kodekslardagi bir xil huquqbuzarlik va jinoyat turlarini aniqlang. Ularning oʻzaro qanday farqlari mavjud ekanligini tahlil eting.
+
+![](img/ogp-11.uz/p055-2.webp "732x368")
 
 ## 15-dars. Huquqbuzarlikning oldini olish
 
@@ -1188,17 +1280,19 @@ Quyidagi rasmlarga eʼtibor qarating va savollarga javob bering.
 
 6. Siz qaysi davlat organi xodimlari bilan huquqbuzarlikning oldini olish yoki aniqlash borasida duch kelgansiz?
 
+![](img/ogp-11.uz/p056-1.webp "782x142")
+
 ### Yodda tuting
 
 Hayotimiz osuda, fayz-barakali boʻlishi, vatandoshlarimizning ertangi kunga ishonchi, hayotga muhabbati yuksalishi uchun huquqbuzarlikning oldini olish chora-tadbirlarini samarali olib borish talab etiladi. Shunda yurtimizda tinchlik, osoyishtalik, barqarorlik hukm suradi. Huquqbuzarlikning oldini olish faqat davlat, xususan ichki ishlar oganlari emas, balki har bir Oʻzbekiston fuqarosining muqaddas burchidir. Huquqbuzarlikning oldini olishdagi eng muhim chora-tadbirlar tizimi huquqbuzarliklar profilaktikasidir.
+
+![](img/ogp-11.uz/p056-2.webp "312x153")
 
 Huquqbuzarliklar profilaktikasi — huquq-tartibotni saqlash, huquqbuzarliklarni aniqlash, bartaraf etish, huquqbuzarliklarning sodir etilishi sabablari va shart-sharoitlarini oʻrganishga qaratilgan chora-tadbirlar tizimi.
 
 Profilaktika soʻzi yunonchadan kelib chiqqan boʻlib, "oldini olish" maʼnosini bildiradi. Huquqshunoslik fanida huquqbuzarliklarning oldini olishga qaratilgan chora-tadbirlar tizimi sifatida qaraladi.
 
-"Voyaga yetmaganlar oʻrtasida nazoratsizlik va huquqbuzarliklarning profilaktikasi toʻgʻrisida"gi qonun
-
-"Bolalarni ularning sogʻligʻiga zarar yetkazuvchi axborotdan himoya qilish toʻgʻrisida"gi qonun
+![](img/ogp-11.uz/p057-1.webp "792x261")
 
 ### Asosiy tushunchalar
 
@@ -1218,7 +1312,9 @@ Bu kabi organ va muassasalar jazolovchi emas.
 
 Aksincha sizning huquq va erkinliklaringizning himoyachilaridir.
 
-### Milliy gvardiya organlari
+![](img/ogp-11.uz/p057-2.webp "900x409")
+
+![](img/ogp-11.uz/p058-1.webp "792x522")
 
 sogʻliqni saqlash tizimini boshqarish organlari va sogʻliqni saqlash muassasalari va boshqalar
 
@@ -1227,6 +1323,8 @@ sogʻliqni saqlash tizimini boshqarish organlari va sogʻliqni saqlash muassasal
 Huquqbuzarliklar profilaktikasini amalga oshirishda shaxslarning huquqlari, erkinliklari va qonuniy manfaatlari cheklanishiga, shafqatsiz yoki inson qadr-qimmatini kamsituvchi muomalada boʻlishga yoʻl qoʻyilmaydi.
 
 Shuningdek, shaxsiy hayot, yozishmalar, telefonda soʻzlashuvlar, pochta, telegraf xabarlari va boshqa xabarlar sir saqlanishi, bir joydan ikkinchi joyga erkin koʻchish va yashash joyini tanlash, shuningdek shaxsiy daxlsizlik, uy-joy daxlsizligi buzilishi tegishli javobgarlikni keltirib chiqaradi.
+
+![](img/ogp-11.uz/p058-2.webp "382x198")
 
 ### Qonun belgilaydi
 
@@ -1237,6 +1335,8 @@ Huquqbuzarliklardan jabrlanganlarning huquqlari qonun bilan muhofaza qilinadi. D
 Huquqbuzarlikning oldini olish boʻyicha Temuriylar davlati va joriy milliy qonunchiligimizni qiyosiy tahlil qiling. Fikringizni asoslab bering.
 
 "Hukm qildimki, bir kishini arzbegi qilib tayinlasinlar. U sipoh, raiyat va arz-dod qilib keluvchilarning ahvolini, mamlakatning obod yoki xarobligini, muhim ishlardan qaysi biri bitgan-bitmaganligini mening arzimga yetkazib tursin. Har bir shahar va qishloqqa qutvol tayinlasinlarki, sipoh-u raiyatga soqchilik qilsin, kimning biron narsasi oʻgʻirlansa, buning masʼuliyati uning zimmasida boʻlsin. Va yana buyurdimki, yoʻl ustiga kuzatuvchilar, zobitlar tayinlasinlarki, yoʻllarni qoʻriqlab, yoʻlovchilar, savdogarlar, musofirlarni kuzatib, mol-mulki va boshqa narsalarini manzildan manzilga yetkazib qoʻysinlar. Yoʻl ustida birortasining narsasi yoʻqolsa, oʻzi oʻldirilsa yoki boshqa kor-hol yuz bersa, bular uchun javobgarlik ularning zimmasida boʻlsin".
+
+![](img/ogp-11.uz/p059-1.webp "172x194")
 
 ### Izlanishda davom eting
 
@@ -1252,13 +1352,13 @@ Profilaktik hisobga olish — huquqbuzarlik sodir etgan shaxslarga nisbatan ular
 
 Quyidagi jadvalda keltirilgan holatlar maʼmuriy huquqiy munosabat yoki maʼmuriy huquqbuzarlikka oid ekanligini tahlil eting.
 
-Jamoat joylarida uyatli soʻzlar bilan soʻkinish shu kabi boshqa xatti-harakatlarda ifodalangan jamiyatda yurish-turish qoidalarini qasddan mensimaslik
+![](img/ogp-11.uz/p060-1.webp "792x794")
 
-Oliy taʼlim muassasasiga oʻqishga kirish uchun Yagona interaktiv davlat xizmatlari portali orqali ariza qoldirish Pirotexnika buyumlaridan qonunga xilof ravishda foydalanish haydovchilik guvohnomasini olish uchun boʻlib oʻtgan imtihondagi muvaffaqiyatsizlik tufayli apellatsiya berish
+![](img/ogp-11.uz/p060-2.webp "506x252")
 
 Quyidagi rasmlarda tasvirlangan holatlardan qaysilari maʼmuriy huquqiy munosabatlarga taalluqli emas. Fikringizni asoslab bering.
 
-Shakllarda berilgan soʻzlarni umumlashtiruvchi yuridik terminni toping.
+![](img/ogp-11.uz/p061-1.webp "802x822")
 
 4-topshiriq.
 
@@ -1270,11 +1370,15 @@ Kamronbek telefonda gaplashib kelayotganligini tan oldi. Biroq u Oʻzbekiston Re
 
 Vaziyatga huquqiy yechim bering.
 
+![](img/ogp-11.uz/p062-1.webp "332x103")
+
 2-vaziyat. Maktabda Alisher oʻzidan kichik yoshli Akobirjonga qasddan yengil tan jarohati yetkazdi. Akobirjonning onasi Alisherning ota-onasini chaqirib, ularning farzandlari ishtirokida profilaktik suhbat oʻtkazish boʻyicha mahalla noziriga ariza bilan murojaat qildi. Shuningdek, ularga maʼmuriy jarima qoʻllash kerakligini bildirdi.
 
 Lekin mahalla noziri Alisher oʻn olti yoshga kirmaganligini aytib, jarima yoki boshqa maʼmuriy jazolarni qoʻllab boʻlmasligini bildirdi.
 
 Vaziyatga huquqiy yechim bering.
+
+![](img/ogp-11.uz/p062-2.webp "292x189")
 
 5-topshiriq.
 
@@ -1301,6 +1405,8 @@ Quyidagi rasmlarga eʼtibor qarating va savollarga javob bering.
 3. Rasmlarning qay birida jinoyat huquqining asosiy manbasi keltirilgan?
 
 4. Jinoyat sodir etgan shaxslarni tergov qilish bilan shugʻullanuvchi qanday davlat idoralarini bilasiz?
+
+![](img/ogp-11.uz/p064-1.webp "792x367")
 
 Jinoyat huquqi — davlat tomonidan belgilangan huquqiy normalar tizimi boʻlib, u jinoyat deb hisoblanadigan harakatlarni, ularga nisbatan qoʻllaniladigan jazolarni va jinoyat sodir etgan shaxslarning javobgarligini tartibga soladi.
 
@@ -1386,15 +1492,23 @@ Kichik guruhlarga boʻlining. Quyidagi vaziyatlar bilan tanishib chiqing. Ularni
 
 Jinoyat sodir etganlikda ayblanayotgan shaxs uning aybi qonunda nazarda tutilgan tartibda oshkora sud muhokamasi yoʻli bilan isbotlanmaguncha va sudning qonuniy kuchga kirgan hukmi bilan aniqlanmaguncha aybsiz deb hisoblanadi. Ayblanuvchiga oʻzini himoya qilish uchun barcha imkoniyatlar taʼminlanadi.
 
+![](img/ogp-11.uz/p067-1.webp "900x436")
+
 ## 18-dars. Jinoiy javobgarlik va jazo tizimi
 
 ### Faollashtiruvchi savollar
 
 Quyidagi huquq normalaridan keltirilgan parchalarga eʼtibor bering. Ularni qonunchilikda belgilashdan koʻzlangan maqsadni aniqlang.
 
+![](img/ogp-11.uz/p068-1.webp "272x177")
+
 1-vaziyat. Majburiy jamoat ishlari pensiya yoshiga yetgan shaxslarga, oʻn olti yoshga toʻlmagan shaxslarga, homilador ayollarga, uch yoshga toʻlmagan bolalari bor ayollarga, birinchi va ikkinchi guruh nogironligi boʻlgan shaxslarga nisbatan qoʻllanilmaydi.
 
+![](img/ogp-11.uz/p068-2.webp "262x117")
+
 2-vaziyat. Tadbirkorlik faoliyati bilan shugʻullanayotgan shaxslarga nisbatan tadbirkorlik faoliyati bilan shugʻullanish huquqidan mahrum qilish tarzidagi jazo tayinlanmaydi bundan odam oʻlishiga yoki boshqa ogʻir oqibatlarga sabab boʻlgan hollar mustasno.
+
+![](img/ogp-11.uz/p068-3.webp "252x202")
 
 3-vaziyat. Mudofaalanuvchi yoxud boshqa kishining shaxsi yoki huquqlarini, jamiyat yoki davlat manfaatlarini qonunga xilof tajovuzlardan tajovuzchiga zarar yetkazgan holda himoya qilish chogʻida qilingan harakat, agar zaruriy mudofaa chegarasidan chetga chiqilmagan boʻlsa, jinoyat deb topilmaydi. Tajovuzning xususiyati va xavfliligi darajasiga butunlay muvofiq kelmaydigan mudofaa, zaruriy mudofaa chegarasidan chetga chiqish deb topiladi.
 
@@ -1409,6 +1523,12 @@ Jazoning turi, miqdori va muddati jinoyatning ogʻirligi, shaxsning aybi, jinoya
 ### Xulosa qiling
 
 Jazo jinoyat sodir etishda aybli deb topilgan shaxsga nisbatan davlat nomidan sud hukmi bilan qoʻllanadigan va mahkumni qonunda nazarda tutilgan muayyan huquq va erkinliklardan mahrum qilish yoki ularni cheklashdan iborat majburiy choradir. Jazo mahkumni axloqan tuzatish, uning jinoiy faoliyatni davom ettirishiga toʻsqinlik qilish hamda mahkum, shuningdek, boshqa shaxslar yangi jinoyat sodir etishining oldini olish maqsadida qoʻllaniladi.
+
+### Asosiy tushunchalar
+
+![](img/ogp-11.uz/p069-2.webp "332x332")
+
+![](img/ogp-11.uz/p069-1.webp "492x268")
 
 ### Yodda tuting
 
@@ -1468,6 +1588,8 @@ Janob Sinchkov uydagi xodimlarni ham birma-bir soʻroq qildi. Uy bekasi erta ton
 
 Savol. Sizningcha, jinoyatni kim sodir etgan?
 
+![](img/ogp-11.uz/p071-1.webp "869x292")
+
 ## 19–20-dars. Shaxsga qarshi jinoyatlar
 
 ### Faollashtiruvchi savollar
@@ -1484,6 +1606,8 @@ Quyidagi rasmlarga eʼtibor qarating va savollarga javob bering.
 
 5. Qasddan badanga ogʻir shikast yetkazish qanday javobgarlikni keltirib chiqaradi?
 
+![](img/ogp-11.uz/p072-1.webp "792x302")
+
 > Shaxsga qarshi jinoyatlar — bu insonning hayoti, sogʻligʻi, erkinligi, shaʼni, qadr-qimmati va jinsiy daxlsizligiga qarshi sodir etiladigan jinoyatlardir. Bunday jinoyatlar odamning eng muhim, konstitutsiyaviy huquqlarini buzadi. Har bir inson tugʻilganidan boshlab yashash va daxlsizlik huquqiga ega. Davlat bu huquqlarni himoya qilish majburiyatini oladi. Shuning uchun ham shaxsga qarshi jinoyatlar eng ogʻir jinoyatlar sirasiga kiradi.
 
 Masalan, odam oʻldirish, qasddan badanga ogʻir yoki oʻrtacha oʻgʻir shikast yetkazish, qiynash, odam oʻgʻirlash, nomusga tegish kabi harakatlar shaxsga qarshi jinoyatlar hisoblanadi.
@@ -1498,19 +1622,21 @@ Masalan, qasddan odam oʻldirish, oʻzini oʻzi oʻldirishga undash
 
 Masalan, qasddan badanga ogʻir yoki oʻrtacha ogʻir shikast yetkazish
 
+![](img/ogp-11.uz/p073-1.webp "342x117")
+
+![](img/ogp-11.uz/p073-2.webp "342x116")
+
 Masalan, pornografik mahsulotni tayyorlash va tarqatish, oilaviy zoʻravonlik, voyaga yetmagan shaxsni gʻayriijtimoiy xatti-harakatlarga jalb qilish
 
 Masalan, oʻldirish yoki zoʻrlik ishlatish bilan qoʻrqitish, tanosil yoki OIV kasalligi/ OITSni tarqatish
 
 Shaxsning ozodligi, shaʼni va qadr-qimmatiga qarshi jinoyatlar
 
+![](img/ogp-11.uz/p073-3.webp "522x260")
+
 Masalan, haqorat qilish, tuhmat, odam oʻgʻirlash, odam savdosi
 
-### Fuqarolarning konstitutsiyaviy huquq
-
-va erkinliklariga qarshi jinoyatlar
-
-Masalan, fuqarolarning teng huquqliligini buzish, fuqarolarning turar joyi daxlsizligini buzish
+![](img/ogp-11.uz/p073-4.webp "409x399")
 
 ### Xulosa qiling
 
@@ -1519,6 +1645,10 @@ Afsuski, haqorat qilish shaxsga qarshi jinoyatlar ichida keng tarqalib bormoqda.
 Haqorat qilish, avval maʼmuriy javobgarlikni keltirib chiqaradi. Qayta sodir etilsa, soʻngra jinoiy javobgarlikni keltirib chiqaradi.
 
 Internet jahon axborot tarmogʻi yoki turli ommaviy axborot vositalari orqali haqorat qilish bevosita jinoiy javobgarlikni keltirib chiqaradi.
+
+![](img/ogp-11.uz/p074-1.webp "132x262")
+
+![](img/ogp-11.uz/p074-2.webp "442x247")
 
 ### Qonun belgilaydi
 
@@ -1540,9 +1670,7 @@ Oilada sogʻlom muhit boʻlishi ham jinoyatlarning oldini olishda muhim omil his
 
 2. Shaxsga qarshijinoyatlarning oldini olish uchun uchun qanday chora-tadbirlarni amalga oshirish kerak, deb oʻylaysiz?
 
-Koni-yu hayvoni, agar xud nabot, Har biri bir gavhari oliy sifot.
-
-Borchasini garchi latif aylading, Borchadin insonni sharif aylading.
+![](img/ogp-11.uz/p075-1.webp "752x290")
 
 ### Izlanishda davom eting
 
@@ -1564,6 +1692,8 @@ Ayrim davlatlarda shaxsiy daxlsizlik jinoyat qonunchiligi bilan qatʼiy qoʻriql
 
 Turkiyada, agar shaxsni ruxsatsiz suratga olish shaxsiy hayot daxlsizligini buzsa, bu jinoiy javobgarlikka sabab boʻladi. Turkiya Jinoyat kodeksiga koʻra, boshqalarning shaxsiy hayoti bilan bogʻliq rasmlarini ruxsatsiz oshkor qilgan shaxsga nisbatan tur- Ii jazolar, hattoki ozodlikdan mahrum etish jazosi ham qoʻllanilishi mumkin.
 
+![](img/ogp-11.uz/p075-2.webp "419x324")
+
 ## 21–22-dars. Zoʻravonlik va uning oldini olish
 
 ### Faollashtiruvchi savollar
@@ -1575,6 +1705,12 @@ Quyidagi maʼlumot bilan tanishib chiqing. Savollarga javob bering.
 1. "Bulling" tushunchasini ona tilingizga qanday tarjima qilgan boʻlar edingiz?
 
 2. Quyidagi rasmlarda qanday holatlar aks ettirilgan?
+
+![](img/ogp-11.uz/p076-1.webp "376x231")
+
+![](img/ogp-11.uz/p076-2.webp "212x202")
+
+![](img/ogp-11.uz/p076-3.webp "232x222")
 
 ### Asosiy tushunchalar
 
@@ -1590,7 +1726,7 @@ Bunday zoʻravonlik muntazam ravishda davom etsa, insonning ruhiy holatini izdan
 
 ### Inson qadrini ulugʻlash taraqqiyotga yetaklaydi
 
-"Sinfda birdamlik boʻlmasa, doʻstlik boʻlmaydi".
+![](img/ogp-11.uz/p077-1.webp "682x472")
 
 > Yordam chaqirigʻi — bu bitta qoʻl bilan bajariladigan imo-ishora boʻlib, shaxs videoqoʻngʻiroqda yoki shaxsan boshqalarga oʻzini tahdid ostida his qilayotganini va yordamga muhtojligini bildirish uchun foydalaniladi.
 
@@ -1609,6 +1745,8 @@ Harakatlar ketma-ketligi:
 3. Toʻrtta barmoq bilan bosh barmoqni yopish.
 
 Shu qoʻl harakatini bir necha bor takrorlash orqali yordam chaqirigʻi beriladi.
+
+![](img/ogp-11.uz/p077-2.webp "219x252")
 
 Tazyiq va zoʻravonlikdan jabrlanuvchi quyidagi huquqlarga ega:
 
@@ -1674,6 +1812,12 @@ Quyidagi rasmlarga eʼtibor qarating va savollarga javob bering.
 
 5. 2-rasmda keltirilgan huquqni muhofaza qiluvchi organ shu kabi jinoyatlarga qarshi kurashda qanday faoliyat bilan shugʻullanadi?
 
+![](img/ogp-11.uz/p080-1.webp "162x232")
+
+![](img/ogp-11.uz/p080-2.webp "212x222")
+
+![](img/ogp-11.uz/p080-3.webp "212x222")
+
 ### Asosiy tushunchalar
 
 > Tinchlik va xavfsizlikka qarshi jinoyatlar — bu davlatning ichki yoki tashqi osoyishtaligini buzadigan, ijtimoiy tartibsizliklar yoki xavfli harakatlarga olib keladigan jinoyatlardir. Bunday jinoyatlar jamiyatdagi barqarorlikka, tinch hayotga va xavfsizlikka tahdid soladi.
@@ -1686,7 +1830,7 @@ Tinchlik va xavfsizlikni taʼminlash uchun har bir fuqaro hushyor, qonunga itoat
 
 ### Yodda tuting
 
-Masalan, yollanish, agressiya, genotsid, urushni targʻib qilish
+![](img/ogp-11.uz/p081-1.webp "792x302")
 
 > Yollanish — bu boshqa davlatlarning qurolli kuchlari tarkibida moddiy manfaatdorlik yoki boshqa biron shaxsiy manfaatni koʻzlab, oʻzga davlat hududida yoki uning tarafini olib qurolli toʻqnashuvda yoxud harbiy harakatlarda qatnashish.
 
@@ -1724,6 +1868,8 @@ Jinoyatchi shaxs ikkita parashut soʻraganligi uchun tezkor guruh aʼzolari samo
 
 Janob Sinchkov esa bu chalgʻituvchi usullardan biri ekanligini isbotlab berdi. Savol. Janob Sinchkov nega bunday xulosaga keldi?
 
+![](img/ogp-11.uz/p082-1.webp "886x422")
+
 ### Yodda tuting
 
 Oʻzbekiston Respublikasi terrorizmga qarshi kurash sohasida bir nechta muhim yoʻnalishlarda tizimli ishlarni amalga oshirmoqda.
@@ -1739,6 +1885,8 @@ Maʼnaviy-maʼrifiy sohada ham turli tushuntirish va targʻibot ishlari muntazam
 Shuningdek, Oʻzbekiston Respublikasi Prezidentining tashabbusi bilan bir necha marta "MehN' operatsiyalari olib borildi. Bu orqali ekstremistik guruhlarga qoʻshilib qolgan Oʻzbekiston fuqarolari yaqin Sharqdan yurtimizga qaytarib olib kelindi.
 
 Bundan tashqari, ekstremistik gʻoyalarga ergashgan shaxslarga doimiy ravishda psixologik, huquqiy va ijtimoiy yordam koʻrsatilmoqda. Bunday shaxslarni sogʻlom turmush tarziga qaytarish ishlari uzluksiz davom etmoqda.
+
+![](img/ogp-11.uz/p083-1.webp "412x172")
 
 Ekstremizm qanday jinoyat?
 
@@ -1766,6 +1914,12 @@ Quyidagi rasmlarga eʼtibor qarating va savollarga javob bering.
 
 4. Soliqlarlarni toʻlashdan boʻyin tovlash jinoyati qanday oqibatlarni keltirib chiqaradi?
 
+![](img/ogp-11.uz/p084-1.webp "192x162")
+
+![](img/ogp-11.uz/p084-2.webp "282x168")
+
+![](img/ogp-11.uz/p084-3.webp "232x142")
+
 ### Asosiy tushunchalar
 
 > Iqtisodiyot sohasidagi jinoyatlar — bu moddiy manfaat orttirish maqsadida iqtisodiy tartiblarni buzish bilan bogʻliq jinoiy qilmishlar boʻlib, ular davlat, tadbirkorlar yoki boshqa shaxslarning iqtisodiy manfaatlariga zarar yetkazadi.
@@ -1774,13 +1928,9 @@ Bunday jinoyatlarga firibgarlik, oʻgʻrilik, soliq toʻlashdan boʻyin tovlash,
 
 Bu jinoyatlar iqtisodiy barqarorlikka tahdid soladi, shaxslarning oʻzaro ishonch muhitini buzadi. Shu bois bunday huquqbuzarliklarga qarshi kurashish har bir davlat uchun muhim vazifa hisoblanadi.
 
-Oʻzbekiston Respublikasining manfaatlariga xilof ravishda bitimlar tuzish
+![](img/ogp-11.uz/p084-4.webp "462x302")
 
-Elektr, issiqlik energiyasi, gazdan foydalanish qoidalarini buzish
-
-Oʻzgalar mulkini talon-toroj qilish bilan bogʻliq boʻlmagan jinoyatlar
-
-Aldash yoki ishonchni suiisteʼmol qilish yoʻli bilan mulkiy zarar yetkazish
+![](img/ogp-11.uz/p085-1.webp "752x662")
 
 Tadbirkorlik faoliyatiga toʻsqinlik qilishga oid boshqa jinoyatlar
 
@@ -1844,6 +1994,8 @@ Janob Sinchkov hamma gumonlanuvchilarni diqqat bilan eshitib, ulardan qay biri o
 
 Savol. Sizningcha, janob Sinchkov buni qanday aniqladi?
 
+![](img/ogp-11.uz/p087-1.webp "889x311")
+
 ## 25-dars. Boshqaruv tartibiga qarshi jinoyatlar
 
 ### Faollashtiruvchi savollar
@@ -1851,6 +2003,8 @@ Savol. Sizningcha, janob Sinchkov buni qanday aniqladi?
 Quyidagi vaziyatlar bilan tanishib chiqing va savollarga javob bering. 1-vaziyat. Dilnavoz haydovchilik guvohnomasini imtihonsiz olishni rejalashtirdi. qarindoshi Safarmurod ismli shaxsdan yordam soʻradi. Safarmurod imtihon markazida ishlovchi Xusrav ismli shaxsga 5 million soʻm evaziga iltimosni yetkazishini aytdi. Dilnavoz pulni Safarmurodga berdi. Safarmurod esa markazdagi xodimga uchrashib, "imtihondan oʻtkazib yubor" deb 4 million soʻm pora berdi. Shundan soʻng huquq-tartibot organlari bu holatni aniqlab, har uchala shaxsni javobgarlikka tortdi.
 
 Nima uchun bu holatda uchala shaxs ham jinoiy javobgarlikka tortiladi?
+
+![](img/ogp-11.uz/p088-1.webp "272x96")
 
 2-vaziyat. Xurrambek maktabni aʼlo baholar bilan tamomlab, Oliy taʼlim uchun kirish imtihonlarida ishtirok etdi. U imtihondan yuqori ball olishiga aniq ishonar edi. Biroq imtihon natijalari buning aksini koʻrsatdi. Xurrambek oʻz bilimiga ishonganligi sababli bilim va malakani baholash agentligiga shikoyat bilan murojaat qildi. Olib borilgan xizmat tekshiruvi natijasida ayrim mutasaddilar maʼlumotlar bazasiga noqonuniy oʻzgartirish kiritgani aniqlanib, ularning ishi huquqni muhofaza qiluvchi organlarga topshirildi.
 
@@ -1870,9 +2024,15 @@ Davlat ishtirokidagi tashkilotga ikki xil taʼrif berish mumkin. Birinchidan, da
 
 Ikkinchidan, toʻliq yoki qisman davlat organi yoki davlat tashkiloti tomonidan tashkil etilgan notijorat tashkiloti. Masalan, davlat budjeti mablagʻlari hisobidan tashkil etilgan universitet yoki kasalxona.
 
+![](img/ogp-11.uz/p089-1.webp "282x162")
+
 ### Qonun belgilaydi
 
 Davlat xalq irodasini ifoda etib, uning manfaatlariga xizmat qiladi. Davlat organlari va mansabdor shaxslarjamiyat va fuqarolar oldida masʼuldirlar.
+
+### Yodda tuting
+
+![](img/ogp-11.uz/p089-2.webp "889x512")
 
 ### Yodda tuting
 
@@ -1910,13 +2070,15 @@ Janob Sinchkov va ichki ishlar xodimlari berilgan porani, yaʼni jinoyat izini q
 
 Javlonbek kulimsirab, — "Bekorga urinyapsizlar. Men hech qachon pora olmaganman",
 
-Janob Sinchkov esa — "Pulni nima qilganingizni yaxshi bilaman", — deb javob berdi. Savol. Pora deb berilgan pul qayerga yashirilgan?
+![](img/ogp-11.uz/p091-1.webp "889x713")
 
 ## 26–27-dars. Jinoyat-protsessual huquqi
 
 ### Faollashtiruvchi savollar
 
 Quyidagi vaziyatlarda jinoyat-protsessual huquqining qaysi qoidalari aks ettirilgan? Fikringizni asoslab bering.
+
+![](img/ogp-11.uz/p092-1.webp "172x122")
 
 1-vaziyat. Tergovchi jinoyat ishi bilan shugʻullanmoqda. U tergov jarayonida Oʻzbekiston Respublikasi Jinoyat-protsessual kodeksi talablariga qatʼiy amal qiladi. Hech bir protsessual harakat tegishli hujjatlarsiz bajarilmaydi. Har bir protsessual qaror qonun asosida chiqariladi.
 
@@ -1926,9 +2088,13 @@ Quyidagi vaziyatlarda jinoyat-protsessual huquqining qaysi qoidalari aks ettiril
 
 4-vaziyat. Barcha sudlarda jinoyat ishlari oshkora koʻriladi, bundan davlat sirlarini qoʻriqlash manfaatlariga zid keladigan hollar, shuningdek jinsiy jinoyatlar toʻgʻrisidagi ishlar koʻrilayotgan hollar mustasno. Sud jarayoni videokonferensaloqa rejimida oʻtkazilishi mumkin.
 
+![](img/ogp-11.uz/p092-2.webp "192x169")
+
 5-vaziyat. Jinoyat ishlarini koʻrib chiqayotgan sudyaning faoliyatiga nisbatan aralashuvlar qonun bilan taqiqlanadi. Sud majlisida barcha tomonlar tinglanadi, dalillar tekshiriladi. Sudya turli siyosiy yoki maʼmuriy bosimlarsiz mustaqil ravishda qaror qabul qiladi. Hech bir shaxs sud faoliyatiga aralashishi mumkin emas.
 
 6-vaziyat. Moddiy jihatdan ehtiyojmand shaxs jinoyat sodir etdi. Unga nisbatan jinoyat ishi qoʻzgʻatildi. U dastlabki tergov paytida aybni tan olmadi va oʻzining aybsizligini isbotlash uchun advokat yollashni soʻradi. Tergov organlari uning bu huquqini taʼminlab berishdi. Unga davlat hisobidan advokatlik xizmati taqdim etildi.
+
+![](img/ogp-11.uz/p092-3.webp "182x124")
 
 (v/' Asosiy tushunchalar Jinoyat protsessual huquqi — bu jinoyat ishlarini yuritish tartibini oʻrnatuvchi huquq sohasi boʻlib, jinoyat sodir etilgan holatda davlat organlari qanday harakatlar qilishi kerakligini belgilab beradi. Bu soha dastlabki tergov, surishtiruv, jinoyat ishlari boʻyicha sudda ish yuritish jarayonlarini qamrab oladi. Jinoyat protsessual huquqi jinoyat ishining boshlanishidan tortib, hukm chiqarish va uni ijroga qaratishgacha boʻlgan barcha bosqichlarni nazarda tutadi.
 
@@ -1936,15 +2102,15 @@ Quyidagi vaziyatlarda jinoyat-protsessual huquqining qaysi qoidalari aks ettiril
 
 > Jinoyat huquqi va jinoyat protsessual huquqi — jinoyat ishlarini yuritishda bir-biri bilan chambarchas bogʻliq boʻlgan, biroq mazmunan va vazifasi jihatidan farq qiladigan ikki mustaqil huquq sohalaridir. Ular bir-biridan quyidagi umumiy xususiyatlar bilan farq qiladi.
 
-Jinoyat ishlari Oʻzbekiston Respublikasining Jinoyat-protsessual kodeksi asosida yuritiladi.
-
-Sohani tartibga soluvchi asosiy hujjat Oʻzbekiston Respublikasining Jinoyat kodeksi.
-
-Qanday qilmishlar jinoyat ekanligi hamda ularga qanday jazo berilishi kerakligini belgilaydi.
-
-Jinoyat ishi qanday tartibda koʻrib chiqilishi, tergov va sud jarayonini belgilab beradi.
+![](img/ogp-11.uz/p093-1.webp "792x352")
 
 Jinoyat-protsessual qonunchiligining vazifalari jinoyatlarni tez va toʻla ochishdan, jinoyat sodir etgan har bir shaxsga adolatli jazo berilishi hamda aybi boʻlmagan hech bir shaxs javobgarlikka tortilmasligi va hukm qilinmasligi uchun aybdorlarni fosh etishdan hamda qonunning toʻgʻri tatbiq etilishini taʼminlashdan iboratdir.
+
+![](img/ogp-11.uz/p093-2.webp "162x232")
+
+![](img/ogp-11.uz/p093-3.webp "162x222")
+
+![](img/ogp-11.uz/p093-4.webp "122x122")
 
 ### Xulosa qiling
 
@@ -1955,6 +2121,10 @@ Prinsiplar oʻzaro bogʻlangan boʻlib, bir-birini toʻldiradi va mustahkamlaydi
 Bundan tashqari, barcha prinsiplar demokratik qadriyatlarga, insonparvarlik va ado- Iat tamoyillariga asoslanadi. Ular shaxsni asossiz javobgarlikka tortmaslikni, Odil sudlovni va qonuniy tartibda ish yuritishni kafolatlaydi. Har bir protsessual harakat qonunga va prinsiplarga muvofiq amalga oshirilishi shart, aks holda protsess natijalari bekor qilinishi mumkin.
 
 Jinoyat protsessining barcha prinsiplari shaxslarning huquq va erkinliklari hamda qonuniy manfaatlarini taʼminlashda ustuvor gʻoya hisoblanadi.
+
+### Yodda tuting
+
+![](img/ogp-11.uz/p094-1.webp "806x650")
 
 ### Asosiy tushunchalar
 
@@ -2050,6 +2220,8 @@ Oʻgʻrilik Firibgarlik Pora olish Pora berish qasddan odam oʻldirish
 
 ## 28-dars. Ijodiy faoliyat
 
+![](img/ogp-11.uz/p098-1.webp "792x621")
+
 Gorizontal
 
 3. Jinoyat kodeksi bilan taqiqlangan, aybli ijtimoiy xavfli qilmish
@@ -2090,21 +2262,31 @@ Dotsent Baxtiyor: — "Balki mahalliy aholi tuyalarda kelib, ham qotillikni, ham
 
 Savol. Sizningcha, jinoyatni kim sodir etgan? Fikringizni asoslab bering.
 
+![](img/ogp-11.uz/p099-1.webp "889x420")
+
 3-topshiriq.
 
 Quyidagi vaziyatlar bilan tanishib chiqing. Ularda jinoyat huquqining qaysi prinsiplari buzilganligini asoslab bering.
+
+![](img/ogp-11.uz/p100-1.webp "202x119")
 
 1-vaziyat. Mahalla faoli ijtimoiy tarmoqdagi oʻz sahifasida mahalla raisi va mahalla noziri kasb faoliyatiga sustkashlik bilan yondashishini yozib chiqdi. Unda biror haqorat yoki tuhmatga oid maʼlumotlarni qoʻllamadi. Biroq mahalla noziri fuqaroning jinoyat sodir etganligini aytdi 2-vaziyat. Korxona direktori va martabali mansabdor shaxs pora olish jinoyati boʻyicha sudlanayotgan edi. Har ikki jinoyatning ijtimoiy xavflilik darajasi teng edi. Biroq sudya ularning har ikkisiga ikki xil jazo tayinladi. Martabali mansabdorga ozodlikni cheklash, korxona direktoriga esa ozodlikdan mahrum qilish jazosi tayinlandi.
 
 3-vaziyat. Maktab oʻquvchisi sinfdoshining shaxsiy rasmlarini internet jahon tarmogʻida eʼlon qilish bilan qoʻrqitib, undan pul talab qildi. Jabrlanuvchi huquqni muhofaza qiluvchi organlarga murojaat qildi. Ichki ishlar xodimi vaziyatni oʻrganib, gumonlanuvchining harakatlari qonunchilik bilan taqiqlanmaganligini aytdi.
 
+![](img/ogp-11.uz/p100-2.webp "132x138")
+
 4-vaziyat. Bir yigit ogʻir ijtimoiy ahvolda edi. Juda nochor vaziyatda qolganligidan koʻchada ketayotgan bir ayolning hamyonini oʻgʻirlamoqchi boʻldi. Ayol kishi jinoyatni darhol sezib qoldi. Yigitni toʻxtatib qolib, ichki ishlar xodimlariga topshirdi. Yigitga nisbatan jinoyat ishi ochilib, sud tomonidan uch yilga ozodlikdan mahrum etildi.
 
 5-vaziyat. Fermer xoʻjaligining omborxonasida yongʻin chiqdi. Yongʻin sababli katta miqdordagi mahsulot yonib ketdi. Fermer xoʻjaligining rahbari hech qanday aniq dalillar boʻlmasa-da, ombor qoʻriqchisiga barcha aybni "yukladi". Uning jinoyat sodir qilganiga oid hech qanday guvoh, video yoki boshqa ishonchli dalil yoʻq. Qoʻriqchi ayblovni inkor qildi.
 
+![](img/ogp-11.uz/p100-3.webp "102x146")
+
 6-vaziyat. Yoʻl qurilishi boʻlimi boshligʻi yirik davlat mablagʻlarini talon-toroj qildi. Tergov harakatlari ham buni tasdiqladi. Biroq u yuqori lavozimli qarindoshlari orqali tergov ishini toʻxtatdi. Jinoyat ishini noqonuniy yoʻl bilan "yopdi". Oqibatda u hech qanday javobgarlikka tortilmadi.
 
 7-vaziyat. II-sinf oʻquvchisi oʻzining shaxsiy blogini yuritar edi. Bir kuni ijtimoiy tarmoqlarda masʼul mansabdor shaxsning faoliyatini tanqid qilib chiqdi. Ertasi kuni mansabdor shaxsning yordamchisi oʻquvchi bilan gaplashib, unga nisbatan jinoyat ishi ochilishi bilan tahdid qildi. Oquvchini sud qilib, sudlov ishida birorta ham jurnalist va jamoatchilik vakillari qatnashmasligini aytdi.
+
+![](img/ogp-11.uz/p100-4.webp "276x202")
 
 Oʻzbekiston Respublikasi Jinoyat kodeksi 144-moddasining bir qismi bilan tanishib chiqing. Quyidagi savollarga javob bering.
 
@@ -2112,19 +2294,19 @@ Jismoniy shaxsni, uning vakilini, ularning oila aʼzolarini, yuridik shaxsni, un
 
 Tanqid qilish tushunchasini muhokama eting. Tanqidning huquqiy "chegarasini" belgilab bering.
 
+![](img/ogp-11.uz/p101-2.webp "900x550")
+
 5-topshiriq.
 
 Surishtiruvchi, tergovchi yoki sud tomonidan soʻroq qilishning toʻgʻri ketma-ketligini aniqlang.
+
+![](img/ogp-11.uz/p102-1.webp "792x286")
 
 ### Quyidagilardan qaysi vaziyat jinoyat huquqi yoki jinoyat protsessual huquqiga aloqador
 
 ekanligini aniqlang. Jadvalni daftaringizga chizing va javobingizni kiriting.
 
-### Ayblanuvchini soʻroq qilish
-
-Pora olish Jinoyat ishi uchun ahamiyatga molik narsalarning tergovchi tomonidan olib qoʻyilishi
-
-Tintuv oʻtkazish Qalbaki pul yoki qimmatli qogʻozlar yasash, ularni oʻtkazish Jinoyatni sodir etishda gumon qilingan shaxsni ushlab turish Ozbekiston Respublikasining manfaatlariga xilof ravishda bitimlar tuzish tergov jarayonida shaxslarni himoyalanish huquqi bilan taʼminlash
+![](img/ogp-11.uz/p102-2.webp "886x638")
 
 # IV bob. Ekologiya huquqi
 
@@ -2160,15 +2342,17 @@ Fuqarolar atrof tabiiy muhitga ehtiyotkorona munosabatda boʻlishga majburdirlar
 
 Oʻzbekiston Respublikasining Konstitutsiyasi, 62-modda
 
-### Inson salomatligini saqlash
+### Yodda tuting
 
-Ekotizimlar, landshaftlar va noyob tabiat obyektlari xilma-xilligini saqlash
+![](img/ogp-11.uz/p105-1.webp "772x383")
 
 ### Ijodiy faoliyat
 
 Xalqaro tashkilot haqidagi maʼlumot bilan tanishib chiqing. Yurtimizdagi mavjud ekologik muammoni bartaraf etish haqidagi takliflaringizni ishlab chiqing.
 
 Y UNEP (United Nations Environment Programme) — BMTning atrof-muhit boʻyicha maxsus dasturi boʻlib, Stokgolmda 1972-yilda tashkil etilgan. Uning bosh qarorgohi Keniya poytaxti Nayrobi shahrida joylashgan. YUNEPning asosiy vazifasi — global ekologik muammolarni aniqlash, hal qilish va barqaror rivojlanishni qoʻllab-quvvatlashdir. Tashkilot davlatlarga ekologik siyosat yuritishda yordam beradi, ekologik bitimlar loyihasini ishlab chiqadi va ekologik taʼlimni rivojlantiradi. YUNEP tashabbusi bilan har Yili 5-iyun "Butunjahon atrof-muhit kuni" sifatida nishonlanadi.
+
+![](img/ogp-11.uz/p105-2.webp "202x222")
 
 ### Yodda tuting
 
@@ -2188,6 +2372,10 @@ daraxtlarni pasportlashtirish ishlari yoʻlga qoʻyilmoqda.
 
 Oʻzbekistonda atrof-muhit muhofazasiga oid asosiy qonun hujjatlari tizimi quyidagilardan iborat:
 
+![](img/ogp-11.uz/p106-1.webp "212x212")
+
+![](img/ogp-11.uz/p106-2.webp "522x299")
+
 ### Izlanishda davom eting
 
 Tabiatni muhofaza qilish boʻyicha Keniya tajribasini oʻrganing. Bunday tartibni joriy etish masalasini kichik guruhlarda muhokama eting.
@@ -2203,6 +2391,8 @@ Taqiq kuchga kirgach, koʻchalarda tozalik ancha yaxshilandi. Fuqarolar mato, qo
 ### Tarixga nazar
 
 Abu Rayhon Beruniy — mashhur qomusiy olim, geograf, tarixchi va tabiatshunos. U Xorazmda tugʻilgan va birinchi Renessans davrida yashagan. Beruniy turli fanlarga oid koplab asarlar yozgan. Uning eng mashhur kitoblari — "Hindiston" va "Qadimgi xalqlardan qolgan yodgorliklar" boʻlib, bu asarlar tarix, dinlar, geografiya va tabiatga oid chuqur bilimlarni oʻz ichiga oladi.
+
+![](img/ogp-11.uz/p107-1.webp "262x170")
 
 Beruniy qimmatbaho toshlar va minerallar haqida "Mineralogiya" asarini ("Kitob al jamohir fi maʼrifat aljavohir" — "Qimmatbaho toshlarni bilib olish boʻyicha maʼlumotlar toʻplami") yozgan. Bu asar hozirga qadar oʻzining amaliy ahamiyatini yoʻqotmagan. Bu asarda muallif 300 dan ziyod minerallarning fizik va kimyoviy xususiyatlarini tushuntirib bergan.
 
@@ -2220,7 +2410,7 @@ Kelajak avlod sogʻlom hayot kechirishi uchun biz bugun masʼulmiz.
 
 Kichik guruhlarga boʻlining. Quyidagi jadvalni daftaringizga tushiring. Keltirilgan ekologik muammolarni muhokama eting. Ularning kelib chiqish sabablarini aniqlang. Bunday muammolarni bartaraf etish choralarini ishlab chiqing.
 
-Ormon yongʻinlari havoning ifloslanishi Tuproq holatining yomonlashuvi (degradatsiya) Global haroratning koʻtarilishi daraxtlarning kesilishi Biologik xilma-xillikning yoʻqolishi Radioaktiv ifloslanish
+![](img/ogp-11.uz/p107-2.webp "889x402")
 
 ## 30–31-dars. Ekologik-huquqiy javobgarlik
 
@@ -2237,6 +2427,8 @@ I. Sizningcha, bu keltirilganlar orasida qaysi biri eng ogʻir huquqbuzarlik his
 4. Bu holatlar ichida inson salomatligiga bevosita xavf tugʻdiradigani aynan qaysi biri? Nima uchun?
 
 5. Siz yashaydigan hududda ushbu huquqbuzarliklardan qaysi biri tez-tez uchraydi? Uni bartaraf etish uchun qanday choralar koʻrilmoqda yoki koʻrilishi kerak deb oʻylaysiz?
+
+![](img/ogp-11.uz/p108-1.webp "886x662")
 
 > Ekologik huquqiy javobgarlik — bu atrof-muhitga zarar yetkazgan shaxslarga nisbatan qonun asosida qoʻllaniladigan javobgarlik shaklidir. U ekologiya sohasidagi qonun buzilishlarining oldini olish, tabiatni muhofaza qilish va yetkazilgan zararni tiklashga qaratiladi.
 
@@ -2258,21 +2450,17 @@ Unda keltirilgan har bir moddada huquqbuzarlikning aniq turi, unga nisbatan qoʻ
 
 ### Yodda tuting
 
-Yerlardan xoʻjasizlarcha foydalanish yoki ularni yaroqsiz holga tushirish
-
-Daraxtlarni, butalarni, boshqa oʻsimliklarni va nihollarni qonunga xilof ravishda kesish
-
-Qurilish maydonlarida atmosfera havosini muhofaza qilish talablariga rioya etmaslik
-
-Atmosfera havosini muhofaza qilish talablariga rioya qilmaslik
+![](img/ogp-11.uz/p110-1.webp "732x561")
 
 ### Xulosa qiling
 
-Oʻzbekiston Respublikasi Jinoyat kodeksining toʻrtinchi boʻlimi "Ekologiya sohasidagi jinoyatlan' deb nomlanadi. Mazkur boʻlim atrof-muhitni muhofaza qilish, ekologik xavfsizlikni taʼminlash va tabiiy resurslardan qonuniy, oqilona foydalanishga qarshi jinoyatlar uchun jinoiy javobgarlik choralarini oʻz ichiga oladi.
-
-Ushbu boʻlimning asosiy maqsadi inson salomatligi va hayoti uchun muhim boʻlgan tabiiy muhitni saqlash, ekologik qonunbuzarliklarning oldini olish va bu sohadagi qonunlarni buzgan shaxslarga nisbatan jinoiy javobgarlik belgilashdir.
+![](img/ogp-11.uz/p110-2.webp "652x372")
 
 ### Ekologiya sohasidagi jinoyatlarga misollar
+
+![](img/ogp-11.uz/p111-1.webp "322x132")
+
+![](img/ogp-11.uz/p111-2.webp "382x212")
 
 Ekinzorlarni, oʻrmonlarni, daraxtlarni shikastlantirish yoxud nobud qilish
 
@@ -2280,7 +2468,7 @@ Olovga ehtiyotsizlik bilan munosabatda boʻlish natijasida ekinzorlarni, daraxtl
 
 Suv yoki suv havzalaridan foydalanish shartlarini buzish orqali ogʻir oqibatlar kelib chiqishiga sabab boʻlish
 
-Yerlarni ifloslantirish yoxud buzish, suv yoki atmosfera havosini ifloslantirish odamlarning ommaviy ravishda kasallanishi, hayvonlar, parrandalar yoki baliqlarning qirilib ketishi yoxud boshqacha ogʻir oqibatlarga sabab boʻlish
+![](img/ogp-11.uz/p111-3.webp "900x603")
 
 ### Xulosa qiling
 
@@ -2298,7 +2486,7 @@ Atrof tabiiy muhitga zarar yetkazgan korxonalar, muassasalar, tashkilotlar va ay
 
 Ekologiya talablarini buzganlikda ayblanayotganlarning maʼmuriy yoki jinoiyjavobgarlikka tortilishi ularni atrof tabiiy muhitga yetkazilgan zararni qoplash majburiyatidan ozod etmaydi.
 
-Yuridik va jismoniy shaxslar atrof tabiiy muhitga, inson salomatligi va odamlarning mol-mulkiga, xalq xoʻjaligiga ziyon yetkazayotgan ekologiya jihatidan zararli faoliyatni toʻxtatish toʻgʻrisida sudga daʼvo bilan murojaat qilishga haqlidirlar.
+![](img/ogp-11.uz/p112-1.webp "712x167")
 
 ### Izlanishda davom eting
 
@@ -2308,6 +2496,8 @@ Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksidan q
 
 Tuman ekologiya inspeksiyasi xodimlari bu holatni aniqlab, hayvonlarni olib qoʻydi hamda Xudoyorga nisbatan maʼmuriy javobgarlik ishi qoʻzgʻatildi.
 
+![](img/ogp-11.uz/p113-1.webp "242x202")
+
 2-vaziyat. Sherdor oʻz uyida taʼmirlash ishlarini yakunlagach, qurilish chiqindilarini oʻz hovlisiga yaqin boʻlgan boʻsh yerga olib borib tashladi. Chiqindilarni olib ketish uchun moʻljallangan maxsus xizmatdan ham foydalanishni paysalga sola boshladi. Natijada mazkur hududda toʻplangan chiqindilar atrof-muhitga zarar yetkaza boshladi.
 
 Mahalla aholisi bu holatdan norozi boʻlib, ichki ishlar organiga murojaat qildi.
@@ -2315,6 +2505,8 @@ Mahalla aholisi bu holatdan norozi boʻlib, ichki ishlar organiga murojaat qildi
 3-vaziyat. Amriddin va uning doʻsti Alibek dam olish kunlari tog' yonbagʻrida ov qilishga qaror qilishdi. Ular taqiqlangan uskunalar va qurol-yaroq yordamida ayiq ovlashni reja qilishdi. Ular ov qilish xavfsiz deb oʻylashdi va atrof-muhitga salbiy taʼsirini hisobga olishmadi. Alibek togʻdagi archazorlar ichidan yurib kelayotgan qoʻngʻir ayiqni moʻljalga oldi.
 
 4-vaziyat. Koʻp qavatli uy qurilishi olib borilayotgan hududda quruvchi korxona tomonidan changni bartaraf etish choralariga rioya qilinmayapti. Qurilish maydonida yuk mashinalari tez-tez qatnashi, qurilish materiallarini joyida kesish, maydalash ishlari havoni ifloslantirmoqda. Maydon atrofida himoya toʻsiqlari oʻrnatilmagan va suv bilan namlash ishlari amalga oshirilmagan. Natijada qurilishga yaqin joyda yashovchi fuqarolar tez-tez changdan shikoyat qila boshladi.
+
+![](img/ogp-11.uz/p113-2.webp "369x318")
 
 ## 32–33-dars. Biologik xilma-xillikni muhofaza qilish
 
@@ -2330,9 +2522,13 @@ Nima deb oʻylaysiz, oʻsimliklarga ehtiyotsizlikdan zarar yetkazish javobgarlik
 
 Yerosti suvlaridan foydalanish uchun ruxsatnoma olish kerakmi? Nima uchun?
 
+![](img/ogp-11.uz/p114-1.webp "362x150")
+
 3-vaziyat. Yirik sanoat korxonasi shahar chekkasida joylashgan boʻlib, uzoq yillar davomida atmosfera havosiga zararli gazlar chiqarib kelar edi. Ayniqsa, qish oylarida shamol yoʻnalishi sababli tutun va gazlar yaqin atrofdagi aholi punktlariga tarqaladi. Bir necha oy ichida mahalla poliklinikasiga nafas olish yoʻllari bilan bogʻliq kasalliklar va allergik holatlar bi- Ian murojaat qiluvchilar soni keskin oshib ketdi. Ekologik nazorat organlari tomonidan oʻtkazilgan tekshiruvda korxona atrof-muhitga zarar yetkazayotganini tasdiqlovchi dalillar aniqlanadi. Natijada korxonaga nisbatan huquqiy chora koʻriladi, faoliyati vaqtincha toʻxtatiladi va havoni tozalash qurilmalari oʻrnatish majburiyati yuklatiladi.
 
 Havoga zararli gazlar chiqaruvchi korxonalarga qanday taʼsir choralarini qoʻllash mum-
+
+![](img/ogp-11.uz/p114-2.webp "356x189")
 
 > Biologik xilma-xillik — bu Yer yuzida mavjud boʻlgan barcha tirik organizmlar: oʻsimliklar, hayvonlar, zamburugʻlar va mikroorganizmlar hamda ularning yashash muhitlari va ekotizimlaridagi turli shakllar yigʻindisidir.
 
@@ -2356,7 +2552,11 @@ Oʻzbekiston hududi tabiiy ekotizimlarning nihoyatda xilma-xilligi bilan tavsifl
 
 Biologik xilma-xillikning eng markazini Oʻzbekiston hududi uchun tabiiy ekotizimlar (yer, suv), hayvonot va oʻsimlik dunyosi tashkil etadi.
 
+![](img/ogp-11.uz/p115-1.webp "232x162")
+
 Oʻzbekiston hududida tabiiy ekotizimlarning beshta asosiy turi mavjud
+
+![](img/ogp-11.uz/p115-3.webp "232x93")
 
 ### Xulosa qiling
 
@@ -2376,6 +2576,8 @@ Tabiiy boyliklardan olingan daromadlarni yoʻnaltirishga oid xorij tajribasi bil
 
 Birlashgan Arab Amirliklarida ham tabiiy resurslar milliy boylik sifatida qaraladi. Neft va gazdan tushgan daromad fuqarolar oʻrtasida bevosita pul tarzida taqsimlanmaydi. Biroq ushbu daromad mamlakat budjetiga tushib, bilvosita yoʻllar orqali aholining farovonligini oshirishga xizmat qiladi. Misol uchun, amirliklarning barcha fuqarolari uchun bepul tibbiy xizmat, boshlangʻich va Oliy taʼlim mamlakat budjetidan moliyalashtiriladi. Aholi tibbiy va taʼlim xizmatlari uchun mablag' sarflamaydi. Shuningdek, Abu Dabi investitsiya jamgʻarmasi ham tashkil etilgan boʻlib, neftdan va boshqa moliyalashtirish resurslaridan tushgan daromadlar kelajak avlodlar uchun iqtisodiy barqarorlikni saqlash manbasi vazifasini bajaradi.
 
+![](img/ogp-11.uz/p116-1.webp "876x446")
+
 ### Yodda tuting
 
 > Ozbekistonda yerni muhofaza qilish boʻyicha asosiy huquqiy hujjat — Yer kodeksi hisoblanadi. Kodeksda yerdan oqilona va samarali foydalanish, uni muhofaza qilish va tiklash tartiblari belgilangan. Yer xalqning umummilliy boyligi sifatida qaraladi. Yerni ifloslantirish, buzish, ero- Ziya va shoʻrlanish kabi holatlarga yoʻl qoʻyilmaydi.
@@ -2383,6 +2585,8 @@ Birlashgan Arab Amirliklarida ham tabiiy resurslar milliy boylik sifatida qarala
 Har bir shaxs yerdan foydalanishda ekologik xavfsizlik, barqarorlik va tabiatga zarar yetkazmaslik talablariga amal qilishi kerak. Yer resurslarini asrash davlatning, fuqarolarning va tashkilotlarning umumiy majburiyatidir.
 
 Shuningdek, "Tabiatni muhofaza qilish toʻgʻrisida"gi qonun, Maʼmuriy javobgarlik toʻgʻrisidagi kodeks va Jinoyat kodekslarida yerni muhofaza qilishga oid qoʻshimcha normalar mavjud.
+
+![](img/ogp-11.uz/p117-1.webp "172x185")
 
 ### Asosiy tushunchalar
 
@@ -2410,15 +2614,7 @@ Natijada yer uchastkasi uchun kadastr hujjati va mulk huquqi guvohnomasi berilad
 
 ### Tarixga nazar
 
-Uning mazmunini muhokama eting. Qadimgi va hozirgi davrda suv resurslariga boʻlgan munosabatni solishtiring.
-
-Nihoyat suvlarni olqishlaymiz.
-
-Quyi oquvchi, yigʻilguchi va ravon oquvchi, ezgu niyatli suvlarni madh etamiz.
-
-— "Ey, suvlar!
-
-Sizlar yaxshilik bilan ravonasiz. Xilqatni yuvib pok etasiz va ikki jahon saodatiga sazovorsiz. Biz sizlarni eʼzozlaymiz".
+![](img/ogp-11.uz/p118-1.webp "782x227")
 
 Yerosti suvlaridan foydalanish uchun ruxsatnoma qanday olinadi?
 
@@ -2464,7 +2660,11 @@ Oʻzbekiston Respublikasining "Qizil kitob"iga 314 0'simlik va 206 hayvon turi k
 
 "Qizil kitob" vaqti-vaqti bilan yangilanib boriladigan maʼlumotlar bazasi sifatida elektron shaklda yuritiladi va ilmiy-ommabop nashr sifatida chop etiladi.
 
+![](img/ogp-11.uz/p119-1.webp "182x252")
+
 ## 34-dars. Ijodiy faoliyat
+
+![](img/ogp-11.uz/p120-1.webp "752x549")
 
 Vertikal
 
@@ -2516,9 +2716,7 @@ Oʻzbekistondagi ekologik muammo haqida qisqacha maʼlumot berish;
 
 rætadbirlar.amalg
 
-Ozbekistonning bu bo BMT sammiti -rnazkur
-
-3. Bahs- chiqis qoʻshim
+![](img/ogp-11.uz/p121-1.webp "900x569")
 
 Quyida keltirilgan vaziyatlar Oʻzbekiston Respublikasi qonunchiligiga muvofiq yoki muvofiq emasligi toʻgʻrisida fikr yuriting. Mazkurjadvalning javoblar qismini (toʻgʻri, notoʻgʻri) daftaringizda toʻldiring. Fikringizni asoslab bering.
 
@@ -2568,6 +2766,8 @@ Tekshiruvlar davomida bu holat tuman prokuraturasi tomonidan aniqlandi va mazkur
 
 6. Vaziyatga huquqiy yechim bering.
 
+![](img/ogp-11.uz/p123-1.webp "900x398")
+
 5-topshiriq.
 
 Quyida keltirilgan Oʻzbekiston xaritasiga eʼtibor bering. Unda har bir maʼmuriy-hududiy birliklar ajratib koʻrsatilgan. Har bir hududning oʻziga muvofiq ekologik muammolari mavjud.
@@ -2578,6 +2778,8 @@ Ekologik muammolarni qayd etish uchun quyidagi shartli belgilardan foydalaning: 
 
 Daraxtlarning kesilishi koʻproq kuzatiladigan hududlar — "daraxt" belgisi.
 
+![](img/ogp-11.uz/p124-1.webp "886x812")
+
 6-topshiriq.
 
 Quyidagi vaziyatlar bilan tanishib chiqing. Ularda qanday huquqiy masalalar aks ettirilganligini muhokama qiling.
@@ -2585,6 +2787,8 @@ Quyidagi vaziyatlar bilan tanishib chiqing. Ularda qanday huquqiy masalalar aks 
 1-vaziyat. Bir viloyatda joylashgan dasht hududida yirik qurilish ishlari boshlandi. Qurilish kompaniyasi hech qanday ekologik ekspertizalarsiz ish olib bordi. Natijada bu hududda yashovchi noyob va himoya ostidagi hayvon turlari yashash joylaridan mahrum boʻldi.
 
 Ogʻir texnika, chang, shovqin va ozuqa bazasining yoʻqolishi tufayli hayvonlar ommaviy ravishda nobud boʻldi. Atrof-muhitni muhofaza qilish organlari holatni oʻrganib, qurilish ishlarining ekologik qonunlarga zid tarzda olib borilganini aniqladi. Qurilish toʻxtatildi. Javobgar shaxslarga nisbatan huquqiy choralar qoʻllanildi va hayvonot dunyosini tiklash boʻyicha choralar belgilandi.
+
+![](img/ogp-11.uz/p125-1.webp "752x267")
 
 2-vaziyat. Asliya oilasi bilan mashinada sayohatdan qaytayotgan edi. Ular mashinada shaharning chekka hududidan oʻtayotganda, orqa oʻrindiqda oʻtirgan ukasi ichimlik suvi idishini mashinadan tashqariga uloqtirib yubordi. Otasi esa:
 
@@ -2595,6 +2799,8 @@ Oradan biroz vaqt oʻtib, yoʻl yoqasidagi chiqindi qoplari yonidan oʻtishdi.
 Asliyaning otasi mashinani toʻxtatdi. Mashinadagi eski buyumlarni olib chiqib, ularni chiqindilarning yoniga qoʻyib, yoʻlida davom etdi.
 
 Asliya esa bu holatdan ich-ichidan bezovta boʻldi. U maktabda atrof-muhitni muhofaza qilish boʻyicha ekofaol edi.
+
+![](img/ogp-11.uz/p125-2.webp "879x232")
 
 7-topshiriq.
 
@@ -2624,7 +2830,11 @@ taqdimotingizni tushunarli va aniq qilishga harakat qiling;
 
 maʼlumotlarni vizual tarzda (rasm, diagramma, graflklar) taqdim eting; ishonchli va rasmiy manbalardan foydalaning.
 
+![](img/ogp-11.uz/p126-1.webp "900x517")
+
 ### DAVLAT VA HUQIJQ
+
+![](img/ogp-11.uz/p127-1.webp "362x262")
 
 Muharrir Musahhih texnik muharrir Badiiy muharrir Rassom Sahifalovchi-dizayner
 
@@ -2641,6 +2851,8 @@ Gʻafur Gʻulom nomidagi nashriyot-matbaa ijodiy uyida chop etildi.
 100128. Toshkent. Labzak koʻchasi, 86.
 
 Telefon: (371) 241-35-47, 241-48-62, 241-83-29 Faks: (371) 241-82-69 www.gglit.uz info@gglit.uz
+
+![](img/ogp-11.uz/p128-1.webp "792x462")
 
 Darslik ijaraga berilib, oʻquv Yili yakunida qaytarib olinganda yuqoridagi jadval sinf rahbarlari tomonidan quyidagi baholash mezonlariga asosan toʻldiriladi:
 

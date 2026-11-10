@@ -13,6 +13,16 @@ export function Progress({ value, label }: { value: number; label?: string }) {
   );
 }
 
+/** Текст с жирными фрагментами (**…**) и подсветкой найденного. */
+export function Rich({ text, q }: { text: string; q?: string }) {
+  if (!text.includes('**')) return <Hl text={text} q={q} />;
+  return (
+    <>
+      {text.split('**').map((s, i) => (i % 2 ? <strong key={i}><Hl text={s} q={q} /></strong> : <Hl key={i} text={s} q={q} />))}
+    </>
+  );
+}
+
 export function Hl({ text, q }: { text: string; q?: string }) {
   if (!q) return <>{text}</>;
   return (

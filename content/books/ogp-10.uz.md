@@ -4,7 +4,7 @@
 
 ## 1–2-dars. Jamiyatda inson huquqlarining oʻrni
 
-Odamlarning inson huquqlarini rad etish ularning insoniyligiga qarshi chiqishdir. Nelson Mandela
+Odamlarning inson huquqlarini rad etish ularning insoniyligiga qarshi chiqishdir. **Nelson Mandela**
 
 ### Siz bilib olasiz
 
@@ -20,9 +20,9 @@ Kundalik turmushda “jamiyatimizda roʻy berayotgan voqealar”, “farovon jam
 
 ### Yodda tuting
 
-“Jamiyat” tushunchasi: maʼlum bir hududda yashovchi, qadriyatlari, ular amal qiladigan qoidalar va anʼanalari oʻxshash boʻlgan hamda oʻzaro ehtiyoj va manfaatlari yoʻlida birlashgan insonlar guruhi.
+**“Jamiyat” tushunchasi:** maʼlum bir hududda yashovchi, qadriyatlari, ular amal qiladigan qoidalar va anʼanalari oʻxshash boʻlgan hamda oʻzaro ehtiyoj va manfaatlari yoʻlida birlashgan insonlar guruhi.
 
-“Jamiyat” soʻzining lugʻaviy maʼnosi: arabcha soʻz boʻlib, jamoa, jamlangan, birlashgan degan maʼnolarni anglatadi.
+**“Jamiyat” soʻzining lugʻaviy maʼnosi:** arabcha soʻz boʻlib, jamoa, jamlangan, birlashgan degan maʼnolarni anglatadi.
 
 Yuqoridagi taʼrifdan ham koʻrinib turibdiki, jamiyat insonlarning katta bir guruhi ekan. Demak, jamiyatni kimlar tashkil etadi, deyilsa, albatta, insonlar, deb javob beriladi. Mana shu insonlar, yaʼni jamiyatdagi shaxslar oʻzlari yashayotgan hududda turli vazifalarni bajaradilar. Masalan, kimdir shifokor, yana kimdir harbiy va yana kimdir dehqon sifatida mana shu jamiyatda oʻz funksiyasini bajaradi. Ammo shaxslarning nafaqat bajaradigan vazifalari, balki ularning tana tuzilishlari, qarashlari, tillari, malaka hamda bilimlari, dinlari va boshqa xususiyatlari turlicha boʻlishi mumkin. Masalan, Oʻzbekistonda ham turli din
 
@@ -32,13 +32,17 @@ vakillari, turli tillarda soʻzlashuvchi millatlar va turli bilim hamda malakaga
 
 (Quyidagi suratlardan ham xulosa chiqarib olishingiz mumkin)
 
+![](img/ogp-10.uz/p007-1.webp "792x322")
+
 Biroq biz erkin bozor iqtisodiyotiga asoslangan jamiyatda yashar ekanmiz, bir insonlar guruhining boshqalaridan turli jabhalarda ustun boʻlib ketishi ehtimoli ham yoʻq emas. Natijada ular tomonidan boshqa insonlar turli xil qiynoqlarga solinishi yoki ularning huquqlari toptalishi mumkin. Bu oʻz-oʻzidan jamiyatni tashkil etuvchi shaxslarning oʻzlari yashayotgan jamiyatda emin-erkin yashashdan mahrum boʻlishiga olib keladi. Bu kabi notenglik hamda insonlarning ijtimoiy hayotiga salbiy taʼsir koʻrsatuvchi holatlarning oldini olish davlatning zimmasidadir. Bunday davlat “ijtimoiy davlat” deb ataladi. Oʻzbekiston ham aynan ijtimoiy davlatlar qatoriga kiradi. Mazkur asosiy va oʻzgarmas tamoyil Konstitutsiyamizning 1-moddasida oʻz aksini topgan.
 
-Ijtimoiy davlat deganda insonlarning farovon hayot kechirishlari uchun turmush sharoitlaridagi tabaqalanib ketishning oldini olishni maqsad qiladigan, bu yoʻlda aholining ijtimoiy himoyaga muhtoj qatlamini turli sohalarda oʻz himoyasiga oladigan insonparvar davlat tushuniladi.
+![](img/ogp-10.uz/p007-2.webp "782x192")
 
 Bundan tashqari, baʼzan davlat yoki undagi hukumat oʻz fuqarolarining asosiy huquq va erkinliklariga xiyonat qiladi. Tarixdan olgan bilimlaringizdan ham maʼlum, Gitler va uning tarafdorlari oʻzlarining jamiyatdagi ustun mavqeyidan foydalanib fashizmga asoslangan qarashlari bilan kam sonli millatlarni yoki aholining jismonan va aqlan kuchsiz boʻlgan juda katta qismini qirib yuborgan, ularning mulklarini tortib olgan edi.
 
 Mana shu kabi holatlar yuzaga kelmasligi va jamiyatda insonlar emin-erkin yashay
+
+![](img/ogp-10.uz/p008-1.webp "452x422")
 
 olishlari uchun inson huquqlari taʼminlanishi lozim boʻladi. Inson huquqlari muhim ekanligi haqidagi qarashlar qadimdan mavjud boʻlgan boʻlsa-da, biz yashab turgan zamonaviy davrda qaror topgan inson huquqlari asosan Ikkinchi jahon urushidan keyin shakllandi, deb aytishimiz mumkin. Xususan, 1948-yilda Birlashgan Millatlar Tashkiloti tomonidan Inson huquqlari umumjahon deklaratsiyasining qabul qilinishi bunga yaqqol misoldir. Aynan mana shu deklaratsiya inson huquqlariga oid keyinchalik qabul qilingan koʻplab xalqaro shartnomalar, mintaqaviy shartnomalar hamda mamlakatlarning ichki qonunchiliklari uchun tamal toshini qoʻyib berdi, deyish mumkin.
 
@@ -46,33 +50,13 @@ Xoʻsh, inson huquqlari deganda nimani tushunish kerak? Yaxshilab oʻylab qarals
 
 Ammo, yuqorida aytib oʻtganimizdek, jamiyat maʼlum bir oʻxshash qadriyat, qoida va anʼanalar ostida birlashgan insonlar guruhidan tashkil topadi. Shuning uchun bir jamiyatda yuqori oʻringa qoʻyiladigan qadriyat yana bir jamiyatda umuman qadrlanmasligi ham mumkin. Bu jamiyatlar bir-biridan farq qilar ekan, demak, ularda himoya qilinadigan inson huquqlari ham bir-biridan farq qilishi mumkin. Ammo bu yerda bir masalani yaxshilab farqlab olish zarur. Davlat tomonidan beriladigan insonlarning asosiy huquq va erkinliklari hamda butun dunyodagi insonlarga bir xilda amal qiladigan inson huquqlari bir-biridan farq qiladi. Masalan, inson huquqlari mutlaq hisoblanib, butun dunyoga bir xilda xalqaro huquq tomonidan taqdim etilsa, maʼlum bir davlat fuqarolariga tegishli boʻlgan insonlarning asosiy huquq va erkinliklari asosan oʻsha davlatning konstitutsiyasiga asoslanadi hamda ular maʼlum bir cheklovlardan xoli emas.
 
-Inson huquqlari umumjahon deklaratsiyasi qabul qilinganining 70 yilligiga bagʻishlangan Inson huquqlari boʻyicha Osiyo forumidan lavha (2018-yil)
-
 ### Yodda tuting
 
-> Inson huquqlari – bu barcha insonlarning qadr-qimmatini tan oladigan va himoya qiladigan standartlar (mezonlar) hisoblanadi. Inson huquqlari insonlarning jamiyatda va bir-biri bilan qanday yashashini, shuningdek, ularning davlat bilan munosabatlarini va davlatning ular oldidagi majburiyatlarini tartibga soladi.
-
-### Inson huquqlari
-
-– Yer yuzidagi butun insoniyat uchun bir xilda amal qiladi.
-
-– Xalqaro huquqdan kelib chiqadi va u tomonidan himoya qilinadi.
-
-– Cheklanmaydi.
-
-– Maʼlum bir davlat fuqarolariga ushbu davlat tomonidan taqdim etiladi.
-
-– Asosan shu davlatning konstitutsiyasidan kelib chiqadi.
-
-– Davlat xavfsizligi, favqulodda holatlar va boshqa shu kabi qoidalar bilan cheklovlarga uchraydi.
+> **Inson huquqlari** – bu barcha insonlarning qadr-qimmatini tan oladigan va himoya qiladigan standartlar (mezonlar) hisoblanadi. Inson huquqlari insonlarning jamiyatda va bir-biri bilan qanday yashashini, shuningdek, ularning davlat bilan munosabatlarini va davlatning ular oldidagi majburiyatlarini tartibga soladi.
 
 ### INSON MANFAATI VA JAMIYAT MANFAATINING UYGʻUNLIGI
 
 Ushbu bobdagi inson huquqlarini oʻrganishda “inson manfaati” hamda “jamiyat manfaati” tushunchalarini anglab olish juda ham muhim. Chunki inson jamiyatdan alohida hayot kechira olmaydi. U doim biron-bir jamiyatning aʼzosi boʻladi. Ammo jamiyat aʼzosi boʻlgan shaxsning manfaatlari baʼzida jamiyat manfaatlari bilan uygʻun boʻlsa, baʼzida bir-biriga zid kelib qoladi. Yaʼni biz faqat maʼlum bir shaxsning manfaatinigina oʻylasak, jamiyatdagi boshqa insonlarning manfaatlariga putur yetib qolishi mumkin. Ammo faqatgina jamiyat manfaatini (ommaviy manfaatni) hisobga oladigan boʻlsak, maʼlum bir insonlarning manfaatlari oyoqosti boʻlishi ehtimoli bor. Bu ularning inson huquqlari yoki davlat tomonidan taʼminlangan asosiy huquq va erkinliklari buzilishi mumkin deganidir.
-
-Yolgʻizlik halokatga olib keladi. Inson oʻz shaxsiy talablari jihatidan boshqalardan ajralgan holda yashay olmaydi. Jamoa aʼzolarining barchasi uchun majburiyhuquqiy qonunlar zarur boʻladi. Zero, inson oʻziga kerakli narsalarni faqat jamiyat yordamida qoʻlga kiritishi mumkin.
-
-### Abu Ali ibn Sino
 
 Albatta, kelgusi hayotingizda siz ham oʻz manfaatlaringiz jamiyat manfaatlariga zid kelib qoladigan holatlarga duch kelishingiz mumkin. Jamiyat manfaatlari bu ommaning manfaatlari deganidir. Keling, bunga bir qancha misollarni koʻrib chiqamiz. Masalan, bir kishi tamakini xohlagan joyida chekishni, yana boshqa bir kishi esa avtomobil xavfsizlik kamarini umuman taqmaslikni hamda avtomobilda oʻtirgan boshqa yoʻlovchilar ham buni soʻramasliklarini xohlashi mumkin. Bir qarashda “tamaki ham, avtomobil ham oʻsha insonlarning mulki, ulardan qanday xohlasa, shunday foydalanaversin, ularda inson huquqlaridan biri boʻlmish mulkka boʻlgan huquq bor” deb oʻylashingiz mumkin. Ammo bu jamiyat manfaatlariga zid hisoblanadi va atrofdagilarga zarari tegishi mumkin. Shu sababli
 
@@ -80,17 +64,11 @@ davlat mazkur holatda jamiyat manfaatlari insonning shaxsiy manfaatlaridan ustun
 
 – inson huquqlarining buzilishi”, degan gaplarni ham aytdi. Ammo pandemiya davrida tibbiy niqob taqishning talab qilinishi ham aslida jamiyat, yaʼni omma manfaatini oʻylab amalga oshirilganini inobatga oladigan boʻlsak, bu holatda ham jamiyat manfaatlari va baʼzi insonlarning shaxsiy manfaatlari oʻrtasida ziddiyat yuzaga kelganini hamda jamiyat manfaatlari ustun koʻrilganini kuzatishimiz mumkin.
 
-Xavfsizlik kamaridan foydalanish ham siz uchun, ham atrofingizdagilar uchun foydali.
-
-Pandemiya davrida niqob taqish sizga yoqmasa-da, jamiyat manfaatlari uchun muhim va foydali.
-
-Chekish mumkin boʻlmagan joylarda chekish jamiyat manfaatlariga zid.
+![](img/ogp-10.uz/p010-1.webp "792x316")
 
 Jamiyat manfaati, ommaning manfaati deb inson huquqlarini cheklayverish ham yaxshi oqibatlarga olib kelmaydi. Masalan, natsist Germaniyasi fashistik qarashlarini oʻtkazishda aynan “jamiyat manfaatlari va uning farovonligi insonlarning shaxsiy manfaatlaridan har doim ustun turadi” degan tushunchadan foydalangan va natijada koʻplab insonlarning huquq va manfaatlari toptalganiga tarix guvoh. Shu oʻrinda “Insonlarning shaxsiy manfaat lari jamiyat yoki jamoa manfaatlaridan ustun keladigan holatlar ham bormi?” degan savol tugʻilishi tabiiy. Masalan, kamsitish bilan bogʻliq holatlarda hech qanday jamiyat yoki jamoat manfaati degan masalaga oʻrin yoʻq. Yaʼni biror shaxsning tana rangi boshqacha boʻlsa yoki millati boshqa boʻlsa, bu jamoamizning, jamiyatimizning yoki biz yashayotgan hududning anʼanalariga, manfaatlariga zid deb kamsitishga aslo yoʻl qoʻyilmaydi. Quyida inson manfaati jamiyat manfaatidan yuqori oʻringa qoʻyilgan Germaniyada yuz bergan ishni eʼtiboringizga havola etamiz. Oʻqing va xulosa chiqaring.
 
-### Germaniya Frankfurt ishi
-
-2001-yil 11-sentyabrda AQSHda mudhish terrorchilik harakati sodir etildi. Keyinchalik Germaniyada ham deyarli shunga oʻxshash qoʻporuvchilik harakati sodir etilishi xavfi yuzaga keldi. 2003-yil 5-yanvarda havo kemasi Frankfurtdagi binoga urilishi mumkin
+![](img/ogp-10.uz/p010-2.webp "782x182")
 
 boʻlgan hodisa koʻplab nemislarni xavotirga solib qoʻydi. Ushbu hodisa AQSHdagi kabi talafotlar keltirib chiqara olmadi. Biroq Germaniyada mazkur voqea “Havo kemalari boʻyicha xavfsizlik toʻgʻrisida”gi qonunni qabul qilish boʻyicha harakatlarga turtki berdi. Mazkur qonunga koʻra, Germaniya qurolli kuchlari terroristlar tomonidan qoʻlga olingan (oʻgʻirlangan) deya ishonilgan har qanday fuqaro aviatsiyasini (siz bilgan fuqarolarga xizmat koʻrsatuvchi havo kemasi nazarda tutilmoqda), uning ichida qanday va qancha odam boʻlishidan qatʼi nazar, urib tushirish huquqiga ega edi. Masalan, birorta fuqaro aviatsiyasi terrorchilar tomonidan egallanib, Germaniyadagi biror katta binoga borib urilsa, havo kemasining ichidagilar ham, binodagilar ham halok boʻladi. Bu koʻpchilikning hayotini saqlab qolish uchun baʼzi odamlarni qurbon qilish mumkin degan mantiqqa asoslangan qonun edi. Bir qancha keskin tortishuvlardan soʻng Germaniya parlamenti mazkur qonunni tasdiqladi (2004-yil 24-sentyabr). Ammo bu qonunga qarshi boʻlgan bir qancha siyosatchilar hamda inson huquqlari jonkuyarlari, uchuvchilar uyushmalari mazkur qonunning konstitutsiyaga zidligini taʼkidlab, Germaniya Federativ Respublikasi konstitutsiyaviy sudiga daʼvo bilan chiqdilar. Konstitutsiyaviy sud ushbu qonun konstitutsiyaga zid boʻlgani bois bekor qilinishi zarurligi toʻgʻrisida qaror chiqardi. Chunki konstitutsiyada “Har bir shaxs yashash huquqiga ega” degan qoida mavjud edi. Shu sababli sud “Koʻpchilikning hayotini saqlab qolish uchun kamchilikni qurbon qilish kerak” degan mazmundagi qonun normasini konstitutsiyaga mos emas deb hisobladi.
 
@@ -98,11 +76,11 @@ Germaniya konstitutsiyaviy sudi raisi: “Har bir insonning insoniy qadr-qimmati
 
 Aziz oʻquvchilar, Germaniya konsti tutsi yaviy sudi chiqargan qaror haqida qanday fikrdasizlar?
 
-2001-yil 11-sentyabr kuni terroristlar qoʻlga olgan samolyotlar kelib urilishi natijasida portlagan Jahon savdo markazining egizak binolari
+**2001-yil 11-sentyabr kuni terroristlar qoʻlga olgan samolyotlar kelib urilishi natijasida portlagan Jahon savdo markazining egizak binolari**
 
 Demak, baʼzida insonlarning shaxsiy manfaatlari, baʼzida esa omma hamda jamiyat manfaatlari biri ikkinchisidan yuqori oʻringa qoʻyilar ekan. Ular oʻrtasida ziddiyatlar yuzaga kelganda esa uni adolat bilan hal etishgina bizni farovon jamiyat sari yetaklashi mumkin. Ha, aynan adolat bilan hal etilgandagina biz inson manfaatlari hamda jamiyat manfaatlarining uygʻunlashuviga erishamiz. Shuning uchun ham konstitutsiyamiz muqaddimasida har birimiz adolatli jamiyatni barpo etish borasida hozirgi va kelajak avlodlar oldidagi yuksak masʼuliyatni anglashimiz muhimligi taʼkidlangan.
 
-> OʻZBEKISTON RESPUBLIKASI KONSTITUTSIYASI – INSON HUQUQLARI KAFOLATI
+> **OʻZBEKISTON RESPUBLIKASI KONSTITUTSIYASI – INSON HUQUQLARI KAFOLATI**
 
 Zamonaviy davlatlarning deyarli barchasida inson huquqlari konstitutsiyaning yuragini tashkil etadi, deb ayta olamiz. Zamonaviy konstitutsiyalarning asosiy vazifalaridan biri ham aynan inson huquqlarini himoya qilish hisoblanadi. Oʻzbekiston Respublikasining bosh qomusi hisoblanmish konstitutsiyamiz ham xalqaro hamjamiyat tomonidan tan olingan inson huquqlarini oʻzida aks ettiradi va ularni juda ham yuqori darajada himoya qiladi.
 
@@ -114,7 +92,7 @@ Inson huquqlariga doir yana bir eng muhim modda 25-modda boʻlib, unda insonning
 
 Konstitutsiyaning 33-moddasi dunyo miqyosida alohida eʼtirof etiladigan va koʻplab muhokamalarga sabab boʻladigan fikrlash, soʻz va eʼtiqod erkinligi huquqini belgilab beradi. Konstitutsiya bu bilan bizga oʻz fikrlarimizni hech qanday majburlovlar yoki cheklovlarsiz erkin ifoda etishimiz mumkinligini koʻrsatadi. Bu huquqlar bizning hayotimizda naqadar
 
-2023-yil 30-apreldagi Oʻzbekiston Respublikasi referendumi arafasida oʻtkazilgan “Konstitutsiya meniki, seniki, bizniki! Konstitutsiya oʻzimizniki” shiori ostidagi targʻibot tadbiridan lavha.
+![](img/ogp-10.uz/p012-1.webp "522x502")
 
 muhim ekanini ular mavjud boʻlmagan holatni tasavvur qilib koʻrib, yanada yaxshiroq tushunib yetamiz. Faraz qiling, siz oʻz uyingiz atrofidagi daraxtlarning koʻp kesilayotgani haqida gapirmoqchi boʻlsangiz va buning notoʻgʻriligini aytmoqchi boʻlsangiz-u, kimdir kelib: “Men falon joyda ishlayman, bu haqida gapirishing, fikr bildirishing mumkin emas” desa. Yoki sizni kimdir yoniga chaqirib: “Men falon mansabda ishlayman, sen mana bu ishni qilasan!” deb majburlasa. Qanday holatga tushasiz? Mana shu kabi razil holatlarning roʻy bermasligini aynan ushbu huquq taʼminlaydi. Lekin mazkur huquqqa oid baʼzi istisno holatlarni ham esdan chiqarmasligimiz lozim. Yaʼni gapirish ekan deb mamlakatimizning konstitutsiyaviy tuzumiga qarshi boʻlmagʻur gaplarni aytish, diniy adovat qoʻzgʻatuvchi soʻzlarni aytish, davlat sirlarini oshkor qilish mumkin emas. Chunki bu kabi harakatlar bilan siz mamlakatimizga va uning tinchligiga raxna solib qoʻyishingiz mumkin.
 
@@ -140,7 +118,7 @@ Yuqoridagilardan shunday xulosa chiqarishimiz mumkinki, konstitutsiyada inson hu
 
 Hayotning yagona mazmuni insoniyatga xizmat qilishdir.
 
-Lev Tolstoy
+**Lev Tolstoy**
 
 ### Siz bilib olasiz
 
@@ -156,9 +134,7 @@ Oldingi darsda insonning jamiyatdagi oʻrni va uning asosiy huquqlari haqida so�
 
 Shaxsning jamiyatdagi huquqiy maqomi unga taqdim etilgan huquq va erkinliklar hamda uning burchlari yigʻindisi hisoblanadi. Xoʻsh, ushbu shaxsning huquqiy maqomini bilish bizga nima uchun kerak? Biz shaxsning huquqiy maqomini bilish orqali uning qanday huquqlarga ega va yana qanday huquqlarga ega emasligini bilib olishimiz mumkin boʻladi.
 
-Shaxsning huquqiy maqomi deganda shaxsning huquqlari, erkinliklari, burchlari yigʻindisi tushuniladi.
-
-O. T. Husanov Oʻzbekiston fan arbobi, yuridik fanlari doktori, professor
+![](img/ogp-10.uz/p014-1.webp "782x162")
 
 Konstitutsiyamizning shaxsning huquqiy maqomiga oid eng muhim moddasi – 19-moddasida, avvalgi darsimizda ham aytib oʻtganimizdek, barcha fuqarolar bir xil huquq va erkinliklarga ega ekani, ular jinsi, irqi, millati, tili, dini, ijtimoiy kelib chiqishi, eʼtiqodi, shaxsi va ijtimoiy mavqeyidan qatʼi nazar, qonun oldida teng ekani taʼkidlanadi. Bu yerda bir narsaga alohida eʼtibor qaratish lozim. Ushbu moddadagi “fuqarolar” soʻzini tor doirada tushunib qolmaslik lozim. Ushbu holatda fuqaroligi boʻlmagan shaxslar, chet elliklar ham nazarda tutilmoqda. Demak, bu moddadan barchamiz mamlakatimizdagi qonunlar oldida teng ekanimizni anglab olishimiz kerak. Yaʼni siz turkman boʻlasizmi, oʻzbekmi, rusmi, qoraqalpoqmi, qozoqmi, tojikmi yoki boshqa millat vakilimi – farqi yoʻq. Oʻzbekistonlikmisiz, demak, bir xil huquqlarga egasiz, deyilmoqda. Ammo ushbu moddaning istisno bandi ham mavjud boʻlib, u ijtimoiy adolat tamoyiliga asoslangan holda imtiyozlar berilishini aytadi. Ammo bu ham ijtimoiy adolat tamoyiliga asoslanilgani bois kimgadir uning tili yoki dini kabilarga qarab emas, balki iqtisodiy jihatdan zaif ekani yoki jismoniy hamda ruhiy holatlari hisobga olingan holda imtiyoz taqdim etilishi mumkin. Shu sababli, masalan, nogironligi boʻlgan qoʻshningiz siz toʻlayotgan biror soliqni toʻlamayotgan va unga davlat imtiyoz
 
@@ -170,29 +146,25 @@ Davlat oʻz fuqarolariga qoʻshimcha huquqlarnigina taqdim etib qolmasdan, ulard
 
 Demak, shaxsning huquqiy maqomi u yashayotgan jamiyatda unga qanday huquqlar, erkinliklar va burchlar taqdim etilishini koʻrsatar, shuningdek, u konstitutsiya va boshqa qonunlar bilan mustahkamlab qoʻyilar ekan.
 
-64-modda.
-
-Oʻzbekiston Respublikasini himoya qilish Oʻzbekiston Respublikasi har bir fuqarosining burchidir. Fuqarolar qonunda belgilangan tartibda harbiy yoki muqobil xizmatni oʻtashga majburdirlar.
+![](img/ogp-10.uz/p015-1.webp "782x238")
 
 Qadim zamonlardan insonlar doim tenglik, tenghuquqlik va teng imkoniyatlarga ega boʻlish uchun kurashib kelishgan. Ammo yaqin 50 yillik oʻtmishgacha juda koʻplab mamlakatlarda notenglik turli xil koʻrinishlarda mavjud edi. Masalan, AQSHda qora tanli aholini kamsitish va ularga teng huquq hamda imkoniyatlarning berilmasligi odatiy hol boʻlgan. Yoki bugungi kungacha jamiyat orasida saqlanib qolayotgan Hindistondagi “kasta” tizimi kabilarni misol qilib keltirishimiz mumkin.
 
 Bugungi kunga kelib dunyoning deyarli barcha mamlakatlarida tenghuquqlik asosiy insoniy huquq sifatida qaror topgan deb aytish mumkin. Xalqaro inson huquqlariga oid hujjatlarda ham bu alohida taʼkidlab oʻtiladi. Xususan, Oʻzbekiston Respublikasi ham aʼzo boʻlgan Fuqaroviy va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt hamda Ijtimoiy, iqtisodiy va madaniy huquqlar toʻgʻrisidagi paktda ham tenghuquqlik eng asosiy qoida sifatida belgilanadi.
 
-1960-yillarda AQSHdagi notenglikka bir misol.
-
-1960-yil Italiyada oʻtkazilgan Rim olimpiadasida chempionlikni qoʻlga kiritgan va AQSH bayrogʻini dunyo boʻylab yuqoriga koʻtargan mashhur bokschi Muhammad Ali chempionlikdan keyin AQSHdagi yaxshi bir restoranga tamaddi qilish uchun kiradi. Ammo restoran xodimlari oq tanli boʻlmagani uchun unga xizmat koʻrsatishdan bosh tortishadi.
-
-Bu haqda bokschining oʻzi intervyularidan birida eslab oʻtgan.
+![](img/ogp-10.uz/p016-1.webp "782x343")
 
 Mamlakatimizda, bundan avvalgi darsimizda ham aytib oʻtganimizdek, tenghuquqlik konstitutsiyada mustahkamlab qoʻyilgan. Tenghuquqlik ijtimoiy hayotimizning deyarli barcha jabhalarini qamrab olgan. Oilaviy hayotda, taʼlimda, ish faoliyatida tenghuquqlikka amal qilib kelinmoqda.
 
 ### Fuqaroviy va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt
 
-2-modda. Ushbu Paktda ishtirok etuvchi har bir davlat oʻz hududida turgan va oʻz yurisdiksiyasi ostida boʻlgan barcha shaxslarning ushbu Paktda eʼtirof etilgan huquqlarini hech bir ayirmachiliksiz, jumladan, irqi, tana rangi, jinsi, tili, dini, siyosiy yoki boshqa eʼtiqodidan, milliy yoki ijtimoiy kelib chiqishi, mulkiy ahvoli, tugʻilishi yoki oʻzga holatidan qatʼi nazar, hurmat qilish va taʼminlash majburiyatini oladi.
+**2-modda.** Ushbu Paktda ishtirok etuvchi har bir davlat oʻz hududida turgan va oʻz yurisdiksiyasi ostida boʻlgan barcha shaxslarning ushbu Paktda eʼtirof etilgan huquqlarini hech bir ayirmachiliksiz, jumladan, irqi, tana rangi, jinsi, tili, dini, siyosiy yoki boshqa eʼtiqodidan, milliy yoki ijtimoiy kelib chiqishi, mulkiy ahvoli, tugʻilishi yoki oʻzga holatidan qatʼi nazar, hurmat qilish va taʼminlash majburiyatini oladi.
 
 Tenghuquqlikni tushunishda “tenglik” soʻzini asos qilib olish lozim. Chunki konstitutsiya va qonunlar bilan kafolatlanadigan huquqlar va imkoniyatlar teng taqdim etilishi kerak. Masalan, saylov huquqiga koʻra, har bir fuqaro bitta ovozga ega boʻladi. Kimningdir ijtimoiy kelib chiqishiga qarab unga koʻproq imtiyoz berilmaydi.
 
 Shu yerda “adolat” tushunchasiga ham oydinlik kiritib oʻtishimiz lozim. Chunki koʻpchilik “tenglik” tushunchasini “adolat” tushunchasi bilan chalkashtirib yuboradi. Biroq ular bir-biridan birmuncha farq qiluvchi tushunchalardir. Masalan, tenglik har bir shaxs oʻz hayotini qurishi va oʻz qobiliyatlaridan maksimal darajada foydalanishi uchun unga teng imkoniyatlar hamda huquqlar berilishini anglatadi. Adolat esa ijtimoiy-falsafiy va axloqqa oid tushuncha boʻlib, biror masalaga nisbatan insonning har tomonlama odilona munosabatda boʻlishidir.
+
+![](img/ogp-10.uz/p017-1.webp "502x352")
 
 Hamma masalalarda tenglikka amal qilinsa va adolat unutib qoʻyilsa, natija salbiy boʻlishi mumkin. Masalan, davlat tomonidan qurilayotgan yangi uy-joylarni berishda iqtisodiy jihatdan qiynalgan oilalarga alohida eʼtibor qaratilmasa, daromadi yuqori boʻlgan qatlam 2–3 tadan qilib barcha uylarni sotib olishi va natijada aholining iqtisodiy zaif qatlami uysiz qolib ketishi mumkin.
 
@@ -206,7 +178,7 @@ Darsimizning avvalgi qismida tenghuquqlik hamda uning asosida yotuvchi tenglik g
 
 “Gender tenglik masalasiga alohida eʼtibor qaratishning nima keragi bor?” degan savol paydo boʻlishi mumkin. Bugungi bozor iqtisodiyotiga asoslangan jamiyatda gender tenglikka alohida eʼtibor qaratilmasa, bundan yarim asr avval bozor iqtisodiyotida boʻlgan mamlakatlardagi baʼzi salbiy holatlar yuzaga kelishi mumkin. Masalan, oʻtgan asrda Gʻarb mamlakatlarida ishga olishda ayol kishining isteʼdodi yuqori boʻlsa-da, erkaklarni ustun koʻrish yoki ular bir xil soat ishlasalar ham, erkaklarga koʻproq maosh toʻlash hollari mavjud boʻlgan. Shuning uchun ham nafaqat Oʻzbekistonda, balki butun dunyoda ayollar va erkaklarning tenghuquqliligi masalasiga alohida eʼtibor qaratiladi.
 
-Gender – xotin-qizlar va erkaklar oʻrtasidagi munosabatlarning jamiyat hayoti va faoliyatining barcha sohalarida, shu jumladan, siyosat, iqtisodiyot, huquq, mafkura va madaniyat, taʼlim hamda ilm-fan sohalarida namoyon boʻladigan ijtimoiy jihati.
+![](img/ogp-10.uz/p018-1.webp "782x262")
 
 Inson huquqlari umumjahon deklaratsiyasida “Hamma odamlar oʻz qadr-qimmati hamda huquqlarida erkin va teng boʻlib tugʻiladilar” deb belgilangani bunga yaqqol misoldir. Demak, insonlar qaysi jinsda tugʻilishidan qatʼi nazar, teng boʻlib tugʻiladilar, shuning uchun ularga teng huquq va imkoniyatlar berilishi lozim.
 
@@ -218,7 +190,7 @@ Xulosa qilib aytadigan boʻlsak, gender tenglik inson huquqlarining erkaklar va 
 
 Birinchi va ikkinchi darslarimizda guvohi boʻldikki, inson huquqlari va uning tarkibiga kiruvchi tenghuquqlik, gender tenglik kabi tamoyillar xalqaro miqyosda ham, mamlakatimizda ham yuqori darajada hurmat qilinar va davlat tomonidan himoyasi taʼminlangan ekan. Shunga qaramasdan, jamiyatimizda “zoʻravonlik” deya atalmish illat hali-hanuzgacha koʻzga tashlanib turibdi. Bu illatni biz oilalarda, maktablarda va koʻchakoʻyda tez-tez uchratishimiz mumkin. Xoʻsh, zoʻravonlik oʻzi nima va u inson huquqlariga qanchalik yomon taʼsir qiladi? Jahon sogʻliqni saqlash tashkiloti zoʻravonlik jismoniy kuch ishlatish yoki tahdid qilish orqali amalga oshirilishi va buning natijasida shaxs oʻziga yoki boshqalarga ham jismoniy, ham ruhiy zarar yetkazishi mumkinligini aytadi. Demak, u biz
 
-Zoʻravonlik shaxs oʻziga, boshqa shaxsga yoki biror guruh yoxud jamoaga nisbatan qasddan jismoniy kuch ishlatish yoki qoʻrqitishdan foydalanishidir. Uning jismoniy hamda ruhiy jarohatlar, oʻlim, ruhiy rivojlanishning buzilishi kabi holatlarga olib kelish ehtimoli yuqori.
+![](img/ogp-10.uz/p019-1.webp "782x188")
 
 ### Jahon sogʻliqni saqlash tashkiloti
 
@@ -230,11 +202,9 @@ Bir shaxsning boshqa shaxsga nisbatan zoʻravonlik qilishiga er-xotinning bir-bi
 
 Zoʻravonlikka uchraganda yoki unga guvoh boʻlganda jamiyatning aʼzosi va mamlakat fuqarosi sifatida huquqni muhofaza qiluvchi organlarga xabar berish eng maʼqul yoʻldir. Ushbu yoʻl eng madaniy va sivilizatsiyalashgan jamiyatning aʼzosi tanlaydigan usuldir. Baʼzilar mana shu kabi holatlarda barcha narsani oʻzi hal qilishga urinadi. Albatta, baʼzida bu samara berishi ham mumkin, ammo muammoni yanada kattalashtirib yuborish ehtimoli ham yuqori. Shuning uchun huquqni muhofaza qiluvchi organlarga murojaat qilish ham samarali, ham davlat idoralari xizmatidan yetarli darajada foydalanish madaniyatini oshiradi. Zero, “xalq davlat idoralariga emas, balki davlat idoralari xalqqa xizmat qilishi zarur”ligini mamlakatimiz Prezidenti ham bot-bot taʼkidlab kelmoqdalar. Demak, zoʻravonlik holatlarini bartaraf etish uchun huquqni muhofaza qiluvchi organlar madadiga tayanish eng oqilona qaror boʻlar ekan.
 
-### Davlat idoralarining xalqqa xizmat qilishi ortida yotuvchi mantiq
+![](img/ogp-10.uz/p020-1.webp "792x634")
 
-Ushbu mantiq juda ham oddiy. Davlat byudjeti asosan xalq tomonidan toʻlanadigan soliqlar hisobiga shakllanadi. Ana oʻsha shakllangan byudjetdan davlat xizmatchilariga maosh tayinlanadi. Demak, davlat xizmatchilari olayotgan maoshning manbasi xalq toʻlagan soliqlar ekan. Bundan kelib chiqadiki, davlat xizmatchilari mana shu xalq uchun beminnat va sifatli xizmatni koʻrsatishlari kerak.
-
-Davlat xizmatchilari oladigan maoshlari evaziga xalqqa xizmat koʻrsatadi
+**Davlat xizmatchilari oladigan maoshlari evaziga xalqqa xizmat koʻrsatadi**
 
 ### Savol va topshiriqlar
 
@@ -252,13 +222,15 @@ Davlat xizmatchilari oladigan maoshlari evaziga xalqqa xizmat koʻrsatadi
 
 Haqiqat havoga oʻxshaydi. Rangini koʻrmaysiz. Ovozini eshitmaysiz. Hidini bilmaysiz... Ammo bir lahza havosiz qolsangiz, boʻgʻilib ketasiz.
 
-Jaloliddin Rumiy
+**Jaloliddin Rumiy**
 
 ### Siz bilib olasiz
 
 “Huquq ustuvorligi” tushunchasi.
 
 Huquq ustuvorligi – inson huquqlarini taʼminlashning garovi. Inson huquqlari madaniyati.
+
+### “HUQUQ USTUVORLIGI” TUSHUNCHASI
 
 Mamlakat taraqqiyoti va aholi farovonligining muhim kafolatlaridan biri jamiyatda huquq ustuvorligining taʼminlangani hisoblanadi. Shu oʻrinda “huquq ustuvorligi” va “qonun ustuvorligi” tushunchalarining mazmunini aniqlashtirib olishimiz lozim.
 
@@ -282,13 +254,11 @@ Shuningdek, turli mansabdor shaxslar tomonidan huquqiy normalarning qoʻllanishi
 
 Huquq ustuvorligi qonunlarning qabul qilinishi, qoʻllanishi, jamiyatda qanday amalda boʻlishi kabi muhim talablardan tashqari qonunning oʻzi ham maʼlum sifatlarga, mazmunga va xususiyatlarga ega boʻlishini nazarda tutadi. Xususan, qonunlar ochiq eʼlon qilinishi, aniq, bir xilda tushunilishi, qoʻllashda barcha uchun bir xil va tushunarli boʻlishi lozim.
 
-HUQUQ USTUVORLIGI Barcha odamlar quyidagi tamoyillarga rioya qilgan holda adolatli qonunlar bilan boshqarilishi kerak:
+**HUQUQ USTUVORLIGI** Barcha odamlar quyidagi tamoyillarga rioya qilgan holda adolatli qonunlar bilan boshqarilishi kerak:
 
-Qonunning ochiq eʼlon qilinishi va undan foydalanish imkoniyatining mavjudligi
+**Qonunning ochiq eʼlon qilinishi va undan foydalanish imkoniyatining mavjudligi**
 
-### Hech kim
-
-Orqaga qaytish kuchiga ega hech qanday qonun qabul qilinmasligi kerak
+![](img/ogp-10.uz/p022-1.webp "792x291")
 
 ### Adolatli va tezkor
 
@@ -304,13 +274,19 @@ Oʻzbekistonda huquq ustuvorligini taʼminlash, xususan, davlat organlari faoliy
 
 Jahon odil sudlov loyihasi (World Justice Project) eʼlon qilgan Huquq ustuvorligi indeksining 2021-yilgi natijalariga koʻra, Oʻzbekiston ushbu indeksda 14 pogʻonaga koʻtarilib, eng yaxshi natija koʻrsatgan mamlakatdan biriga aylandi.
 
-2015–2022-yillarda huquq ustuvorligi boʻyicha foizlardagi oʻzgarishlar
+**2015–2022-yillarda huquq ustuvorligi boʻyicha foizlardagi oʻzgarishlar**
+
+![](img/ogp-10.uz/p023-1.webp "282x362")
+
+![](img/ogp-10.uz/p023-2.webp "442x322")
 
 Oʻzbekiston Respublikasi Prezidentining 2021-yil 14-yanvardagi “Oʻzbekiston Respublikasida huquq ustuvorligini taʼminlash holatini aniqlashning samarali mexanizmini joriy etish chora-tadbirlari toʻgʻrisida”gi PQ-4951-son qarori bilan hududlarning huquq ustuvorligi indeksi aniqlanishi belgilandi.
 
-Hududlarning huquq ustuvorligi indeksi aniqlanadigan asosiy yoʻnalishlar
+**Hududlarning huquq ustuvorligi indeksi aniqlanadigan asosiy yoʻnalishlar**
 
-Mahalliy ijro organlari faoliyatining samarali nazorat qilinishi
+![](img/ogp-10.uz/p024-1.webp "772x604")
+
+### INSON HUQUQLARI MADANIYATI
 
 Mamlakatda qabul qilinadigan qonun va boshqa normativ-huquqiy hujjatlarda insonning turli tuman huquqlarini taʼminlashga qaratilgan koʻplab qoidalarning mustahkamlab qoʻyilishi har doim ham uni kafolatli taʼminlash garovi boʻlolmaydi. Huquqiy qoidalarning samarali ijro qilinishi avvalambor har bir shaxsning mazkur qoidalar mazmunini bilishi, jamiyatdagi boshqa shaxslarning huquq va erkinliklarini hurmat qilishi, shuningdek, inson huquq va erkinliklarini himoya qilish sohasida koʻnikma va tajribaga ega boʻlishiga bogʻliqdir.
 
@@ -324,7 +300,7 @@ Inson huquqlari madaniyatining yuqori darajasini shakllantirish har doim uzoq da
 
 ### Yodda tuting
 
-> Inson huquqlari madaniyati – inson shaʼni, uning huquq va erkinliklarini tan olish va hurmat qilishga qaratilgan bilimlar, shuningdek ularni amalga oshirish va himoya qilish boʻyicha amaliy koʻnikma va tajribalarni nazarda tutuvchi madaniyatning tarkibiy qismidir.
+> **Inson huquqlari madaniyati –** inson shaʼni, uning huquq va erkinliklarini tan olish va hurmat qilishga qaratilgan bilimlar, shuningdek ularni amalga oshirish va himoya qilish boʻyicha amaliy koʻnikma va tajribalarni nazarda tutuvchi madaniyatning tarkibiy qismidir.
 
 ### Savol va topshiriqlar
 
@@ -344,7 +320,7 @@ Jahon odil sudlov loyihasi (World Justice Project)ning internetdagi rasmiy sahif
 
 Bu dunyoda abadiy qolmoq mumkin emas, biroq yaxshi nom qoldirmoq katta saodatdir.
 
-Alisher Navoiy
+**Alisher Navoiy**
 
 ### Siz bilib olasiz
 
@@ -354,13 +330,17 @@ Aholini ijtimoiy himoyalash.
 
 Ijtimoiy himoyalashda insonparvarlik tamoyilining oʻrni.
 
+### “IJTIMOIY HIMOYA” TUSHUNCHASI
+
 Kishilarning butun hayoti davomida daromadga ega boʻlishini kafolatlash va asosiy tibbiy xizmatlar bilan taʼminlash orqali ijtimoiy himoya qilish mamlakatda kambagʻallik darajasini kamaytirish va uning oldini olishda katta ahamiyatga ega. Davlatlar inson kapitalini rivojlantirish, ijtimoiy jipslikni kuchaytirish, mehnat resurslari sonini oshirish va iqtisodiy oʻsishga koʻmaklashish maqsadida ijtimoiy himoyaga mablag‘ ajratadi.
 
 Ijtimoiy himoya insonning ijtimoiy taʼminot olish huquqi asosida yotadigan eng muhim huquqlardan biri boʻlib, mazkur huquq inson huquqlari sohasiga oid asosiy xalqaro shartnomalarda, Inson huquqlari umumjahon deklaratsiyasi (1948-yil), Ijtimoiy, iqtisodiy va madaniy huquqlar toʻgʻrisidagi xalqaro pakt (1966-yil)da mustahkamlangan va munosib turmushni kafolatlash uchun muhim ahamiyatga egadir. Oʻzbekiston Respublikasi Konstitutsiyasining 46-moddasida ham mazkur huquq kafolatlangan.
 
-Ijtimoiy himoya koʻrsatiladigan asosiy yoʻnalishlar quyidagilar hisoblanadi:
+Ijtimoiy himoya koʻrsatiladigan **asosiy yoʻnalishlar** quyidagilar hisoblanadi:
 
-### Kasallik nafaqasi
+### IJTIMOIY HIMOYANING YOʻNALISHLARI
+
+![](img/ogp-10.uz/p026-1.webp "782x423")
 
 Xususan, har kim qariganda, mehnat qobiliyatini yoʻqotganda, ishsizlikda, shuningdek, boquvchisini yoʻqotganda va qonunda nazarda tutilgan boshqa hollarda ijtimoiy taʼminot huquqiga egaligi belgilab qoʻyilgan.
 
@@ -368,9 +348,15 @@ Ijtimoiy himoya insonning bir qator boshqa huquqlari, xususan, munosib turmush d
 
 Xoʻsh, ijtimoiy himoyaning oʻzi nima, degan savolga qisqacha javob bersak.
 
-Ijtimoiy himoya kishilarni butun hayoti davomida turli xil ijtimoiy xatarlardan himoyalash, ular uchun munosib turmush sharoitiga erishish yoki uni saqlab qolishga qaratilgan choralar va dasturlar majmui hisoblanadi.
+![](img/ogp-10.uz/p027-1.webp "782x262")
+
+### AHOLINI IJTIMOIY HIMOYALASH
 
 Aholini ijtimoiy himoyalash tizimi bunday himoyani ijtimoiy sugʻurta va ijtimoiy yordamning uygʻunlikdagi
+
+### IJTIMOIY HIMOYA
+
+![](img/ogp-10.uz/p027-2.webp "432x251")
 
 Ijtimoiy sugʻurta – mehnat qobiliyatini va daromadlarni yoʻqotish bilan bogʻliq ijtimoiy xatarlarning oqibatlaridan aholini kompensatsiyalash tizimi.
 
@@ -390,11 +376,7 @@ omillaridan biri hisoblanadi, chunki muvaffaqiyatli iqtisodiyot ishchi kuchining
 
 ### Ijtimoiy himoya
 
-mehnatga layoqatli yoshda boʻlib, yetarli miqdorda daromad olish imkoniga ega boʻlmagan, xususan, bemor, ishsiz, homilador yoki nogironligi boʻlgan shaxslar uchun minimal daromadni kafolatlashi;
-
-Bolalarning ovqatlanishi, taʼlim olishi, zaruriy mahsulotlar va xizmatlar bilan taʼminlanishi uchun minimal daromadni kafolatlashi;
-
-barcha uchun minimal tibbiy xizmatlarning mavjudligini taʼminlashi lozim.
+![](img/ogp-10.uz/p028-1.webp "782x396")
 
 Davlatlar mehnat bozorida munosib oʻrnini egallash, kasbga tayyorlash bilan bogʻliq tadbirlar doirasida bolalar va yoshlarning qobiliyatlari hamda koʻnikmalarini rivojlantirishga yetarlicha sarmoya kiritishi lozim.
 
@@ -408,7 +390,7 @@ Bugun mamlakatimizda kambagʻallikni qisqartirish borasida amalga oshirilayotgan
 
 ### Yodda tuting
 
-Insonparvarlik “insonni sevish” degan maʼnoni bildirib, insonga oliy qadriyat sifatida yondashishni anglatadi.
+**Insonparvarlik** “insonni sevish” degan maʼnoni bildirib, insonga oliy qadriyat sifatida yondashishni anglatadi.
 
 “Ayollar daftari”, “Temir daftar” kabi tizimlar orqali aholining ehtiyojmand qatlamini qoʻllab-quvvatlash ortida ham aynan insonparvarlik tamoyili yotadi.
 
@@ -434,7 +416,7 @@ Yuqorida keltirilgan maʼlumotlar va tarix fanidan egallagan bilimlaringiz asosi
 
 ## 7-dars. Inson huquqlari boʻyicha milliy qonunchilik
 
-Inson huquqlari hech qaysi madaniyatga begona emas va barcha xalqlarga tegishlidir. Inson huquqlari umuminsoniy qadriyat hisoblanadi. Kofi Annan, BMT Bosh kotibi (1997–2006-yillar)
+Inson huquqlari hech qaysi madaniyatga begona emas va barcha xalqlarga tegishlidir. Inson huquqlari umuminsoniy qadriyat hisoblanadi. **Kofi Annan, BMT Bosh kotibi (1997–2006-yillar)**
 
 ### Siz bilib olasiz
 
@@ -448,23 +430,23 @@ Dunyodagi har bir davlat oʻzining inson huquqlariga oid qonunchilik tizimiga eg
 
 Oʻzbekiston Respublikasining inson huquqlariga oid qonunchilik tizimi quyidagi asosiy tarkibiy qismlardan tashkil topgan:
 
-• Shaxsiy huquqlarga oid – yashash huquqi, soʻz va eʼtiqod erkinligi huquqi, shaxsiy daxlsizlik huquqi, turarjoy daxlsizligi huquqi va boshqa huquqlarni taʼminlashga qaratilgan qonunchilik hujjatlari (masalan, “Vijdon erkinligi va diniy tashkilotlar toʻgʻrisida”gi qonun).
+• **Shaxsiy huquqlarga oid –** yashash huquqi, soʻz va eʼtiqod erkinligi huquqi, shaxsiy daxlsizlik huquqi, turarjoy daxlsizligi huquqi va boshqa huquqlarni taʼminlashga qaratilgan qonunchilik hujjatlari (masalan, “Vijdon erkinligi va diniy tashkilotlar toʻgʻrisida”gi qonun).
 
-• Siyosiy huquqlarga oid – saylash va saylanish huquqi, turli jamoat birlashmalariga uyushish huquqi, davlat organlariga murojaat qilish huquqiga oid qonunchilik hujjatlari (masalan, “Jismoniy va yuridik shaxslarning murojaatlari toʻgʻrisida”gi qonun).
+• **Siyosiy huquqlarga oid –** saylash va saylanish huquqi, turli jamoat birlashmalariga uyushish huquqi, davlat organlariga murojaat qilish huquqiga oid qonunchilik hujjatlari (masalan, “Jismoniy va yuridik shaxslarning murojaatlari toʻgʻrisida”gi qonun).
 
-• Iqtisodiy va ijtimoiy huquqlarga oid – mulk huquqi, erkin kasb tanlash va mehnat qilish huquqi, taʼlim olish huquqi, malakali tibbiy xizmatdan foydalanish huquqi va boshqa huquqlarga oid qonunchilik hujjatlari (masalan, “Fuqarolar sogʻligʻini saqlash toʻgʻrisida”gi qonun).
+• **Iqtisodiy va ijtimoiy huquqlarga oid –** mulk huquqi, erkin kasb tanlash va mehnat qilish huquqi, taʼlim olish huquqi, malakali tibbiy xizmatdan foydalanish huquqi va boshqa huquqlarga oid qonunchilik hujjatlari (masalan, “Fuqarolar sogʻligʻini saqlash toʻgʻrisida”gi qonun).
 
-• Madaniy huquqlar – ijodiy faoliyat erkinligi, madaniy meros boyliklarini himoya qilishga oid qonunchilik hujjatlari (masalan, “Madaniy faoliyat va madaniyat tashkilotlari toʻgʻrisida”gi qonun).
+• **Madaniy huquqlar –** ijodiy faoliyat erkinligi, madaniy meros boyliklarini himoya qilishga oid qonunchilik hujjatlari (masalan, “Madaniy faoliyat va madaniyat tashkilotlari toʻgʻrisida”gi qonun).
 
-• Ekologik huquqlar – qulay atrof-muhitga boʻlgan huquq, atrof-muhitning holati haqida ishonchli axborotga ega boʻlish huquqi, ekologik huquqbuzarlik natijasida shaxsning salomatligiga yetkazilgan zararni undirish huquqi va atrof-muhitni asrash bilan bogʻliq boshqa qonunchilik hujjatlari (masalan, “Tabiatni muhofaza qilish toʻgʻrisida”gi qonun).
+• **Ekologik huquqlar –** qulay atrof-muhitga boʻlgan huquq, atrof-muhitning holati haqida ishonchli axborotga ega boʻlish huquqi, ekologik huquqbuzarlik natijasida shaxsning salomatligiga yetkazilgan zararni undirish huquqi va atrof-muhitni asrash bilan bogʻliq boshqa qonunchilik hujjatlari (masalan, “Tabiatni muhofaza qilish toʻgʻrisida”gi qonun).
 
-• Inson huquqlariga oid xalqaro hujjatlar – Oʻzbekiston Respublikasining inson huquqlariga oid ikki va koʻp tomonlama shartnomalari.
+• **Inson huquqlariga oid xalqaro hujjatlar –** Oʻzbekiston Respublikasining inson huquqlariga oid ikki va koʻp tomonlama shartnomalari.
 
-INSON HUQUQLARI BOʻYICHA XALQARO MEZONLARNING MILLIY QONUNCHILIKDA AKS ETISHI
+**INSON HUQUQLARI BOʻYICHA XALQARO MEZONLARNING MILLIY QONUNCHILIKDA AKS ETISHI**
 
 Yuqorida taʼkidlanganidek, milliy qonunchilik jahon hamjamiyati tomonidan ishlab chiqilgan va davlatlar tomonidan tan olingan xalqaro huquqiy standartlarga asoslanadi.
 
-Inson huquqlari boʻyicha xalqaro standartlar (mezonlar) xalqaro hujjatlarda mustahkamlangan va inson huquqlariga oid minimal talablarni koʻzda tutuvchi qoidalar boʻlib, davlatlar ushbu qoidalarni implementatsiya qilish orqali milliy huquq tizimining tarkibiy qismiga aylantiradi.
+**Inson huquqlari boʻyicha xalqaro standartlar (mezonlar)** xalqaro hujjatlarda mustahkamlangan va inson huquqlariga oid minimal talablarni koʻzda tutuvchi qoidalar boʻlib, davlatlar ushbu qoidalarni implementatsiya qilish orqali milliy huquq tizimining tarkibiy qismiga aylantiradi.
 
 Agar xalqaro huquqiy majburiyatlar davlat miqyosida milliy qonunchilikka tatbiq etilmasa, tegishli shartnomalar qoidalari falaj holatda qolib, ularni hayotga joriy qilish imkonsiz va samarasiz boʻlib qolaveradi.
 
@@ -474,17 +456,17 @@ Masalan, Xalqaro mehnat tashkilotining Ishga qabul qilish uchun eng kichik yosh 
 
 Mazkur holatda ham mamlakatimiz xalqaro hujjatlarga asosan olgan majburiyatidan kelib chiqib, shuningdek, bolaning sogʻligʻiga hamda maʼnaviy va axloqiy kamol topishiga ziyon yetkazmaydigan, taʼlim olish jarayonini buzmaydigan shartlar asosida adolatli va insonparvar qoidalarni joriy qilgan.
 
-BMTning Oʻzbekiston ratifikatsiya qilgan inson huquqlari boʻyicha asosiy xalqaro shartnomalari
+**BMTning Oʻzbekiston ratifikatsiya qilgan inson huquqlari boʻyicha asosiy xalqaro shartnomalari**
 
-Fuqarolik va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt (1966-yil)
+**Fuqarolik va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt (1966-yil)**
 
-Iqtisodiy, ijtimoiy va madaniy huquqlar toʻgʻrisida xalqaro pakt (1966-yil)
+**Iqtisodiy, ijtimoiy va madaniy huquqlar toʻgʻrisida xalqaro pakt (1966-yil)**
 
-Irqiy kamsitishlarning barcha shakllariga barham berish toʻgʻrisidagi xalqaro konvensiya (1965-yil)
+**Irqiy kamsitishlarning barcha shakllariga barham berish toʻgʻrisidagi xalqaro konvensiya (1965-yil)**
 
-Xotin-qizlarni kamsitishning barcha shakllariga barham berish toʻgʻrisidagi xalqaro konvensiya (1979-yil)
+**Xotin-qizlarni kamsitishning barcha shakllariga barham berish toʻgʻrisidagi xalqaro konvensiya (1979-yil)**
 
-Qiynoqlarga hamda muomala va jazolashning boshqa shafqatsiz, gʻayriinsoniy yoki qadr-qimmatni
+**Qiynoqlarga hamda muomala va jazolashning boshqa shafqatsiz, gʻayriinsoniy yoki qadr-qimmatni**
 
 Hozir Oʻzbekiston Respublikasi inson huquqlari boʻyicha 80 dan ortiq xalqaro hujjatlarga, jumladan, Inson huquqlari umumjahon deklaratsiyasi, Birlashgan Millatlar Tashkilotining 7 ta asosiy shartnomasi va 4 ta fakultativ protokoliga qoʻshilgan.
 
@@ -540,15 +522,13 @@ Xalq davlat idoralariga emas, davlat idoralari xalqqa xizmat qilishi kerak.
 
 Inson huquqlarini himoya qilish boʻyicha davlat organlari tizimi. Inson huquqlari boʻyicha milliy institutlarning ahamiyati. Inson huquqlarini himoya qilishda nodavlat tashkilotlarning oʻrni.
 
-### INSON HUQUQLARINI HIMOYA QILISH BOʻYICHA DAVLAT
-
-ORGANLARI TIZIMI
+**INSON HUQUQLARINI HIMOYA QILISH BOʻYICHA DAVLAT ORGANLARI TIZIMI**
 
 Mamlakatimizda inson huquqlarining himoyasi bilan shugʻullanuvchi davlat organlari, milliy institutlar va nodavlat tashkilotlardan iborat tizim shakllangan. Ayrim adabiyotlarda ular “inson huquqlari boʻyicha sudlov va nosudlov organlari” deb ham ataladi.
 
 Inson huquqlarini himoya qilish bilan shugʻullanuvchi davlat organlari tizimida sud, prokuratura, ichki ishlar, adliya organlari muhim oʻringa ega.
 
-Sud organlari inson huquq va erkinliklarini himoya qilish mexanizmining eng muhim qismi hisoblanadi. Chunki aynan sudlov tizimi shaxsning buzilgan huquqlarini tiklagan holda jamiyatda adolat va qonun ustuvorligini taʼminlaydi.
+**Sud organlari** inson huquq va erkinliklarini himoya qilish mexanizmining eng muhim qismi hisoblanadi. Chunki aynan sudlov tizimi shaxsning buzilgan huquqlarini tiklagan holda jamiyatda adolat va qonun ustuvorligini taʼminlaydi.
 
 Har kim oʻz huquq va erkinliklarini qonunda taqiqlanmagan barcha usullar bilan himoya qilishga haqli.
 
@@ -556,15 +536,15 @@ Har kimga oʻz huquq va erkinliklarini sud orqali himoya qilish, davlat organlar
 
 Har kimga buzilgan huquq va erkinliklarini tiklash uchun uning ishi qonunda belgilangan muddatlarda vakolatli, mustaqil hamda xolis sud tomonidan koʻrib chiqilishi huquqi kafolatlanadi.
 
-Oʻzbekiston Respublikasining Konstitutsiyasi, 55-modda
+**Oʻzbekiston Respublikasining Konstitutsiyasi, 55-modda**
 
-Prokuratura organlarining asosiy vazifalaridan biri fuqarolarning huquq hamda erkinliklarini, jamiyat va davlatning qonun bilan qoʻriqlanadigan manfaatlarini himoya qilish hisoblanadi. Prokuratura organlari fuqarolarning huquqlari hamda erkinliklariga rioya etilishi ustidan nazorat faoliyatini olib borib, fuqaroning huquq va erkinliklari buzilganligi toʻgʻrisidagi arizalar, shikoyatlar hamda boshqa maʼlumotlarni koʻrib chiqadi va tekshiradi, huquq va erkinliklarini himoya qilish tartibini tushuntiradi, fuqaroning huquq va erkinliklari buzilishining oldini olish va bartaraf etish, qonunni buzgan shaxslarni javobgarlikka tortish hamda yetkazilgan zararni qoplash chora-tadbirlarini koʻradi.
+**Prokuratura organlari**ning asosiy vazifalaridan biri fuqarolarning huquq hamda erkinliklarini, jamiyat va davlatning qonun bilan qoʻriqlanadigan manfaatlarini himoya qilish hisoblanadi. Prokuratura organlari fuqarolarning huquqlari hamda erkinliklariga rioya etilishi ustidan nazorat faoliyatini olib borib, fuqaroning huquq va erkinliklari buzilganligi toʻgʻrisidagi arizalar, shikoyatlar hamda boshqa maʼlumotlarni koʻrib chiqadi va tekshiradi, huquq va erkinliklarini himoya qilish tartibini tushuntiradi, fuqaroning huquq va erkinliklari buzilishining oldini olish va bartaraf etish, qonunni buzgan shaxslarni javobgarlikka tortish hamda yetkazilgan zararni qoplash chora-tadbirlarini koʻradi.
 
-Ichki ishlar organlari ham inson huquqlarini himoya qilishni oʻzining asosiy maqsadi etib belgilaydi. Xususan, Oʻzbekiston Respublikasining 2016-yilda qabul qilingan “Ich-
+**Ichki ishlar organlari** ham inson huquqlarini himoya qilishni oʻzining asosiy maqsadi etib belgilaydi. Xususan, Oʻzbekiston Respublikasining 2016-yilda qabul qilingan “Ich-
 
-ki ishlar organlari toʻgʻrisida”gi qonuniga muvofiq, fuqarolarning huquqlari, erkinliklari va qonuniy manfaatlarini, jismoniy va yuridik shaxslarning mulkini himoya qilish ichki ishlar organlarining asosiy vazifalari sifatida belgilangan.
+ki ishlar organlari toʻgʻrisida”gi qonuniga muvofiq, fuqarolarning huquqlari, erkinliklari va qonuniy manfaatlarini, jismoniy va yuridik shaxslarning mulkini himoya qilish **ichki ishlar organlari**ning asosiy vazifalari sifatida belgilangan.
 
-Adliya organlarining asosiy vazifalari qatorida fuqarolarning huquqlari, erkinliklari va qonuniy manfaatlarini huquqiy himoya qilish boʻyicha choralarni amalga oshirish muhim oʻringa ega. Bu boradagi vazifalarni amalga oshirish davomida adliya organlari davlat organlari va davlat ishtirokidagi tashkilotlar tomonidan inson huquqlari sohasidagi qonunchilik hujjatlariga rioya etilishi ustidan nazoratni amalga oshiradi, fuqarolarning davlat organlari va davlat ishtirokidagi tashkilotlarda buzilgan huquqlarini tiklash boʻyicha choralar koʻradi.
+**Adliya organlari**ning asosiy vazifalari qatorida fuqarolarning huquqlari, erkinliklari va qonuniy manfaatlarini huquqiy himoya qilish boʻyicha choralarni amalga oshirish muhim oʻringa ega. Bu boradagi vazifalarni amalga oshirish davomida adliya organlari davlat organlari va davlat ishtirokidagi tashkilotlar tomonidan inson huquqlari sohasidagi qonunchilik hujjatlariga rioya etilishi ustidan nazoratni amalga oshiradi, fuqarolarning davlat organlari va davlat ishtirokidagi tashkilotlarda buzilgan huquqlarini tiklash boʻyicha choralar koʻradi.
 
 ### INSON HUQUQLARI BOʻYICHA MILLIY INSTITUTLARNING AHAMIYATI
 
@@ -572,47 +552,45 @@ Inson huquqlari boʻyicha milliy institutlar inson huquq va erkinliklarini himoy
 
 ### Inson huquqlari
 
-boʻyicha milliy institutlarning asosiy vazifalari
+**boʻyicha milliy institutlarning asosiy vazifalari**
 
 ### Inson huquqlari
 
-masalalari yuzasidan hukumat va parlamentga taklif va tavsiyalar kiritish
+**masalalari yuzasidan hukumat va parlamentga taklif va tavsiyalar kiritish**
 
-Milliy qonunchilikning
+**Milliy qonunchilikning**
 
 ### inson huquqlari
 
-boʻyicha xalqaro standartlarga mos boʻlishini targʻib etish
+**boʻyicha xalqaro standartlarga mos boʻlishini targʻib etish**
 
-Davlatning inson huquqlariga oid xalqaro shartnomalardan kelib chiqadigan majburiyatlari yuzasidan milliy maʼruzalarni tayyorlashda ishtirok etish
+**Davlatning inson huquqlariga oid xalqaro shartnomalardan kelib chiqadigan majburiyatlari yuzasidan milliy maʼruzalarni tayyorlashda ishtirok etish**
 
-Inson huquqlarining buzilishlariga taalluqli ariza, shikoyat va murojaatlarni qabul qilish va koʻrib chiqish
+**Inson huquqlarining buzilishlariga taalluqli ariza, shikoyat va murojaatlarni qabul qilish va koʻrib chiqish**
 
-Inson huquqlarini targʻib qilish, unga oid axborotlarni tarqatish va inson huquqlari taʼlimiga koʻmaklashish
+**Inson huquqlarini targʻib qilish, unga oid axborotlarni tarqatish va inson huquqlari taʼlimiga koʻmaklashish**
 
 Oʻzbekistonda inson huquqlari boʻyicha milliy institutlar tizimiga Inson huquqlari boʻyicha Oʻzbekiston Oʻzbekiston Respublikasi Oliy Majlisining Inson huquqlari boʻyicha vakili (ombudsman), Oʻzbekiston Respublikasi Oliy Majlisining Bola huquqlari boʻyicha vakili (bolalar ombudsmani), Oʻzbekiston Respublikasi Prezidenti huzuridagi Tadbirkorlik subyektlarining huquqlari va qonuniy manfaatlarini himoya qilish boʻyicha vakil (biznes-ombudsman) kiradi.
 
 ### Yodda tuting
 
-> Inson milliy institut – inson huquq va erkinliklarini himoya qilish, qoʻllab-quvvatlash va ularga rioya qilinishini taʼminlash maqsadida konstitutsiya yoki qonun bilan taʼsis etiladigan mustaqil organ.
+> **Inson milliy institut –** inson huquq va erkinliklarini himoya qilish, qoʻllab-quvvatlash va ularga rioya qilinishini taʼminlash maqsadida konstitutsiya yoki qonun bilan taʼsis etiladigan mustaqil organ.
 
-### Inson huquqlari
+### Inson huquqlari boʻyicha milliy institutlar
 
-boʻyicha Oʻzbekiston Respublikasi milliy markazi
-
-Oʻzbekiston Respublikasi Oliy Majlisining Inson huquqlari boʻyicha vakili (ombudsman)
+![](img/ogp-10.uz/p036-1.webp "692x334")
 
 ### Inson huquqlari boʻyicha vakil (ombudsman) tashkilotlar va mansabdor shaxslar
 
 tomonidan inson huquqlari hamda erkinliklari toʻgʻrisidagi qonunchilikka rioya etilishi ustidan parlament nazoratini taʼminlash vazifasini amalga oshiradi. Ombudsman fuqarolarning ariza, taklif va shikoyat tarzidagi murojaatlarini koʻrib chiqadi va tekshiradi, bu boradagi qonunchilik buzilishi holatlari aniqlanganda ularni bartaraf etish yuzasidan davlat organlari va tashkilotlar rahbarlariga taqdimnomalar, shuningdek, inson huquqlarining jiddiy buzilishiga yoʻl qoʻygan shaxslarni javobgarlikka tortish yuzasidan tegishli organlarga iltimosnomalar kiritadi.
 
-Inson huquqlari boʻyicha Oʻzbekiston Respublikasi milliy markazi inson huquqlari sohasidagi Oʻzbekiston Respublikasining xalqaro majburiyatlarini bajarish boʻyicha davlat organlari va boshqa tashkilotlarning oʻzaro hamkorligini, milliy maʼruzalar tayyorlanishini, inson huquqlarini himoya qilish boʻyicha xalqaro tashkilotlar bilan hamkorlikni kengaytirishni taʼminlovchi davlat organi hisoblanadi.
+**Inson huquqlari boʻyicha Oʻzbekiston Respublikasi milliy markazi** inson huquqlari sohasidagi Oʻzbekiston Respublikasining xalqaro majburiyatlarini bajarish boʻyicha davlat organlari va boshqa tashkilotlarning oʻzaro hamkorligini, milliy maʼruzalar tayyorlanishini, inson huquqlarini himoya qilish boʻyicha xalqaro tashkilotlar bilan hamkorlikni kengaytirishni taʼminlovchi davlat organi hisoblanadi.
 
-Bolalar ombudsmani bola huquqlariga oid qonunchilik hujjatlarini ishlab chiqish va amalga oshirishda ishtirok etadi, bola huquqlarining kafolatlari toʻgʻrisidagi qonun hujjatlari ijrosini oʻrganadi, bolalar va ularning qonuniy vakillari oʻrtasida bolaning huquqlari, erkinliklari va qonuniy manfaatlarini tushuntiradi, imkoniyati cheklangan, shuningdek, yetim va ota-ona qaramogʻidan mahrum boʻlgan bolalarning ijtimoiy moslashuviga koʻmaklashadi.
+**Bolalar ombudsmani** bola huquqlariga oid qonunchilik hujjatlarini ishlab chiqish va amalga oshirishda ishtirok etadi, bola huquqlarining kafolatlari toʻgʻrisidagi qonun hujjatlari ijrosini oʻrganadi, bolalar va ularning qonuniy vakillari oʻrtasida bolaning huquqlari, erkinliklari va qonuniy manfaatlarini tushuntiradi, imkoniyati cheklangan, shuningdek, yetim va ota-ona qaramogʻidan mahrum boʻlgan bolalarning ijtimoiy moslashuviga koʻmaklashadi.
 
-Biznes-ombudsmanning asosiy vazifasi tadbirkorlik subyektlarining huquqlari va qonuniy manfaatlarini himoya qilish, mazkur huquqlar va qonuniy manfaatlarga davlat organlari, shu jumladan, huquqni muhofaza qiluvchi va nazorat qiluvchi organlar tomonidan rioya etilishini taʼminlashdan iborat.
+**Biznes-ombudsmanning** asosiy vazifasi tadbirkorlik subyektlarining huquqlari va qonuniy manfaatlarini himoya qilish, mazkur huquqlar va qonuniy manfaatlarga davlat organlari, shu jumladan, huquqni muhofaza qiluvchi va nazorat qiluvchi organlar tomonidan rioya etilishini taʼminlashdan iborat.
 
-INSON HUQUQLARINI HIMOYA QILISHDA NODAVLAT TASHKILOTLARNING OʻRNI
+**INSON HUQUQLARINI HIMOYA QILISHDA NODAVLAT TASHKILOTLARNING OʻRNI**
 
 Inson huquqlarini himoya qilish tizimida davlat organlari, milliy institutlar bilan birga nodavlat tashkilotlarning ahamiyati ham oshib bormoqda. Hozir mamlakatimizda 9 800 dan ortiq nodavlat notijorat tashkilotlar, 10 mingga yaqin mahallalar faoliyat yuritadi.
 
@@ -622,7 +600,7 @@ Nodavlat tashkilotlar inson huquqlarini taʼminlash, shaxsning buzilgan huquqlar
 
 ### Yodda tuting
 
-> Nodavlat notijorat tashkiloti – jismoniy va yuridik shaxslar tomonidan ixtiyoriylik asosida tashkil etilgan, daromad olishni oʻz faoliyatining asosiy maqsadi qilib olmagan hamda olingan daromadlarni oʻz qatnashchilari oʻrtasida taqsimlamaydigan oʻzini oʻzi boshqarish tashkiloti.
+> **Nodavlat notijorat tashkiloti –** jismoniy va yuridik shaxslar tomonidan ixtiyoriylik asosida tashkil etilgan, daromad olishni oʻz faoliyatining asosiy maqsadi qilib olmagan hamda olingan daromadlarni oʻz qatnashchilari oʻrtasida taqsimlamaydigan oʻzini oʻzi boshqarish tashkiloti.
 
 ### Savol va topshiriqlar
 
@@ -646,7 +624,7 @@ Ushbu vaziyatni tahlil qiling va ombudsman kotibiyati xodimining harakatlariga h
 
 Muvaffaqiyatsizlikka uchrash ogʻir, biroq eng yomoni muvaffaqiyatga erishish uchun sira harakat qilmaslikdir.
 
-Teador Ruzvelt
+**Teador Ruzvelt**
 
 ### IJODIY FAOLIYAT UCHUN
 
@@ -654,13 +632,19 @@ Teador Ruzvelt
 
 Solishtirma jadvalingizda taqdim etilgan oʻxshash normalarning farqli jihatlarini tushuntiring.
 
+![](img/ogp-10.uz/p038-1.webp "782x302")
+
 2. Bugun Oʻzbekistonda gender tenglik eng muhim masalalardan hisoblanadi. Tasavvur qiling, mana shu muhim masala yuzasidan Oʻzbekiston Respublikasining “Gender tenglik toʻgʻrisida”gi qonuni loyihasi tayyorlanmoqda. Oʻzbekiston fuqarosi sifatida sizning fikringiz juda ham muhim. Quyidagi jadvalga oʻzingizning gender tenglik borasidagi tushunchalaringizga asoslangan holda mazkur qonun loyihasida aks ettirish lozim deb hisoblagan qoidalaringizni kiriting.
 
 ### Siz taklif etayotgan qoida
 
-NAZORAT ISHI Aql tarozisida tortib koʻrilmagan har qanday bilim asossizdir.
+![](img/ogp-10.uz/p038-2.webp "782x156")
 
-Abu Ibn Sino
+### NAZORAT ISHI
+
+Aql tarozisida tortib koʻrilmagan har qanday bilim asossizdir.
+
+**Abu Ibn Sino**
 
 Maʼlum bir hududda yashovchi, qadriyatlari, ular amal qiladigan qoidalar va anʼanalari oʻxshash boʻlgan hamda oʻzaro ehtiyoj va manfaatlari yoʻlida birlashgan insonlar guruhi.
 
@@ -688,13 +672,17 @@ Tashkilotlar va mansabdor shaxslar tomonidan inson huquqlari hamda erkinliklari 
 
 Oʻzbekiston Respublikasining fuqarosi boʻlmagan va
 
+### II BOB. OILAVIY HUQUQIY MUNOSABATLAR
+
+![](img/ogp-10.uz/p040-1.webp "900x1076")
+
 # II bob. Oilaviy-huquqiy munosabatlar
 
 ## 10-dars. Jamiyatda oilaning oʻrni
 
 Agar oilaning baxtini boylik belgilaganda edi, bironta boy xonadonda oilaviy janjal koʻtarilmas edi.
 
-Tohir Malik
+**Tohir Malik**
 
 ### Siz bilib olasiz
 
@@ -703,6 +691,8 @@ Oila – jamiyat tayanchi.
 Jamiyatda oilaviy munosabatlarni tartibga solish. Oilaning davlat tomonidan muhofaza qilinishi.
 
 ### OILA – JAMIYAT TAYANCHI
+
+![](img/ogp-10.uz/p041-1.webp "382x252")
 
 Inson dunyoga kelib, oila degan jamoada yashaydi. U ota-ona, buvi va bobo, aka va opa, amaki va xola, togʻa va amma kabi qon-qarindoshlar qurshovida boʻladi va kamol topadi. Ana shu qarindoshlik rishtasi asosida oila aʼzolari oʻzaro bir-birlariga yordam beradilar. Oiladagi ushbu rishtalar esa hurmat, sadoqat, gʻamxoʻrlik, insonparvarlik kabi insoniy fazilatlar hisoblanib, ular tarbiyaviy, diniy, maʼnaviy, maʼrifiy, ijtimoiy, iqtisodiy, huquqiy asoslarni keltirib chiqaradi. Aynan shu xususiyatlar oilaning mustahkam boʻlishiga olib keladi.
 
@@ -714,7 +704,7 @@ Davlatimiz tomonidan qabul qilinayotgan qonun va boshqa normativ-huquqiy hujjatl
 
 ### Yodda tuting
 
-Oila qon-qarindoshlik, birga istiqomat qilish orqali bogʻlangan, bir-biriga nisbatan vujudga keladigan huquq va majburiyatlarga ega boʻlgan odamlardan iborat ijtimoiy guruhdir.
+![](img/ogp-10.uz/p041-2.webp "782x199")
 
 Jamiyat oilaning tinchligi, osoyishtaligi, bolalarning sogʻlomligidan manfaatdor. Jamiyat va davlat oilaning huquqlari, shaʼni, qadr-qimmati va or-nomusini himoya qiladi, oila uchun kerakli sharoitlarni yaratadi.
 
@@ -725,6 +715,10 @@ Oilada muayyan turmush tarzi shakllanib, hayotiy tajriba orttirilib borishi, far
 Oila nafaqat davlat tomonidan, balki xalqaro miqyosda ham muhofaza qilinadi. Birlashgan Millatlar Tashkiloti Bosh Assambleyasi 15-mayni Xalqaro oila kuni (International Day of Families) deb belgilagan. 1994-yilning 15-mayidan butun dunyoda, jumladan, Oʻzbekistonda ham Xalqaro oila kuni keng nishonlab kelinadi.
 
 Oʻzbekiston Respublikasi Prezidentining “Oila va xotin-qizlarni tizimli qoʻllab-quvvatlashga doir ishlarni yanada jadallashtirish chora-tadbirlari toʻgʻrisida”gi farmoniga koʻra, farovon va barqaror oilalarning hayotiy tajribalarini ommalashtirish maqsadida oilani mustahkamlash, oilaviy qadriyatlarni saqlash va rivojlantirishga munosib hissa qoʻshgan oilalarga beriladigan “Ibratli oila” koʻkrak nishoni taʼsis etilishi va uni 15-may – Xalqaro oila kunida topshirish tartibi belgilandi.
+
+### JAMIYATDA OILAVIY MUNOSABATLARNI TARTIBGA SOLISH
+
+![](img/ogp-10.uz/p042-1.webp "342x242")
 
 Jamiyatda oila, nikoh kabi tushunchalar mavjud. Oila nikohga qaraganda koʻproq kishilarni oʻz ichiga oladi. Oilaviy munosabatlar qarindoshlik aloqalarining keng koʻlamida namoyon boʻladi. Oila nikoh singari qatʼiy ravishda tuzilish va tugatilish sanasiga ega emas. Oila aʼzolarining soni koʻpayishi yoki kamayishi sababli uning tarkibi oʻzgarishi mumkin.
 
@@ -770,17 +764,21 @@ Oʻzbekiston Respublikasi Konstitutsiyasida taʼkidlanganidek, oila, onalik, ota
 
 Davlat koʻp bolali oilalarga qonunchilikka muvofiq imtiyozlar va ijtimoiy kafolatlar beradi. Oila va xotin-qizlar qoʻmitasi tomonidan “Ayollar daftari” bilan ishlash elektron tizimi ishlab chiqildi. Ushbu tizim yordamida ijtimoiy-himoyaga muhtoj xotin-qizning “Ayollar daftari”ga kiritish haqidagi murojaati qabul qilinadi va ushbu murojaatni koʻrib chiqish natijalari beriladi. Shuningdek, “Ayollar daftari”ga kiritilgan xotin-qizlarga koʻrsatiladigan yordam turlari hamda “Ayollar daftari” orqali yordam koʻrsatilayotgan xotin-qizlar roʻyxatga olinadi.
 
+![](img/ogp-10.uz/p044-1.webp "422x168")
+
 ### Yodda tuting
 
-Toʻrt nafar va undan ortiq oʻn sakkiz yoshga toʻlmagan bolasi boʻlgan oila koʻp bolali oiladir. Bunda agar toʻrt nafar va undan ortiq bolalardan bir nafari yoki undan koʻprogʻi taʼlimning kunduzgi shaklida (oʻrta maxsus va professional, oliy taʼlim) taʼlim tashkilotlarida oʻqiyotgan hamda yigirma ikki yoshga toʻlmagan boʻlsa, bu oila ham koʻp bolali oila deb hisoblanadi. Davlat koʻp bolali oilalarga qonunchilikka muvofiq imtiyozlar va ijtimoiy kafolatlar berilishini taʼminlaydi.
+![](img/ogp-10.uz/p044-2.webp "402x428")
 
 Oila jamiyatning asosiy boʻgʻinidir hamda u jamiyat va davlat muhofazasidadir.
 
 Onalik, otalik va bolalik davlat tomonidan muhofaza qilinadi.
 
-Ota-onalar va ularning oʻrnini bosuvchi shaxslar oʻz farzandlarini voyaga yetguniga qadar boqishi, ularning tarbiyasi, taʼlim olishi, sogʻlom, toʻlaqonli va har tomonlama kamol topishi xususida gʻamxoʻrlik qilishga majburdirlar.
+![](img/ogp-10.uz/p045-2.webp "172x332")
 
-Voyaga yetgan mehnatga layoqatli farzandlar oʻz ota-onalari haqida gʻamxoʻrlik qilishga majburdirlar.
+![](img/ogp-10.uz/p045-3.webp "222x112")
+
+Ota-onalar va ularning oʻrnini bosuvchi shaxslar oʻz farzandlarini voyaga yetguniga qadar boqishi, ularning tarbiyasi, taʼlim olishi, sogʻlom, toʻlaqonli va har tomonlama kamol topishi xususida gʻamxoʻrlik qilishga majburdirlar.
 
 ### Savol va topshiriqlar
 
@@ -796,21 +794,17 @@ Voyaga yetgan mehnatga layoqatli farzandlar oʻz ota-onalari haqida gʻamxoʻrli
 
 ### Mustaqil ish uchun topshiriq
 
-1. Oiladagi axloqiy va huquqiy munosabatlarga misollar keltirib, jadvalni toʻldiring.
-
-### Huquqiy munosabatlar
-
-2. Axloqiy va huquqiy munosabatlar qanday meʼyorlar bilan tartibga solinadi?
-
-3. Oilalar ahilligi va mustahkamligiga erishish uchun qonunchilikka qanday yangiliklar va oilangizga qanday qoidalar kiritgan boʻlardingiz?
+![](img/ogp-10.uz/p045-1.webp "782x273")
 
 ## 11–12-dars. Nikoh, uni tuzish va tugatish asoslari
 
-Baxtli oila qurishning ikki sharti bordir: yaxshi turmush oʻrtoqni tanlay bilmoq va yaxshi turmush oʻrtoq boʻlmoq. Jaloliddin Rumiy
+Baxtli oila qurishning ikki sharti bordir: yaxshi turmush oʻrtoqni tanlay bilmoq va yaxshi turmush oʻrtoq boʻlmoq. **Jaloliddin Rumiy**
 
 ### Siz bilib olasiz
 
 “Nikoh” tushunchasi va uning huquqiy asoslari. Nikoh tuzishning ixtiyoriyligi, nikoh tuzish tartibi. Nikohni tuzishga monelik qiladigan holatlar. Nikoh tugatilishining oqibatlari.
+
+### “NIKOH” TUSHUNCHASI VA UNING HUQUQIY ASOSLARI
 
 Avvalgi mavzuda taʼkidlaganimizdek, nikohni rasmiylashtirish, er-xotinning shaxsiy, mulkiy huquq va majburiyatlari, aliment majburiyatlari, bola huquqi, farzandlarning huquq va erkinliklari kabi munosabatlar huquqiy qoidalar bilan tartibga solinadi. Oʻzbekiston Respublikasining Oila kodeksiga koʻra, nikoh tuzishda nikohlanuvchilarning jinsi, irqi, millati, tili, dini, ijtimoiy kelib chiqishi, eʼtiqodi, shaxsiy va ijtimoiy mavqeyiga qarab ularning huquqlari cheklanmaydi. Oilada oilaviy munosabatlar qanchalik toʻgʻri yoʻlga qoʻyilgan boʻlsa, u shunchalik mustahkam boʻladi. Shuning uchun ham davlatimiz nikoh, uni tuzish tartibi va shartlari, nikohdan ajralish, nikohni haqiqiy emas deb topish bilan bogʻliq munosabatlarga befarq boʻlmay, ularni tartibga soluvchi huquqiy asoslarni belgilab qoʻygan.
 
@@ -818,11 +812,11 @@ Nikoh oilaning vujudga kelishida birdan-bir asos boʻlgani bois u axloq normalar
 
 ### Yodda tuting
 
-> Nikoh (arabchadan olingan boʻlib, birlashish, kelishish, ittifoq degan maʼnoni anglatadi) – erkak va ayolning fuqarolik holati dalolatnomalarini yozish organlarida tuziladigan, oʻzaro hurmat, muhabbat va ishonchga asoslangan ixtiyoriy kelishuvidir.
+> **Nikoh** (arabchadan olingan boʻlib, birlashish, kelishish, ittifoq degan maʼnoni anglatadi) – erkak va ayolning fuqarolik holati dalolatnomalarini yozish organlarida tuziladigan, oʻzaro hurmat, muhabbat va ishonchga asoslangan ixtiyoriy kelishuvidir.
 
 ### Yodda tuting
 
-Nikoh fuqarolik holati dalolatnomalarini yozish organlarida tuziladi. Diniy rasm-rusumlarga binoan tuzilgan nikoh huquqiy ahamiyatga ega emas.
+![](img/ogp-10.uz/p046-1.webp "772x212")
 
 ### NIKOH TUZISHNING IXTIYORIYLIGI. NIKOH TUZISH TARTIBI
 
@@ -832,7 +826,9 @@ Nikoh fuqarolik holati dalolatnomalarini yozish (FHDY) organlarida tuziladi. Nik
 
 Nikohlanuvchilar FHDY organlariga ariza topshirganidan soʻng beriladigan bir oy muddat nikohdan oʻtuvchilar bir-birlari bilan yaxshi tanishib olishlari uchun imkoniyat yaratadi. Bu esa yoshlarning yengiltaklik qilib, shoshma-shosharlik bilan nikohdan oʻtishlarining oldini oladi. Bir oylik muddatda nikohga kiruvchilar nikoh tuzishga boʻlgan oʻz xohishlarini yana tekshirish imkoniyatiga ega boʻladilar.
 
-Fuqarolik holati dalolatnomalarini yozish idoralarida roʻyxatga olinadi
+![](img/ogp-10.uz/p047-1.webp "782x341")
+
+**Fuqarolik holati dalolatnomalarini yozish idoralarida roʻyxatga olinadi**
 
 Nikohni tuzish toʻgʻrisidagi ariza belgilangan shaklga ega. Ariza nikohlanuvchilarning shaxsini tasdiqlovchi hujjatlar asosida toʻldirilib, barcha savollarga aniq javob beriladi. Ariza aniq, tushunarli yozuvda toʻldiriladi. Nikohni qayd etishda guvohlarning soni ikki kishidan kam boʻlmasligi kerak. Nikohlanuvchilarning istaklariga binoan nikoh ularning qarindoshlari, tanishlari va guvohlar ishtirokida qayd etiladi.
 
@@ -846,15 +842,19 @@ tugʻma kasalliklarga chalingan bolalar tugʻilishining oldini olishdan iborat.
 
 Nikohlanuvchi shaxslar psixik, narkologik, tanosil kasalliklari, sil kasalligi va OIV/OITS boʻyicha tibbiy koʻrikdan oʻtadi. Tibbiy koʻrikdan oʻtkazish uchun yoʻllanmalar FHDY organlarida beriladi. Bu esa nikoh tuzish toʻgʻrisidagi arizalarni roʻyxatdan oʻtkazish daftarida qayd etiladi. Nikohlanuvchi shaxslarning tibbiy koʻrigi ularning yashash joyidagi psixiatr vrachlar, narkologlar, teri-tanosil kasalliklari vrachlari, ftiziatrlar (dispanser va tuman kabinetlari) tomonidan bepul oʻtkaziladi. Tibbiy koʻrikdan oʻtish ikki haftadan oshmasligi kerak. Tibbiy koʻrik natijalari tibbiyot kartasida toʻliq aks ettiriladi.
 
+![](img/ogp-10.uz/p048-1.webp "302x177")
+
 ### NIKOHNI TUZISHGA MONELIK QILADIGAN HOLATLAR
 
 Yuqorida biz siz bilan nikoh, uni tuzish tartibi haqidagi masalalarni koʻrib chiqdik. Endi nikoh tuzishga monelik qiladigan holatlarni koʻrib chiqamiz. Oʻzbekiston Respulikasi Oila kodeksida nikoh tuzishga monelik qiladigan holatlar belgilangan. Jumladan, nikoh tuzilayotganda nikohlanuvchilar boshqa nikohda turgan boʻlishi mumkin emas. Boshqa nikohda turgan shaxslar oʻrtasida nikoh tuzishga yoʻl qoʻyilmaydi. Bundan tashqari, nasl-nasab shajarasi toʻgʻri tutashgan qarindoshlar, tugʻishgan va oʻgay aka-ukalar bilan opa-singillar oʻrtasida, shuningdek, farzandlikka oluvchilar bilan farzandlikka olinganlar oʻrtasida ham nikoh tuzishga yoʻl qoʻyilmaydi. Yaʼni Oila kodeksining 57-moddasida belgilangan meʼyor asosida bolalar ota-onasiga nisbatan toʻgʻri shajaradagi birinchi, nevara bobosiga, buvisiga nisbatan – ikkinchi, evara katta bobosiga, katta buvisiga nisbatan – uchinchi darajadagi qarindosh hisoblanadi.
 
-Loaqal bittasi roʻyxatga olingan boshqa nikohda turgan shaxslar oʻrtasida nikoh tuzish man etiladi
+![](img/ogp-10.uz/p048-2.webp "412x352")
 
-Loaqal bittasi ruhiyat buzillishi sababli sud tomonidan muomalaga layoqatsiz deb topilgan shaxslar oʻrtasida nikoh tuzish man etiladi
+**Loaqal bittasi roʻyxatga olingan boshqa nikohda turgan shaxslar oʻrtasida nikoh tuzish man etiladi**
 
-Nasl-nasab shajarasi boʻyicha toʻgʻri tutashgan qarindoshlar oʻrtasida, tugʻishgan va oʻgay aka-ukalar bilan opa-singillar oʻrtasida, farzandlikka olinganlar oʻrtasida nikoh tuzish man etiladi
+**Loaqal bittasi ruhiyat buzillishi sababli sud tomonidan muomalaga layoqatsiz deb topilgan shaxslar oʻrtasida nikoh tuzish man etiladi**
+
+**Nasl-nasab shajarasi boʻyicha toʻgʻri tutashgan qarindoshlar oʻrtasida, tugʻishgan va oʻgay aka-ukalar bilan opa-singillar oʻrtasida, farzandlikka olinganlar oʻrtasida nikoh tuzish man etiladi**
 
 Aka-uka, opa-singil, ularning bolalari, ota-onaning aka-uka va opa-singillari hamda ularning bolalari, bobo va buvilarning aka-uka hamda opa-singillari hamda ularning bolalari va shunga oʻxshashlar yon shajara boʻyicha qarindoshlar hisoblanadi. Bundan tashqari, nikohlanuvchilarning loaqal bittasi ruhiyat buzilishi (ruhiy kasalligi yoki aqli zaifligi) sababli sud tomonidan muomalaga layoqatsiz deb topilgan boʻlsa, bunday shaxslar oʻrtasida ham nikoh tuzishga yoʻl qoʻyilmaydi.
 
@@ -869,6 +869,8 @@ Agar bolalar borasida, er-xotinning birgalikdagi umumiy mol-mulkini boʻlish bor
 Agar er-xotinning voyaga yetmagan bolalari boʻlmasa, er-xotin nikohdan ajrashishga oʻzaro rozi boʻlsalar va oʻrtada mulkiy nizo boʻlmasa, nikoh FHDY organida ajratiladi.
 
 Sud ishning koʻrilishini keyinga qoldirib, er-xotinga yarashish uchun olti oygacha muhlat tayinlaydi. Sud er-xotinga yarashish uchun muhlat tayinlab, ishning koʻrilishini keyinga qoldirgan taqdirda, er-xotinning birga yashash joyidagi fuqarolar yigʻinining yarashtirish komissiyasini, agar ular birga yashamayotgan boʻlsa, har birining yashash joyidagi fuqarolar yigʻinining yarashtirish komissiyasini er-xotinni yarashtirish boʻyicha tegishli choralar koʻrish uchun xabardor qiladi.
+
+![](img/ogp-10.uz/p049-1.webp "772x462")
 
 Xotinining homiladorlik vaqtida va bola tugʻilganidan keyin bir yil mobaynida er xotinining roziligisiz nikohdan ajratish toʻgʻrisida daʼvo qilolmaydi.
 
@@ -892,13 +894,13 @@ Nikohdan ajratish toʻgʻrisidagi ish koʻrib chiqilayotganida toʻyni oʻtkazis
 
 1. FHDY organi xodimi ariza bergan kelin boʻlajak kuyovning jiyani ekanini bilib qolgach, nikohni rasmiylashtirishga eʼtiroz bildirdi. Ushbu vaziyatda FHDY xodimining eʼtirozi toʻgʻri deb oʻylaysizmi? Sizningcha, nikohlanuvchilar qanday yoʻl tutishlari lozim?
 
-2. FHDY organida nikohdan oʻtishda S. soxta hujjatlardan foydalangan holda boshqa nikohdaligi va bolasi borligini boʻlajak xotini M.dan yashirgan edi. Bu nikoh qonuniy deb hisoblanadimi? Agar qonuniy kuchga ega boʻlmasa, M. sudga murojaat qilish huquqiga egami?
+2. FHDY organida nikohdan oʻtishda **S**. soxta hujjatlardan foydalangan holda boshqa nikohdaligi va bolasi borligini boʻlajak xotini **M**.dan yashirgan edi. Bu nikoh qonuniy deb hisoblanadimi? Agar qonuniy kuchga ega boʻlmasa, **M**. sudga murojaat qilish huquqiga egami?
 
 3. Nikohni rasmiylashtirishdan oldin nega tibbiy koʻrikdan oʻtiladi? Uning huquqiy asosini toping.
 
 ## 13-dars. Oilada er-xotin va ota-onaning huquqiy maqomi
 
-Oilada ota-onalar oʻz farzandlarining haqiqiy inson boʻlib kamol topishiga alohida eʼtibor berishlari lozim. Mirzo Ulugʻbek
+Oilada ota-onalar oʻz farzandlarining haqiqiy inson boʻlib kamol topishiga alohida eʼtibor berishlari lozim. **Mirzo Ulugʻbek**
 
 ### Siz bilib olasiz
 
@@ -926,6 +928,8 @@ Er-xotinning oʻz huquq va majburiyatlarini bajarishi oilaning boshqa aʼzolari 
 
 ### ER-XOTINNING HUQUQ VA MAJBURIYATLARI
 
+![](img/ogp-10.uz/p052-1.webp "312x292")
+
 Er-xotinning shaxsiy huquq va majburiyatlari deganda er-xotin sifatida hayot kechirish, bir-biriga boʻlgan masʼuliyatini belgilovchi huquqiy maqomi tushuniladi. Yaʼni er-xotinning shaxsiy huquq va majburiyatlari mulk bilan bogʻliq boʻlmaydi. Bu huquq va majburiyatlar birovga oʻtkazilishi mumkin emas.
 
 Er-xotin Oʻzbekiston Respublikasi Konstitutsi yasida belgilangan har bir inson va fuqaroga tegishli huquq va erkinliklar hamda burchlar bilan bir qatorda oila sharoitida, bola tarbiyasida er-xotinlik huquq va majburiyatlariga ham ega boʻladilar. Er-xotinning shaxsiy huquq va majburiyatlarini amalga oshirish Oʻzbekiston Respublikasi Oila kodeksi bilan tartibga solinadi.
@@ -939,6 +943,8 @@ Nikoh tuzish vaqtida er va xotin oʻz xohishi bilan eri yoki xotinining familiya
 Oiladagi munosabatlarni oʻzaro yordam asosida qurish Farzandlarini voyaga yetgunga qadar boqish, ularning tarbiyasi, taʼlim olishi borasida gʻamxoʻrlik qilish Oʻz farzandlarining farovonligi va kelajagi haqida qaygʻurish Oilaning farovon va mustahkam boʻlishiga harakat qilish Voyaga yetmagan farzandlari yetkazgan zararni qoplash
 
 Mashgʻulotlar turini erkin tanlash Nikoh shartnomasini tuzish Turarjoyni tanlash Nikoh tuzish yoki ajrashish vaqtida familiya tanlash Mol-mulkka egalik qilish, undan foydalanish Kasb tanlash
+
+![](img/ogp-10.uz/p053-1.webp "262x252")
 
 Er-xotin bolalar tarbiyasi va oilaviy turmushning boshqa masalalarini birgalikda hal qilish huquqiga ega. Yaʼni er-xotin bolalari qaysi bogʻchaga, maktabga, toʻgaraklarga borishi, sportning qaysi turi bilan shugʻullanishi kabi masalalarni birgalikda hal qiladilar. Ichki oilaviy masalalar er-xotinning oʻzaro kelishuvi bilan hal qilinadi.
 
@@ -958,6 +964,10 @@ Nikohlanuvchi shaxslarning, shuningdek, er va xotinning mulkiy huquq hamda majbu
 
 Nikoh shartnomasi er va xotinning mavjud mol-mulkiga nisbatan ham, boʻlgʻusi mol-mulkiga nisbatan ham tuzilishi mumkin. Er va xotin nikoh shartnomasida oʻzaro mod-
 
+![](img/ogp-10.uz/p053-2.webp "292x201")
+
+![](img/ogp-10.uz/p053-3.webp "342x225")
+
 diy taʼminot berish, oila xarajatlarini koʻtarish, bir-birining daromadida ishtirok etish, boshqa shaxslar bilan mulkiy shartnomalar tuzish, birgalikda tadbirkorlik faoliyati bilan shugʻullanish boʻyicha oʻz huquq va majburiyatlarini belgilab oladi. Shuningdek, nikoh shartnomasi nikoh tugatilganda er va xotindan har biriga beriladigan mulk aniqlab olinadi. Nikoh shartnomasida nazarda tutilgan huquq va majburiyatlar muayyan muddat bilan cheklanishi mumkin. Shuni ham esda tutish kerakki, er va xotindan birini oʻta noqulay holatga solib qoʻyuvchi holatlarda nikoh shartnomasi haqiqiy emas deb topilishi mumkin.
 
 ### OILADA OTA-ONANING HUQUQ VA MAJBURIYATLARI
@@ -970,13 +980,7 @@ Har bir ota-ona farzandini boqib, tarbiyalab, odob-axloqli, iqtidorli, jamiyat u
 
 Darhaqiqat, bola shaxsining mehnat tarbiyasiga alohida eʼtibor berish, bolaning izzatini joyiga qoʻyish, oilada qatʼiy rejim va kun tartibini oʻrnatish, bolaning yosh va shaxsiy xususiyatlarini hisobga olish, boladagi oʻzgarishlarni kuzatib borish, undagi mustaqillikka intilish va tashabbuskorlik sifatlarini qoʻllab-quvvatlashda ota-onaning oʻrni kattadir. Chunki ular bola tarbiyasi uchun javobgardir.
 
-Ota-ona oʻz bolalarini tarbiyalash huquqiga ega va tarbiyalashi shart
-
-Ota-ona oʻz bolalarining tarbiyasi va kamoloti uchun javobgardir
-
-Ota-ona oʻz bolalarining sogʻligi, jismoniy-ruhiy, maʼnaviy va axloqiy kamoloti borasida gʻamxoʻrlik qilishi shart
-
-Ota-ona oʻz bolalarining huquqi va manfaatlarini himoya qilishi shart
+![](img/ogp-10.uz/p054-1.webp "782x282")
 
 Ota-ona bolalarining sogʻligʻi, jismoniy, ruhiy, maʼnaviy va axloqiy kamoloti borasida gʻamxoʻrlik qiladi. Farzand tarbiyasida boshqa shaxslarga nisbatan ustun huquqqa ega. Ota-ona bolalarining taʼlim olishini taʼminlaydi. Farzandlari voyaga yetgunlariga qadar boqish va tarbiyalash majburiyati bilan birga ularning huquq va manfaatlarini himoya qilish ham ota-onaning zimmasiga yuklatilgan.
 
@@ -1008,13 +1012,17 @@ Savol. Ona va farzand huquqlarini himoya qilishning qanday huquqiy meʼyorlari m
 
 ## 14-dars. Oilada bolalarning huquq va majburiyatlari
 
-Odamlar! Eng avvalo ezgu axloqqa ega boʻlishga harakat qiling, zero, axloq qonunning asosidir. Pifagor
+Odamlar! Eng avvalo ezgu axloqqa ega boʻlishga harakat qiling, zero, axloq qonunning asosidir. **Pifagor**
 
 ### Siz bilib olasiz
 
 Bolalarning oilada yashash va tarbiyalanish huquqi. Bola huquqlari va uning kafolatlari.
 
 Farzandlarning ota-ona oldidagi majburiyatlari.
+
+### BOLALARNING OILADA YASHASH VA TARBIYALANISH HUQUQI
+
+![](img/ogp-10.uz/p056-1.webp "402x272")
 
 Farzand dunyoga kelgach, ota-ona oldida juda katta masʼuliyat vujudga keladi.
 
@@ -1025,6 +1033,8 @@ BMTning 1989-yil 20-noyabrda qabul qilingan Bola huquqlari toʻgʻrisidagi konve
 Oʻzbekiston Respublikasining “Bola huquqlarining kafolatlari toʻgʻrisida”gi qonunida “bola” tushunchasiga shunday taʼrif berilgan: “Bola – oʻn sakkiz yoshga toʻlgunga qadar boʻlgan shaxs”dir. Demak, 18 yoshga toʻlmagan, voyaga yetmagan shaxslar bola hisoblanar ekan.
 
 Farzandlarga tegishli huquqlar “bola huquqi” tushunchasiga taalluqli hisoblanadi. Oʻzbekiston Respublikasining Oila kodeksiga koʻra, har bir bola oilada yashash va tarbiyalanish, oʻz ota-onasini bilish, ularning gʻamxoʻrligidan foydalanish, ular bilan birga yashash huquqiga ega. Bolani oʻz ota-onasi tarbiyalaydi. Bola oʻz manfaatlarining taʼminlanishi, har taraflama kamol topishi, insoniy qadr-qimmatlari hurmat qilinishi huquqiga ega.
+
+![](img/ogp-10.uz/p056-2.webp "432x282")
 
 Shuningdek, bola ota-onasi va boshqa qarindoshlari bilan koʻrishish, oʻzini himoya qilish, oʻz fikrini erkin ifoda etish, ism, otaism va familiya olish huquqlariga ham ega. Bolalarning taʼlim-tarbiyasiga taalluqli barcha masalalar bolalar manfaatidan kelib chiqqan va ularning fikrini hisobga olgan holda ota-ona tomonidan oʻzaro kelishuv asosida hal etiladi.
 
@@ -1037,6 +1047,8 @@ Bolalar hamda ularning qonuniy vakillarining bola huquqlari va qonuniy manfaatla
 – bobo, buvi, aka-uka, opa-singil va boshqa yaqin qarindoshlari bilan koʻrishib turish huquqiga, voyaga yetmagan bola ota-onadan taʼminot olish huquqiga ega. Ota-onasining nikohdan ajralishi yoki ota-onaning boshqa-boshqa yashashi bolaning huquqlariga taʼsir qilmaydi.
 
 Oʻzbekiston Respublikasi Oila kodeksiga koʻra, bola oʻz huquqi va qonuniy manfaatlarini himoya qilish, oilada oʻzining manfaatlariga taalluqli masala hal qilinayotganda oʻz fikrini ifoda etish, ism, otaism va familiya olish huquqiga ega. Bolaning familiyasi ota-onaning familiyasiga qarab belgilanadi.
+
+![](img/ogp-10.uz/p057-1.webp "402x228")
 
 ### FARZANDLARNING OTA-ONA OLDIDAGI MAJBURIYATLARI
 
@@ -1054,7 +1066,7 @@ Har bir farzand ota-onasining koʻnglini olish, duolariga sazovor boʻlish, xizm
 
 ### Yodda tuting
 
-Farzandlar ota-onalarining nasl-nasabidan va fuqarolik holatidan qatʼi nazar, qonun oldida tengdirlar.
+![](img/ogp-10.uz/p058-1.webp "412x210")
 
 ### Savol va topshiriqlar
 
@@ -1078,7 +1090,7 @@ Har bir bola oʻz shaʼni va qadr-qimmatiga qilingan tajovuzlardan, shaxsiy hayo
 
 ## 15-dars. Ota-ona hamda bolalarning aliment huquqi va majburiyatlari
 
-Agar bir mamlakat aholisi axloqsizlik va johillik bilan oilaviy munosabatlarni zaiflashtirib yuborsa va intizomsizlikka yoʻl qoʻysa, shunda bu millatning saodati va hayoti shubha ostida qoladi. Abdurauf Fitrat
+Agar bir mamlakat aholisi axloqsizlik va johillik bilan oilaviy munosabatlarni zaiflashtirib yuborsa va intizomsizlikka yoʻl qoʻysa, shunda bu millatning saodati va hayoti shubha ostida qoladi. **Abdurauf Fitrat**
 
 ### Siz bilib olasiz
 
@@ -1087,6 +1099,8 @@ Agar bir mamlakat aholisi axloqsizlik va johillik bilan oilaviy munosabatlarni z
 Aliment turlari.
 
 Bolalarga va ota-onalarga beriladigan taʼminot.
+
+### “ALIMENT” TUSHUNCHASI
 
 Oiladagi huquqiy munosabatlarni tartibga solishda oila aʼzolarini moddiy taʼminlash uchun ularga toʻlanadigan nafaqa sifatida aliment joriy qilingan. Bu oila aʼzolariga gʻamxoʻrlik qilishning yana bir shakli hisoblanadi.
 
@@ -1104,9 +1118,11 @@ Oʻzbekiston Respublikasi Prezidentining 2022-yil 7-martdagi “Oila va xotin-qi
 
 Shuningdek, “Aliment toʻlovlari” jamgʻarmasi tashkil etiladi. Aliment toʻlaydigan shaxs alimentni uch oy ichida toʻlay olmagan hollarda ushbu jamgʻarmadan qarzdorlik toʻlanadi va keyinchalik aliment toʻlash majburiyati yuklatilgan qarzdordan majburiy tartibda undirib olinadi.
 
-ALIMENT TURLARI Aliment turli shakllarda toʻlanadi. Oila kodeksida buning huquqiy asoslari belgilab berilgan. Voyaga yetmagan bolalar va mehnatga layoqatsiz hamda yordamga muhtoj boʻlgan voyaga yetgan bolalar aliment olish huquqiga egadirlar. Bundan tashqari, yordamga muhtoj, mehnatga layoqatsiz er yoki xotin ham bunday alimentni sud tartibida olish huquqiga ega.
+### ALIMENT TURLARI
 
-Er-xotin (sobiq er-xotin)ning bir-biriga toʻlaydigan alimenti
+Aliment turli shakllarda toʻlanadi. Oila kodeksida buning huquqiy asoslari belgilab berilgan. Voyaga yetmagan bolalar va mehnatga layoqatsiz hamda yordamga muhtoj boʻlgan voyaga yetgan bolalar aliment olish huquqiga egadirlar. Bundan tashqari, yordamga muhtoj, mehnatga layoqatsiz er yoki xotin ham bunday alimentni sud tartibida olish huquqiga ega.
+
+![](img/ogp-10.uz/p060-1.webp "782x428")
 
 Agar voyaga yetmagan bolalarga aliment toʻlash haqida ota-ona oʻrtasida kelishuv boʻlmasa, aliment ixtiyoriy ravishda toʻlanmasa, ota-onadan birortasi ham aliment undirish toʻgʻrisida sudga daʼvo bilan murojaat qilmasa, vasiylik va homiylik organlari aliment undirish toʻgʻrisida daʼvo qoʻzgʻata oladi.
 
@@ -1116,9 +1132,11 @@ Er-xotinning bir-biriga taʼminot berish majburiyati qonuniy nikohdan oʻtgan sh
 
 Er-xotinning bir-biridan taʼminot olish huquqi nikohdan ajralgan, yordamga muhtoj, mehnatga layoqatsiz er yoki xotin yangi nikohga kirganda tugaydi. Voyaga yetmagan, shuningdek, voyaga yetgan mehnatga layoqatsiz, yordamga muhtoj shaxslarga taʼminot berish majburiyati sud tomonidan ularning qarindoshlari: bobo, buvi, nevara, aka-uka, opa-singil, shuningdek, oʻgay ota va oʻgay ona, oʻgay oʻgʻil va oʻgay qizlari zimmasiga yuklatilishi mumkin.
 
-Aliment toʻlashi shart boʻlgan shaxs doimiy yashash uchun yoki uch oydan ortiq muddatga chet davlatga ketayotganida qonunga muvofiq oʻzi taʼminot berishi lozim boʻlgan aliment oluvchilar bilan aliment toʻlash toʻgʻrisida kelishuv tuzishi shart.
+![](img/ogp-10.uz/p060-2.webp "782x192")
 
 ### BOLALARGA VA OTA-ONALARGA BERILADIGAN TAʼMINOT
+
+![](img/ogp-10.uz/p061-1.webp "352x242")
 
 Yuqorida aliment bir necha turlarga boʻlinishini taʼkidlab oʻtdik. Endi ushbu aliment turlaridan bolalarga beriladigan aliment va ota-onalarga beriladigan moddiy taʼminotga toʻxtalamiz. Yosh avlodni jismonan sogʻlom va maʼnaviy jihatdan barkamol inson qilib voyaga yetkazish muhim hisoblanadi. Oila kodeksiga koʻra, ota-ona voyaga yetmagan bolalariga taʼminot berishi shart deb belgilangan. Bunda ota-onaning aliment toʻlash majburiyatlari teng boʻladi. Ota-ona alimentni ixtiyoriy yoki majburiy toʻlaydi. Ixtiyoriy aliment toʻlash deganda ota-onaning oʻzaro kelishuvi asosida toʻlanadigan aliment tushuniladi. Majburiy aliment toʻlash deganda ota-ona alimentni ixtiyoriy toʻlamaganda sud tomonidan majburiy belgilangan va toʻlash talab etiladigan aliment tushuniladi. Aliment sud tomonidan ota-onaning har oydagi ish haqi va (yoki) boshqa daromadi hisobidan toʻlanadi.
 
@@ -1129,6 +1147,14 @@ Voyaga yetmagan bolani davlat yoki nodavlat muassasalari toʻliq taʼminlashi ha
 Ota-onasi vafot etganligi oqibatida yetim qolgan voyaga yetmagan bolalarga taʼminot berish, ularni tarbiyalash va ularga taʼlim berish davlat tomonidan toʻliq amalga oshiriladi. Mehnatga layoqatsiz, yordamga muhtoj voyaga yetgan bolalar oʻz taʼminoti uchun aliment talab qila oladi.
 
 Ayrim hollarda voyaga yetgan, mehnatga layoqatli farzandlar oʻz ota-onalariga qaramay, eʼtibordan chetda qoldiradilar. Bunda, birinchidan, farzandlar konstitutsiyaviy maj-
+
+![](img/ogp-10.uz/p061-2.webp "322x278")
+
+![](img/ogp-10.uz/p061-3.webp "212x242")
+
+![](img/ogp-10.uz/p061-4.webp "212x242")
+
+![](img/ogp-10.uz/p061-5.webp "192x232")
 
 buriyatni bajarmagan hisoblanib, huquqbuzarlik sodir etgan boʻladilar. Ikkinchidan, Oila kodeksidagi meʼyorlarga rioya qilmay, qonunni buzadilar. Uchinchidan, farzand sifatida ota-onalariga mehr-oqibatni unutib, insoniy fazilatlarga befarq boʻladilar. Oila kodeksining 109-moddasiga koʻra, voyaga yetgan, mehnatga layoqatli bolalar yordamga muhtoj oʻz ota-onasiga moddiy taʼminot berishlari va ularga gʻamxoʻrlik qilishlari shart. Bu esa ota-ona uchun gʻamxoʻrlik qilish majburiyatining qonuniy asosi hisoblanadi va ota-onaning huquqlarini kafolatlaydi.
 
@@ -1164,13 +1190,13 @@ Savol. Farzandlarning otasi onadan aliment undirishi mumkinmi? Aliment toʻlamas
 
 Muammolar aqlli insonlarni chora koʻrishga, nodonlarni esa tushkunlikka tushishga undaydi.
 
-Yuliy Sezar
+**Yuliy Sezar**
 
-1-topshiriq. Quyidagi vaziyatni oʻrganing va savollarga javob bering.
+**1-topshiriq.** Quyidagi vaziyatni oʻrganing va savollarga javob bering.
 
 Maktabni tugatish arafasida turgan 16 yoshli qizning uyiga sovchilar kela boshlagan. Qizning oilasidagi 80 yoshli buvisi har safar sovchi kelganida “Menga sening toʻying nasib qilarmikan?” deb koʻziga yosh olib, qizning otasiga umidvor boʻlib qarab qoʻyar edi. Bu holatni koʻrgan qizning otasi “Siqilmang, onajon, yozga chiqib toʻy qilamiz”, deb onasini yupatadi. Qizning onasi esa “Hali qizimiz yosh, oila qurishga tayyor emas”, deb sovchilarga rad javobini berib yuboraveradi.
 
-Savollarga javob bering.
+**Savollarga javob bering.**
 
 1. Sizningcha, “Hali qizimiz yosh, oila qurishga tayyor emas” deganda qizning onasi nimani nazarda tutgan?
 
@@ -1180,57 +1206,61 @@ Savollarga javob bering.
 
 4. Nikohni rasmiylashtirish tartibini bayon eting.
 
-2-topshiriq. Oilaviy huquqiy munosabatlardagi ayrim muammolarni tahlil qiling va jadvalni toʻldiring.
+**2-topshiriq.** Oilaviy huquqiy munosabatlardagi ayrim muammolarni tahlil qiling va jadvalni toʻldiring.
 
 ### Oiladagi mulkiy nizolar
 
-NAZORAT ISHI Eng katta boylik bu – aql-zakovat va ilm, eng katta meros bu – yaxshi tarbiya, eng katta qashshoqlik bu – bilimsizlikdir!
+![](img/ogp-10.uz/p063-1.webp "792x363")
+
+### NAZORAT ISHI
+
+Eng katta boylik bu – aql-zakovat va ilm, eng katta meros bu – yaxshi tarbiya, eng katta qashshoqlik bu – bilimsizlikdir!
 
 ### Bob yuzasidan test savollari
 
-1. Nikoh bu –...
+**1. Nikoh bu –...**
 
 a) ikki yoshning FHDYda ixtiyoriy bitim rasmiylashtirishi b) erkak va ayolning bitimi c) erkak va ayolning birga yashashi, umumiy roʻzgʻorga ega boʻlishi d) erkak va ayol FHDYda ixtiyoriy kelishuv rasmiylashtirishi
 
-2. Er-xotinning huquq va majburiyatlari vujudga kelish vaqtini aniqlang. a) nikoh FHDYda qayd etilgan vaqtdan b) FHDYga ariza berilgan kundan c) toʻy marosimlari oʻtgan kundan d) unashtirilgan kundan
+**2. Er-xotinning huquq va majburiyatlari vujudga kelish vaqtini aniqlang.** a) nikoh FHDYda qayd etilgan vaqtdan b) FHDYga ariza berilgan kundan c) toʻy marosimlari oʻtgan kundan d) unashtirilgan kundan
 
 ### 3. Er-xotinning familiyasi nikoh tuzishda oʻzgaradimi?
 
 a) oʻz familiyasida qolishi, er yoki xotinning familiyasiga oʻtishi mumkin b) erining yoki xotinining familiyasiga oʻtishi mumkin c) faqat erining familiyasiga oʻtishi kerak d) har biri oʻz familiyasida qoladi
 
-4. Er-xotinning birgalikdagi umumiy mulkini aniqlang. a) nikohdan oʻtgan kundan boshlab orttirilgan mulk b) ota-onadan meros boʻlib qolgan mulk c) er-xotinning nikohdan oldingi va keyingi mulklari d) turarjoy, mashina va shularga teng keladigan mulklar
+**4. Er-xotinning birgalikdagi umumiy mulkini aniqlang.** a) nikohdan oʻtgan kundan boshlab orttirilgan mulk b) ota-onadan meros boʻlib qolgan mulk c) er-xotinning nikohdan oldingi va keyingi mulklari d) turarjoy, mashina va shularga teng keladigan mulklar
 
 ### 5. Ota-onalik huquqidan mahrum qilinganlar farzandlariga taʼminot beradilarmi?
 
 a) bermaydi b) beradi c) berish-bermaslik ularning xohishi d) imkoniyati boʻlsa, beradi
 
-6. Nikohni bekor qilish tartibini koʻrsating. a) FHDY yoki sudda b) faqat FHDYda c) sud va hokimlikda d) faqat sudda
+**6. Nikohni bekor qilish tartibini koʻrsating.** a) FHDY yoki sudda b) faqat FHDYda c) sud va hokimlikda d) faqat sudda
 
 ### 7. FHDYga ariza bergandan keyin nikohni qayd etish muddati qancha?
 
 a) 1 oy b) 2 hafta c) 20 kun d) 10 kun
 
-8. Nikoh tuzishga monelik qilmaydigan holatlarni aniqlang.
+**8. Nikoh tuzishga monelik qilmaydigan holatlarni aniqlang.**
 
 a) loaqal bittasi roʻyxatga olingan boshqa nikohda boʻlsa b) nasl-nasab shajarasi boʻyicha toʻgʻri tutashgan qarindoshlar oʻrtasida boʻlsa c) loaqal bittasi ruhiyat buzilishi (ruhiy kasalligi yoki aqli zaifligi) sababli sud tomonidan muomalaga layoqatsiz deb topilgan boʻlsa d) ota-onalarining oʻzaro kelishuvi boʻlmasa
 
-9. Bolaning ota-onasi boʻlmaganda yoki bola ota-ona qaramogʻidan mahrum boʻlgan hollarda uning oilada tarbiyalanish huquqi kim tomonidan amalga oshiriladi?
+**9. Bolaning ota-onasi boʻlmaganda yoki bola ota-ona qaramogʻidan mahrum boʻlgan hollarda uning oilada tarbiyalanish huquqi kim tomonidan amalga oshiriladi?**
 
 a) vasiylik b) homiylik c) qarindoshlar d) buvisi va bobosi
 
-10. “Farzandlar ota-onalarning nasl-nasabidan va fuqarolik holatidan qatʼi nazar, qonun oldida tengdirlar” degan qoida qaysi huquqiy hujjatda belgilangan?
+**10. “Farzandlar ota-onalarning nasl-nasabidan va fuqarolik holatidan qatʼi nazar, qonun oldida tengdirlar” degan qoida qaysi huquqiy hujjatda belgilangan?**
 
 a) Oʻzbekiston Respublikasining Konstitutsiyasida b) Fuqarolik kodeksida c) Oila kodeksida d) Mehnat kodeksida
 
-Topshiriq. Qanday hollarda ajrim holatlari FHDYda yoki sudda koʻriladi? 3–4-ustunga “+” belgisini qoʻyish orqali qaysi organga tegishli ekanini aniqlang.
+**Topshiriq.** Qanday hollarda ajrim holatlari FHDYda yoki sudda koʻriladi? 3–4-ustunga “+” belgisini qoʻyish orqali qaysi organga tegishli ekanini aniqlang.
 
 ### FHDY organlarida
 
-Er-xotinning voyaga yetmagan bolalari 2 kim bilan yashashi toʻgʻrisida kelishuv boʻlmaganida
+![](img/ogp-10.uz/p065-1.webp "792x523")
 
-Voyaga yetmagan bolalari boʻlmagan er-xotin oʻzaro rozi boʻlsa
+### III BOB. FUQAROLIK-HUQUQIY MUNOSABATLAR@edurtm_uz
 
-Umumiy voyaga yetmagan bolalari bor 6 yoki yoʻqligidan qatʼi nazar, er-xotindan birining roziligi boʻlmasa
+![](img/ogp-10.uz/p066-1.webp "900x1067")
 
 # III bob. Fuqarolik-huquqiy munosabatlar
 
@@ -1240,7 +1270,7 @@ Vijdoningga teskari yurma va haqiqatga zid narsani gapirma.
 
 Shu muhim nasihatga rioya qilsang, hayotingda oʻz oldingga qoʻygan vazifalarni toʻla ado etasan.
 
-Mark Avreliy
+**Mark Avreliy**
 
 ### Siz bilib olasiz
 
@@ -1270,6 +1300,8 @@ Yaʼni mahsulot sotib olgan taraf (xaridor) pul toʻlash majburiyatini olsa, pul
 
 Yuqorida taʼkidlab oʻtganimizdek, fuqarolik huquqi tartibga soladigan munosabatlarning asosi mulkiy xarakterga ega ekan, ushbu fuqarolik-huquqiy munosabat taraflarning mulkiy xarakterga ega boʻlgan xatti-harakati (oldi-sotdi, qarz, bankka pul qoʻyish, kredit olish kabilar) natijasida kelib chiqadi.
 
+![](img/ogp-10.uz/p068-1.webp "402x350")
+
 Fuqarolik-huquqiy munosabatlar inson shaʼni, qadr-qimmati, obro‘-eʼtibori, mualliflik huquqi kabi huquqiy munosabatlarni ham tartibga soladi. Bu munosabatlar “nomulkiy munosabatlar” deb ataladi.
 
 Shaxsiy nomulkiy munosabatlar mulkiy munosabatlardan farq qiladi, shaxsiy nomulkiy munosabatlar pul bilan ifodalanmaydi, balki shaxsning oʻzi bilan bogʻliq boʻladi.
@@ -1286,6 +1318,8 @@ Fuqarolik huquqlarini amalga oshirish boshqa shaxslarning huquqlarini hamda qonu
 
 Fuqarolik-huquqiy munosabatlarda taraflarning xohish-irodasi ham katta ahamiyatga ega boʻladi. Chunki shaxslar fuqarolik-huquqiy munosabatlarda oʻz xohishlari bilan yoki kelishuv asosida ishtirok etadilar. Shaxslar oʻzlariga tegishli boʻlgan fuqarolik huquqlarini, jumladan, ularni himoya qilish huquqini ham oʻz xohishlariga koʻra tasarruf etadilar. Shaxsning oʻzi ham fuqarolik huquqini himoya qilishi mumkin.
 
+### “BITIMLAR” TUSHUNCHASI
+
 Yuqorida taʼkidlanganidek, bitimlar fuqarolar va yuridik shaxslarning fuqarolik huquq va burchlarini belgilash, oʻzgartirish yoki bekor qilishga qaratilgan harakatlardir. Bitimlar shaxslarning fuqarolik huquq va burchlarini keltirib chiqaradigan kelishuvdir. Aynan bitim fuqarolik-huquqiy munosabatni vujudga keltiradi. Bitimlar bir taraflama, ikki taraflama yoki koʻp taraflama (shartnomalar) boʻlishi mumkin.
 
 Agar bitim bir tarafning xohishi bilan tuzilgan boʻlsa, bunday bitim “bir taraflama bitim” deb ataladi. Bir taraflama bitim tuzilganda uni tuzgan shaxs uchun burchlar paydo boʻladi. Agar bitim ikki tarafning xohishi bilan tuzilgan boʻlsa, ikki taraflama bitim hisoblanadi. Agar bitim uch va undan koʻp taraf kelishgan holda xohish bildirib tuzilgan boʻlsa, “koʻp taraflama bitim” deyiladi. Bitimlar ogʻzaki va yozma shaklda tuziladi va u oddiy yoʻl bilan yoki notarial tasdiqlanadi. Qonunchilikda yoki taraflarning kelishuv ida yozma shakl belgilab qoʻyilmagan, jumladan, u tuzilayotgan vaqtning oʻzidayoq bajariladigan boʻlsa, bunday bitim ogʻzaki tuzilishi mumkin. Masalan, xaridor oʻz ehtiyojiga kerak boʻlgan mahsulotni tanlaydi va uning haqini (pulini) sotuvchiga oʻz xohishi bilan toʻlaydi. Bunda shaxsning xatti-harakatidan uning bitim tuzishga boʻlgan xohish-irodasi aniq boʻladi. Yozma shaklda
@@ -1298,7 +1332,7 @@ Oʻn toʻrt yoshga toʻlmagan shaxs hamda oʻn toʻrt yoshdan oʻn sakkiz yoshga
 
 ### Yodda tuting
 
-Notariat jismoniy va yuridik shaxslarning huquqlari hamda qonuniy manfaatlarini himoya qilishni taʼminlashga daʼvat etilgan huquqiy institutdir. Notarial harakatlar Oʻzbekiston Respublikasining “Notariat toʻgʻrisida”gi qonuni bilan tartibga solinadi. Davlat notarial idoralari Oʻzbekiston Respublikasi Adliya vazirligi tomonidan tashkil etiladi va tugatiladi.
+**Notariat** jismoniy va yuridik shaxslarning huquqlari hamda qonuniy manfaatlarini himoya qilishni taʼminlashga daʼvat etilgan huquqiy institutdir. Notarial harakatlar Oʻzbekiston Respublikasining “Notariat toʻgʻrisida”gi qonuni bilan tartibga solinadi. Davlat notarial idoralari Oʻzbekiston Respublikasi Adliya vazirligi tomonidan tashkil etiladi va tugatiladi.
 
 ### Savol va topshiriqlar
 
@@ -1316,13 +1350,11 @@ Notariat jismoniy va yuridik shaxslarning huquqlari hamda qonuniy manfaatlarini 
 
 ### Mustaqil ish uchun topshiriq
 
-1. Fuqarolarning huquqlariga, fuqarolik mulkiy munosabatlariga va fuqarolik nomulkiy munosabatlariga misollar keltirib, jadvalni toʻldiring.
-
-2. Axloqiy munosabatlar va huquqiy munosabatlar qanday meʼyorlar bilan tartibga solinishini ogʻzaki bayon eting.
+![](img/ogp-10.uz/p069-1.webp "782x391")
 
 ## 18–19-dars. Fuqarolik-huquqiy munosabat subyektlari va obyektlari
 
-Bir soʻz sening fikringni oʻzgartirishi mumkin, bir tuygʻu sening hayotingni oʻzgartirishi mumkin, bir inson seni oʻzgartirishi mumkin. Konfutsiy
+Bir soʻz sening fikringni oʻzgartirishi mumkin, bir tuygʻu sening hayotingni oʻzgartirishi mumkin, bir inson seni oʻzgartirishi mumkin. **Konfutsiy**
 
 ### Siz bilib olasiz
 
@@ -1358,17 +1390,7 @@ Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan voyaga yetmaganlar ota-onalar
 
 Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan voyaga yetmaganlar oʻzlari tuzgan bitimlar boʻyicha mustaqil ravishda mulkiy javobgar boʻladilar va ular oʻzlari yetkazgan zarar uchun ham javobgar hisoblanadi. Chunki ular bitimda kelishilgan shartlarni bajaradilar.
 
-### Muomalaga layoqatsizlik – muomalaga layoqati
-
-sud qarori bilan cheklangan hamda 6 yoshgacha boʻlgan bolalar.
-
-### Toʻliq boʻlmagan muomala layoqati – 6–14
-
-yosh va 14–18 yosh oraligʻida boʻlgan voyaga yetmaganlar, muomalaga layoqati sud qarori bilan cheklanganlar
-
-### Toʻliq muomala layoqati – 18 yoshga
-
-yetganlar, emansipatsiya holatidagi voyaga yetmaganlar
+![](img/ogp-10.uz/p071-1.webp "782x417")
 
 Voyaga yetmagan shaxsni toʻla muomalaga layoqatli deb eʼlon qilish emansipatsiya hisoblanadi. Yaʼni 18 yoshga toʻlmasdan ham emansipatsiya holatida shaxs toʻliq muomala layoqatiga ega boʻladi.
 
@@ -1404,11 +1426,15 @@ Mulkiy va shaxsiy nomulkiy huquqlar, intellektual faoliyat natijalari va hk.
 
 4. Fuqarolik-huquqiy munosabatlarning obyektlariga nimalar kiradi? Ularning mazmunini tushuntiring.
 
+### Mustaqil ish uchun topshiriq
+
+![](img/ogp-10.uz/p073-1.webp "782x315")
+
 ## 20-dars. Mulkiy va nomulkiy munosabatlar
 
 Har bir insonga ikkita katta sovgʻa beriladi: miya va vaqt.
 
-Ularni qanday maqsadda ishlatish esa oʻz qoʻlingizda! Robert Kiyosaki
+Ularni qanday maqsadda ishlatish esa oʻz qoʻlingizda! **Robert Kiyosaki**
 
 ### Siz bilib olasiz
 
@@ -1422,13 +1448,13 @@ Nomulkiy munosabatlar va ularning huquqiy asoslari.
 
 Fuqarolik huquqi tartibga soladigan mulkiy munosabatlar deganda muayyan moddiyiqtisodiy mazmunga ega boʻlgan munosabatlar tushuniladi. Masalan, sizga sovgʻa qilingan velosipedga egalik qilishingiz, oldi-sotdi, tayyor mahsulotga buyurtma berish, kiyim-boshni tozalatish, poyabzalni taʼmirlash kabi munosabatlar shular jumlasidandir.
 
-Mulk huquqining vujudga kelish asoslari sifatida quyidagilarni misol qilib keltirish mumkin
+**Mulk huquqining vujudga kelish asoslari sifatida quyidagilarni misol qilib keltirish mumkin**
 
-Mol-mulkni yaratish, koʻpaytirish, bitimlar asosida qoʻlga kiritish
-
-### Mehnat faoliyati
+![](img/ogp-10.uz/p074-1.webp "782x209")
 
 Bunda bir shaxs ikkinchi shaxs bilan bogʻliq huquqiy munosabatlarga kirishadi. Bu munosabatlar maʼlum bir xizmat natijasi boʻlishi ham mumkin. Masalan, uyga biror mahsulotni buyurtma sifatida olib kelib berish. Shuningdek, mulkiy huquqiy munosabatlar ashyolar yoki mol-mulklarni egallash, ulardan foydalanish va ularni tasarruf etishga qaratiladi. Natijada ular bilan bogʻliq mulkiy huquqlar amalga oshiriladi. Mulkiy huquqlar mulk asosida vujudga keladi. Masalan, shaxsga tegishli boʻlgan, uning ixtiyoridagi uy-joy, zeb-u ziynat, kiyim-kechak, ehtiyojni qondiradigan buyumlar mulk huquqini keltirib chiqaradi. Bundan tashqari, yer, yerosti boyliklari, suv, oʻsimlik va
+
+![](img/ogp-10.uz/p074-2.webp "302x192")
 
 hayvonot dunyosi hamda boshqa tabiiy zaxiralar umummilliy boylik hisoblanadi. Tashkilot, korxona va muassasalarga tegishli mulklar ham boʻladi. Mehnat faoliyati, mol-mulkdan foydalanish sohasidagi tadbirkorlik va boshqa xoʻjalik faoliyati, shu jumladan, mol-mulkni yaratish, koʻpaytirish, bitimlar asosida qoʻlga kiritish, davlat mol-mulkini xususiylashtirish, meros qilib olish, egalik qilish huquqini vujudga keltiruvchi muddat kabilar mulk huquqining vujudga kelishi uchun asos hisoblanadi.
 
@@ -1436,13 +1462,17 @@ hayvonot dunyosi hamda boshqa tabiiy zaxiralar umummilliy boylik hisoblanadi. Ta
 
 Inson narsa, buyum va neʼmatlarni sotib olish yoʻli bilan oʻziniki qilib olsagina, uni oʻzlashtirishi mumkin. Birovga tegishli boʻlgan mulkni oʻzlashtirib boʻlmaydi. Oʻzbekiston Respublikasi Konstitutsiyasida taʼkidlanganidek, fuqarolar farovonligini oshirishga qaratilgan Oʻzbekiston iqtisodiyotining negizini xilma-xil shakllardagi mulk tashkil etadi. Mulkdor oʻziga tegishli boʻlgan mol-mulkka oʻz xohishicha egalik qiladi, undan foydalanadi va uni tasarruf etadi. Oʻzbekiston Respublikasida barcha mulk shakllarining tenghuquqliligi va huquqiy jihatdan himoya qilinishi taʼminlanadi. Fuqarolik kodeksiga koʻra, mulk xususiy, ommaviy va umumiy shakllarga boʻlinadi.
 
-### Mulk shakllari
+![](img/ogp-10.uz/p075-1.webp "652x377")
 
 Xususiy mulk deganda shaxsning qonunchilikka muvofiq tarzda qoʻlga kiritgan mol-mulki tushuniladi va u mol-mulkka egalik qilish, undan foydalanish va uni tasarruf etish huquqiga ega boʻladi. Xususiy mulk boʻlgan mol-mulkning miqdori va qiymati cheklanmaydi. Xususiy mulk daxlsizdir.
 
 Ommaviy mulk deganda davlat mulki hisoblangan, respublika mulki va maʼmuriy-hududiy tuzilmalar mulki (munitsipal mulk) tushuniladi.
 
+![](img/ogp-10.uz/p075-2.webp "192x95")
+
 Yer, suv, havo boʻshligʻi, oʻsimlik va hayvonot dunyosi kabi tabiiy mulki hisoblanadi. Shuningdek, moddiy madaniy meros obyektlari, respublika byudjetining
+
+![](img/ogp-10.uz/p075-3.webp "512x162")
 
 zaxirasi, davlatning valyuta fondi va boshqa fondlari ham respublika mulki sanaladi.
 
@@ -1472,11 +1502,11 @@ Agar fuqaroning shaʼni, qadr-qimmati yoki ishchanlik obroʻsiga putur yetkazuvc
 
 ### Mustaqil ish uchun topshiriq
 
-Quyidagi tushunchalarga taʼrif bering. Misollar keltiring.
+![](img/ogp-10.uz/p076-1.webp "792x220")
 
 ## 21-dars. Majburiyatlar
 
-Hayotda muvaffaqiyatga erishish uchun uch narsa kerak: diqqat, intizom va harakat. Yoʻqligingda seni himoya qiladigan eng yaxshi himoyaching axloqingdir. Jaloliddin Rumiy
+Hayotda muvaffaqiyatga erishish uchun uch narsa kerak: diqqat, intizom va harakat. Yoʻqligingda seni himoya qiladigan eng yaxshi himoyaching axloqingdir. **Jaloliddin Rumiy**
 
 ### Siz bilib olasiz
 
@@ -1485,6 +1515,8 @@ Hayotda muvaffaqiyatga erishish uchun uch narsa kerak: diqqat, intizom va haraka
 Majburiyatning taraflari.
 
 Majburiyatning vujudga kelishi va bajarilishi.
+
+### “MAJBURIYAT” TUSHUNCHASI
 
 “Majburiyat” tushunchasini turli maʼnolarda ishlatish mumkin. Ijtimoiy maʼnoda majburiyat inson zimmasiga yuklangan vazifa, masʼuliyatni ifodalaydi. Majburiyat “burch” tushunchasi bilan bogʻliqdir.
 
@@ -1503,6 +1535,8 @@ Qarzdor majburiyatni bajarmagan yoki lozim darajada bajarmagan taqdirda kreditor
 Majburiyatning taraflari deganda kreditor va qarzdor tushuniladi. Ushbu taraflar bir yoki bir necha shaxs boʻlishi mumkin. Majburiyatlar tuzilgan shartnomada belgilanganidek, majburiyat shartlariga muvofiq bajarilishi kerak. Ayrim hollarda majburiyat shartlari bajarilmay qolishi mumkin.
 
 Majburiyatni bajarishdan bir tomonlama bosh tortish va shartnoma shartlarini bir tomonlama oʻzgartirishga yoʻl qoʻyilmaydi.
+
+### MAJBURIYATNING BAJARILISHI
 
 Majburiyatlarni oʻz vaqtida va talab darajasida bajarish taraflarning fuqarolik-huquqiy munosabatlarida muhim ahamiyatga ega. Majburiyatlarni bajarish deganda majburiyatda ishtirok etadigan qarzdor tomonidan kreditor talabiga muvofiq maʼlum bir harakatning amalga oshirilishi yoki maʼlum bir harakatdan saqlanish tushuniladi. Majburiyatning bajarilishi neustoyka, garov, qarzdorning mol-mulkini ushlab qolish, kafillik, kafolat, zakalat hamda shartnomada nazarda tutilgan boshqacha usullar bilan taʼminlanishi mumkin. Shularning ayrimlarini koʻrib chiqamiz.
 
@@ -1528,7 +1562,7 @@ Qarzdor majburiyatni bajarmaganligi tufayli kreditorga yetkazilgan zararni toʻl
 
 Agar keraksiz narsani sotib olsangiz, tez orada kerakli narsani sotasiz. Topganingizdan kamroq mablag‘ sarflang. Vaqt bu – pul.
 
-Benjamin Franklin
+**Benjamin Franklin**
 
 ### Siz bilib olasiz
 
@@ -1540,11 +1574,19 @@ Fuqarolik huquq va burchlarining vujudga kelishi, oʻzgartirilishi va bekor boʻ
 
 Majburiyatlar taraflar tomonidan tuzilgan shartnomalarda oʻz aksini topadi. Shartnomada tomonlarga yuklatilgan majburiyatlar asosida hujjat tuziladi. Majburiyatlar shartnoma shartlariga koʻra belgilangan talablarga muvofiq bajariladi. Bugun elektron shartnomalardan keng foydalanilmoqda va elektron oldi-sotdilar ham ommalashib bormoqda. Sizning hayotingizda ham bunday oldi-sotdi munosabatlari juda koʻp uchrab turishiga shubhamiz yoʻq. Xususan, juda koʻpchiligingiz turli taomlarni olib kelishlari uchun restoran yoki kafelarga elektron tarzda buyurtma bergansiz. Bular ham elektron shartnomaning bir turidir.
 
+![](img/ogp-10.uz/p079-1.webp "772x275")
+
 Oferta (lot. offero – “taklif etaman”) bir shaxsning boshqa shaxsga tovar yetkazib berish, biror-bir xizmat koʻrsatish va boshqa uchun shartnoma tuzish istagi va shartlari haqida yozma yoki ogʻzaki xabarnomasidir. Shunday xabar yuborgan jismoniy yoki yuridik shaxs “offerent”, xabarnoma olgan shaxs “akseptant” deb ataladi.
 
 Aksept (lot. acceptus – “qabul qilingan”) fuqarolik huquqida taklifda (ofertada) koʻrsatilgan shartlarga koʻra shartnoma tuzishga rozilik bildirishni anglatadi.
 
+### SHARTNOMALARNING AYRIM TURLARI
+
 Fuqarolik-huquqiy munosabatlar subyektlarining faoliyatida shartnoma munosabatlari alohida oʻrin egallaydi. Shartnomalar taraflar oʻrtasidagi fuqarolik huquqlari va burchlar vujudga kelishining asoslaridan biri hisoblanadi. Shartnomalar asosan mulkiy munosa-
+
+![](img/ogp-10.uz/p080-1.webp "332x222")
+
+![](img/ogp-10.uz/p080-2.webp "412x144")
 
 batlarni rasmiylashtirish uchun tuziladi. Shartnomalarning ayrimlarini koʻrib chiqamiz. Oldi-sotdi shartnomasida bir taraf (sotuvchi) tovarni boshqa taraf (sotib oluvchi)ga mulk qilib topshirish majburiyatini oladi. Sotib oluvchi esa bu tovarni qabul qilish va uning uchun belgilangan pul summasini toʻlash majburiyatini oladi. Ayirboshlash shartnomasida shaxs boshqa tarafga bir tovarni boshqa tovarga almashtirish yoʻli bilan mulk qilib topshirish majburiyatini oladi. Masalan, bir shaxs mashinasini sotmoqchi, sotib oluvchi unga avtoulovini almashtiradi va oʻrtadagi farqni pul shaklida toʻlaydi. Bunda tovar topshirish majburiyatini olgan shaxs sotuvchi, qabul qilish majburiyatini olgan shaxs esa sotib oluvchi hisoblanadi.
 
@@ -1557,6 +1599,8 @@ Xayr-ehsonni qabul qilishda biror kimsaning ruxsati yoki roziligi talab qilinmay
 Kredit shartnomasida bir taraf – bank yoki boshqa kredit tashkiloti (kreditor) ikkinchi tarafga (qarz oluvchiga) shartnomada nazarda tutilgan miqdorda pul mablagʻlari (kredit) berish, qarz oluvchi esa olingan pul summasini qaytarish va uning uchun foizlar toʻlash majburiyatini oladi.
 
 ### Davlat krediti
+
+![](img/ogp-10.uz/p080-3.webp "592x132")
 
 Uy-joyni ijaraga berish shartnomasida bir taraf – uy-joyning mulkdori (ijaraga beruvchi) boshqa taraf (ijaraga oluvchi)ga uy-joyda yashash uchun uni haq evaziga egalik qilish va foydalanishga topshirish majburiyatini oladi. Aniq maqsadga qaratilgan kommunal uy-joy fondidagi uy-joylar fuqarolarga uy-joyni ijaraga berish shartnomasiga binoan beriladi. Ijaraga oluvchi bilan birga yashaydigan uning oila aʼzolari uy-joyni ijaraga berish shartnomasiga asosan barcha huquqlardan teng foydalanadi va barcha majburiyatlarni bajaradi. Ijaraga oluvchi va uning oila aʼzolari talabiga binoan shartnoma oila aʼzolarining bittasi bilan tuzilishi mumkin.
 
@@ -1582,13 +1626,11 @@ Bank omonati shartnomasi omonat summasi bankka kelib tushgan kundan boshlab tuzi
 
 ### Mustaqil ish uchun topshiriq
 
-Oʻzbekiston Respublikasi Prezidenti 2021-yil 30-iyulda “Oliy, oʻrta maxsus va professional taʼlim tashkilotlarida taʼlim olish imkoniyatlarini yanada kengaytirish chora-tadbirlari toʻgʻrisida”gi qarorini imzoladi.
-
-Ushbu hujjatga koʻra, 2021–2022-oʻquv yilidan boshlab respublikadagi barcha OTMlar bakalavriatining kunduzgi taʼlim shaklida va magistratura bosqichida toʻlov-kontrakt asosida tahsil olish uchun taʼlim krediti ajratishning qanday tizimi yoʻlga qoʻyildi?
+![](img/ogp-10.uz/p081-1.webp "782x264")
 
 ## 23-dars. Isteʼmolchilar huquqlari
 
-Dunyo har qanday insonning ehtiyojlarini qondirish uchun yetarlicha katta, lekin insonning ochkoʻzligini qondirish uchun juda kichik. Mahatma Gandi
+Dunyo har qanday insonning ehtiyojlarini qondirish uchun yetarlicha katta, lekin insonning ochkoʻzligini qondirish uchun juda kichik. **Mahatma Gandi**
 
 ### Siz bilib olasiz
 
@@ -1600,6 +1642,8 @@ Isteʼmolchiga nuqsonli tovar sotilganda uning huquqlari.
 
 ### “ISTEʼMOLCHILAR” TUSHUNCHASI
 
+![](img/ogp-10.uz/p082-1.webp "382x112")
+
 Har bir inson kundalik ehtiyojidan kelib chiqib, doʻkondan, bozordan mahsulotlar (kiyim-bosh, non, sut, ruchka, daftar va hk.) xarid qiladi, turli xil xizmatlardan (poyabzal, televizor, telefon, soyabon tuzattirish, kiyim-boshni kimyoviy tozalatish, atelyeda kiyim tiktirish va hk.) foydalanadi. Bu fuqarolik-huquqiy munosabatda siz isteʼmolchi sifatida ishtirok etasiz, sizga xizmat qiluvchi esa ijrochi, ishlab chiqaruvchi, sotuvchi sifatida qatnashadi. Sotib olingan mahsulotni siz isteʼmol qilasiz, tikib berilgan kiyimni kiyasiz.
 
 “Isteʼmolchilarning huquqlarini himoya qilish toʻgʻrisida”gi qonunga koʻra, isteʼmolchi deganda foyda chiqarib olish bilan bogʻliq boʻlmagan holda shaxsiy isteʼmol yoki boshqa maqsadlarda tovar sotib oluvchi, ish, xizmatga buyurtma beruvchi fuqaro tushuniladi. Isteʼmolchining huquqlari buzilgan taqdirda, u sudga murojaat qilish huquqiga ega. Isteʼmolchi ishlab chiqaruvchining korxonasi haqida xabardor boʻlishi shart.
@@ -1608,11 +1652,13 @@ Ushbu huquqiy munosabatlar Oʻzbekiston Respublikasi Konstitutsiyasi, “Isteʼm
 
 ### Yodda tuting
 
-> Sotuvchi – oldi-sotdi shartnomasi boʻyicha isteʼmolchiga tovar realizatsiya qiladigan korxona, tashkilot, muassasa yoki yakka tartibda faoliyat koʻrsatuvchi tadbirkor.
+> **Sotuvchi –** oldi-sotdi shartnomasi boʻyicha isteʼmolchiga tovar realizatsiya qiladigan korxona, tashkilot, muassasa yoki yakka tartibda faoliyat koʻrsatuvchi tadbirkor.
 
 ### ISTEʼMOLCHILAR HUQUQLARINI HIMOYA QILISH
 
 Oʻzbekiston Respublikasi Konstitutsiyasida belgilanganidek, davlat isteʼmolchilarning huquqi ustunligini hisobga olib, iqtisodiy faoliyat, tadbirkorlik va mehnat qilish erkinligini, barcha mulk shakllarining tenghuquqliligini va huquqiy jihatdan bab-baravar muhofaza etilishini kafolatlaydi. Isteʼmolchilar huquqlarini himoya qilish agentligi isteʼmolchilarning
+
+![](img/ogp-10.uz/p083-1.webp "252x347")
 
 tovarlar (ishlar, xizmatlar), ularning ishlab chiqaruvchisi, ijrochisi va sotuvchisi toʻgʻrisidagi haqqoniy va toʻliq maʼlumotlarni olishni taʼminlaydi. Shuningdek, isteʼmolchilarga ularning huquq va manfaatlarini himoya qilishda yordam koʻrsatadi, isteʼmolchilar huquqi buzilishi sabablarini tahlil qiladi.
 
@@ -1630,6 +1676,10 @@ Isteʼmolchi kassa yoki tovar chekini, ras miylashtirilgan texnik pasportini taq
 
 Har bir shaxs hayotda ehtiyojini qondirish maqsadida oʻziga kerakli mahsulotni xarid qiladi, pul topadi, pulini ishlatadi, jamgʻaradi va hk. Soʻnggi yillarda mamlakatimizda moli-
 
+![](img/ogp-10.uz/p083-2.webp "402x352")
+
+![](img/ogp-10.uz/p084-1.webp "422x282")
+
 yaviy savodxonlik darajasini oshirishga katta eʼtibor qaratilmoqda. Aholining moli yaviy savodxonligi darajasini baholash orqali uy xoʻjaliklari, oila va shaxsning oʻziga tegishli moliyaviy resurslarini boshqara olishi va ularni toʻgʻri yoʻnaltirishdagi samarali qarorlarini baholash mumkin.
 
 Moliyaviy savodxonlik shaxsiy moliyaviy xavfsizlikni taʼminlashga, pulni samarali boshqarishga, shaxsiy byudjet mablagʻlarini boshqarish haqidagi bilimlar va tushunchalarga asoslanadi.
@@ -1641,6 +1691,8 @@ Moliyaviy savodxonlik nafaqat moliyaviy bilimlarni egallashga yordam beradi, bal
 Moliyaviy savodxon shaxs oʻzining shaxsiy moliyaviy holatini nazorat qilishni, 1 oyda qan cha pul topishi-yu qanchasini xarajat qilishini rejalashtiradi, oʻzining moliyaviy majburiyatlarini bajaradi, firibgarning qoʻliga tushmaydi, hech qachon kimdandir qarzdor boʻlib qolmaydi.
 
 Siz ham kelajakda biznes bilan shugʻullanish, mablagʻlaringizni toʻgʻri boshqarish uchun moliyaga oid bilim, koʻnikma va maʼlumotlarga ega boʻlishingiz zarur. Shunda tadbirkorlik faoliyatingiz rivojlanadi, moliyaviy holatingiz yaxshilanib boradi.
+
+![](img/ogp-10.uz/p084-2.webp "442x292")
 
 ### Mustaqil ish uchun topshiriq
 
@@ -1656,11 +1708,15 @@ Siz ham kelajakda biznes bilan shugʻullanish, mablagʻlaringizni toʻgʻri bosh
 
 6. Moliyaviy savodxonlikning ahamiyati nimada?
 
+### Mustaqil ish uchun topshiriq
+
+![](img/ogp-10.uz/p085-1.webp "782x840")
+
 ## 24-dars. Intellektual mulk
 
 Gʻoyalar arzon mahsulotlardir. Gʻoyalardan koʻra ularni roʻyobga chiqarish qimmatliroqdir.
 
-Maykl Dell
+**Maykl Dell**
 
 ### Siz bilib olasiz
 
@@ -1694,9 +1750,11 @@ Mualliflik huquqi shaxsiy nomulkiy huquq hisoblanadi va ijodiy mehnat bilan inte
 
 Agar ikki yoki undan ortiq shaxsning birgalikdagi ijodiy mehnati bilan biror-bir narsa yaratilgan boʻlsa, ular hammuallif hisoblanadilar.
 
-Huquqiy vositalar yordamida ilmiy va badiiy asarlarni yaratish uchun eng maʼqul sharoitlar yaratadi
+### MUALLIFLIK HUQUQI
 
-Mualliflik mulkiy, shaxsiy nomulkiy va qonuniy manfaatlarini muhofaza qiladi
+**Huquqiy vositalar yordamida ilmiy va badiiy asarlarni yaratish uchun eng maʼqul sharoitlar yaratadi**
+
+**Mualliflik mulkiy, shaxsiy nomulkiy va qonuniy manfaatlarini muhofaza qiladi**
 
 Mualliflik huquqi ijodiy faoliyat natijasi boʻlmish fan, adabiyot va sanʼat asarlariga nisbatan, ularning maqsadi va qadr-qimmati, shuningdek, ifodalanish usulidan qatʼi nazar, tatbiq etiladi.
 
@@ -1710,21 +1768,17 @@ Inson tafakkuri natijasi boʻlgan mulk obyektiga nisbatan mualliflik huquqini o�
 
 Muallif deganda ijodiy mehnati bilan asar yaratgan jismoniy shaxs tushuniladi.
 
+![](img/ogp-10.uz/p088-1.webp "782x402")
+
 Muallifning mulkiy huquqlari boshqa shaxsga oʻtkazilishi mumkin. Bunda mualliflik shartnomasida asardan muayyan usulda va shartnomada belgilangan doirada foydalanishga ruxsat beriladi. Mualliflik shartnomasida asardan foydalanish usullari, asardan foydalanishning har bir usuli uchun toʻlanadigan haq miqdori, toʻlash tartibi, muddatlari nazarda tutiladi.
 
 ### Yodda tuting
 
-> Mualliflik huquqi – fan, adabiyot va sanʼat asarlarini yaratish va ulardan foydalanishda vujudga keladigan munosabatlarni tartibga soladigan fuqarolik huquqi meʼyorlari majmuasi.
+> **Mualliflik huquqi –** fan, adabiyot va sanʼat asarlarini yaratish va ulardan foydalanishda vujudga keladigan munosabatlarni tartibga soladigan fuqarolik huquqi meʼyorlari majmuasi.
 
 ### Savol va topshiriqlar
 
-1. Intellekt deganda nima tushuniladi?
-
-2. Intellektual faoliyatga nimalar kiradi?
-
-3. Malliflik huquqining asoslarini bayon eting.
-
-4. Mualliflik huquqi qanday himoya qilinadi?
+![](img/ogp-10.uz/p088-2.webp "792x170")
 
 ### Mustaqil ish uchun topshiriq
 
@@ -1736,13 +1790,15 @@ Maktabning 10-sinf oʻquvchisi sheʼriy toʻplam tayyorlab, nashriyotga topshiri
 
 Farzandlar, qarindoshlar, oshna-ogʻayni, qoʻshnilar va men bilan bir vaqtlar doʻstlik qilgan barcha odamlarni davlat-u neʼmat martabasiga erishganimda unutmadim, haqlarini ado etdim.
 
-Amir Temur
+**Amir Temur**
 
 ### Siz bilib olasiz
 
 “Vorislik” tushunchasi va vorislik huquqi. “Meros” va “merosxoʻrlik” tushunchasi. Vasiyatnomaning huquqiy asoslari.
 
 ### “VORISLIK” TUSHUNCHASI VA VORISLIK HUQUQI
+
+![](img/ogp-10.uz/p089-1.webp "382x359")
 
 Yuqorida taʼkidlab oʻtganimizdek, fuqarolik huquqi mulkiy munosabatlarni tartibga solar ekan, vorislik, meros, merosxoʻrlik kabi mulkiy munosabatlar hisoblanadi. Vorislik deganda vafot etgan shaxsning mulkini (masalan, koʻchmas mulk, mulkni) olish tushuniladi. Mulkni oluvchi shaxslar esa “vorislar” deb ataladi. Ushbu munosabatlarni tartibga soladigan huquqiy qoidalar yigʻindisi fuqarolik huquqining tarkibiy qismi boʻlgan vorislik huquqi hisoblanadi. Vorislik huquqi vafot etgan shaxsning mulkiy huquq va majburiyatlari boshqa shaxslarga, merosxoʻrlarga
 
@@ -1772,13 +1828,11 @@ Qonun boʻyicha vorislikda farzandlikka olingan shaxs va uning avlodlari farzand
 
 ### Qonun boʻyicha vorislik
 
-Bolalar (shu jumladan, farzandlikka olingan bolalar), er (xotin) va ota-ona (farzandlikka oluvchilar)
-
-Tugʻishgan hamda ona (ota) bir, ota (ona) boshqa aka-ukalar va opa-singillar, shuningdek, uning ham ota, ham ona tarafdan bobosi va buvisi
-
-Mehnatga qobiliyatsiz boqimlar (meros qoldiruvchining vafotiga qadar kamida bir yil uning qaramogʻida boʻlgan va u bilan birga yashagan mehnatga qobiliyatsiz shaxslar)
+![](img/ogp-10.uz/p090-1.webp "752x644")
 
 Meros ochilgan kundan eʼtiboran istalgan vaqtda merosxoʻr merosdan voz kechishi mumkin. Merosdan voz kechish merosxoʻr tomonidan notariusga ariza berish orqali amalga oshiriladi. Agar merosxoʻr merosdan voz kechgan boʻlsa, unga qayta daʼvogarlik qilolmaydi.
+
+### VASIYATNOMANING HUQUQIY ASOSLARI
 
 Vasiyat fuqaroning vafot etgan taqdirda oʻziga tegishli boʻlgan mol-mulkni tasarruf etish xususidagi xohish-irodasidir. Vasiyatnoma shaxsan tuziladi. Vakil orqali tuzilishi mumkin emas.
 
@@ -1788,17 +1842,11 @@ Meros qoldiruvchi vasiyatnoma tuzgan boʻlsa, meros shu vasiyatnomaga asosan taq
 
 Vasiyat qiluvchi qarindoshlik yoki oilaviy aloqalaridan qatʼi nazar, merosni tayinlash huquqiga ega. Shuningdek, mulkni yuridik shaxslarga, davlat organlariga vasiyat qilish, merosxoʻrni merosdan mahrum etish kabi huquqlarga ega.
 
+![](img/ogp-10.uz/p091-1.webp "472x314")
+
 ### Savol va topshiriqlar
 
-1. “Voris”, “vorislik”, “vorislik huquqi”, “meros”, “merosxoʻr” atamalarini qanday tushunasiz?
-
-2. Nima uchun vorislik vasiyat va qonun boʻyicha amalga oshiriladi?
-
-3. Meros qoldiruvchining yaqin qarindoshlari boʻlmaganda uning mol mulki kimga qoldiriladi?
-
-4. Meros olish huquqi qachon vujudga keladi?
-
-5. Merosdan majburiy ulush olishga kimlar haqli?
+![](img/ogp-10.uz/p091-2.webp "782x243")
 
 ### Mustaqil ish uchun topshiriq
 
@@ -1810,9 +1858,9 @@ Ota uy-joyini ikki farzandidan kichigiga qoldirish haqida vasiyatnoma yozib, not
 
 Agar oʻqisang-u oʻylamasang – chalkashib qolasan. Agar oʻylasang-u oʻqimasang – shubha-gumonlar tagida qolib ketasan.
 
-Konfutsiy
+**Konfutsiy**
 
-1-topshiriq.
+**1-topshiriq.**
 
 Quyidagi vaziyatni oʻrganing va savollarga javob bering.
 
@@ -1828,9 +1876,13 @@ Bu vaziyatni qanday huquqiy meʼyorlar bilan hal etsa boʻladi?
 
 Sayyohlik munosabatlari qaysi davlat organiga tegishli? Ushbu savolga internetdan foydalangan holda javob tayyorlang.
 
-2-topshiriq. Berilgan tushunchalarni tahlil qilib jadvalni toʻldiring!
+**2-topshiriq.** Berilgan tushunchalarni tahlil qilib jadvalni toʻldiring!
 
-### Munitsipal mulk
+### Jismoniy shaxs
+
+![](img/ogp-10.uz/p092-1.webp "792x447")
+
+### NAZORAT ISHI
 
 Hech qachon unutmang, kelajakda sizni yanada ulkan va masʼuliyatli marralar kutmoqda.
 
@@ -1838,7 +1890,7 @@ Oldingizga aniq maqsad qoʻyib, bor kuch-gʻayratingiz, bilim va salohiyatingiz 
 
 ### Shavkat Mirziyoyev
 
-“Madaniyatli isteʼmolchi” mavzusida ESSE yozing. Esse yozish jarayonida quyidagi talablarga rioya eting! – – – xulosalang.
+**“Madaniyatli isteʼmolchi”** mavzusida **ESSE** yozing. Esse yozish jarayonida quyidagi talablarga rioya eting! – – – xulosalang.
 
 Berilgan mavzuga nisbatan oʻz nuqtayi nazaringizni bayon eting.
 
@@ -1846,7 +1898,9 @@ Hayotiy misollar bilan asoslang.
 
 Mavjud muammolar va ularni bartaraf etish yuzasidan oʻz fikr va takliflaringizni
 
-Esse yozish jarayonida quyidagi tavsiyalardan foydalaning.
+![](img/ogp-10.uz/p093-1.webp "302x362")
+
+**Esse yozish jarayonida quyidagi tavsiyalardan foydalaning.**
 
 “Isteʼmolchi” atamasiga oid nazariy maʼlumotlarni bayon eting.
 
@@ -1858,7 +1912,13 @@ Oʻzbekiston Respublikasida isteʼmolchi huquqlarini himoyalash mavzusiga toʻxt
 
 Sifati past yoki nuqsoni boʻlgan tovar xarid qilgan isteʼmolchiga munosabatingizni bildiring.
 
+![](img/ogp-10.uz/p093-2.webp "312x102")
+
 Kundalik ehtiyojlar sababli har kuni isteʼmolchiga aylanamiz. Biroq barchani ham madaniyatli isteʼmolchi deb boʻlmaydi. Mening fikrimcha, madaniyatli isteʼmolchi belgilangan qonun-qoidalarga amal qilishi, oʻz huquq va majburiyatlarini anglashi…
+
+### IV BOB. OʻZBEKISTON VA XALQARO HAMJAMIYAT@edurtm_uz
+
+![](img/ogp-10.uz/p094-1.webp "900x1068")
 
 # IV bob. Oʻzbekiston va xalqaro hamjamiyat
 
@@ -1866,7 +1926,7 @@ Kundalik ehtiyojlar sababli har kuni isteʼmolchiga aylanamiz. Biroq barchani ha
 
 Agar biz butun dunyoda tinchlik oʻrnatishni istasak, ishni bolalar tarbiyasidan boshlashimiz zarur. Dunyoni oʻzgartirish istagidagi inson avvalo oʻzi oʻzgarmogʻi lozim.
 
-Mahatma Gandi
+**Mahatma Gandi**
 
 ### Siz bilib olasiz
 
@@ -1878,7 +1938,7 @@ Xalqaro munosabatlarni vujudga keltiruvchi omillar.
 
 ### XALQARO HAMJAMIYATNING OʻZIGA XOSLIGI
 
-Gellap (Gallup) Xalqaro tadqiqot markazining xavfsizlik boʻyicha
+**Gellap (Gallup) Xalqaro tadqiqot markazining xavfsizlik boʻyicha**
 
 Bugun dunyoda 200 dan ortiq davlat mavjud boʻlib, ularda yetti milliarddan ziyod aholi yashaydi. Bir qarashda xalqaro
 
@@ -1894,7 +1954,7 @@ Xalqaro hamjamiyat tarkibidagi bir mamlakatda roʻy berayotgan voqealar ikkinchi
 
 ### Yodda tuting
 
-> Xalqaro hamjamiyat – jahonda mavjud davlatlar va ularda yashovchi insonlarning insoniyat oldida turgan global muammolarni hamkorlikda hal qilishda, umumiy maqsad yoʻlida faoliyat koʻrsatish birligini anglatuvchi tushuncha. Xalqaro hamjamiyat barcha davlatlarning suveren tengligi, hududlarining daxlsizligi kabi xalqaro huquq tamoyillariga asoslanadi.
+> **Xalqaro hamjamiyat** – jahonda mavjud davlatlar va ularda yashovchi insonlarning insoniyat oldida turgan global muammolarni hamkorlikda hal qilishda, umumiy maqsad yoʻlida faoliyat koʻrsatish birligini anglatuvchi tushuncha. Xalqaro hamjamiyat barcha davlatlarning suveren tengligi, hududlarining daxlsizligi kabi xalqaro huquq tamoyillariga asoslanadi.
 
 Unutmang, xalqaro hamjamiyat xalqaro tashkilot emas.
 
@@ -1906,29 +1966,31 @@ Toʻgʻri, “Bundan oldin ham davlatlar boʻlgan-ku!” degan savol tugʻilishi
 
 Bugun xalqaro hamjamiyatning tuzilishi yuqorida biz koʻrib oʻtgan, faqatgina suveren davlatlardan tashkil topgan hamjamiyatdan farq qiladi. Albatta, hozir ham xalqaro hamjamiyatni tashkil etuvchi asosiy subyektlar davlatlardir. Ammo Birlashgan Millatlar Tashkiloti, Jahon Savdo Tashkiloti kabi xalqaro tashkilotlar va transmilliy korporatsiyalar ham bugungi xalqaro hamjamiyatda katta ahamiyat kasb etadi. Shuningdek, nohukumat tashkilotlar va shaxslar ham zamonaviy xalqaro hamjamiyatga bevosita aloqador boʻlib qolmoqda. Demak, xalqaro hamjamiyat faqatgina davlatlardan emas, balki xalqaro tashkilotlar, nohukumat tashkilotlar, transmilliy korporatsiyalar hamda shaxslar kabi xalqaro munosabatlarning ishtirokchilaridan tashkil topgan ekan.
 
+![](img/ogp-10.uz/p096-1.webp "462x345")
+
 ### Yodda tuting
 
-> Suverenitet – davlatning ichki ishlarda va tashqi ishlarda mustaqil ekanini anglatuvchi tushuncha. Suverenitetga ega davlatlar qisqacha “suveren davlatlar” deb ataladi.
+> **Suverenitet** – davlatning ichki ishlarda va tashqi ishlarda mustaqil ekanini anglatuvchi tushuncha. Suverenitetga ega davlatlar qisqacha “suveren davlatlar” deb ataladi.
 
 ### XALQARO MUNOSABATLARNI VUJUDGA KELTIRUVCHI OMILLAR
 
 Davlatlar tinchlik va hamkorlik oʻrnatish maqsadida boshqa davlatlar bilan siyosiy, iqtisodiy, madaniy, huquqiy, diplomatik, harbiy va boshqa aloqalarni oʻrnatgan holda xalqaro munosabatlarga kirishadi. Quyida xalqaro munosabatlarni vujudga keltiruvchi bir nechta omillarni koʻrib chiqamiz.
 
-Xalqaro munosabatlarning siyosiy omili. Suveren davlatlar tenglik tamoyiliga asos-
+**Xalqaro munosabatlarning siyosiy omili.** Suveren davlatlar tenglik tamoyiliga asos-
 
 lanib xalqaro munosabatlarga kirishadi. Ammo biron-bir davlat oʻzining suvereniteti cheklanmagani va unga asoslanib xohlagan ishini qilishi mumkinligini aytib chiqsa, biz yashayotgan xalqaro hamjamiyat tartibsiz dunyoga aylanib qolishi mumkin. Shu sababli davlatlar xalqaro munosabatlarga kirishganda bir-birlarining hurmat qilib, boshqa davlatlarga bergan vaʼdalarini bajarishga intiladilar. Bu orqali milliy manfaatlar himoya qilinadi. Davlatlar tinchlikni saqlagan holda, oʻzaro bir-birlarini tushunib hamkorlik qilish yoʻli hisoblangan internatsionalizm tamoyiliga asoslanadi.
 
-Boshqa suveren davlatlar bilan xalqaro munosabatlarga kirisha olish
+**Boshqa suveren davlatlar bilan xalqaro munosabatlarga kirisha olish**
 
 ### Xalqaro munosabatlarning iqtisodiy
 
-omili. Davlatning asosiy maqsadlaridan biri oʻz xalqining manfaatlarini xalqaro maydonda ham himoya qilish hisoblanadi. Xalqaro munosabatlarga kirishilganda esa juda koʻp hollarda uning ortida iqtisodiy foyda koʻrish yotgan boʻladi. Masalan, XX asrning oʻrtalarigacha davlatlar oʻz xalqlarini boyitish uchun boshqa davlatlar va qabilalarni bosib olgan. Bugungi kunda bir davlat boshqa davlatni bosib olishi, yaʼni urush qilish taqiqlangan. Shu sababli hozir davlatlar oʻz aholisi tomonidan ishlab chiqarilayotgan mahsulotlar eksportini koʻpaytirish va dunyo bozorlarini egallash boʻyicha raqobatlashmoqda. Oʻzbekiston ham mamlakat ichidagi tadbirkorlarni himoyalash maqsadida oʻz bozorlarini tashqi taʼsirdan himoya qilib kelayotgan edi. Endi esa jahon bozoriga chiqish va bu orqali aholini boyitishni koʻzlab, mamlakatlar oʻrtasidagi savdo qoidalarini tartibga soluvchi yagona global tashkilot hisoblanmish Jahon savdo tashkilotiga aʼzo boʻlish yoʻlida.
+**omili.** Davlatning asosiy maqsadlaridan biri oʻz xalqining manfaatlarini xalqaro maydonda ham himoya qilish hisoblanadi. Xalqaro munosabatlarga kirishilganda esa juda koʻp hollarda uning ortida iqtisodiy foyda koʻrish yotgan boʻladi. Masalan, XX asrning oʻrtalarigacha davlatlar oʻz xalqlarini boyitish uchun boshqa davlatlar va qabilalarni bosib olgan. Bugungi kunda bir davlat boshqa davlatni bosib olishi, yaʼni urush qilish taqiqlangan. Shu sababli hozir davlatlar oʻz aholisi tomonidan ishlab chiqarilayotgan mahsulotlar eksportini koʻpaytirish va dunyo bozorlarini egallash boʻyicha raqobatlashmoqda. Oʻzbekiston ham mamlakat ichidagi tadbirkorlarni himoyalash maqsadida oʻz bozorlarini tashqi taʼsirdan himoya qilib kelayotgan edi. Endi esa jahon bozoriga chiqish va bu orqali aholini boyitishni koʻzlab, mamlakatlar oʻrtasidagi savdo qoidalarini tartibga soluvchi yagona global tashkilot hisoblanmish Jahon savdo tashkilotiga aʼzo boʻlish yoʻlida.
 
-Xalqaro munosabatlarning madaniy omili. Koʻp millatli davlatlarda aholi orasida oʻzaro kelishmovchiliklar yuzaga kelishi mumkin. Shuning uchun davlat xalq birligi gʻoyasiga tayanib bunday millatchilik yoki diniy qarashlarga asoslangan nizolarni bartaraf etib boradi. Bunday gʻoya Oʻzbekiston Respublikasi Konstitutsiyasining muqaddimasida ham aks etgan boʻlib, muqaddima “Biz, Oʻzbekistonning yagona xalqi” deb boshlanadi. Bu – juda ham toʻgʻri gʻoya. Chunki u xalq tinchligini taʼminlab beradi.
+**Xalqaro munosabatlarning madaniy omili.** Koʻp millatli davlatlarda aholi orasida oʻzaro kelishmovchiliklar yuzaga kelishi mumkin. Shuning uchun davlat xalq birligi gʻoyasiga tayanib bunday millatchilik yoki diniy qarashlarga asoslangan nizolarni bartaraf etib boradi. Bunday gʻoya Oʻzbekiston Respublikasi Konstitutsiyasining muqaddimasida ham aks etgan boʻlib, muqaddima “Biz, Oʻzbekistonning yagona xalqi” deb boshlanadi. Bu – juda ham toʻgʻri gʻoya. Chunki u xalq tinchligini taʼminlab beradi.
 
 ### Yodda tuting
 
-> Internatsionalizm – xalqaro va ijtimoiy guruhlarning xalqlar, millatlar ozod ligi, mustaqilligi, huquqiy tengligiga asoslangan birdamlik va oʻzaro hamkorlik prinsipi.
+![](img/ogp-10.uz/p097-1.webp "392x208")
 
 Xalqaro munosabatlarda aynan mafkura va diniy qarashlardagi ziddiyatlar sababli katta nizolar kelib chiqishi mumkin. Masalan, arab davlatlari va Isroil oʻrtasidagi, Hindiston va Pokiston oʻrtasidagi nizolar ortida aynan diniy qarashlar yotadi. Shuningdek, mafkuradagi ziddiyatlar ham katta mojarolarni yuzaga keltirishi mumkin. Xususan, Sovet Ittifoqi va AQSH oʻrtasidagi ziddiyatlar avvalo sotsializm va kapitalizm mafkuralari oʻrtasidagi ziddiyatga borib taqalar edi. Shunday qilib, maʼlum bir davlatlarda yuz berayotgan urushlarni bartaraf etish, dunyoda inson huquqlariga amal qilinishini taʼminlash uchun davlatlar oʻzaro hamkorlikni amalga oshiradi. Shuningdek, davlatlar siz va biz yashab turgan dunyoda barcha davlatlar amal qilishi lozim boʻlgan qoidalarni yaratadi va bu qoidalarga amal qilishni bir-birlaridan talab qiladi. Agar bunday qilinmasa, yana Ikkinchi jahon urushi kabi achchiq tarix qaytalanishi mumkin.
 
@@ -1956,7 +2018,7 @@ Masalan, Venesuela yoki Ekvadorda ichki kelishmovchiliklar roʻy bersa, mamlakat
 
 Buyuklik yoʻlida mashaqqatlarni yengishda donolikdan foydalaning.
 
-Jamiki buyuk narsalar oddiy. Ularni yaxlit soʻzlar bilan ham ifodalash mumkin: ozodlik, adolat, gʻurur, burch, saxovat, umid. Uinston Cherchill
+Jamiki buyuk narsalar oddiy. Ularni yaxlit soʻzlar bilan ham ifodalash mumkin: ozodlik, adolat, gʻurur, burch, saxovat, umid. **Uinston Cherchill**
 
 ### Siz bilib olasiz
 
@@ -1978,9 +2040,11 @@ himoya qiluvchi hamda xalqaro hamjamiyatning umumiy manfaatlarini himoya qilish 
 
 ### Yodda tuting
 
-> Xalqaro huquq – tinchlik va hamkorlikni taʼminlash maqsadida xalqaro munosabatlarni tartibga soluvchi xalqaro shartnomalar, odat normalari hamda umum tan olingan tamoyillar yigʻindisi.
+> **Xalqaro huquq –** tinchlik va hamkorlikni taʼminlash maqsadida xalqaro munosabatlarni tartibga soluvchi xalqaro shartnomalar, odat normalari hamda umum tan olingan tamoyillar yigʻindisi.
 
 ### XALQARO HUQUQNING MAQSADI
+
+![](img/ogp-10.uz/p100-1.webp "402x232")
 
 Birinchi va Ikkinchi jahon urushlarining dahshatlaridan keyin davlatlar oʻrtasida oʻzaro bogʻliqlik va tinchlikka boʻlgan intilish yanada kuchaydi. Buning natijasida davlatlar butun insoniyatning umumiy manfaatlarini yuqori oʻringa qoʻyuvchi, tenglik va adolatni taʼminlovchi xalqaro huquq qoidalarini yarata boshladi. Zamonaviy xalqaro huquq faqatgina kuchlilar manfaatini himoya qilgan eski “anʼanaviy xalqaro huquq”dan farqli ravishda insoniyatning umumiy manfaatlarini himoya qilishni, urushlarning oldini olish va tinchlikni saqlashni maqsad qiladi. Bundan tashqari, xalqaro huquq davlatlar oʻrtasidagi nizolarni urushlarsiz, tinch yoʻl bilan hal etishni koʻzlaydi. Ushbu maqsadni amalga oshirish uchun Birlashgan Millatlar Tashkilotining Xalqaro sudi faoliyat koʻrsatmoqda.
 
@@ -1988,11 +2052,7 @@ Birinchi va Ikkinchi jahon urushlarining dahshatlaridan keyin davlatlar oʻrtasi
 
 Xalqaro huquq sohasi asosan yuridik kuchi teng boʻlgan ikki manba – xalqaro shartnomalar (yozma xalqaro huquq) va xalqaro odat huquqi (odatga aylangan xalqaro huquq) qoidalaridan tashkil topadi. Xalqaro shartnomalar davlatlarning maʼlum bir masala boʻyicha bildirgan roziliklarini shartnoma koʻrinishiga keltirish bilan vujudga keladi. Ushbu rozilik davlatning vakolatli vakili imzolashi yoki vakolatli organi ratifikatsiya qilishi kabi usullar orqali ifoda etiladi.
 
-### Ikki tomonlama shartnomalar
-
-Ikki davlat oʻrtasida tuziladigan va ular uchun majburiy boʻlgan xalqaro shartnomalar.
-
-Konvensiya, bitim, kelishuv, pakt kabi davlatlarning roziligi asosida tuzilgan yozma hujjatlar. Bugun davlatlar oʻrtasidagi xalqaro shartnomalarni tuzish, tugatish bilan bogʻliq munosabatlar 1969-yildagi “Xalqaro shartnomalar huquqi toʻgʻrisida”gi Vena konvensiyasi orqali tartibga solinadi.
+![](img/ogp-10.uz/p100-2.webp "742x299")
 
 ### Koʻp tomonlama shartnomalar
 
@@ -2010,11 +2070,7 @@ Mazkur daxlsizlik huquqiga koʻra, elchilarning turgan uylari, ular ishlaydigan 
 
 ### Xalqaro shartnoma
 
-murakkab va uzoq davom etadi.
-
-Shartlar bajarilmaganda davlatning javobgarligi kelib chiqishi mumkin.
-
-Shartlar bajarilmaganda jismoniy yoki yuridik shaxsning javobgarligi.
+![](img/ogp-10.uz/p101-1.webp "782x291")
 
 ### XALQARO HUQUQ VA MILLIY HUQUQ
 
@@ -2036,7 +2092,7 @@ Agar xalqaro shartnomada yoki bitimda fuqarolik qonunchiligidagiga qaraganda bos
 
 ### Yodda tuting
 
-> Ratifikatsiya – xalqaro shartnomaning vakolatli davlat organi tomonidan tasdiqlanishi. Odatda koʻplab demokratik mamlakatlarda, xususan, Oʻzbekistonda ham xalqaro shartnomalarni ratifikatsiya qilish qonun chiqaruvchi organ tomonidan qonun chiqarish orqali amalga oshiriladi. Bu oʻsha xalqaro shartnoma davlat uchun majburiy ekanini anglatadi.
+> **Ratifikatsiya –** xalqaro shartnomaning vakolatli davlat organi tomonidan tasdiqlanishi. Odatda koʻplab demokratik mamlakatlarda, xususan, Oʻzbekistonda ham xalqaro shartnomalarni ratifikatsiya qilish qonun chiqaruvchi organ tomonidan qonun chiqarish orqali amalga oshiriladi. Bu oʻsha xalqaro shartnoma davlat uchun majburiy ekanini anglatadi.
 
 ### Savol va topshiriqlar
 
@@ -2066,7 +2122,7 @@ BMT va uning tuzilmalarining Oʻzbekistondagi vakolatxonasi xodimlariga tegishli
 
 Qushlar kabi havoda uchishni oʻrgandik. Baliqlar kabi dengizlarda suzishni oʻrgandik.
 
-Lekin hozirgacha yer yuzida aka-ukadek yashashni oʻrganmadik. Martin Lyuter King
+Lekin hozirgacha yer yuzida aka-ukadek yashashni oʻrganmadik. **Martin Lyuter King**
 
 ### Siz bilib olasiz
 
@@ -2078,7 +2134,7 @@ Xalqaro hamjamiyatda tinchlik va xavfsizlikni saqlash. Oʻzbekistonning Birlashg
 
 Ikkinchi jahon urushi tugaganidan keyin dunyodagi barcha insonlar tinchlikning naqadar buyuk neʼmat ekanini tushunib yetdilar. Shu sababli urush yakunlanishi bilanoq dunyoda tinchlikni saqlab turishga xizmat qiladigan tashkilot tuzish gʻoyasi oʻrtaga tashlandi. Shunda 51 ta davlat San Fransiskoda yigʻilib, Birlashgan Millatlar Tashkiloti nizomi qabul qilindi. Ushbu Nizomga asosan, 1945-yilning 24-oktyabrida Birlashgan Millatlar Tashkiloti (BMT) deb atalmish xalqaro tashkilot dunyoga keldi.
 
-BMT bayrogʻi. Bayroqda dunyo xaritasi va uni oʻrab turgan ikki zaytun novdasi aks etgan. Zaytun novdasi tinchlik ramzidir. Jahon xaritasi esa tashkilot dunyoda tinchlik oʻrnatish yoʻlida ekanini ifodalaydi.
+**BMT bayrogʻi.** Bayroqda dunyo xaritasi va uni oʻrab turgan ikki zaytun novdasi aks etgan. Zaytun novdasi tinchlik ramzidir. Jahon xaritasi esa tashkilot dunyoda tinchlik oʻrnatish yoʻlida ekanini ifodalaydi.
 
 Ushbu tashkilot oʻzining oldiga xalqaro tinchlik va xavfsizlikni taʼminlash; davlatlar oʻrtasida doʻstona munosabatlarni targʻib qilish; iqtisodiy, madaniy va inson huquqlari bilan bogʻliq muammolarni hal etish; inson huquqlari va erkinliklari dunyo boʻylab taʼminlanishi uchun davlatlar oʻrtasida xalqaro hamkorlikni kuchaytirish; mazkur ishlarni amalga oshirish uchun davlatlarning harakatlarini muvofiqlashtirish kabi bir qancha muhim maqsadlarni qoʻydi. Xususan, BMT nizomi davlatlarga nizolarni tinchlik yoʻli bilan hal etish majburiyatini yuklab, oʻzini himoya qilish kabi istisno holatlarni hisobga olmaganda, kuch ishlatishni taqiqladi.
 
@@ -2094,19 +2150,15 @@ soni 193 tani tashkil etadi va bu dastlabki aʼzolar sonidan toʻrt barobar koʻ
 
 ### XALQARO HAMJAMIYATDA TINCHLIK VA XAVFSIZLIKNI SAQLASH
 
-BMTning yuqorida keltirilgan maqsadlari ichida eng oliysi xalqaro hamjamiyatning tinchligi va xavfsizligini taʼminlash hamda xalqaro hamjamiyatda yuzaga keladigan ixtiloflarni yumshatish hisoblanadi. Tashkilot tinchlik va xavfsizlikni taʼminlashda jamoaviy xavfsizlik qoidasiga amal qiladi. Ushbu qoidaga koʻra, manfaatlari turli xil boʻlgan davlatlar ham bir jamoaga birlashadi. Masalan, A. davlat F. davlatga hujum qilsa, boshqa davlatlar barchasi birgalikda BMT orqali A. davlatga nisbatan sanksiyalar joriy etadi. Yaʼni boshqa davlat hududiga xalqaro huquq qoidalarini buzib, hujum qilgan davlat yakkalab qoʻyiladi. Bu esa kelib chiqishi mumkin boʻlgan urushlarning oldini olishda yuqori samara beradi. Mazkur qoidaning mavjudligi davlatlarning turli guruhlarga ajralib olib, kuchlar taqsimotini muvozanatda saqlash orqali tinchlikni taʼminlashga urinishidan koʻra ancha samaraliroq.
+BMTning yuqorida keltirilgan maqsadlari ichida eng oliysi xalqaro hamjamiyatning tinchligi va xavfsizligini taʼminlash hamda xalqaro hamjamiyatda yuzaga keladigan ixtiloflarni yumshatish hisoblanadi. Tashkilot tinchlik va xavfsizlikni taʼminlashda **jamoaviy xavfsizlik** qoidasiga amal qiladi. Ushbu qoidaga koʻra, manfaatlari turli xil boʻlgan davlatlar ham bir jamoaga birlashadi. Masalan, A. davlat F. davlatga hujum qilsa, boshqa davlatlar barchasi birgalikda BMT orqali A. davlatga nisbatan sanksiyalar joriy etadi. Yaʼni boshqa davlat hududiga xalqaro huquq qoidalarini buzib, hujum qilgan davlat yakkalab qoʻyiladi. Bu esa kelib chiqishi mumkin boʻlgan urushlarning oldini olishda yuqori samara beradi. Mazkur qoidaning mavjudligi davlatlarning turli guruhlarga ajralib olib, kuchlar taqsimotini muvozanatda saqlash orqali tinchlikni taʼminlashga urinishidan koʻra ancha samaraliroq.
 
-### Jamoaviy xavfsizlik
-
-Mazkur chizmada A davlat BMT aʼzosi boʻlgan B davlatga qurolli hujum qilmoqda. BMT aʼzosi boʻlgan C, D, E, F davlatlar jamoaviy xavfsizlik tamoyiliga asoslangan holda BMT orqali A davlatga sanksiyalar qoʻllamoqda.
-
-OʻZBEKISTONNING BIRLASHGAN MILLATLAR TASHKILOTI BILAN HAMKORLIGI
+**OʻZBEKISTONNING BIRLASHGAN MILLATLAR TASHKILOTI BILAN HAMKORLIGI**
 
 Oʻzbekiston Respublikasi mustaqil boʻlgach, 1992-yil 2-martda Birlashgan Millatlar Tashkilotiga qoʻshildi. Bugun BMTning 25 ta tuzilmasi (Jahon sogʻliqni saqlash tashkiloti, Xalqaro mehnat tashkiloti, BMT Taraqqiyot dasturi kabilar) vakolatxonalari Oʻzbekistonda oʻz faoliyatini olib bormoqda. Hozirga qadar mamlakatimiz va BMT koʻplab masalalar, xususan, Oʻrta Osiyoni yadroviy qurollardan xoli hududga aylantirish, Afgʻonistonda tinchlik
 
 oʻrnatish, inson huquqlarini himoya qilish kabi masalalarda hamkorlik qilib kelmoqda.
 
-Oʻzbekiston va BMT hamkorligiga oid muhim sanalar va voqealar
+**Oʻzbekiston va BMT hamkorligiga oid muhim sanalar va voqealar**
 
 • 1992-yil 2-martda Oʻzbekiston BMTga aʼzo boʻldi.
 
@@ -2122,17 +2174,11 @@ Oʻzbekiston va BMT hamkorligiga oid muhim sanalar va voqealar
 
 • 2017-yili Shavkat Mirziyoyev BMT Bosh Assambleyasining 72-sessiyasida Oʻzbekiston prezidenti sifatida ilk bor nutq soʻzladi.
 
-BMT Bosh assambleyasining 76-sessiyasida nutq soʻzlayotgan Oʻzbekiston Respublikasi Prezidenti Sh. Mirziyoyev (21.09.2021)
+![](img/ogp-10.uz/p106-1.webp "662x160")
 
 ### Savol va topshiriqlar
 
-1. BMT tinchlik va xavfsizlikni taʼminlash maqsadida qanday qoidalarga amal qiladi?
-
-2. BMTning asosiy vazifalarini sanab oʻting.
-
-3. Sizningcha, davlatlar oʻrtasida doim katta va kichik urushlar boʻlishiga sabab nima?
-
-4. Oʻzbekiston Respublikasi yana qanday masalalarda BMT bilan hamkorlik qilishi kerak deb oʻylaysiz?
+![](img/ogp-10.uz/p106-2.webp "792x237")
 
 ### Mustaqil ish uchun topshiriq
 
@@ -2154,33 +2200,37 @@ Birlashgan Millatlar Tashkilotining ixtisoslashgan tashkilotlari. Bola huquqlari
 
 Birlashgan Millatlar Tashkiloti oʻz maqsadlarini amalga oshirishida uning asosiy organlari katta ahamiyat kasb etadi. BMTning Bosh assambleya, Xavfsizlik kengashi, Ijtimoiy va iqtisodiy kengash, Vasiylik kengashi, Xalqaro adolat sudi hamda Kotibiyat deb nomlanadigan 6 ta asosiy organi mavjud. BMT ushbu asosiy organlari va ularning qoshidagi boshqa ixtisoslashgan tashkilotlar orqali faoliyatini tashkil etadi.
 
-Bosh assambleya. BMTga aʼzo boʻlgan barcha davlatlarning umumiy yigʻilishi hisoblanadi. Unda davlatlar turli masalalar yuzasidan muzokaralar va muhokamalar oʻtkazadi. Qaysidir masalada qaror chiqarish lozim boʻlsa, ovozga qoʻyiladi. Ovoz berishda barcha davlatlarning vakillari teng huquqqa ega. Yaʼni har biri bir ovozga ega boʻladi. Ushbu qarorlar BMTning Xavfsizlik kengashi hamda aʼzo davlatlarga bajarish uchun tavsiya etiladi. Bundan tashqari, u BMTning boshqa organlari faoliyatini ham kuzatib boradi.
+**Bosh assambleya.** BMTga aʼzo boʻlgan barcha davlatlarning umumiy yigʻilishi hisoblanadi. Unda davlatlar turli masalalar yuzasidan muzokaralar va muhokamalar oʻtkazadi. Qaysidir masalada qaror chiqarish lozim boʻlsa, ovozga qoʻyiladi. Ovoz berishda barcha davlatlarning vakillari teng huquqqa ega. Yaʼni har biri bir ovozga ega boʻladi. Ushbu qarorlar BMTning Xavfsizlik kengashi hamda aʼzo davlatlarga bajarish uchun tavsiya etiladi. Bundan tashqari, u BMTning boshqa organlari faoliyatini ham kuzatib boradi.
 
-Xavfsizlik kengashi. BMTning eng asosiy maqsadi boʻlgan xalqaro tinchlik va xavfsizlikni saqlashda eng muhim vazifani bajaradi. U oʻn beshta aʼzodan tashkil topadi. Shulardan beshtasi doimiy aʼzolardir. Ushbu doimiy aʼzolar oʻzgarmas boʻlib, ular AQSH, Rossiya, Xitoy, Buyuk Britaniya hamda Fransiya davlatlaridir. Qolgan oʻnta davlat Bosh assambleya tomonidan ikki yilga adolatli geografik taqsimot tamoyiliga rioya etilgan holda saylanadi.
+**Xavfsizlik kengashi.** BMTning eng asosiy maqsadi boʻlgan xalqaro tinchlik va xavfsizlikni saqlashda eng muhim vazifani bajaradi. U oʻn beshta aʼzodan tashkil topadi. Shulardan beshtasi doimiy aʼzolardir. Ushbu doimiy aʼzolar oʻzgarmas boʻlib, ular AQSH, Rossiya, Xitoy, Buyuk Britaniya hamda Fransiya davlatlaridir. Qolgan oʻnta davlat Bosh assambleya tomonidan ikki yilga adolatli geografik taqsimot tamoyiliga rioya etilgan holda saylanadi.
 
-Iqtisodiy va ijtimoiy kengash. BMTning 54 ta aʼzosidan tashkil topadi va ular Bosh assambleya tomonidan uch yilga saylanadi. Ushbu organ iqtisodiy, ijtimoiy, taʼlim, sogʻliqni saqlash, ekologiya va madaniyat bilan aloqador xalqaro masalalarni oʻrganish, ular boʻyicha hisobot va tavsiyalar tayyorlash kabilarni amalga oshiradi. Shuningdek, BMTning koʻplab muhim ixtisoslashtirilgan organlari faoliyatini muvofiqlashtiradi.
+**Iqtisodiy va ijtimoiy kengash.** BMTning 54 ta aʼzosidan tashkil topadi va ular Bosh assambleya tomonidan uch yilga saylanadi. Ushbu organ iqtisodiy, ijtimoiy, taʼlim, sogʻliqni saqlash, ekologiya va madaniyat bilan aloqador xalqaro masalalarni oʻrganish, ular boʻyicha hisobot va tavsiyalar tayyorlash kabilarni amalga oshiradi. Shuningdek, BMTning koʻplab muhim ixtisoslashtirilgan organlari faoliyatini muvofiqlashtiradi.
 
-Vasiylik kengashi. Vasiylikdagi hududlarning mustaqillikka erishishi, ushbu hududlar da oʻz-oʻzini boshqarishga doir choralar koʻrish uchun tashkil etilgan. Hozir ushbu organning faoliyati toʻxtatilgan.
+**Vasiylik kengashi.** Vasiylikdagi hududlarning mustaqillikka erishishi, ushbu hududlar da oʻz-oʻzini boshqarishga doir choralar koʻrish uchun tashkil etilgan. Hozir ushbu organning faoliyati toʻxtatilgan.
 
 ### Yodda tuting
 
-Veto huquqi. Xavfsizlik kengashining doimiy aʼzolaridan birining maʼlum masala yuzasidan chiqarilishi mumkin boʻlgan qarorga qarshi ovoz berishi “veto huquqi” hisoblanadi. Aynan mana shu veto huquqi mavjud boʻlgani bois butun dunyo uchun muhim ahamiyatga ega boʻlgan tinchlik va xavfsizlikka oid masalalar ushbu beshta davlatning umumiy roziligisiz hal etilmay qoladi.
+**Veto huquqi.** Xavfsizlik kengashining doimiy aʼzolaridan birining maʼlum masala yuzasidan chiqarilishi mumkin boʻlgan qarorga qarshi ovoz berishi “veto huquqi” hisoblanadi. Aynan mana shu veto huquqi mavjud boʻlgani bois butun dunyo uchun muhim ahamiyatga ega boʻlgan tinchlik va xavfsizlikka oid masalalar ushbu beshta davlatning umumiy roziligisiz hal etilmay qoladi.
 
-Xalqaro adolat sudi. BMTning sud organi hisoblanadi. U Bosh assambleya hamda Xavfsizlik kengashi tomonidan saylanadigan 15 nafar sudyadan tashkil topadi va doimiy faoliyat olib boradi. Ushbu sudga jismoniy hamda yuridik shaxslar murojaat qila olmaydilar. Faqatgina xalqaro huquq subyekti boʻlgan davlatlar va xalqaro tashkilotlar murojaat qilishlari mumkin. Biroq, masalan, A. degan davlat boshqa B. degan davlatni xalqaro huquq qoidalarini buzayotgani uchun BMTning Xalqaro adolat sudiga bermoqchi boʻlsa ham, B. davlatning roziligi boʻlmasa, Xalqaro adolat sudi ushbu nizoni koʻrib chiqa olmaydi.
+**Xalqaro adolat sudi.** BMTning sud organi hisoblanadi. U Bosh assambleya hamda Xavfsizlik kengashi tomonidan saylanadigan 15 nafar sudyadan tashkil topadi va doimiy faoliyat olib boradi. Ushbu sudga jismoniy hamda yuridik shaxslar murojaat qila olmaydilar. Faqatgina xalqaro huquq subyekti boʻlgan davlatlar va xalqaro tashkilotlar murojaat qilishlari mumkin. Biroq, masalan, A. degan davlat boshqa B. degan davlatni xalqaro huquq qoidalarini buzayotgani uchun BMTning Xalqaro adolat sudiga bermoqchi boʻlsa ham, B. davlatning roziligi boʻlmasa, Xalqaro adolat sudi ushbu nizoni koʻrib chiqa olmaydi.
 
-Kotibiyat. Birlashgan Millatlar Tashkilotning maʼmuriy va hujjatlar bilan bogʻliq ishlarida Kotibiyatning oʻrni juda ham yuqori. Kotibiyatga Bosh kotib boshchilik qiladi. U BMTga aloqador tezkor hamda maʼmuriy ishlarni bajaradigan organdir. Masalan, deyarli barcha xalqaro shartnomalar BMT kotibiyati tomonidan roʻyxatdan oʻtkaziladi.
+**Kotibiyat.** Birlashgan Millatlar Tashkilotning maʼmuriy va hujjatlar bilan bogʻliq ishlarida Kotibiyatning oʻrni juda ham yuqori. Kotibiyatga Bosh kotib boshchilik qiladi. U BMTga aloqador tezkor hamda maʼmuriy ishlarni bajaradigan organdir. Masalan, deyarli barcha xalqaro shartnomalar BMT kotibiyati tomonidan roʻyxatdan oʻtkaziladi.
 
 ### Tarixga nazar
 
-Janubiy Koreya va Yaponiya oʻrtasida bir orol (yaponcha: Takeshima, koreyscha: Dokdo) muammo boʻlib keladi. Hozir uni Janubiy Koreya boshqarib kelsa-da, Yaponiya bunga rozi emas. Shu sababli Xalqaro adolat sudida ushbu masalani koʻrib chiqishni istaydi. Biroq Janubiy Koreya ishni sudda koʻrib chiqish boʻyicha rozilik bildirmagani bois Xalqaro adolat sudi ishni hal eta olmaydi.
+![](img/ogp-10.uz/p108-1.webp "332x356")
 
-BIRLASHGAN MILLATLAR TASHKILOTINING IXTISOSLASHGAN TASHKILOTLARI
+![](img/ogp-10.uz/p108-2.webp "782x322")
+
+**BIRLASHGAN MILLATLAR TASHKILOTINING IXTISOSLASHGAN TASHKILOTLARI**
 
 BMT iqtisodiy va madaniy, inson huquqlari, sogʻliqni saqlash, ekologiya kabi turli sohalarda oʻzining ixtisoslashgan tashkilotlari orqali davlatlar oʻrtasidagi hamkorlikni yanada rivojlantirmoqda. Shuningdek, davlatlar oʻrtasidagi ziddiyatlar va urushlarning yuzaga kelish sabablarini bartaraf etish bilan ham shugʻullanmoqda. Bu yoʻlda Xalqaro valyuta jamgʻarmasi (IMF), Xalqaro fuqarolik aviatsiyasi tashkiloti (ICAO), Fan va madaniyat masalalari boʻyicha tashkilot (UNESCO), Xalqaro mehnat tashkiloti (ILO), Jahon sogʻliqni saqlash tashkiloti (WHO) kabi ixtisoslashgan tashkilotlarning oʻrni kattadir. Bugungi kunda BMTning jami 17 ta ixtisoslashgan tashkiloti faoliyat yuritib kelmoqda. Ularning har biri muayyan bir sohada xalqaro hamkorlikni rivojlantirishga ixtisoslashgan.
 
-BMTning Oziq-ovqat va qishloq xoʻjaligi tashkiloti (FAO) logotipi. Unda bugʻdoy boshogʻi va lotin tilidagi shiori “Fiat panis” aks etgan. “Fiat panis” jumlasi “Non boʻlsin” degan maʼnoni anglatadi. Yaʼni yer yuzidagi barcha xalqlar uchun tinchlik, ozodlik, toʻkinchilik va farovonlik boʻlsin, deganidir.
+**BMTning Oziq-ovqat va qishloq xoʻjaligi tashkiloti (FAO) logotipi. Unda bugʻdoy boshogʻi va lotin tilidagi shiori “Fiat panis” aks etgan. “Fiat panis” jumlasi “Non boʻlsin” degan maʼnoni anglatadi. Yaʼni yer yuzidagi barcha xalqlar uchun tinchlik, ozodlik, toʻkinchilik va farovonlik boʻlsin, deganidir.**
 
 ### BOLA HUQUQLARINI HIMOYA QILISHDA BMTNING FAOLIYATI
+
+![](img/ogp-10.uz/p109-1.webp "232x232")
 
 Bola huquqlarini himoya qilishda ham Birlashgan Millatlar Tashkilotining hissasi ulkandir. Bolalar huquqlarini himoya qilish BMTning eng oliy maqsadlaridan biri hisoblanadi. Bolalar huquqlarini himoya qilishda BMT dunyodagi barcha davlatlarga koʻmak berib kelmoqda. Bu oʻrinda BMTning Bola huquqlari toʻgʻrisidagi konvensiyasining oʻrni beqiyosdir. Ushbu xalqaro shartnoma 1989-yil 20-noyabrda Birlashgan Millatlar Tashkiloti Bosh assambleyasining 44-sessiyasida qabul qilingan boʻlib, uni Oʻzbekiston 1992-yilda ratifikatsiya qilgan. Mamlakatimiz mustaqillikning dastlabki yillaridanoq bola huquqlarini himoyalashni asosiy oʻringa qoʻygan va bu yoʻlda BMT bilan hamkorlik qilib kelmoqda.
 
@@ -2194,17 +2244,19 @@ Bolalar mehnati deganda bolalarni bolalikdan mahrum qiladigan, ularning maktabga
 
 egasiz. Bunda Bola huquqlari toʻgʻrisidagi konvensiyaning hissasi katta. Chunki davlatimiz ham ushbu Konvensiya qoidalarini ichki qonunchilikka kiritish orqali sizlarning huquqlaringizni himoya qilib keladi. Xususan, Oʻzbekiston Respublikasining “Bola huquqlari kafolatlari toʻgʻrisida”gi qonunida ushbu Konvensiyadagi barcha bola huquqlari oʻz aksini topgan.
 
-Bola huquqlari toʻgʻrisidagi konvensiyada belgilab berilgan bolalarning asosiy huquqlarini quyidagi sodda turkumlarga ajratishimiz mumkin
+**Bola huquqlari toʻgʻrisidagi konvensiyada belgilab berilgan bolalarning asosiy huquqlarini quyidagi sodda turkumlarga ajratishimiz mumkin**
+
+![](img/ogp-10.uz/p110-1.webp "782x176")
 
 ### Yashash huquqi
 
 Yashash huquqi har bir bolaning ajralmas huquqi ekani va bolalarning esonomon yashashi hamda sogʻlom rivojlanishi uchun tibbiy xizmatning taqdim etilishi.
 
-Oʻsib-ulgʻayish huquqi Taʼlim olish, oʻynash, tugʻma qobiliyatlarini yetarli darajada namoyon qilish.
+**Oʻsib-ulgʻayish huquqi** Taʼlim olish, oʻynash, tugʻma qobiliyatlarini yetarli darajada namoyon qilish.
 
-Himoya qilinish huquqi Ota-onasi yoki davlat parvarishida boʻlish, doʻpposlanish, qiynoqqa solish yoki kamsitilishlardan himoya qilinish, majburiy mehnatga jalb qilinmaslik.
+**Himoya qilinish huquqi** Ota-onasi yoki davlat parvarishida boʻlish, doʻpposlanish, qiynoqqa solish yoki kamsitilishlardan himoya qilinish, majburiy mehnatga jalb qilinmaslik.
 
-Ishtirok etish huquqi Oʻzining fikrlarini erkin tarzda ifodalash, din va vijdon erkinligi, assotsiatsiya va tinch yigʻilish erkinligi kabilar.
+**Ishtirok etish huquqi** Oʻzining fikrlarini erkin tarzda ifodalash, din va vijdon erkinligi, assotsiatsiya va tinch yigʻilish erkinligi kabilar.
 
 ### UNICEF TASHKILOTI
 
@@ -2246,7 +2298,7 @@ BMTning 17 ta ixtisoslashgan tashkiloti roʻyxati keltirilgan jadval yarating. J
 
 Agar temir ishlatilmasa, zanglaydi. Agar suv harakatlanib turmasa, ayniydi. Agar kishi fikrlamasa, aqlda ham shunday holat yuz beradi.
 
-Leonardo da Vinchi
+**Leonardo da Vinchi**
 
 ### Siz bilib olasiz
 
@@ -2256,19 +2308,19 @@ Oʻzbekistonning tashqi siyosati. Oʻzbekistonning xalqaro hamkorligi.
 
 Oʻzbekiston Respublikasining tashqi siyosati dunyodagi tinchlik va osoyishtalikni saqlashga, boshqa davlatlarning suvereniteti hamda siyosatini hurmat qilishga qaratilgan. Oʻzbekistonning tashqi siyosati avvalo mamlakatimiz Konstitutsiyasida oʻzining asosini topgan. Xususan, IV bob “Tashqi siyosat” deb nomlanib, 17-moddada mamlakatimiz olib boradigan tashqi siyosatning asosiy tamoyillari belgilab berilgan. Ular quyidagilar hisoblanadi:
 
-• Davlatlarning suveren tengligi: barcha davlatlarning teng ekani va hech bir davlat boshqa davlatlardan ustun yoki past koʻrilmasligini nazarda tutadi.
+• **Davlatlarning suveren tengligi:** barcha davlatlarning teng ekani va hech bir davlat boshqa davlatlardan ustun yoki past koʻrilmasligini nazarda tutadi.
 
-• Kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik: bir davlat boshqa davlatga nisbatan oʻz qurolli kuchlarini ishga solgan holda hujum qilishi yoki shu kabi harakatni amalga oshirishini aytib tahdid qilishini taqiqlaydi.
+• **Kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik:** bir davlat boshqa davlatga nisbatan oʻz qurolli kuchlarini ishga solgan holda hujum qilishi yoki shu kabi harakatni amalga oshirishini aytib tahdid qilishini taqiqlaydi.
 
-• Chegaralarning daxlsizligi: davlatning asosiy belgisi boʻlgan hududini buzmaslikni nazarda tutadi.
+• **Chegaralarning daxlsizligi:** davlatning asosiy belgisi boʻlgan hududini buzmaslikni nazarda tutadi.
 
-• Nizolarni tinch yoʻl bilan hal etish tamoyili: davlatlar oʻrtasida nizolar yuzaga kelganda harbiy kuchlarni ishga solmasdan, xalqaro huquq qoidalariga amal qilgan holda sud, muzokara yoki boshqa vositalar orqali muammoni hal etishni targʻib qiladi.
+• **Nizolarni tinch yoʻl bilan hal etish tamoyili:** davlatlar oʻrtasida nizolar yuzaga kelganda harbiy kuchlarni ishga solmasdan, xalqaro huquq qoidalariga amal qilgan holda sud, muzokara yoki boshqa vositalar orqali muammoni hal etishni targʻib qiladi.
 
-• Boshqa davlatlarning ichki ishlariga aralashmaslik: har bir davlat oʻzining ichki ishlarini mustaqil hal etishini hurmat qilishni talab etadi. Bundan tashqari, xalqaro huquqda nazarda tutilgan boshqa tamoyillar ham tashqi siyosatning asosini tashkil etishi mumkin.
+• **Boshqa davlatlarning ichki ishlariga aralashmaslik:** har bir davlat oʻzining ichki ishlarini mustaqil hal etishini hurmat qilishni talab etadi. Bundan tashqari, xalqaro huquqda nazarda tutilgan boshqa tamoyillar ham tashqi siyosatning asosini tashkil etishi mumkin.
 
-Nizolarni tinch yoʻl bilan hal etish tamoyili amalda Oʻzbekiston oʻz qoʻshnisi Qirgʻiziston Respublikasi bilan chegaraga doir bir qancha muammolarni Sh. Mirziyoyevning yaxshi qoʻshnichilik siyosati va tinch yoʻl, xususan, muzokaralar orqali hal etib kelmoqda.
+![](img/ogp-10.uz/p112-1.webp "782x252")
 
-Ushbu rasmda Qirgʻiziston Respublikasi tomonidan maʼlum muddatga yopib qoʻyilgan “Soʻx-Rishton” yoʻlida joylashgan postlardan biri aks etgan.
+![](img/ogp-10.uz/p113-1.webp "772x292")
 
 ### OʻZBEKISTONNING XALQARO HAMKORLIGI
 
@@ -2278,13 +2330,15 @@ Oʻzbekiston xavfsizlikni taʼminlash, inson huquqlarini himoya qilish va boshqa
 
 ### Tarixga nazar
 
-> Mustaqil Davlatlar Hamdoʻstligi – 1991-yil 8-dekabrda tuzilgan mintaqaviy tashkilot. 1991-yil 21-dekabrda Oʻzbekiston bir qancha davlatlar bilan birgalikda unga aʼzo boʻldi. Tashkilotning maqsad va vazifalari Olmaota deklaratsiyasida belgilab qoʻyilgan. 1993-yilda qabul qilingan MDH nizomi esa aʼzo davlatlar inson huquqlari, transport, aloqa, iqtisod, sogʻliqni saqlash, chegara, uyushgan jinoyatchilikka qarshi kurashish, atrof-muhit kabi bir qancha masalalarda hamkorlik qilishini belgilab beradi.
+![](img/ogp-10.uz/p113-2.webp "412x323")
 
 lik” mavzusida Toshkent xalqaro konferensiyasi boʻlib oʻtdi. Oʻzbekiston bu orqali xalqaro hamjamiyatning xavfsizligiga oʻz hissasini qoʻshmoqda. Shu bilan birgalikda, inson huquqlari, xususan, yoshlar huquqlarini himoya qilish maqsadida 2017-yil sentyabr oyida Oʻzbekiston Respublikasi Prezidenti Shavkat Mirziyoyev tomonidan BMT Bosh assambleyasining 72-sessiyasida “Yoshlar huquqlari toʻgʻrisidagi xalqaro konvensiya”ni qabul qilish gʻoyasi ilgari surildi. Bu mamlakatimiz xalqaro huquq normalarining yaratilishiga ham oʻz hissasini qoʻshayotganini anglatadi.
 
 ### SHHTga aʼzo davlatlar xaritasi
 
-Oʻzbekistondan Afgʻonistonga yuborilgan insonparvarlik yordami yoʻlda (2023-yil).
+![](img/ogp-10.uz/p114-1.webp "402x410")
+
+![](img/ogp-10.uz/p114-2.webp "792x322")
 
 ### Savol va topshiriqlar
 
@@ -2312,23 +2366,21 @@ Oʻzbekiston Respublikasi fuqaroligiga ega boʻlish. Fuqarolikni yoʻqotishning 
 
 Xalqaro hamjamiyatda fuqarolik masalasi juda katta ahamiyat kasb etadi. Chunki bir davlat aholisi va chet elliklar oʻrtasidagi farq aynan ularning qaysi davlat fuqarosi ekaniga bogʻliq. Jismoniy shaxslar qayerda boʻlmasin, deyarli har doim oʻz fuqaroliklari mansub boʻlgan davlat bilan uzviy aloqadordir.
 
-Inson huquqlari umumjahon deklaratsiyasi, 15-modda.
-
-1. Har bir insonning fuqaro boʻlish huquqi bor.
-
-2. Hech kim oʻzboshimchalik bilan oʻz fuqaroligidan yoki oʻz fuqaroligini oʻzgartirish huquqidan mahrum qilinishi mumkin emas.
+![](img/ogp-10.uz/p115-1.webp "792x192")
 
 Albatta, biror davlatning fuqaroligiga ega boʻlish shu davlatda yashash hamda bu yerdagi siyosiy huquqlardan foydalanish kabi imkoniyatlarni taqdim etadi. Shuning uchun biror shaxsga fuqarolikni taqdim etish yoki taqdim etmaslik toʻliq davlatning vakolatiga kiradi. Davlat oʻz ichki normativ-huquqiy hujjatlariga asosan shaxslarga fuqarolik taqdim etish yoki taqdim etmaslik masalasini hal qiladi. Davlat shaxslar qanday holatlarda uning fuqaroligiga ega boʻlishi borasidagi talablarni ham oʻrnatadi. Turli davlatlar oʻzlarining ichki holatidan kelib chiqib, turli xil qoidalarni belgilaydi.
 
-Tugʻilganlik haqidagi guvohnoma (16 yoshga toʻlmaganlar uchun)
+**Tugʻilganlik haqidagi guvohnoma (16 yoshga toʻlmaganlar uchun)**
+
+![](img/ogp-10.uz/p115-2.webp "782x208")
 
 Mamlakatimizda Oʻzbekiston fuqaroligini olish va tugatishga doir munosabatlar “Oʻzbekiston Respublikasining fuqaroligi toʻgʻrisida”gi qonunga asosan tartibga solinadi. Masalan, ushbu qonunga koʻra, tugʻilganlik boʻyicha, bola farzandlikka olinganda hamda fuqarolikka qabul qilish bilan shaxslar mamlakatimiz fuqaroligini olishlari mumkin boʻladi. Albatta, bunda ixtiyoriylik tamoyiliga amal qilinadi. Yaʼni hech kim majburan fuqarolikka qabul qilinmaydi. Yaʼni kim mamlakatimiz fuqaroligini olmoqchi boʻlsa, oʻzi buni ixtiyor qilishi kerak. Masalan, Tojikiston fuqarosi Oʻzbekiston fuqaroligiga oʻtmoqchi boʻlsa, oʻz ixtiyoriga koʻra, ariza bilan vakolatli idoralarga murojaat qiladi va yakunda uni Oʻzbekiston fuqaroligiga qabul qilish yoki qabul qilmaslik Oʻzbekiston Respublikasi Prezidenti tomonidan hal etiladi.
 
 Ammo bu yerda yana bir muhim masala mavjud boʻlib, bu chet el fuqarosining oʻz fuqaroligidan chiqishi lozimligidir. Chunki Oʻzbekiston faqat yagona fuqarolikni tan oladi. Ikki yoki koʻp fuqarolik bizning mamlakatimizda tan olinmaydi. Biror shaxs Oʻzbekiston fuqaroligiga qabul qilinsa, u Oʻzbekistonda tugʻilganmi yoki boshqa mamlakatda – buning ahamiyati yoʻq. Mazkur fuqaro ham barcha Oʻzbekiston fuqarolari bilan bir xil huquq va majburiyatlarga ega boʻladi.
 
-Yagona fuqarolik faqatgina bir davlatning fuqaroligiga ega boʻlish hisoblanib, bugun koʻplab davlatlar aynan yagona fuqarolik tamoyiliga amal qiladi.
+![](img/ogp-10.uz/p116-1.webp "782x362")
 
-Ikki yoki koʻp fuqarolik bir shaxs bir vaqtning oʻzida ikki yoki undan koʻp davlatlarning fuqarosi boʻlishidir. Masalan, Ispaniya va Portugaliya kabi davlatlar ikki fuqarolikka ruxsat beradi. Malta va bir qancha Karib dengizi mamlakatlari uch fuqarolikka ham ruxsat beradi. Soʻnggi yillarda ikki fuqarolikka ruxsat beruvchi mamlakatlar soni oshib bormoqda.
+![](img/ogp-10.uz/p116-2.webp "792x295")
 
 Demak, yuqoridagilardan kelib chiqib aytish mumkinki, Oʻzbekiston Respublikasi fuqarosi irqi, dini, ijtimoiy kelib chiqishi va boshqa xususiyatlariga qarab farqlanmaydi. Yaʼni
 
@@ -2346,9 +2398,7 @@ Bundan tashqari, mamlakatimiz fuqarosi xorijda doimiy yashashiga qaramasdan, yet
 
 Mamlakatimizda Oʻzbekiston fuqarolaridan tashqari, fuqaroligi boʻlmagan shaxslarni ham uchratamiz. Fuqaroligi boʻlmagan shaxslarning huquqlari mamlakatimiz tomonidan xalqaro huquq qoidalariga binoan himoya qilinadi. Bu qoida Konstitutsiyamizning 24-moddasida
 
-### Fuqaroligi boʻlmagan shaxs – Oʻzbekiston Respublikasining
-
-fuqarosi boʻlmagan va oʻzining chet davlat fuqaroligiga mansubligiga doir dalilga ega boʻlmagan shaxs.
+![](img/ogp-10.uz/p117-1.webp "782x192")
 
 mustahkamlab qoʻyilgan (chet elliklarning huquqlari haqida 4-bobda batafsil maʼlumot beriladi).
 
@@ -2386,9 +2436,13 @@ Xalqaro huquqda jismoniy shaxslarning himoyalanishi.
 
 ### OʻZBEKISTON OʻZ FUQAROLARINI CHET ELDA HIMOYA QILISHI
 
+![](img/ogp-10.uz/p119-1.webp "312x332")
+
 Birinchi bobda asosan Oʻzbekiston fuqarolari va mamlakatimizda doimiy yashovchi fuqaroligi boʻlmagan shaxslar haqida maʼlumot berib oʻtgan edik. Ushbu darsda esa chet elliklar va Oʻzbekiston fuqarolarining chet elda himoya qilinishi haqida soʻz yuritamiz. Xalqaro hamjamiyatda fuqarolik masalasi katta ahamiyat kasb etadi. Chunki bir davlat aholisi va chet elliklar oʻrtasidagi farq aynan ularning qaysi davlat fuqarosi ekaniga bogʻliq. Jismoniy shaxslar qayerda boʻlmasin, deyarli har doim oʻz fuqaroliklari mansub boʻlgan davlat bilan uzviy aloqadorlikda boʻladilar. Oʻzbekiston oʻz fuqarolarini nafaqat Oʻzbekiston hududida, balki undan tashqarida ham himoya qiladi. Mazkur qoida Konstitutsiyaning 23-moddasida mustahkamlab qoʻyilgan. Shuningdek, mazkur moddada Oʻzbekiston Respublikasi fuqarosi Oʻzbekistondan tashqariga majburiy chiqarib yuborilishi yoki boshqa davlatga berib yuborilishi mumkin emasligi ham belgilab qoʻyilgan. Albatta, bu qoida davlatning oʻz fuqarolariga nisbatan yuqori darajada qaygʻurishini namoyon etadi. Bundan tashqari, globallashib borayotgan va bir mamlakatdan ikkinchi bir mamlakatga turli yumushlar bilan chiqish muammo boʻlmagan bugungi davr talabini hisobga olgan holda, xorijda yashayotgan vatandoshlar bilan aloqalarni saqlab qolish hamda rivojlantirishga konstitutsiya darajasida eʼtibor qaratilgan.
 
 Chunki kim qayerda boʻlmasin, asli oʻzbekistonlik ekan, vatandagilar ular bilan, ular esa vatandagilar bilan uzilmas aloqada boʻladi va barcha birgalikda Oʻzbekiston hamda uning rivoji yoʻlida qaygʻuradi. Demak, mamlakatimiz siz va bizning huquqlarimizni xorijiy mamlakatlarda ham himoya qilar ekan. Bu qoida fuqarolarimizning pasportlarida ham oʻz aksini topgan. Masalan, xorijga chiqish pasportlarining eng oxirgi betida “Pasport Oʻzbekiston Respublikasi mulkidir. Ushbu pasport egasi Oʻzbekiston Respublikasi himoyasidadir” deb yozib qoʻyilgan. Davlat sizni xorijiy
+
+![](img/ogp-10.uz/p119-2.webp "262x332")
 
 mamlakatlarda ham himoya qilishni kafolatlamoqda. Demak, xorijda boʻlganingizda sizning huquq va manfaatlaringiz buzilsa, oʻsha davlatda joylashgan Oʻzbekistonning elchixonasi yoki konsullik idoralariga murojaat qilishingiz kerak. Ammo zamonaviy xalqaro hamjamiyatda globallashuv jarayoni shu darajada tezlik bilan davom etmoqdaki, bir davlatdan boshqa davlatga koʻchib oʻtayotganlar, ishga yoki sayohatga kelayotganlarning son-sanogʻi yoʻq. Mana shunday paytda “Davlat meni nima boʻlsa ham himoya qilib olar ekan” degan qarashda boʻlmaslik kerak. Aksincha, siz borayotgan davlatda qanday qonun-qoidalar mavjudligini oʻrganish va oʻzingizga shubhali tuyulgan xatti-harakatlardan tiyilish maqsadga muvofiq.
 
@@ -2398,11 +2452,11 @@ Yuqoridagilardan tashqari, davlat oʻz fuqarolarini chet davlatning xalqaro huqu
 
 ### Yodda tuting
 
-Diplomatik himoya davlat oʻz fuqarolarining huquqlarini buzgan davlatga nisbatan diplomatik yoki boshqa choralarni qoʻllagan holda oʻz fuqarolarining huquq va manfaatlarini himoya qilishidir.
+**Diplomatik himoya** davlat oʻz fuqarolarining huquqlarini buzgan davlatga nisbatan diplomatik yoki boshqa choralarni qoʻllagan holda oʻz fuqarolarining huquq va manfaatlarini himoya qilishidir.
 
 ### Tarixga nazar
 
-2017-yilda A. va B. ismli ikki ayol Pokistonga boradi. Ammo ularning pasportlarini olib qoʻyib, oʻsha yerlik bir shaxsga sotib yuborishadi. Yaxshiyamki, ushbu ikki Oʻzbekiston fuqarosi Pokiston poytaxti Islomoboddagi elchixonamizga borishning uddasidan chiqadi. Elchixona ularga yordam beradi va Oʻzbekistonga yuboradi. Albatta, mazkur vaziyatda ular Pokistonga kirish va chiqish yoki u yerda boʻlish qoidalarini buzganliklari uchun javobgarlikka tortilishi mumkin edi, lekin elchixonaning yordami sababli muqarrar jazodan qutulib qolgan.
+2017-yilda **A.** va **B.** ismli ikki ayol Pokistonga boradi. Ammo ularning pasportlarini olib qoʻyib, oʻsha yerlik bir shaxsga sotib yuborishadi. Yaxshiyamki, ushbu ikki Oʻzbekiston fuqarosi Pokiston poytaxti Islomoboddagi elchixonamizga borishning uddasidan chiqadi. Elchixona ularga yordam beradi va Oʻzbekistonga yuboradi. Albatta, mazkur vaziyatda ular Pokistonga kirish va chiqish yoki u yerda boʻlish qoidalarini buzganliklari uchun javobgarlikka tortilishi mumkin edi, lekin elchixonaning yordami sababli muqarrar jazodan qutulib qolgan.
 
 Xorijiy mamlakatlarga sayohatga borish yoki u yerda oʻqish va ishlashning oʻziga xos maʼsuliyati bor. Biroq xorijda oʻzingiz tanimagan va bilmagan insonlarga ishonish yomon oqibatlarga olib kelishi mumkin. Shu sababli pasportingizni hech qachon oʻzgalarga berib qoʻymang.
 
@@ -2422,7 +2476,7 @@ Lekin bu shaxsning huquqlari buzilganda u darhol xalqaro inson huquqlarini himoy
 
 ### Yodda tuting
 
-> BMT Inson huquqlari qoʻmitasi – Fuqarolik va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt qoidalari oʻz ishtirokchi davlatlari tomonidan bajarilishini nazorat qiluvchi mustaqil ekspertlar guruhidan tashkil topuvchi tuzilma. U davlatlarning davriy hisoboti yuzasidan oʻzining tavsiya va yakuniy xulosalarini taqdim etib boradi. Buning natijasida davlatlarning ichki qonunchiliklari, siyosat va amaliyotlarida koʻplab ijobiy oʻzgarishlar sodir boʻladi va bu insonlarga oʻzlarining fuqarolik va siyosiy huquqlaridan foydalanishga yordam beradi.
+> **BMT Inson huquqlari qoʻmitasi –** Fuqarolik va siyosiy huquqlar toʻgʻrisidagi xalqaro pakt qoidalari oʻz ishtirokchi davlatlari tomonidan bajarilishini nazorat qiluvchi mustaqil ekspertlar guruhidan tashkil topuvchi tuzilma. U davlatlarning davriy hisoboti yuzasidan oʻzining tavsiya va yakuniy xulosalarini taqdim etib boradi. Buning natijasida davlatlarning ichki qonunchiliklari, siyosat va amaliyotlarida koʻplab ijobiy oʻzgarishlar sodir boʻladi va bu insonlarga oʻzlarining fuqarolik va siyosiy huquqlaridan foydalanishga yordam beradi.
 
 U barcha bosqichlarda chiqarilgan qarorlardan qoniqmasa, undan keyin xalqaro darajada inson huquqlarini himoya qiladigan institutlarga murojaat qiladi. Bunday institutlarga misol qilib global miqyosda fuqarolik va siyosiy huquqlarni himoya qiluvchi va jismoniy shaxslar ham shikoyat bilan murojaat qilish imkoniyatiga ega boʻlgan BMTning Inson huquqlari qoʻmitasi yoki mintaqaviy doirada inson huquqlari himoyasini taʼminlovchi Inson huquqlari boʻyicha Yevropa sudi kabilarni keltirishimiz mumkin.
 
@@ -2430,15 +2484,11 @@ U barcha bosqichlarda chiqarilgan qarorlardan qoniqmasa, undan keyin xalqaro dar
 
 Oʻzbekiston Respublikasining fuqa rolari ham xorijiy mamlakatlar tomonidan huquqlari buzilganda xalqaro huquqdan najot izlaganlar. Xususan, Turkiya, Rossiya hamda boshqa Yevropa davlatlari ustidan Inson huquqlari boʻyicha Yevropa sudiga murojaat qilgan fuqarolarimizning soni talaygina.
 
-Fransiyaning Strasburg shahrida joylashgan Inson huquqlari boʻyicha Yevropa sudi binosi
+**Fransiyaning Strasburg shahrida joylashgan Inson huquqlari boʻyicha Yevropa sudi binosi**
 
 ### Savol va topshiriqlar
 
-1. Sizningcha, fuqarolar huquqlaridan erkin foydalana olishi uchun zarur shart-sharoitlarni kim taʼminlashi lozim?
-
-2. Xorijiy davlatda sizning huquq va manfaatlaringizga putur yetkazilgan taqdirda, siz qayerga murojaat etasiz?
-
-3. Nima uchun davlatlar oʻz fuqarolarini xalqaro maydonlarda ham himoya qilishi zarur?
+![](img/ogp-10.uz/p122-1.webp "782x263")
 
 ### Mustaqil ish uchun topshiriq
 
@@ -2450,7 +2500,7 @@ Egallagan bilimlaringiz asosida fikringizni bayon eting.
 
 Ish meni charchatgan vaqtni eslolmayman.
 
-Lekin bekorchilik meni charchatadi. Artur Konan Doyl
+Lekin bekorchilik meni charchatadi. **Artur Konan Doyl**
 
 ### XORIJGA CHIQISH PASPORTINI OLAMIZ
 
@@ -2458,19 +2508,21 @@ S. va A. 11-sinfni bitirdi. Ikkisi ham 18 yoshga toʻlgani uchun kelgusidagi ish
 
 A. – S.ning sinfdoshi. U 18 yoshga toʻlishiga yana 5 oy bor. A. juda ham zehni oʻtkir qizlardan va nemis tilini yuqori darajada oʻzlashtirgan. U 11-sinfni bitirgach, Germaniyaning Bonn universitetiga bakalavr bosqichiga oʻqishga qabul qilindi. Universitetdan zarur hujjatlarni topshirishi kerakligi haqida unga elektron pochta orqali xabar keldi. Talablar ichida xorijga chiqish pasportini skaner qilib joʻnatish ham bor. U 2 oydan keyin Germaniyaga uchib ketishi kerak. A. ham xorijga chiqish pasportini qanday qilib olaman deb oʻyga botgan. Siz unga masalahat bera olasiz degan umiddamiz.
 
-Vazifa. Demak, sizning vazifangiz avvalo xorijga chiqish pasporti hamda viza nima ekanligini S. va A.ga birma-bir tushuntirishdir. Bunda quyida taqdim etilgan tushunchalardan foydalanishingiz mumkin. Bir narsaga eʼtibor qaratishingizni soʻraymiz. Odamlarga bir nechta bosqichlarni oʻz ichiga oladigan jarayonlarni tushuntirganda maʼlumotlarni aralash-quralash qilib aytish kutilgan natijani bermaydi. Ularni ketma-ketlikda va maʼlum bir chizma asosida tushuntirish juda samarali boʻladi. Bu xuddi manzilni xarita orqali tushuntirishga oʻxshaydi. Siz ham unumli usuldan foydalaning. Chizma chizing va dastlab bu ikki bitiruvchiga xorijga chiqish pasportini qanday olishni, undan keyin viza olish uchun qayerga murojaat qilishlari kerakligini koʻrsatib bering.
+**Vazifa**. Demak, sizning vazifangiz avvalo xorijga chiqish pasporti hamda viza nima ekanligini S. va A.ga birma-bir tushuntirishdir. Bunda quyida taqdim etilgan tushunchalardan foydalanishingiz mumkin. Bir narsaga eʼtibor qaratishingizni soʻraymiz. Odamlarga bir nechta bosqichlarni oʻz ichiga oladigan jarayonlarni tushuntirganda maʼlumotlarni aralash-quralash qilib aytish kutilgan natijani bermaydi. Ularni ketma-ketlikda va maʼlum bir chizma asosida tushuntirish juda samarali boʻladi. Bu xuddi manzilni xarita orqali tushuntirishga oʻxshaydi. Siz ham unumli usuldan foydalaning. Chizma chizing va dastlab bu ikki bitiruvchiga xorijga chiqish pasportini qanday olishni, undan keyin viza olish uchun qayerga murojaat qilishlari kerakligini koʻrsatib bering.
 
-Viza – turli davlatlar fuqarolarining boshqa biron-bir davlatga kirishi, undan chiqishi, qisqa muddat yashashi yoki davlat hududidan oʻtishi uchun hukumat masʼul organlari tomonidan fuqaro pasportiga qoʻyiladigan maxsus rasmiy ruxsat belgisi.
+**Viza** – turli davlatlar fuqarolarining boshqa biron-bir davlatga kirishi, undan chiqishi, qisqa muddat yashashi yoki davlat hududidan oʻtishi uchun hukumat masʼul organlari tomonidan fuqaro pasportiga qoʻyiladigan maxsus rasmiy ruxsat belgisi.
 
 Yuqoridagi masalalarga javob topishda lex.uz saytidаn foydalanishingiz mumkin.
 
 ### Yodda tuting
 
-> Oʻzbekiston Respublikasi fuqarosining xorijga chiqish biometrik pasporti – xorijga chiqish hamda Oʻzbekiston Respublikasi hududiga kirish, shuningdek, xorijda turish vaqtida egasining shaxsini va Oʻzbekiston Respublikasining fuqaroligini tasdiqlaydigan, pasport egasining shaxsiy biografik maʼlumotlari va biometrik parametrlari saqlangan elektron axborot tashuvchiga (chipga) ega boʻlgan hujjat.
+> **Oʻzbekiston Respublikasi fuqarosining xorijga chiqish biometrik pasporti –** xorijga chiqish hamda Oʻzbekiston Respublikasi hududiga kirish, shuningdek, xorijda turish vaqtida egasining shaxsini va Oʻzbekiston Respublikasining fuqaroligini tasdiqlaydigan, pasport egasining shaxsiy biografik maʼlumotlari va biometrik parametrlari saqlangan elektron axborot tashuvchiga (chipga) ega boʻlgan hujjat.
+
+### NAZORAT ISHI
 
 Vaqtni “essiz”, “qaniydi”, “koshkiydi”lar bilan oʻtkazgan kishining umri eng qisqa umr ekan.
 
-Najmiddin Kubro
+**Najmiddin Kubro**
 
 ### ATAMALARDAN FOYDALANGAN HOLDA MATNNI TOʻLDIRING
 
@@ -2486,85 +2538,87 @@ Bundan tashqari,................... yuqoridagi davlat hamda xalqaro tashkilotlar
 
 ## Ayrim yuridik atamalarning izohli lugʻati
 
-> Ayb – shaxsning sodir etgan jinoyatiga oʻzining munosabati. Masalan, siz oʻrtogʻingizning ruchkasini unga bildirmasdan olib qoʻydingiz va sizda shu ishni qilganingizdan soʻng “Bekor qildim-da” degan tuygʻu paydo boʻldi. Mana shu “ayb” deyiladi.
+> **Ayb** – shaxsning sodir etgan jinoyatiga oʻzining munosabati. Masalan, siz oʻrtogʻingizning ruchkasini unga bildirmasdan olib qoʻydingiz va sizda shu ishni qilganingizdan soʻng “Bekor qildim-da” degan tuygʻu paydo boʻldi. Mana shu “ayb” deyiladi.
 
-> Advokat – sizning huquqlaringizni himoya qiladigan shaxs. Masalan, kimdir uyingizni noqonuniy olib qoʻygan boʻlsa, siz advokatga murojaat qilib, uning yordami bilan uyingizni qaytarib olishingiz mumkin.
+> **Advokat** – sizning huquqlaringizni himoya qiladigan shaxs. Masalan, kimdir uyingizni noqonuniy olib qoʻygan boʻlsa, siz advokatga murojaat qilib, uning yordami bilan uyingizni qaytarib olishingiz mumkin.
 
-> Bezorilik – jamiyatdagi yurish-turish qoidalarini buzish va mensimaslik. Bunday bezori shaxslar taqiqlangan joylarda alkogol ichimliklar ichadi, boshqa insonlarni haqoratli gaplar bilan soʻkadi. Yaʼni jamoat joylarida nomaqbul ishlarni qiladi.
+> **Bezorilik** – jamiyatdagi yurish-turish qoidalarini buzish va mensimaslik. Bunday bezori shaxslar taqiqlangan joylarda alkogol ichimliklar ichadi, boshqa insonlarni haqoratli gaplar bilan soʻkadi. Yaʼni jamoat joylarida nomaqbul ishlarni qiladi.
 
-> Bitim – fuqaro va yuridik shaxslarning oʻzaro kelishuvga olib keladigan harakatlari. Masalan, sizning doʻkonga borib, muzqaymoq sotib olishingiz bitim boʻladi.
+> **Bitim** – fuqaro va yuridik shaxslarning oʻzaro kelishuvga olib keladigan harakatlari. Masalan, sizning doʻkonga borib, muzqaymoq sotib olishingiz bitim boʻladi.
 
-> Blog inglizcha “web log” soʻzidan qisqartirib yasalgan boʻlib, “internet kundalik”, “internet qaydnoma”, “onlayn bitik” kabi maʼnolarni anglatadi.
+> **Blog** inglizcha “web log” soʻzidan qisqartirib yasalgan boʻlib, “internet kundalik”, “internet qaydnoma”, “onlayn bitik” kabi maʼnolarni anglatadi.
 
-> Bloger – oʻz sayti yoki ijtimoiy tarmoqlardagi sahifasi orqali fikr-mulohazalarini, munosabatlarini beruvchi, blog yurituvchi kishi.
+> **Bloger –** oʻz sayti yoki ijtimoiy tarmoqlardagi sahifasi orqali fikr-mulohazalarini, munosabatlarini beruvchi, blog yurituvchi kishi.
 
-> Burch – bajarishimiz kerak boʻlgan ishlar. Masalan, vatanimizni himoya qilishimiz, harbiy xizmatga borishimiz, Konstitutsiya va qonunlarga itoat etishimiz, ota-bobolarimizdan qolgan tarixiy, madaniy va maʼnaviy merosni asrab-avaylashimiz hamda bizni oʻrab turgan tabiatni ehtiyot qilishimiz bizning burchimiz hisoblanadi.
+> **Burch** – bajarishimiz kerak boʻlgan ishlar. Masalan, vatanimizni himoya qilishimiz, harbiy xizmatga borishimiz, Konstitutsiya va qonunlarga itoat etishimiz, ota-bobolarimizdan qolgan tarixiy, madaniy va maʼnaviy merosni asrab-avaylashimiz hamda bizni oʻrab turgan tabiatni ehtiyot qilishimiz bizning burchimiz hisoblanadi.
 
-> Buyruq – bajarilishi majburiy boʻlgan, bir kishi tomonidan chiqariladigan huquqiy hujjat. Masalan, maktab direktori tomonidan maktab hududini obodonlashtirish uchun chiqariladigan hujjat buyruq boʻladi va bu buyruqni maktab jamoasi va oʻquvchilar bajarishi shart.
+> **Buyruq –** bajarilishi majburiy boʻlgan, bir kishi tomonidan chiqariladigan huquqiy hujjat. Masalan, maktab direktori tomonidan maktab hududini obodonlashtirish uchun chiqariladigan hujjat buyruq boʻladi va bu buyruqni maktab jamoasi va oʻquvchilar bajarishi shart.
 
-> Davlat mulki – davlat ixtiyorida boʻlgan va davlat hokimiyati organlari tomonidan tasarruf etiladigan mulk.
+> **Davlat mulki** – davlat ixtiyorida boʻlgan va davlat hokimiyati organlari tomonidan tasarruf etiladigan mulk.
 
-> Davlat tili – davlat yoki xalqaro tashkilotda ustuvor mavqega ega boʻlgan tildir. Oʻzbekiston Respublikasida davlat tili oʻzbek tili hisoblanadi.
+> **Davlat tili –** davlat yoki xalqaro tashkilotda ustuvor mavqega ega boʻlgan tildir. Oʻzbekiston Respublikasida davlat tili oʻzbek tili hisoblanadi.
 
-> Firibgarlik – birovning ishonchiga kirib, aldab mol-mulkini oʻzlashtirib olish. Fuqarolarning tenghuquqliligini buzish – odamlarni tili, dini, millati, irqi va ijtimoiy kelib chiqishiga qarab ajratish. Baʼzilarga huquqlarni koʻproq berib, boshqalarning huquqlarini cheklab qoʻyish.
+> **Firibgarlik** – birovning ishonchiga kirib, aldab mol-mulkini oʻzlashtirib olish. **Fuqarolarning tenghuquqliligini buzish –** odamlarni tili, dini, millati, irqi va ijtimoiy kelib chiqishiga qarab ajratish. Baʼzilarga huquqlarni koʻproq berib, boshqalarning huquqlarini cheklab qoʻyish.
 
-> Guvohnoma – yuridik faktlarni tasdiqlovchi hujjat. Masalan A. qachon tugʻilganini uning tugʻilganlik haqidagi guvohnomasiga qarab bilib olishimiz mumkin. Yoki dadangizning haydovchilik guvohnomasi bunday hujjatga misol boʻladi.
+> **Guvohnoma** – yuridik faktlarni tasdiqlovchi hujjat. Masalan A. qachon tugʻilganini uning tugʻilganlik haqidagi guvohnomasiga qarab bilib olishimiz mumkin. Yoki dadangizning haydovchilik guvohnomasi bunday hujjatga misol boʻladi.
 
-> Hadya – oʻziga tegishli mol-mulkni birovga tekinga berish, sovgʻa qilish. Ijtimoiy munosabatlar – turmushning turli sohalarida ishlatiladigan munosabatlar. Imtiyoz – turli xil afzalliklar, yengilliklar berish. Masalan, sinfda eng yaxshi oʻqiydigan oʻquvchilarning imtihonlarni topshirmasdan turib sinfdan sinfga oʻtishi.
+> **Hadya** – oʻziga tegishli mol-mulkni birovga tekinga berish, sovgʻa qilish. **Ijtimoiy munosabatlar** – turmushning turli sohalarida ishlatiladigan munosabatlar. **Imtiyoz** – turli xil afzalliklar, yengilliklar berish. Masalan, sinfda eng yaxshi oʻqiydigan oʻquvchilarning imtihonlarni topshirmasdan turib sinfdan sinfga oʻtishi.
 
-> Islohot – yangilanish, oʻzgarish, tuzatish. Masalan, bolalarni oʻqitishni yaxshilash uchun maktabga zamonaviy asbob-uskunalar, yangi darsliklar, katta tajribaga ega oʻqituvchilar olib kelinadi. Shu yangilanish islohot hisoblanadi.
+> **Islohot** – yangilanish, oʻzgarish, tuzatish. Masalan, bolalarni oʻqitishni yaxshilash uchun maktabga zamonaviy asbob-uskunalar, yangi darsliklar, katta tajribaga ega oʻqituvchilar olib kelinadi. Shu yangilanish islohot hisoblanadi.
 
-> Jahon hamjamiyati – jahonda mavjud davlatlarning hozir insoniyat oldida turgan global muammolarni hamkorlikda hal qilishda, umumiy maqsad yoʻlida faoliyat koʻrsatishda birligini anglatuvchi tushuncha.
+> **Jahon hamjamiyati –** jahonda mavjud davlatlarning hozir insoniyat oldida turgan global muammolarni hamkorlikda hal qilishda, umumiy maqsad yoʻlida faoliyat koʻrsatishda birligini anglatuvchi tushuncha.
 
-> Jismoniy shaxs – Oʻzbekiston Respublikasi fuqarolari, chet el fuqarolari va fuqaroligi boʻlmagan shaxslar.
+> **Jismoniy shaxs** – Oʻzbekiston Respublikasi fuqarolari, chet el fuqarolari va fuqaroligi boʻlmagan shaxslar.
 
-> Kodeks – bir soha boʻyicha bir tizimga solingan huquqiy qoidalar yigʻindisi. Masalan, Fuqarolik kodeksi, Jinoyat kodeksi va boshqalar.
+> **Kodeks** – bir soha boʻyicha bir tizimga solingan huquqiy qoidalar yigʻindisi. Masalan, Fuqarolik kodeksi, Jinoyat kodeksi va boshqalar.
 
-> Konferensiya – biron-bir masalani hal etish uchun tashkil etiladigan majlis, yigʻilish. Korrupsiya – shaxsning shaxsiy manfaatlarini yoxud oʻzga shaxslarning manfaatlarini koʻzlab oʻz mansab yoki xizmat mavqeyidan moddiy yoki nomoddiy naf olish maqsadida qonunga xilof ravishda foydalanishi, bunday nafni qonunga xilof ravishda taqdim etishidir.
+> **Konferensiya** – biron-bir masalani hal etish uchun tashkil etiladigan majlis, yigʻilish. **Korrupsiya** – shaxsning shaxsiy manfaatlarini yoxud oʻzga shaxslarning manfaatlarini koʻzlab oʻz mansab yoki xizmat mavqeyidan moddiy yoki nomoddiy naf olish maqsadida qonunga xilof ravishda foydalanishi, bunday nafni qonunga xilof ravishda taqdim etishidir.
 
-> Memorandum – diplomatik yozishmalar hujjati. Yaʼni ikki yoki undan ortiq davlatning biror masalani hal etish boʻyicha imzolagan diplomatik hujjati.
+> **Memorandum** – diplomatik yozishmalar hujjati. Yaʼni ikki yoki undan ortiq davlatning biror masalani hal etish boʻyicha imzolagan diplomatik hujjati.
 
-> Migratsiya – koʻchish. Aholining bir joydan ikkinchi joyga koʻchishi.
+> **Migratsiya** – koʻchish. Aholining bir joydan ikkinchi joyga koʻchishi.
 
-> Nafaqa – aholini moddiy taʼminlash shakllaridan biri. Nafaqa kasal boʻlganda, jarohat olganda, homiladorlik va bola tugʻilganda, ishsiz boʻlib qolganda va boshqa holatlarda tayinlanadi.
+> **Nafaqa** – aholini moddiy taʼminlash shakllaridan biri. Nafaqa kasal boʻlganda, jarohat olganda, homiladorlik va bola tugʻilganda, ishsiz boʻlib qolganda va boshqa holatlarda tayinlanadi.
 
-> Nikoh – erkak va ayolning oʻzaro ixtiyoriy roziligi bilan tuzilgan ittifoq. Oʻzbekiston Respublikasi Oila kodeksiga koʻra, erkak yoki ayoldan biri rozi boʻlmasa, nikoh tuzilmaydi.
+> **Nikoh** – erkak va ayolning oʻzaro ixtiyoriy roziligi bilan tuzilgan ittifoq. Oʻzbekiston Respublikasi Oila kodeksiga koʻra, erkak yoki ayoldan biri rozi boʻlmasa, nikoh tuzilmaydi.
 
-> Nikoh yoshi – oila qurish mumkin boʻlgan yosh. Oʻzbekistonda nikoh yoshi 18 yosh. Oila – nikoh yoki tugʻishganlikka asoslangan kichik guruh. Ota-ona, farzandlar va boshqa yaqin qarindoshlarning birlashmasi “oila” deyiladi.
+> **Nikoh yoshi** – oila qurish mumkin boʻlgan yosh. Oʻzbekistonda nikoh yoshi 18 yosh. **Oila** – nikoh yoki tugʻishganlikka asoslangan kichik guruh. Ota-ona, farzandlar va boshqa yaqin qarindoshlarning birlashmasi “oila” deyiladi.
 
-> Oldi-sotdi – biror mol-mulkni kimgadir sotish yoki sotib olish.
+> **Oldi-sotdi** – biror mol-mulkni kimgadir sotish yoki sotib olish.
 
-> Oliy Majlis – davlatning oliy vakillik organi. Oʻzbekiston Respublikasi Oliy Majlisi ikki palatadan – Qonunchilik palatasi (quyi palata) va Senatdan (yuqori palata) iborat. Qonunchilik palatasi va Senatning vakolat muddati besh yil.
+> **Oliy Majlis –** davlatning oliy vakillik organi. Oʻzbekiston Respublikasi Oliy Majlisi ikki palatadan – Qonunchilik palatasi (quyi palata) va Senatdan (yuqori palata) iborat. Qonunchilik palatasi va Senatning vakolat muddati besh yil.
 
-> Pasport – shaxs qaysi davlat fuqarosi ekanini belgilaydigan hujjat.
+> **Pasport** – shaxs qaysi davlat fuqarosi ekanini belgilaydigan hujjat.
 
-> Pensiya – fuqarolar maʼlum bir yoshga yetganida davlat tomonidan tayinlanadigan doimiy toʻlov. Pensiya bir umrga tayinlanadi.
+> **Pensiya** – fuqarolar maʼlum bir yoshga yetganida davlat tomonidan tayinlanadigan doimiy toʻlov. Pensiya bir umrga tayinlanadi.
 
-> Pora berish – mansabdor shaxsga biror xizmati evaziga noqonuniy pul mablagʻi berish. Prokuror – prokuratura organlarining masʼul mansabdor shaxsi. Bu soʻz fransuzchada “qoralovchi” degan maʼnoni bildirsa, lotinchada “gʻamxoʻrlik qilish” degan maʼnoni anglatadi.
+> **Pora berish** – mansabdor shaxsga biror xizmati evaziga noqonuniy pul mablagʻi berish. **Prokuror** – prokuratura organlarining masʼul mansabdor shaxsi. Bu soʻz fransuzchada “qoralovchi” degan maʼnoni bildirsa, lotinchada “gʻamxoʻrlik qilish” degan maʼnoni anglatadi.
 
-> Qonun – davlat oliy vakillik organining yuqori kuchga ega boʻlgan hujjati. Ratifikatsiya – (lot. ratus – “hal qilingan”, “tasdiqlangan” va facere – “qilmoq”) – xalqaro shartnomaning davlat hokimiyati oliy organi tomonidan tasdiqlanishi. Masalan, Oʻzbekistonda xalqaro shartnomalarni ratifikatsiya qilish toʻgʻrisida Oliy Majlis Qonunchilik palatasi va Senati birgalikda qaror qabul qiladi.
+> **Qonun** – davlat oliy vakillik organining yuqori kuchga ega boʻlgan hujjati. **Ratifikatsiya** – (lot. ratus – “hal qilingan”, “tasdiqlangan” va facere – “qilmoq”) – xalqaro shartnomaning davlat hokimiyati oliy organi tomonidan tasdiqlanishi. Masalan, Oʻzbekistonda xalqaro shartnomalarni ratifikatsiya qilish toʻgʻrisida Oliy Majlis Qonunchilik palatasi va Senati birgalikda qaror qabul qiladi.
 
-> Soliq – davlat tomonidan undiriladigan va byudjetga oʻtkaziladigan majburiy toʻlov. Soliqlarni toʻlashdan bosh tortish maʼmuriy va jinoiy javobgarlikka sabab boʻladi.
+> **Soliq** – davlat tomonidan undiriladigan va byudjetga oʻtkaziladigan majburiy toʻlov. Soliqlarni toʻlashdan bosh tortish maʼmuriy va jinoiy javobgarlikka sabab boʻladi.
 
-> Sud – odil sudlovni amalga oshiruvchi mustaqil organ.
+> **Sud** – odil sudlovni amalga oshiruvchi mustaqil organ.
 
-> Suverenitet – davlatning boshqa davlatlardan ichki va tashqi siyosatda mustaqilligi. Valyuta – muayyan mamlakatning pul birligi. Masalan, Oʻzbekiston Respublikasida – soʻm, Rossiya Federatsiyasida – rubl, AQSHda – dollar va boshqalar.
+> **Suverenitet** – davlatning boshqa davlatlardan ichki va tashqi siyosatda mustaqilligi. **Valyuta** – muayyan mamlakatning pul birligi. Masalan, Oʻzbekiston Respublikasida – soʻm, Rossiya Federatsiyasida – rubl, AQSHda – dollar va boshqalar.
 
-> Vasiyat – fuqaroning vafot etgan taqdirda oʻziga tegishli boʻlgan mol-mulkni tasarruf etish xususidagi xohish-irodasi.
+> **Vasiyat –** fuqaroning vafot etgan taqdirda oʻziga tegishli boʻlgan mol-mulkni tasarruf etish xususidagi xohish-irodasi.
 
-> Vasiylik – 14 yoshga toʻlmagan bolalarga va sud tomonidan muomalaga layoqatsiz deb topilgan shaxslarga nisbatan belgilanadigan huquqiy shakl.
+> **Vasiylik** – 14 yoshga toʻlmagan bolalarga va sud tomonidan muomalaga layoqatsiz deb topilgan shaxslarga nisbatan belgilanadigan huquqiy shakl.
 
-> Voyaga yetmaganlar – Oʻzbekiston Respublikasining amaldagi qonunchiligiga koʻra, 18 yoshga yetmagan fuqarolar.
+> **Voyaga yetmaganlar** – Oʻzbekiston Respublikasining amaldagi qonunchiligiga koʻra, 18 yoshga yetmagan fuqarolar.
 
-> Xalqaro huquq – xalqaro muloqotdagi davlatlararo va boshqa qatnashuvchilar (subyektlar) oʻrtasidagi munosabatlarni tartibga soluvchi ommaviy yuridik prinsiplar va normalar majmui.
+> **Xalqaro huquq –** xalqaro muloqotdagi davlatlararo va boshqa qatnashuvchilar (subyektlar) oʻrtasidagi munosabatlarni tartibga soluvchi ommaviy yuridik prinsiplar va normalar majmui.
 
-> Xususiy mulk – mulkni oʻzlashtirishning xususiy usuliga asoslangan shakli.
+> **Xususiy mulk** – mulkni oʻzlashtirishning xususiy usuliga asoslangan shakli.
 
 > Davlat va huquq asoslari [Matn]: 10-sinf uchun darslik / H. Tuychieva, A. Hakimov, O. Abdugʻaniyev, O. Shernayev, M. Ahmedova Toshkent: Respublika taʼlim markazi, 2023. – 128 b.
 
 > H. Tuychieva, A. Hakimov, O. Abdugʻaniyev, O. Shernayev, M. Ahmedova
 
-> Muharrir Orifjon Madvaliyev Texnik muharrir Akmal Sulaymonov Badiiy muharrir Sarvar Farmonov Rassom Mirkomil Jurayev Dizayner Ashurov Mirjalol Sahifalovchi Yuldoshev Farrux Musahhih Xurshid Ibrohimov
+![](img/ogp-10.uz/p127-1.webp "482x232")
+
+> **Muharrir** Orifjon Madvaliyev **Texnik muharrir** Akmal Sulaymonov **Badiiy muharrir** Sarvar Farmonov **Rassom** Mirkomil Jurayev **Dizayner** Ashurov Mirjalol **Sahifalovchi** Yuldoshev Farrux **Musahhih** Xurshid Ibrohimov
 
 > Bosishga 00.00.2023-yilda ruxsat etildi. Bichimi 60X84⅛.
 
@@ -2572,9 +2626,7 @@ Bundan tashqari,................... yuqoridagi davlat hamda xalqaro tashkilotlar
 
 > Adadi ____ nusxa. Buyurtma № ____.
 
-### Ijaraga beriladigan darslik holatini koʻrsatuvchi jadval
-
-> Darslik ijaraga berilib, oʻquv yili yakunida qaytarib olinganda yuqoridagi jadval sinf rahbarlari tomonidan quyidagi baholash mezonlariga asosan toʻldiriladi:
+> **Darslik ijaraga berilib, oʻquv yili yakunida qaytarib olinganda yuqoridagi jadval sinf rahbarlari tomonidan quyidagi baholash mezonlariga asosan toʻldiriladi:**
 
 > Darslikning birinchi marta foydalanishga berilgandagi holati. Muqova butun, darslikning asosiy qismidan ajralmagan. Barcha varaqlari bor, yirtilmagan, koʻchmagan, betlarida yozuv va chiziqlar yoʻq.
 

@@ -2,10 +2,10 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import { buildUnits, docLang, loadDoc, useAsync, useCatalog } from '../data';
 import { useStore, setState, markUnitRead, getState, type Bookmark } from '../store';
 import { useT } from '../i18n';
-import { CardEditor, Empty, Hl, Progress } from '../components';
+import { CardEditor, Empty, Hl, Modal, Progress, Rich } from '../components';
 import { href, useRoute } from '../router';
 import { useBackClose } from '../back';
-import type { Block, CatalogItem, Lang, Unit } from '../types';
+import { plain, type Block, type CatalogItem, type Lang, type Unit } from '../types';
 
 export default function Reader({ id }: { id: string }) {
   const { t, lang } = useT();
@@ -27,6 +27,7 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
   const [tocOpen, setTocOpen] = useState(false);
   const [card, setCard] = useState<{ front: string; back: string; anchor: string } | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
+  const [zoom, setZoom] = useState<string | null>(null);
   const topRef = useRef<HTMLDivElement>(null);
 
   const anchor = params.get('a') || '';
@@ -95,7 +96,7 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
             const H = b.l <= 2 ? 'h2' : 'h3';
             return (
               <H key={i} id={'b' + i}>
-                <Hl text={b.x} q={hl} />
+                <Hl text={plain(b.x)} q={hl} />
               </H>
             );
           }
@@ -116,6 +117,13 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
               />
             );
           }
+          if (b.t === 'img')
+            return (
+              <figure key={i} id={'b' + i} className="fig" onClick={() => setZoom(b.src)}>
+                <img src={'content/' + b.src} alt={b.x} loading="lazy" width={b.w} height={b.h} />
+                {b.x && <figcaption>{b.x}</figcaption>}
+              </figure>
+            );
           const bid = 'b' + i;
           const inArticle = item.kind === 'npa';
           return (
@@ -125,7 +133,7 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
                 className={(b.k === 'def' ? 'def ' : '') + (selected === bid ? 'selected' : '')}
                 onClick={() => !inArticle && setSelected(selected === bid ? null : bid)}
               >
-                <Hl text={b.x} q={hl} />
+                <Rich text={b.x} q={hl} />
               </p>
               {!inArticle && selected === bid && (
                 <ParaActions
@@ -133,8 +141,8 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
                   unit={unit!.key}
                   anchor={bid}
                   label={unit!.title}
-                  text={b.x}
-                  onCard={() => setCard({ front: b.k === 'def' ? b.x.split(/\s[—–-]\s/)[0] : '', back: b.x, anchor: bid })}
+                  text={plain(b.x)}
+                  onCard={() => setCard({ front: b.k === 'def' ? plain(b.x).split(/\s[—–-]\s/)[0] : '', back: plain(b.x), anchor: bid })}
                 />
               )}
               {!inArticle && <NoteView doc={item.id} anchor={bid} />}
@@ -142,6 +150,11 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
           );
         })}
       </article>
+      {zoom && (
+        <Modal title="" onClose={() => setZoom(null)}>
+          <img className="fig-zoom" src={'content/' + zoom} alt="" />
+        </Modal>
+      )}
 
       <div className="reader-foot">
         <button

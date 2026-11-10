@@ -6,7 +6,7 @@
 
 Odamiy ersang, demagil odami, Onikim, yoʻq xalq gʻamidin gʻami.
 
-Alisher Navoiy
+**Alisher Navoiy**
 
 ### Faollashtiruvchi savollar
 
@@ -30,49 +30,45 @@ Alisher Navoiy
 
 “Odam” tushunchasi biologik tushuncha boʻlib, unga jonli tabiatning bir elementi sifatida qaraladi. “Inson” tushunchasi esa ijtimoiy tushuncha boʻlib, undan kundalik soʻzlashuvda keng foydalaniladi. Shuningdek, oʻzaro suhbatlarda “kishi”, “kimsa” soʻzlarini ham qoʻllab turamiz. Biroq huquqshunoslik fanida hamda yuridik adabiyotlar da “odam”, “inson”, “kishi” yoki “kimsa” soʻzlaridan emas, balki aynan “shaxs” tushun chasidan foydalaniladi.
 
-“Shaxs” tushunchasi “inson” tushunchasining yuksak koʻrinishi, oliy maqomidir. Shu bilan birga, “odam” yoki “inson” tushunchalariga huquqiy munosabatlarning ishtirokchisi sifatida qaralmaydi. Ular shaxs maqomidan tashqari holatda huquqiy munosabatlarning toʻla ishtirokchisi boʻla olmaydi.
+**“Shaxs”** tushunchasi “inson” tushunchasining yuksak koʻrinishi, oliy maqomidir. Shu bilan birga, “odam” yoki “inson” tushunchalariga huquqiy munosabatlarning ishtirokchisi sifatida qaralmaydi. Ular shaxs maqomidan tashqari holatda huquqiy munosabatlarning toʻla ishtirokchisi boʻla olmaydi.
 
 ### Yodda tuting
 
-> Shaxs — ongli ravishda oʻz faoliyatini boshqarish imkoniyatiga ega boʻlgan, huquqiy munosabat ishtirokchisi sifatida muayyan huquq va majburiyatlarga ega inson.
+> **Shaxs —** ongli ravishda oʻz faoliyatini boshqarish imkoniyatiga ega boʻlgan, huquqiy munosabat ishtirokchisi sifatida muayyan huquq va majburiyatlarga ega inson.
 
-Umumijtimoiy tushuncha boʻlib, muayyan jamiyat da insoniy fazilatlarga ega ekanlikni ifoda etadi.
-
-Biologik jihatdan fikrlash, soʻzlash qobiliyatiga ega boʻlgan, shu tufayli jonli tabiatning boshqa hamma jonzotlardan ustun turuvchi bir qismi.
-
-Huquqiy munosabatlarning alohida ishtirokchisi boʻlib, inson tushunchasining yuksak koʻrinishidir.
+![](img/ogp-8.uz/p007-1.webp "652x492")
 
 ### Hamkorlikda bajaramiz
 
-Xoʻsh, inson qanday qilib jamiyatga hissa qoʻshadigan shaxsga aylanadi? Qanday insonni biz buyuk shaxs deb atashimiz mumkin?
+**Xoʻsh, inson qanday qilib jamiyatga hissa qoʻshadigan shaxsga aylanadi? Qanday insonni biz buyuk shaxs deb atashimiz mumkin?**
 
 Shaxs ham, albatta, odam, inson, individ. Lekin unda tabiiy xususiyatlar, ehtiyojlar, his-hayajon, tuygʻulardan tashqari, bir qadar ahamiyatliroq boʻlgan jihatlar ham mavjud. Masalan, shaxs uchun qator qadriyatlar muhim. Bu qadriyatlarga misol qilib oʻz uyi — oilasi, mamlakati — vatani, mahallasi — qoʻni-qoʻshnisi, oʻquv dargohi — sinfdoshlari yoki kursdoshlari, ishxonasi — hamkasblari kabilarni keltirish mumkin. Bu qadriyatlarga erishish, ularni saqlash va eʼzozlash uning hayotining maqsadi, mazmuni boʻlib xizmat qiladi. Shaxs faqat oʻz-oʻzi bilan ovora emas. U atrofdagilar, hayot, mahalla, mamlakat, vatan haqida doimo oʻylaydi, qaygʻuradi, gʻamxoʻrlik qiladi. Insonning shaxs sifatida shakllanishida oila, maktab, qoʻni-qoʻshni, mahalla va doʻstlarning taʼsiri katta.
 
 Biz Abu Nasr Forobiy, Burhoniddin Margʻinoniy, Jaloliddin Manguberdi, Amir Temur, Alisher Navoiy kabi ajdodlarimizni tilga olganimizda ularni buyuk shaxslar deb ulugʻlashimiz ham shaxs tushunchasiga eʼtibor qaratishni talab etadi.
 
+![](img/ogp-8.uz/p008-1.webp "132x142")
+
 “Har bir inson tabiatan shunday tuzilganki, u yashash va oliy dara jadagi yetuklikka erishmoq uchun koʻp narsalarga muhtoj boʻladi, u bir oʻzi bunday narsalarni qoʻlga kirita olmaydi, ularga ega boʻlish uchun insonlar jamoasiga ehtiyoj tugʻiladi…”
 
-Abu Nasr Forobiy, “Fozil odamlar shahri”
+**Abu Nasr Forobiy, “Fozil odamlar shahri”**
 
-Alisher Navoiy 1464–1469-yillarda Samarqandda boʻlgan paytlarida, bir necha yil mashhur faqih (huquqshunos) Xoja Fazlulloh Abul lays huzurida fiqh (huquq) ilmidan dars olgan.
+**Alisher Navoiy** 1464–1469-yillarda Samarqandda boʻlgan paytlarida, bir necha yil mashhur faqih (huquqshunos) Xoja Fazlulloh Abul lays huzurida fiqh (huquq) ilmidan dars olgan.
 
 Bu haqda shoir “Majolis un-nafois” asarida shunday yozadi: “Faqir ikki yil alarning qoshida saboq oʻqub erdim, ancha iltifotlari bor erdikim, “farzand” der erdilar”.
 
+![](img/ogp-8.uz/p008-2.webp "132x172")
+
 Burhoniddin Margʻinoniyning “Kitob al-Hidoya” (qisqacha nomi “Hidoya” — “Toʻgʻri yoʻl”) kitobida oilaviy munosabatlarga oid, shuningdek, mulkchilik, savdo-sotiq, jinoyat va jazo, insonning burch va masʼuliyatlariga taalluqli juda koʻp murakkab muammolar islomiy huquq nuqtayi nazaridan hal etib berilgan. Bu kitob fiqh ilmi boʻyicha eng aniq, izchil, mukammal asar boʻlib, undan bugungi kunda ham islom huquqshunosligi boʻyicha nufuzli huquqiy manba — asosiy qoʻl lanma sifatida foydalaniladi.
 
-### Fikrimizni tasdiqlaymiz
+### Shaxsning jamiyatdagi oʻrni
 
-Shaxsning jamiyatdagi oʻrni Shaxsni jamiyatdan, jamiyatni shaxsdan ajratib boʻlmaydi. Shaxs boshqalar bilan turli munosabatlarga kirishmasdan jamiyatda faoliyat olib bora olmaydi. Jamiyat va shaxs oʻzaro ijtimoiy-iqtisodiy, maʼnaviy, siyosiy va huquqiy munosabatlarga kirishishi mumkin.
+Shaxsni jamiyatdan, jamiyatni shaxsdan ajratib boʻlmaydi. Shaxs boshqalar bilan turli munosabatlarga kirishmasdan jamiyatda faoliyat olib bora olmaydi. Jamiyat va shaxs oʻzaro ijtimoiy-iqtisodiy, maʼnaviy, siyosiy va huquqiy munosabatlarga kirishishi mumkin.
 
-Bilim olishga oid munosabatlar.
-
-Tarixiy meros, ilmiy va texnik yutuqlardan foydalanish munosabatlari v.b.
-
-Davlat organlariga murojaat qilish bilan bogʻliq munosabatlar. Turli jamoat birlashmalari bilan bogʻliq munosabatlar v.b.
+![](img/ogp-8.uz/p008-3.webp "532x286")
 
 ### Huquqiy
 
-munosabatlar
+**munosabatlar**
 
 ### Shaxs va davlat munosabatlarining huquqiy asoslari
 
@@ -80,23 +76,23 @@ Shaxs va davlat bir-biriga nisbatan boʻlgan huquq va majburiyatlar bilan oʻzar
 
 Davlatning asosiy maqsadi fuqarolarning huquq va erkinliklarini taʼminlashga xizmat qilishdir. Jumladan, davlatning eng dastlabki vazifasi shaxslarning ijtimoiy-iqtisodiy, madaniy-maʼrifiy darajasini oshirishga yordam berish, mamlakat xavfsizligini taʼminlash, tinchlikni mustahkamlash hisoblanadi.
 
-Jismoniy va yuridik shaxs Huquqshunoslik fanida shaxs tushunchasi ikki maʼnoda, yaʼni jismoniy va yuridik shaxs sifatida ifodalanadi.
+**Jismoniy va yuridik shaxs** Huquqshunoslik fanida shaxs tushunchasi ikki maʼnoda, yaʼni **jismoniy** va **yuridik shaxs** sifatida ifodalanadi.
 
 Xoʻsh, jismoniy va yuridik shaxsning oʻzaro farqli jihatlari nimalardan iborat? Javob topish uchun, avvalo, mazkur ikki tushunchaning taʼriflariga alohida toʻxtalib oʻtamiz.
 
 ### Qonun belgilaydi
 
-Jismoniy shaxslar deganda Oʻzbekiston Respublikasining fuqarolari, boshqa davlatlarning fuqarolari, shuningdek, fuqaroligi boʻlmagan shaxslar tushuniladi.
+![](img/ogp-8.uz/p009-1.webp "792x269")
 
 ### Oʻzbekiston
 
-Respublikasining fuqarolari
+**Respublikasining fuqarolari**
 
-Alohida mol-mulkka ega boʻlgan hamda oʻz majburiyatlari yuzasidan ushbu mol-mulk bilan javob beradigan, majburiyatlarni bajara oladigan, sudda daʼvogar va javobgar boʻla oladigan tashkilot yuridik shaxs hisoblanadi.
+Alohida mol-mulkka ega boʻlgan hamda oʻz majburiyatlari yuzasidan ushbu mol-mulk bilan javob beradigan, majburiyatlarni bajara oladigan, sudda daʼvogar va javobgar boʻla oladigan tashkilot **yuridik shaxs** hisoblanadi.
 
 Demak, yuridik shaxs deganda, asosan, korxona, tashkilot va muassasalar tushuniladi.
 
-Yuridik shaxslarning quyidagi turlari mavjud:
+**Yuridik shaxslarning quyidagi turlari mavjud:**
 
 • Tijorat tashkilotlari (foyda olishni oʻz faoliyatining asosiy maqsadi qilib olgan korxona va tashkilotlar: sotuv boʻlimlari, quruvchi tashkilotlar, ulgurji savdo doʻkonlari v.b.)
 
@@ -108,7 +104,9 @@ Maʼlum bir axloqiy sifatlarga ega boʻlmasdan, munosib inson boʻlmay turib, ij
 
 ### Hamkorlikda bajaramiz
 
-Berilgan vaziyatni diqqat bilan oʻqing va savollarga javob bering.
+**Berilgan vaziyatni diqqat bilan oʻqing va savollarga javob bering.**
+
+![](img/ogp-8.uz/p010-1.webp "242x218")
 
 Alisher dars mashgʻuloti davomida ulgurji doʻkonlar jismoniy shaxslar tomonidan yuritilishini, ular hech qanday tashkilot yoki korxona boʻla olmasligini tushuntirib berdi. Ulgurji savdo bilan shugʻullanuvchi tadbirkorlar tashkilot emas, ular jismoniy shaxslar ekanligini isbotlashga harakat qildi. Sizningcha, Alisherning fikri toʻgʻrimi? Uning fikriga nima uchun qoʻshilish yoki qoʻshilmaslik lozim?
 
@@ -134,7 +132,7 @@ Alisher dars mashgʻuloti davomida ulgurji doʻkonlar jismoniy shaxslar tomonida
 
 Agar qilmadi el himoyat senga, Oʻzingdin kerakdir shikoyat senga.
 
-Alisher Navoiy
+**Alisher Navoiy**
 
 ### Faollashtiruvchi savollar
 
@@ -172,11 +170,7 @@ Ibtidoiy jamoadan bugungi sivilizatsiyalashgan jamiyatgacha boʻlgan davrda inso
 
 ### Yodda tuting
 
-> Jamiyat — arabcha “jamoa”, “jamlangan”, “birlashgan” degan maʼnolarni bildiradi.
-
-### Yodda tuting
-
-> Jamiyat — muayyan hudud da yashovchi, oʻz ehtiyoj va manfaatlariga koʻra birlashgan kishilardan iborat jamoa.
+> **Jamiyat** — arabcha “jamoa”, “jamlangan”, “birlashgan” degan maʼnolarni bildiradi.
 
 ### Xulosa qiling
 
@@ -196,9 +190,11 @@ Ibtidoiy jamoadan bugungi sivilizatsiyalashgan jamiyatgacha boʻlgan davrda inso
 
 6. Siz sinfdoshlaringiz va maktabingizdagi boshqa insonlar bilan qanday qoidalarga asoslanib doʻstlashasiz? Bu qoidalar qanday paydo boʻlgan?
 
+![](img/ogp-8.uz/p013-1.webp "896x722")
+
 ### Fikrimizni tasdiqlaymiz
 
-Jamiyat turli odamlar guruhining oddiy majmuyi yoki jamoasi emas. Jamiyat — murakkab ijtimoiy tuzilma. U — odamlarning oʻzaro munosabatlari, aloqalari mahsuli. Odamlarning hayoti, eng avvalo, ishlab chiqarish, turmush farovonligini taʼminlovchi isteʼmol buyumlari yaratish va ularni oʻzaro ayirboshlash bilan bogʻliq muayyan mushtarak faoliyat zamirida kechadi.
+**Jamiyat** turli odamlar guruhining oddiy majmuyi yoki jamoasi emas. Jamiyat — murakkab ijtimoiy tuzilma. U — odamlarning oʻzaro munosabatlari, aloqalari mahsuli. Odamlarning hayoti, eng avvalo, ishlab chiqarish, turmush farovonligini taʼminlovchi isteʼmol buyumlari yaratish va ularni oʻzaro ayirboshlash bilan bogʻliq muayyan mushtarak faoliyat zamirida kechadi.
 
 Boshqacha aytganda, jamiyat biologik qonunlar emas, balki ijtimoiy qonunlar ustuvor boʻlgan, yuksak shakllangan mushtarak birlikdir.
 
@@ -218,6 +214,8 @@ Jamiyatni tashkil qiluvchi odamlar koʻp yoki kam, boy yoki kambagʻal, teng huq
 
 5. Jamiyatni qanday rivojlantirish mumkin? Fikringizni asoslang.
 
+![](img/ogp-8.uz/p014-1.webp "869x412")
+
 ## 4–5-dars. Davlat
 
 ### Faollashtiruvchi savollar
@@ -225,6 +223,8 @@ Jamiyatni tashkil qiluvchi odamlar koʻp yoki kam, boy yoki kambagʻal, teng huq
 1. Tarix fanidan olgan bilimlaringizga tayanib quyidagi savollarga javob bering:
 
 a) Dastlabki davlatlar qachon paydo boʻlgan edi? b) Davlatning paydo boʻlishi uchun jamiyatda qanday ehtiyojlar yuzaga kelgan edi?
+
+![](img/ogp-8.uz/p015-1.webp "392x506")
 
 d) Qadimgi davlatlar boshqaruvi qanday edi? Ularni kim boshqargan? Qadimgi Rim va Qadimgi Misr davlatlarining boshqaruvida qanday farqlar bor edi?
 
@@ -256,7 +256,7 @@ Dastlabki bosqichda davlat boshqaruvi, eng avvalo, majburlash usuliga asoslangan
 
 ### Yodda tuting
 
-> Davlat — bu muayyan hududda ommaviy hoki miyatni amalga oshiradigan, umummajburiy normalar oʻrnatadigan va suverenitetga ega boʻlgan, oʻz fuqarolari, shuningdek, hududda istiqomat qiluvchi barcha insonlarning manfaatlarini himoya qiladigan, boshqa davlatlar bilan siyosiy, iqtisodiy, madaniy aloqalarni amalga oshiradigan mustaqil siyosiy tashkilot.
+> **Davlat** — bu muayyan hududda ommaviy hoki miyatni amalga oshiradigan, umummajburiy normalar oʻrnatadigan va suverenitetga ega boʻlgan, oʻz fuqarolari, shuningdek, hududda istiqomat qiluvchi barcha insonlarning manfaatlarini himoya qiladigan, boshqa davlatlar bilan siyosiy, iqtisodiy, madaniy aloqalarni amalga oshiradigan mustaqil siyosiy tashkilot.
 
 ### Brainring daqiqa
 
@@ -272,15 +272,19 @@ Dastlabki bosqichda davlat boshqaruvi, eng avvalo, majburlash usuliga asoslangan
 
 6. “Davlat” bilan “jamiyat” bir xil tushunchalarmi yoki farqlimi? Bu tushunchalardan qaysi biri kengroq deb oʻylaysiz? Nima uchun “Bizning davlatimiz” degan birikmani ishlatamiz?
 
+![](img/ogp-8.uz/p017-1.webp "900x514")
+
 ### Qonun belgilaydi
 
 Davlat xalq irodasini ifoda etib, uning manfaatlariga xizmat qiladi. Davlat organlari va mansabdor shaxslar jamiyat va fuqarolar oldida masʼuldirlar.
 
-Oʻzbekiston Respublikasi Konstitutsiyasi, 2-modda
+**Oʻzbekiston Respublikasi Konstitutsiyasi, 2-modda**
 
 ### Xulosa qiling
 
 Demak, davlatning asosiy maqsadi jamiyatga xizmat qilish, jamiyat aʼzolarining huquq va erkinliklari hamda qonuniy manfaatlarini himoya qilish hisoblanadi.
+
+![](img/ogp-8.uz/p018-1.webp "182x262")
 
 Eshitdimki, shohlardan birining qulogʻi ogʻir ekan. U: “Tilmoch lik qiladiganlar mazlumlar soʻzini menga toʻgʻri yetkazmaydi va ularning holini bilmay, ishlariga muvofiq kelmaydigan biron buyruq berib qoʻyishim mumkin”, — deb oʻylab qoladi. Ana shunda u: “Zulm koʻrgan kishilar qizil kiyim kiysin, boshqa hech kim bunday rangdagi kiyim kiymasin, toki men ularni tanib olay”, — deb buyruq beribdi. Bu shoh bir filga oʻtirib, sahroda
 
@@ -288,17 +292,19 @@ yurganida toʻxtab, qizil kiyganlarni oldiga chaqirtirib olarkan.
 
 Ular ham baland ovozda oʻz ahvollarini aytib berarkanlar va podshoh ularga javob qaytararkan. Oʻsha zamonda bunday ehtiyotkorlik shoh uchun biror bir narsa qorongʻi qolmasligi uchun qilinarkan.
 
-Nizomulmulk, “Siyosatnoma” (“Siyar ul-muluk”)
+**Nizomulmulk, “Siyosatnoma” (“Siyar ul-muluk”)**
 
 ### Hamkorlikda bajaramiz
 
-Quyidagi jadvalni daftaringizga chizing va toʻldiring.
+**Quyidagi jadvalni daftaringizga chizing va toʻldiring.**
+
+![](img/ogp-8.uz/p018-2.webp "792x411")
 
 ### Fikrimizni tasdiqlaymiz
 
 “Ijtimoiy davlat” tushunchasi “inson qadri” tushunchasi bilan chambarchas bogʻliq boʻlib, ushbu gʻoyaning tub negizida, avvalo, inson qadrini ulugʻlash, aholiga xizmat qilishdek oliyjanob maqsad mujassam.
 
-Ijtimoiy davlat — har bir inson uchun farovon turmush darajasi, sifatli taʼlim, kafolatli tibbiy xizmat, munosib mehnat sharoiti va adolatli ish haqi, pensiya va nafaqalar, ijtimoiy yordam va xizmatlar tizimi yaratilgan, uy-joyli boʻlish sharoiti mavjud boʻlgan, ijtimoiy tafovutlarni yumshatishga qaratilgan davlat modelidir.
+**Ijtimoiy davlat —** har bir inson uchun farovon turmush darajasi, sifatli taʼlim, kafolatli tibbiy xizmat, munosib mehnat sharoiti va adolatli ish haqi, pensiya va nafaqalar, ijtimoiy yordam va xizmatlar tizimi yaratilgan, uy-joyli boʻlish sharoiti mavjud boʻlgan, ijtimoiy tafovutlarni yumshatishga qaratilgan davlat modelidir.
 
 ### Qonun belgilaydi
 
@@ -314,9 +320,11 @@ Oʻzbekiston — boshqaruvning respublika shakliga ega boʻlgan suveren, demokra
 
 4. “Ijtimoiy davlat” tushunchasini ifodalash uchun yana qanday misollar keltira olasiz?
 
+![](img/ogp-8.uz/p019-1.webp "782x312")
+
 ## 6-dars. Davlat funksiyasi
 
-Davlat ishlarining toʻqqiz ulushi kengash, tadbir va mashvarat, qolgan bir ulushi esa qilich bilan bajo keltirilur. Amir Temur
+Davlat ishlarining toʻqqiz ulushi kengash, tadbir va mashvarat, qolgan bir ulushi esa qilich bilan bajo keltirilur. **Amir Temur**
 
 ### Faollashtiruvchi savollar
 
@@ -340,19 +348,21 @@ Davlat funksiyalari bilan bogʻliq masalalarni oʻrganish uning mazmun-mohiyati,
 
 Davlatning mavjudligi, zarurligi uning funksiyalarida oʻz aksini topadi. Davlat oʻz faoli yatida bir qancha funksiyalar (faoliyat yoʻnalishlari)ni amalga oshiradi. Bu funksiyalarni, mamlakat ichida yoki tashqarisida amalga oshirilishidan kelib chiqib, tashqi va ichki funksiyalarga ajratish mumkin.
 
-Ichki funksiyalar davlatning ichki vazifalarini bajarishga yoʻnaltirilgan boʻlib, davlatning jamiyat hayoti ustidan rahbarligini amalga oshirishga qaratilgan faoliyatining asosiy yoʻnalishlarini namoyon qiladi.
+**Ichki funksiyalar** davlatning ichki vazifalarini bajarishga yoʻnaltirilgan boʻlib, davlatning jamiyat hayoti ustidan rahbarligini amalga oshirishga qaratilgan faoliyatining asosiy yoʻnalishlarini namoyon qiladi.
 
-Tashqi funksiyalar esa xalqaro munosabatlarning subyekti sifatida ishtirok etayotgan davlatlarning tashqi faoliyatdagi vazifalarini hal qilishi bilan bogʻliqdir.
+**Tashqi funksiyalar** esa xalqaro munosabatlarning subyekti sifatida ishtirok etayotgan davlatlarning tashqi faoliyatdagi vazifalarini hal qilishi bilan bogʻliqdir.
+
+### Huquqiy tartibotni taʼminlash
+
+![](img/ogp-8.uz/p021-1.webp "772x145")
 
 ### Brainring daqiqa
 
-1. Quyidagi tartibni daftaringizga chizing va berilgan rasmlarni davlat funksiyalari bilan bogʻlang. Fikringizni asoslang.
-
-1 ________, 2_________, 3__________, 4_________, 5_________, 6_________, 7____________, 8________, 9__________.
+![](img/ogp-8.uz/p021-2.webp "896x540")
 
 ### Hamkorlikda bajaramiz
 
-1. Oʻzbekiston Respublikasi Konstitutsiyasida qayd etilgan ushbu qoidalarni oʻqing va bu qoidalarda davlatning qaysi funksiyalari aks etganligini aniqlang:
+**1. Oʻzbekiston Respublikasi Konstitutsiyasida qayd etilgan ushbu qoidalarni oʻqing va bu qoidalarda davlatning qaysi funksiyalari aks etganligini aniqlang:**
 
 – Davlat xalq irodasini ifoda etib, uning manfaatlariga xizmat qiladi. Davlat organlari va mansabdor shaxslar jamiyat va fuqarolar oldida masʼuldirlar.
 
@@ -366,11 +376,11 @@ Tashqi funksiyalar esa xalqaro munosabatlarning subyekti sifatida ishtirok etayo
 
 – Davlat uy-joy qurilishini ragʻbatlantiradi va uy-joyga boʻlgan huquqning amalga oshirilishi uchun shart-sharoitlar yaratadi.
 
-2. “Davlatning mavjudligi, uning zarurligi davlatning funksiyalarida oʻz aksini topadi”.
+**2. “Davlatning mavjudligi, uning zarurligi davlatning funksiyalarida oʻz aksini topadi”.**
 
 Ushbu fikrni qanday tushundingiz?
 
-3. “Davlat fuqarolarning ekologik huquqlarini taʼminlash va atrof-muhitga zararli taʼsir koʻrsatilishiga yoʻl qoʻymaslik maqsadida shaharsozlik faoliyati sohasida jamoatchilik nazoratini amalga oshirish uchun shart-sharoitlar yaratadi”.
+**3. “Davlat fuqarolarning ekologik huquqlarini taʼminlash va atrof-muhitga zararli taʼsir koʻrsatilishiga yoʻl qoʻymaslik maqsadida shaharsozlik faoliyati sohasida jamoatchilik nazoratini amalga oshirish uchun shart-sharoitlar yaratadi”.**
 
 Bunda davlatning qanday funksiyasi yoritilgan?
 
@@ -388,7 +398,7 @@ Bunda davlatning qanday funksiyasi yoritilgan?
 
 ## 7–8-dars. Davlat shakllari
 
-Biror mamlakat ishlarining orqaga ketishiga sabab — tuzuklari yu tartibotlarining susayishidandir. Mahmud az-Zamaxshariy
+Biror mamlakat ishlarining orqaga ketishiga sabab — tuzuklari yu tartibotlarining susayishidandir. **Mahmud az-Zamaxshariy**
 
 ### Faollashtiruvchi savollar
 
@@ -412,17 +422,21 @@ Biror mamlakat ishlarining orqaga ketishiga sabab — tuzuklari yu tartibotlarin
 
 10. Qanday davlatda butun bir mamlakat miqyosida umumiy tizimga ega boʻlgan qonunchilik, ijro va sud idoralari boʻladi?
 
-Davlat shakllari deyilganda, davlatning boshqaruv, hududiy tuzilishi va siyosiy tartiboti jihatidan qanday shakllarga boʻli ni shi tushuniladi.
+**Davlat shakllari** deyilganda, davlatning boshqaruv, hududiy tuzilishi va siyosiy tartiboti jihatidan qanday shakllarga boʻli ni shi tushuniladi.
 
-Boshqaruv shakliga koʻra davlatlar monarxiya va respublikaga boʻlinadi. Monarxiya — oliy hokimiyat yakka davlat boshligʻining qoʻlida boʻlgan va bu hokimiyat avloddan avlodga meros qilib beriladigan davlat boshqaruv shakli.
+Boshqaruv shakliga koʻra davlatlar **monarxiya** va **respublikaga** boʻlinadi. **Monarxiya** — oliy hokimiyat yakka davlat boshligʻining qoʻlida boʻlgan va bu hokimiyat avloddan avlodga meros qilib beriladigan davlat boshqaruv shakli.
 
-Monarx davlatni yakka oʻzi boshqarishi, oʻz boshqaruvining natijasi uchun yuridik jihatdan javobgar boʻlmasligi, uning hokimiyati muqaddas va ilohiy deb eʼlon qilinishi, oʻz faoliyatida mustaqil boʻlishi monarxiyaning asosiy belgilari hisoblanadi.
+Monarx davlatni yakka oʻzi boshqarishi, oʻz boshqaruvining natijasi uchun yuridik jihatdan javobgar boʻlmasligi, uning hokimiyati muqaddas va ilohiy deb eʼlon qilinishi, oʻz faoliyatida mustaqil boʻlishi **monarxiyaning asosiy belgilari** hisoblanadi.
 
-Agar monarx oʻz davlatini boshqarishda uning boshqaruvi boshqa biron-bir idora bilan cheklanmasa, bunday monarxiya mutlaq monarxiya deyiladi (Qatar, Oʻmon sultonligi). Cheklangan monarxiyada esa monarxning hukmronligi konstitutsiya yoki parlament bilan cheklanadi (Daniya, Norvegiya). Teokratik monarxiya tushunchasi davlat boshqaruvi va diniy hokimiyat monarx qoʻlida toʻplanishini anglatadi (Vatikan). Noanʼanaviy monarxiyada monarx maxsus saylov bilan hokimiyatga keladi (Masalan, Malayziya qiroli 5 yilga saylanadi).
+![](img/ogp-8.uz/p024-1.webp "202x60")
+
+![](img/ogp-8.uz/p024-2.webp "712x252")
+
+Agar monarx oʻz davlatini boshqarishda uning boshqaruvi boshqa biron-bir idora bilan cheklanmasa, bunday monarxiya **mutlaq monarxiya** deyiladi (Qatar, Oʻmon sultonligi). Cheklangan monarxiyada esa monarxning hukmronligi konstitutsiya yoki parlament bilan cheklanadi (Daniya, Norvegiya). Teokratik monarxiya tushunchasi davlat boshqaruvi va diniy hokimiyat monarx qoʻlida toʻplanishini anglatadi (Vatikan). Noanʼanaviy monarxiyada monarx maxsus saylov bilan hokimiyatga keladi (Masalan, Malayziya qiroli 5 yilga saylanadi).
 
 ### Fikrimizni tasdiqlaymiz
 
-Respublika davlat boshqaruvining shunday shakliki, unda hokimiyat oliy idoralari maʼlum muddatga saylanadi.
+**Respublika** davlat boshqaruvining shunday shakliki, unda hokimiyat oliy idoralari maʼlum muddatga saylanadi.
 
 Respublika shaklidagi boshqaruvga ega boʻlgan davlatning asosiy belgilari quyidagilardan iborat:
 
@@ -434,13 +448,15 @@ Respublika shaklidagi boshqaruvga ega boʻlgan davlatning asosiy belgilari quyid
 
 – fuqarolarning davlat ishlarini boshqarishda ishtirok eta olishi.
 
-Respublikalar prezidentlik respublikasi, parlamentar respublika hamda aralash shakldagi respublika turlariga boʻlinadi.
+Respublikalar **prezidentlik respublikasi, parlamentar respublika** hamda **aralash shakldagi respublika** turlariga boʻlinadi.
 
-Prezidentlik respublikasida davlatni bevosita xalq saylaydigan va juda keng vakolatlarga ega boʻlgan prezident boshqaradi. U ijro hokimiyatining bevosita boshqaruvchisi hisoblanadi. Masalan, AQSH, Rossiya Federatsiyasi, Oʻzbekiston.
+**Prezidentlik respublikasida** davlatni bevosita xalq saylaydigan va juda keng vakolatlarga ega boʻlgan prezident boshqaradi. U ijro hokimiyatining bevosita boshqaruvchisi hisoblanadi. Masalan, AQSH, Rossiya Federatsiyasi, Oʻzbekiston.
 
-Parlamentar respublikada davlat boshligʻi saylanuvchi mansabdor shaxs boʻlib, asosan, parlament tomonidan saylanadi. Masalan, Germaniya, Italiya, Gretsiya.
+**Parlamentar respublikada** davlat boshligʻi saylanuvchi mansabdor shaxs boʻlib, asosan, parlament tomonidan saylanadi. Masalan, Germaniya, Italiya, Gretsiya.
 
-Respublika shaklidagi boshqaruvning yana bir koʻrinishi aralash boshqaruvdir. Bunday boshqaruvda prezidentlik va parlamentar respublika elementlari aralashib ketgan boʻladi. Masalan, Fransiya, Janubiy Koreya Respublikasi.
+Respublika shaklidagi boshqaruvning yana bir koʻrinishi **aralash boshqaruvdir.** Bunday boshqaruvda prezidentlik va parlamentar respublika elementlari aralashib ketgan boʻladi. Masalan, Fransiya, Janubiy Koreya Respublikasi.
+
+![](img/ogp-8.uz/p025-1.webp "312x147")
 
 ### Brainring daqiqa
 
@@ -454,9 +470,11 @@ Respublika shaklidagi boshqaruvning yana bir koʻrinishi aralash boshqaruvdir. B
 
 5. Boshqaruvning qaysi shaklida mamlakat iqtisodiyoti nisbatan rivojlanadi? Fikringizni asoslab bering.
 
+![](img/ogp-8.uz/p025-2.webp "436x134")
+
 ### Fikrimizni tasdiqlaymiz
 
-Davlatning tuzilish shakli uning maʼmuriy-hududiy tashkil etilishidir.
+Davlatning **tuzilish shakli** uning maʼmuriy-hududiy tashkil etilishidir.
 
 ### Oddiy (unitar)
 
@@ -464,15 +482,15 @@ Unitar davlatda butun bir mamlakat miqyosida umumiy tizimga ega boʻlgan qonunch
 
 Unitar davlatdan farqli oʻlaroq, federativ davlat murakkab davlat tuzilmasi hisoblanadi.
 
-Federativ davlat bir necha davlatlarning birlashuvidan hosil boʻladi. Ularning subyektlari “shtat”, “oʻlka”, “respublika”, “amirliklar” deb atalishi mumkin. Federatsiya subyektlari oʻz maʼmuriy-hududiy boʻlinmalariga ega.
+**Federativ davlat** bir necha davlatlarning birlashuvidan hosil boʻladi. Ularning subyektlari “shtat”, “oʻlka”, “respublika”, “amirliklar” deb atalishi mumkin. Federatsiya subyektlari oʻz maʼmuriy-hududiy boʻlinmalariga ega.
 
 Ushbu davlatlar oʻzaro birlashganidan keyin federatsiya aʼzolari hisoblanib, asosiy hokimiyat vakolatlari federatsiyaning markaziy organlariga beriladi.
 
 ### Yodda tuting
 
-> Unitar — lotincha soʻz boʻlib, “oddiy”, “yagona” degan maʼnoni bildiradi.
+> **Unitar —** lotincha soʻz boʻlib, “oddiy”, “yagona” degan maʼnoni bildiradi.
 
-Unitar davlatning belgilari
+**Unitar davlatning belgilari**
 
 – yagona konstitutsiya, yagona qonunchilik tizimi;
 
@@ -488,7 +506,7 @@ Unitar davlatning belgilari
 
 ### Yodda tuting
 
-> Federativ davlat — bir necha davlatlarning birlashuvidan hosil boʻlgan murakkab, ittifoqdosh davlat.
+> **Federativ davlat —** bir necha davlatlarning birlashuvidan hosil boʻlgan murakkab, ittifoqdosh davlat.
 
 – federatsiya hududi uning subyektlari hududi yigʻindisidan iborat boʻladi;
 
@@ -504,7 +522,7 @@ Hozirda jahonda 20 tadan ortiq federativ davlat mavjud.
 
 Davlatlar u yoki bu maqsadni koʻzlab, oʻz suvereniteti va mustaqilligini saqlagan holda birlashishlari ham mumkin. U holda bunday ittifoq “konfederatsiya” deyiladi.
 
-Konfederatsiyada yagona hudud, yagona fuqarolik boʻlmaydi. Har bir davlat xalqaro huquqning teng huquqli subyekti boʻladi. Lekin hozirgi davrda sof koʻrinishdagi konfederativ davlat uchramaydi. Masalan, Shveysariya qadimda konfederativ davlat shaklida tashkil topgan boʻlsa-da, bugungi kundagi konstitutsiyaviy islohotlar natijasida federativ davlat sifatida eʼtirof etiladi.
+**Konfederatsiyada** yagona hudud, yagona fuqarolik boʻlmaydi. Har bir davlat xalqaro huquqning teng huquqli subyekti boʻladi. Lekin hozirgi davrda sof koʻrinishdagi konfederativ davlat uchramaydi. Masalan, Shveysariya qadimda konfederativ davlat shaklida tashkil topgan boʻlsa-da, bugungi kundagi konstitutsiyaviy islohotlar natijasida federativ davlat sifatida eʼtirof etiladi.
 
 ### Brainring daqiqa
 
@@ -518,39 +536,35 @@ Konfederatsiyada yagona hudud, yagona fuqarolik boʻlmaydi. Har bir davlat xalqa
 
 ### Fikrimizni tasdiqlaymiz
 
-Davlat hokimiyatini amalga oshirish usullari va uslublari tizimiga “siyosiy tartibot” deyiladi. Mamlakatdagi siyosiy vaziyat, yaʼni jamiyatdagi siyosiy erkinlik darajasini aynan siyosiy tartibot belgilaydi.
+Davlat hokimiyatini amalga oshirish usullari va uslublari tizimiga “**siyosiy tartibot**” deyiladi. Mamlakatdagi siyosiy vaziyat, yaʼni jamiyatdagi siyosiy erkinlik darajasini aynan siyosiy tartibot belgilaydi.
 
-Siyosiy tartibot demokratik va nodemokratik turlarga boʻlinadi.
+Siyosiy tartibot **demokratik** va **nodemokratik** turlarga boʻlinadi.
 
-Demokratik tartibot sharoitida insonning siyosiy va fuqarolik huquqlari hurmat qilinadi. Fuqarolar davlat hokimiyati idoralarini tuzishda va ularning faoliyatida faol ishtirok etadilar. Demokratik hokimiyatning yagona manbai xalq irodasi hisoblanadi.
+**Demokratik tartibot** sharoitida insonning siyosiy va fuqarolik huquqlari hurmat qilinadi. Fuqarolar davlat hokimiyati idoralarini tuzishda va ularning faoliyatida faol ishtirok etadilar. Demokratik hokimiyatning yagona manbai xalq irodasi hisoblanadi.
 
-Demokratiya — yunoncha “xalq hokimiyati” degan maʼnoni anglatadi.
+**Demokratiya —** yunoncha “xalq hokimiyati” degan maʼnoni anglatadi.
 
 Agar davlatda demokratik tartibot hukmron boʻlsa, bu davlatda fuqarolar umumeʼtirof etilgan huquq va erkinliklardan toʻla foydalanadilar, davlat esa ularni har tomonlama kafolatlaydi va himoya qiladi.
 
 ### DEMOKRATIK TARTIBOT BELGILARI
 
-Shaxs oʻz huquqlarini amalga oshirishda qonunga zid boʻlmagan holda erkin boʻlishi
+![](img/ogp-8.uz/p027-1.webp "592x437")
 
-Inson va fuqaro huquq hamda erkinliklarining eʼtirof qilinishi va kafolatlanishi
-
-Davlat boshqaruvi va siyosiy jarayonlarda fuqarolarning faol ishtirok etishi
-
-Ijtimoiy hayotda fikrlar turli xilligi (pluralizm), ijtimoiy-siyosiy birlashmalarning koʻpligi
+![](img/ogp-8.uz/p027-2.webp "436x462")
 
 Demokratik davlatda gʻoyaviy va siyosiy pluralizm konstitutsiya tomonidan qoʻllabquvvatlanib, siyosiy partiyalarning faoliyatiga ruxsat etiladi. Siyosiy partiyalar esa oliy va mahalliy hokimiyat idoralariga deputatlarni saylashda ishtirok etish orqali oʻzlari, iloji boricha, koʻproq aʼzolarini hokimiyat idoralariga kiritishga harakat qiladilar. Demokratik saylovda gʻalaba qozongan siyosiy partiyalar hukumatni tuzish va oʻz siyosatini oʻtkazish huquqiga ega boʻladilar.
 
-Demokratiyaga zid tartibot “nodemokratik tartibot” deb ataladi. Bunday tartibotda davlat idoralari demokratik tamoyillar va qoidalarga rioya etmaydilar. Aksincha, ularni doimo yoki tez-tez buzadilar. Oʻz-oʻzidan maʼlumki, bunday siyosiy tartibotda fuqarolarning huquq va erkinliklari poymol etiladi, qoʻpol ravishda buziladi, muxolifat baʼzan juda shafqatsizlik bilan bartaraf etiladi. Baʼzida esa parlament singari demokratik institutlar yoʻq qilinadi.
+Demokratiyaga zid tartibot “**nodemokratik tartibot”** deb ataladi. Bunday tartibotda davlat idoralari demokratik tamoyillar va qoidalarga rioya etmaydilar. Aksincha, ularni doimo yoki tez-tez buzadilar. Oʻz-oʻzidan maʼlumki, bunday siyosiy tartibotda fuqarolarning huquq va erkinliklari poymol etiladi, qoʻpol ravishda buziladi, muxolifat baʼzan juda shafqatsizlik bilan bartaraf etiladi. Baʼzida esa parlament singari demokratik institutlar yoʻq qilinadi.
 
 Nodemokratik tartibotlar ichida fashistik va totalitar tartibotlar haqida alohida toʻxtalib oʻtish joiz.
 
-Fashistik tartibotda har qanday hukmron muxolifat yakson etiladi. Biron-bir irqning hukmronligi eʼlon qilinadi. Va nihoyat, boshqa hududlarni bosib olishga harakat kuchayadi. 1933–1945-yillardagi fashistlar Germaniyasi va oʻsha davrdagi fashistlar Italiyasi bunga misol boʻla oladi.
+**Fashistik tartibotda** har qanday hukmron muxolifat yakson etiladi. Biron-bir irqning hukmronligi eʼlon qilinadi. Va nihoyat, boshqa hududlarni bosib olishga harakat kuchayadi. 1933–1945-yillardagi fashistlar Germaniyasi va oʻsha davrdagi fashistlar Italiyasi bunga misol boʻla oladi.
 
-Yagona partiyaning hukmronligi, huquq va erkinliklarning poymol etilishi kabi salbiy xususiyatlarga ega boʻlgan tartibot “totalitar tartibot” deyiladi. Totalitar tartibotda oʻzgacha fikrlarga qarshi kurashiladi, saylovchilarning saylovda muqobil deputatlarni saylash imkoniyatlari boʻlmaydi. Totalitar davlat misoli sifatida sobiq Sovet Ittifoqini keltirish mumkin.
+Yagona partiyaning hukmronligi, huquq va erkinliklarning poymol etilishi kabi salbiy xususiyatlarga ega boʻlgan tartibot “**totalitar tartibot”** deyiladi. Totalitar tartibotda oʻzgacha fikrlarga qarshi kurashiladi, saylovchilarning saylovda muqobil deputatlarni saylash imkoniyatlari boʻlmaydi. Totalitar davlat misoli sifatida sobiq Sovet Ittifoqini keltirish mumkin.
 
 ### Brainring daqiqa
 
-1. Oʻzbekiston, Rossiya Federatsiyasi, AQSH, Eron, Ispaniya, Braziliya, Qozogʻiston, Buyuk Britaniya, Fransiya, Italiya, Germaniya, Yaponiya, Islandiya, Daniya, Saudiya Arabistoni, Chili, Kuba, Meksika, Kanada, Hindiston, Malayziya davlatlarining shakl jihatidan qanday turlarga boʻlinishini berilgan jadval asosida toʻldiring.
+![](img/ogp-8.uz/p028-1.webp "869x468")
 
 2. Xaritada qaysi davlatlarning hududlari berilgan? Bu davlatlarning boshqaruv va tuzilish shakli haqida maʼlumot bering.
 
@@ -562,9 +576,11 @@ Yagona partiyaning hukmronligi, huquq va erkinliklarning poymol etilishi kabi sa
 
 6. Davlatlarning turli tuzilish shakliga ega ekanligining sababi nimada deb oʻylaysiz?
 
+![](img/ogp-8.uz/p029-1.webp "896x952")
+
 ## 9-dars. Ijodiy faoliyat
 
-1. Quyida berilgan taʼriflarni javoblar bilan moslashtiring.
+**1. Quyida berilgan taʼriflarni javoblar bilan moslashtiring.**
 
 muayyan hududda yashovchi, oʻz ehtiyoj va manfaatlariga koʻra birlashgan kishilardan iborat jamoa.
 
@@ -600,15 +616,9 @@ davlatni bevosita xalq saylaydigan va juda keng vakolatlarga ega boʻlgan prezid
 
 davlat idoralari demokratik tamoyillar va qoidalarga rioya etmaydilar. Aksincha, ularni doimo yoki tez-tez buzadilar. Oʻz-oʻzidan maʼlumki, bunday siyosiy tartibotda fuqarolarning huquq va erkinliklari poymol etiladi, qoʻpol ravishda buziladi, muxolifat baʼzan juda shafqatsizlik bilan bartaraf etiladi. Baʼzida esa parlament singari demokratik institutlar yoʻq qilinadi.
 
-davlat boshqaruvining shunday shakliki, unda hokimiyat oliy idoralari maʼlum muddatga saylanadi.
+![](img/ogp-8.uz/p032-1.webp "792x382")
 
-oddiy (unitar) va murakkab (federativ, konfederativ) boʻlishi mumkin.
-
-monarxiya va respublikaga boʻlinadi.
-
-davlatning boshqaruv, hududiy tuzilishi va siyosiy tartiboti jihatidan qanday shakllarga boʻlinishi.
-
-2. Quyida berilgan matnni oʻqing va savollarga javob bering.
+**2. Quyida berilgan matnni oʻqing va savollarga javob bering.**
 
 Olimlar tomonidan davlatning maqsad va funksiyalarini shakllantirish boʻyicha “SMART” texnologiyasi ishlab chiqilgan.
 
@@ -622,9 +632,11 @@ Bunda:
 
 (“timely” — “vaqt bilan oʻlchanadigan”) bunda aniq vaqt birligi bilan oʻlchash hamda maʼlum vaqt ichida tegishli natijalar bilan asosiy maqsadga erishish yoʻlidan borish nazarda tutiladi.
 
-A. Qanday qilib davlat funksiyalarini ishlab chiqishda “SMART” texnologiyasidan foy da lanish mumkin?
+**A.** Qanday qilib davlat funksiyalarini ishlab chiqishda “SMART” texnologiyasidan foy da lanish mumkin?
 
-B. “SMART” texnologiyasi asosida takomillashtirilgan davlat funksiyalarini amalga tatbiq etishda qanday oʻziga xoslik kuzatiladi deb oʻylaysiz?
+**B.** “SMART” texnologiyasi asosida takomillashtirilgan davlat funksiyalarini amalga tatbiq etishda qanday oʻziga xoslik kuzatiladi deb oʻylaysiz?
+
+![](img/ogp-8.uz/p033-1.webp "900x1069")
 
 # II bob. Huquq
 
@@ -632,7 +644,7 @@ B. “SMART” texnologiyasi asosida takomillashtirilgan davlat funksiyalarini a
 
 Butun dunyoni qidirib, goʻzal xulqdan koʻra yaxshiroq layoqatni topmadim.
 
-Jaloliddin Rumiy
+**Jaloliddin Rumiy**
 
 ### Faollashtiruvchi savollar
 
@@ -660,9 +672,9 @@ Jaloliddin Rumiy
 
 Huquq dastlab axloqiy qarashlar, qadriyatlar negizida vujudga kelgan. Keyinchalik esa davlat tomonidan oʻrnatilgan yoki maʼqullangan va uning kuchi bilan himoya qilinadigan barcha uchun majburiy xulq-atvor qoidalarining tizimiga aylangan.
 
-> Huquq — bu davlat tomonidan belgilanadigan, muhofaza qilinadigan, oʻzida erkinlik, tenglik va adolat tamoyillarini ifodalaydigan, ijtimoiy munosabatlarni tartibga solishga qaratilgan, umummajburiy xulq-atvor qoidalari yigʻindisidir.
+> **Huquq —** bu davlat tomonidan belgilanadigan, muhofaza qilinadigan, oʻzida erkinlik, tenglik va adolat tamoyillarini ifodalaydigan, ijtimoiy munosabatlarni tartibga solishga qaratilgan, umummajburiy xulq-atvor qoidalari yigʻindisidir.
 
-Axloq normalari esa butun jamiyat tomonidan yaratiladi. Bu normalar doimiy ravishda kishilar amaliy faoliyati, ularning oʻzaro aloqalari jarayonida yuzaga keladi va rivojlanib boradi.
+**Axloq normalari** esa butun jamiyat tomonidan yaratiladi. Bu normalar doimiy ravishda kishilar amaliy faoliyati, ularning oʻzaro aloqalari jarayonida yuzaga keladi va rivojlanib boradi.
 
 Huquq davlat tomonidan taʼminlanadi, muhofaza etiladi va himoya qilinadi. Huquq normalarining mazmuni umummajburiy mohiyatga ega.
 
@@ -676,7 +688,7 @@ Huquqdan farqli oʻlaroq, axloq jamiyat hayotining deyarli barcha sohalariga taa
 
 ### Yodda tuting
 
-> Axloq — kishining jamiyatdagi xulq atvorini tartibga soluvchi talab va qoidalar yigʻindisi.
+> **Axloq —** kishining jamiyatdagi xulq atvorini tartibga soluvchi talab va qoidalar yigʻindisi.
 
 ### Berilgan vaziyatlarni diqqat bilan oʻqing va quyidagi savollarga javob bering
 
@@ -696,9 +708,11 @@ Ular ertalab soat 8:00 da bekatda uchrashishga kelishib olishdi. Aziza Gulnozaga
 
 ### Fikrimizni tasdiqlaymiz
 
-“Huquq” atamasi ikki — obyektiv hamda subyektiv huquq maʼnosida qoʻllaniladi. Obyektiv huquq — huquq normalarining yigʻindisi. Subyektiv huquq esa maʼlum bir shaxs yoki guruhga tegishli boʻlgan huquq. Misol uchun, kimningdir uy-joyga boʻlgan yoki biror-bir mulkka nisbatan boʻlgan huquqi. Subyektiv huquq obyektiv huquqsiz mavjud boʻlmaydi. Huquqning oʻzi esa davlat bilan uzviy bogʻliqdir. Ular bir-birisiz mavjud boʻlishi mumkin emas.
+“Huquq” atamasi ikki — obyektiv hamda subyektiv huquq maʼnosida qoʻllaniladi. **Obyektiv huquq** — huquq normalarining yigʻindisi. **Subyektiv huquq** esa maʼlum bir shaxs yoki guruhga tegishli boʻlgan huquq. Misol uchun, kimningdir uy-joyga boʻlgan yoki biror-bir mulkka nisbatan boʻlgan huquqi. Subyektiv huquq obyektiv huquqsiz mavjud boʻlmaydi. Huquqning oʻzi esa davlat bilan uzviy bogʻliqdir. Ular bir-birisiz mavjud boʻlishi mumkin emas.
 
 Oʻzbekiston hududida ming yillar davomida milliy axloq normalari taraqqiy etib borgan. Davlatlar vujudga kelishi bilan axloq normalari huquq shaklida ifodalana boshlangan. Chunki axloq normalarini jamiyat oʻrnatsa, huquq normalarini davlatning vakolatli organlari belgilab beradi. Lekin huquq normalarining shakllanishi axloq normalarini asos qilib oladi. Misol uchun, turkiy xalqlarda ot oʻgʻirligida qoʻlga tushgan shaxs jamiyat aʼzolari tomonidan qatl etilgan. Turk xoqonligi esa oʻz toʻra-tuzuklari bilan ot oʻgʻirligi uchun qatl etish jazosini qatʼiy belgilab, huquq normasi darajasiga koʻtargan.
+
+![](img/ogp-8.uz/p036-1.webp "879x462")
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -738,41 +752,13 @@ Moʻgʻul koʻchmanchilarining huquqiy odatlari ham qadimgi turkiy toʻra-tuzukl
 
 ### Izlanishda davom eting
 
-Quyidagilardan qay biri huquq yoki axloq normalari bilan tartibga solinishini tushuntirib bering.
+**Quyidagilardan qay biri huquq yoki axloq normalari bilan tartibga solinishini tushuntirib bering.**
 
-1. Doʻstining sirlarini yashirish
-
-2. Soliqlarni oʻz vaqtida toʻlash
-
-3. Kattalarga hurmat koʻrsatish
-
-4. Saylovlarda ishtirok etish
-
-5. Onaga gul sovgʻa qilish
-
-6. Vatanni sevish
-
-7. Shaxsni tasdiqlovchi hujjatni olish
-
-8. Oʻqituvchi va murabbiylar kunini nishonlash
-
-9. Tayyorlov kurslariga borish
-
-10. Sport bilan shugʻullanish
-
-11. Salom berish
-
-12. Doʻkondan mahsulotlarni sotib olish
-
-13. Tibbiy xizmatdan foydalanish
-
-14. Taʼlim olish
-
-15. Jamoat transportida keksalarga joy berish
+![](img/ogp-8.uz/p038-1.webp "792x628")
 
 ## 11–12-dars. Huquq manbalari
 
-Yaxshilar masʼuliyat bilan ish qilishlari uchun qonunlarga muhtoj boʻlmaydilar, Yomonlar qonunlarga chap berish uchun yoʻl topadilar. Aflotun
+Yaxshilar masʼuliyat bilan ish qilishlari uchun qonunlarga muhtoj boʻlmaydilar, Yomonlar qonunlarga chap berish uchun yoʻl topadilar. **Aflotun**
 
 ### Faollashtiruvchi savollar
 
@@ -784,9 +770,11 @@ Yaxshilar masʼuliyat bilan ish qilishlari uchun qonunlarga muhtoj boʻlmaydilar
 
 ### Oʻzbekiston Respublikasining qonunlari
 
-Oʻzbekiston Respublikasi Oliy Majlisi palatalarining qarorlari
+**Oʻzbekiston Respublikasi Oliy Majlisi palatalarining qarorlari**
 
-Oʻzbekiston Respublikasi Prezidentining farmonlari, qarorlari
+**Oʻzbekiston Respublikasi Prezidentining farmonlari, qarorlari**
+
+![](img/ogp-8.uz/p039-1.webp "862x302")
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -794,19 +782,21 @@ Oʻzbekiston Respublikasi Prezidentining farmonlari, qarorlari
 
 Huquq manbasi muayyan rasmiy bir shaklga ega boʻlishi uchun, albatta, bunday manba vakolatli davlat organlari tomonidan eʼtirof etilishi lozim.
 
-Huquq manbasi — huquqning ifoda etilish shakli. Huquq manbasi oʻzida huquq normasining paydo boʻlishi va amal qilinishiga imkon beruvchi manbalarni ifodalaydi.
+**Huquq manbasi** — huquqning ifoda etilish shakli. Huquq manbasi oʻzida huquq normasining paydo boʻlishi va amal qilinishiga imkon beruvchi manbalarni ifodalaydi.
+
+![](img/ogp-8.uz/p040-1.webp "652x332")
 
 ### Fikrimizni tasdiqlaymiz
 
 Jamiyatdagi ijtimoiy munosabatlarni tartibga soluvchi manbalar tizimida odat va huquqiy odatni farqlash lozim. Kundalik turmushdagi barcha odatiy qoidalar ham huquqiy odat sifatida shakllanavermaydi.
 
-Huquqiy odat — uzoq davr mobaynida amalda boʻlishi natijasida shakllangan va davlat tomonidan umummajburiy qoida sifatida tan olingan xulq-atvor qoidasidir. Dastlab jamiyatdagi ijtimoiy munosabatlar axloq, odat, anʼana, rasm-rusum kabi turli xil normalar asosida tartibga solingan.
+**Huquqiy odat** — uzoq davr mobaynida amalda boʻlishi natijasida shakllangan va davlat tomonidan umummajburiy qoida sifatida tan olingan xulq-atvor qoidasidir. Dastlab jamiyatdagi ijtimoiy munosabatlar axloq, odat, anʼana, rasm-rusum kabi turli xil normalar asosida tartibga solingan.
 
 Odat normalari asosida ijtimoiy munosabatlarni tartibga solish alohida ahamiyat kasb etadi.
 
 Huquq manbalari haqida gapirilganida “yuridik pretsedent” degan tushunchaga ham toʻxtalib oʻtish joiz. Bu tushuncha Buyuk Britaniya, AQSH, Kanada va Avstraliya huquq tizimida uchraydi.
 
-Yuridik pretsedent sudning umummajburiy ahamiyatga ega boʻlgan aniq bir ish boʻyicha qaroridir. Yuridik pretsedentning oʻziga xos jihati shundaki, u qabul qilingach, oʻsha masala boʻyicha umummajburiy qoidaga aylanadi. Yuridik pretsedent Oʻzbekiston Respublikasining huquq tizimida qoʻllanilmaydi.
+**Yuridik pretsedent** sudning umummajburiy ahamiyatga ega boʻlgan aniq bir ish boʻyicha qaroridir. Yuridik pretsedentning oʻziga xos jihati shundaki, u qabul qilingach, oʻsha masala boʻyicha umummajburiy qoidaga aylanadi. Yuridik pretsedent Oʻzbekiston Respublikasining huquq tizimida qoʻllanilmaydi.
 
 ### Hamkorlikda bajaramiz
 
@@ -816,13 +806,13 @@ Sinfdoshlar bilan umumiy va oʻziga xos boʻlgan qoidalarni ajrating. Taklif qil
 
 Bu qoidalarga amal qilmaslik qanday salbiy oqibatlarga olib kelishi mumkin?
 
-2. Quyidagi matnni oʻqing. Tarix fanidan olgan bilimlaringizga tayanib, berilgan matnni tarixiy misollar asosida sharhlang. “Ibtidoiy jamiyatdagi ijtimoiy munosabatlarni tartibga solishda odat normalaridan keng foydalanilgan, keyinroq odat oʻz oʻrnini huquqqa boʻshatib bera boshlagan”.
+![](img/ogp-8.uz/p041-1.webp "792x159")
 
 ### Yodda tuting
 
-“Pretsedent” soʻzi lotin tilidan kelib chiqqan boʻlib, “avvalgisi”, “oldingisi” degan maʼnolarni anglatadi.
+**“Pretsedent”** soʻzi lotin tilidan kelib chiqqan boʻlib, “avvalgisi”, “oldingisi” degan maʼnolarni anglatadi.
 
-Yuridik pretsedent sud yoki maʼmuriy organning qaroridir. Bu qaror kelgusida barcha shunga oʻxshash ishlarni koʻrib chiqish va hal qilish uchun asos boʻladigan namu na qoida hisoblanadi.
+**Yuridik pretsedent** sud yoki maʼmuriy organning qaroridir. Bu qaror kelgusida barcha shunga oʻxshash ishlarni koʻrib chiqish va hal qilish uchun asos boʻladigan namu na qoida hisoblanadi.
 
 ### Xulosa qiling
 
@@ -836,13 +826,11 @@ Mazkur sud qarori bugungi kunga qadar shunga oʻxshash sud ishlarini hal etishda
 
 ### Brainring daqiqa
 
-Quyidagi hujjatlarga eʼtibor bering. Ular qanday huquq manbasi ekanligini asoslang.
-
-Inson huquqlari umumjahon deklaratsiyasi Dengiz huquqi odatlari toʻplami Oʻzbekiston Respublikasining Jinoyat kodeksi AQSH Oliy sudi qarori Oʻzbekiston Respublikasi Konstitutsiyasi
+![](img/ogp-8.uz/p041-2.webp "896x336")
 
 ### Fikrimizni tasdiqlaymiz
 
-Normativ-huquqiy hujjatlar qonunchilik hujjatlari boʻlib, ular Oʻzbekiston Respublikasining qonunchiligini tashkil etadi.
+**Normativ-huquqiy hujjatlar** qonunchilik hujjatlari boʻlib, ular Oʻzbekiston Respublikasining qonunchiligini tashkil etadi.
 
 Qonunlar va qonunosti hujjatlari, eng avvalo, ijtimoiy munosabatlarni tartibga solib turuvchi asosiy vositalardir.
 
@@ -850,25 +838,21 @@ Oʻzbekiston Respublikasi Konstitutsiyasi va qonunlari, Oʻzbekiston Respublikas
 
 Oʻzbekiston Respublikasi Prezidentining farmonlari va qarorlari, Oʻzbekiston Respublikasi Vazirlar Mahkamasining qarorlari, vazirliklar, qoʻmitalar va idoralarning buyruqlari hamda qarorlari, mahalliy davlat hokimiyati organlarining qarorlari qonunosti hujjatlaridir.
 
+![](img/ogp-8.uz/p042-1.webp "122x81")
+
 ### Brainring daqiqa
 
-Normativ-huquqiy hujjatlar quyidagi xususiyatlari bilan huquq manbalarining boshqa turlaridan farqlanadi:
-
-normativ-huquqiy hujjatlar vakolatli davlat organlari tomonidan qabul qilinib, bekor qilinadi;
-
-normativ-huquqiy hujjatlar huquqiy qoidaning mazmunini, huquqiy munosabat ishtirokchilarining huquq va burchlarini aniq belgilaydi;
-
-normativ-huquqiy hujjatlarda mustahkamlangan qoidalar bajarilmagan yoki buzilgan taqdirda davlatning majburlov kuchi bilan tartibga solinadi.
+![](img/ogp-8.uz/p042-2.webp "752x661")
 
 ### Qonun belgilaydi
 
 Normativ-huquqiy hujjat qonunchilikka muvofiq qabul qilingan, umummajburiy davlat koʻrsatmalari sifatida huquqiy normalarni belgilashga, oʻzgartirishga yoki bekor qilishga qaratilgan rasmiy hujjatdir.
 
-Oʻzbekiston Respublikasining “Normativ-huquqiy hujjatlar toʻgʻrisida”gi qonuni, 3-modda
+**Oʻzbekiston Respublikasining “Normativ-huquqiy hujjatlar toʻgʻrisida”gi qonuni, 3-modda**
 
 ### Fikrimizni tasdiqlaymiz
 
-Normativ-huquqiy hujjatlar qonun va qonunosti hujjatlariga boʻlinadi. Normativ-huquqiy hujjatlar tizimida qonunlar asosiy oʻrin tutadi. Qonun huquqning eng muhim shakli boʻlib, unda huquqning hamma xususiyatlari qamrab olinadi. Qonun davlat oliy vakillik organlarining eng yuqori yuridik kuchga ega boʻlgan hujjati hisoblanadi. Oʻzbekiston Respublikasi Konstitutsiyasi mamlakatning butun hududida oliy yuridik kuchga ega, toʻgʻridan toʻgʻri amal qiladi va yagona huquqiy makonning asosini tashkil etadi.
+Normativ-huquqiy hujjatlar **qonun** va **qonunosti hujjatlariga** boʻlinadi. Normativ-huquqiy hujjatlar tizimida qonunlar asosiy oʻrin tutadi. Qonun huquqning eng muhim shakli boʻlib, unda huquqning hamma xususiyatlari qamrab olinadi. Qonun davlat oliy vakillik organlarining eng yuqori yuridik kuchga ega boʻlgan hujjati hisoblanadi. Oʻzbekiston Respublikasi Konstitutsiyasi mamlakatning butun hududida oliy yuridik kuchga ega, toʻgʻridan toʻgʻri amal qiladi va yagona huquqiy makonning asosini tashkil etadi.
 
 Oʻzbekiston Respublikasining qonunlari eng muhim, barqaror ijtimoiy munosabatlarni tartibga solishni nazarda tutadi, ular Oʻzbekiston Respublikasi Oliy Majlisi tomonidan yoki referendum oʻtkazish yoʻli bilan qabul qilinadi.
 
@@ -888,7 +872,9 @@ Oʻzbekiston Respublikasining xalqaro shartnomalari quyidagicha tuziladi:
 
 ### Fikrimizni tasdiqlaymiz
 
-Xalqaro shartnoma — ikki yoki undan ortiq davlatlar oʻrtasida tuziladigan, ularning huquq va majburiyatlarini oʻrnatadigan, oʻzgartiradigan yoki bekor qiladigan bitim hisoblanadi. Shartnomalar — maʼlum bir normani oʻrnatish yoki taʼsis qilish xu su siyatiga ega boʻlishi mumkin. Xalqaro shartnomalarning nomlari turlicha boʻlib, jumladan, shartnoma, bitim, konvensiya, pakt, deklaratsiya, memorandum, statut, protokol, ustav, bayonot va boshqa nomlar bilan atalishi mumkin.
+**Xalqaro shartnoma** — ikki yoki undan ortiq davlatlar oʻrtasida tuziladigan, ularning huquq va majburiyatlarini oʻrnatadigan, oʻzgartiradigan yoki bekor qiladigan bitim hisoblanadi. **Shartnomalar** — maʼlum bir normani oʻrnatish yoki taʼsis qilish xu su siyatiga ega boʻlishi mumkin. Xalqaro shartnomalarning nomlari turlicha boʻlib, jumladan, shartnoma, bitim, konvensiya, pakt, deklaratsiya, memorandum, statut, protokol, ustav, bayonot va boshqa nomlar bilan atalishi mumkin.
+
+![](img/ogp-8.uz/p044-1.webp "722x222")
 
 ### Izlanishda davom eting
 
@@ -904,29 +890,27 @@ Xalqaro shartnoma — ikki yoki undan ortiq davlatlar oʻrtasida tuziladigan, ul
 
 6. Bugungi kunda jamiyatda qaysi sohalarni tartibga solish uchun qonunlarga ehtiyoj mavjud?
 
-Quyida keltirilgan misollar huquq manbasining qaysi turiga mansubligini tahlil eting.
+**Quyida keltirilgan misollar huquq manbasining qaysi turiga mansubligini tahlil eting.**
 
 ### Huquqiy
 
 odat
 
-“Normativ-huquqiy
-
-1. hujjatlar toʻgʻrisida”gi qonun Tadbirkorlik faoliyatidagi ish muomalasi odati “Bola huquqlari toʻgʻrisida”gi konvensiya “Miranda” qoidalari
-
-4. boʻyicha AQSH Oliy su dining qarori
+![](img/ogp-8.uz/p044-2.webp "869x402")
 
 ## 13-dars. Huquq normasi
 
 ### Faollashtiruvchi savollar
 
-Quyidagi Hammurapi qonunlari haqidagi maʼlumotlarni oʻqing va savollarga javob bering.
+**Quyidagi Hammurapi qonunlari haqidagi maʼlumotlarni oʻqing va savollarga javob bering.**
 
 Qadimgi Bobil podshohi Hammurapi dunyo tarixidagi ilk yozma qonunlarni joriy qilgan. Bu dunyodagi eng qadimgi huquqiy yodgorliklardan biri boʻlib, qonunlarning asosiy matni konus shaklidagi qora toshga oʻyib yozilgan. Qonun lar qadimgi Akkad tilida mixxat yozuvi koʻrinishida saqlanib qolgan boʻlib, Eron hududidagi qadimiy Suza shahrini qazish jarayonida fransuz arxeologik ekspeditsiyasi tomonidan topilgan.
 
 Qonunlar sud ishlarini yuritish, mulkning turli shakllari, nikoh va oila, shuningdek, jinoyat-huquqiy munosabatlarni tartibga soluvchi huquqiy normalarni oʻz ichiga oladi. Qonunlar 282 banddan iborat.
 
 Mazkur qonunlarning katta qismida jinoyatlarning tavsifi va ularga belgilangan jazolar qayd etilgan. Misol uchun, qonunlarning 195-bandiga koʻra, “agar oʻgʻil otasiga qoʻl koʻtargan boʻlsa, uning qoʻli kesib tashlansin”, degan normani uchratish mumkin.
+
+![](img/ogp-8.uz/p045-1.webp "172x335")
 
 1. Nima deb oʻylaysiz, davlat huquq normalarini qanday hujjatlarda qabul qiladi?
 
@@ -940,17 +924,19 @@ Mazkur qonunlarning katta qismida jinoyatlarning tavsifi va ularga belgilangan j
 
 6. Huquq normasi qanday tarkibiy elementlardan iborat deb oʻylaysiz?
 
+![](img/ogp-8.uz/p045-2.webp "456x264")
+
 ### Fikrimizni tasdiqlaymiz
 
 Huquq normasi huquqshunoslik fanining fundamental tushunchalaridan biri hisoblanadi. Huquq normasi huquq ijodkorligi faoliyatining natijasi boʻlib, faqat vakolatli davlat organlari tomonidan normativ-huquqiy hujjatlarda qabul qilinadi.
 
-> Huquq normasi — bu huquq tizimining eng asosiy, dastlabki elementi. Huquqiy norma lar jamiyatning ijtimoiy, iqtisodiy, siyosiy tuzilishi bilan belgilanadigan, xalq irodasini ifodalovchi, davlat tomonidan oʻrnatiladigan va muhofaza qilinadigan, bajarilishi jamiyatning barcha aʼzolari uchun umummajburiy boʻlgan, ijtimoiy munosabatlarni tartibga soluvchi qoidalardir.
+> **Huquq normasi —** bu huquq tizimining eng asosiy, dastlabki elementi. Huquqiy norma lar jamiyatning ijtimoiy, iqtisodiy, siyosiy tuzilishi bilan belgilanadigan, xalq irodasini ifodalovchi, davlat tomonidan oʻrnatiladigan va muhofaza qilinadigan, bajarilishi jamiyatning barcha aʼzolari uchun umummajburiy boʻlgan, ijtimoiy munosabatlarni tartibga soluvchi qoidalardir.
 
 Jamiyatda qaror topadigan yangi munosabatlar ularni tartibga solishga qaratilgan tegishli huquq normalarining yaratilishiga turtki beradi. Oʻz navbatida, bu huquq normalari yangi muno sa batlarni qonuniy jihatdan mustahkamlaydi, muhofaza qiladi va rivojlantiradi.
 
 ### Yodda tuting
 
-“Norma” soʻzi lotinchadan tarjima qilinganda “qoida”, “namuna” maʼnosini anglatadi.
+“**Norma**” soʻzi lotinchadan tarjima qilinganda “qoida”, “namuna” maʼnosini anglatadi.
 
 ### Yodda tuting
 
@@ -968,41 +954,43 @@ Oʻzbekiston Respublikasi Konstitutsiyasining 92-moddasida keltirilgan quyidagi 
 
 Saylov kuni yigirma besh yoshga toʻlgan hamda kamida besh yil Oʻzbekiston Respublikasi hududida muqim yashayotgan Oʻzbekiston Respublikasi fuqarosi Oʻzbekiston Respublikasi Oliy Majlisining Qonunchilik palatasi deputati, shuningdek, Oʻzbekiston Respublikasi Oliy Majlisining Senati aʼzosi boʻlishi mumkin.
 
+![](img/ogp-8.uz/p046-1.webp "122x73")
+
 ### Brainring daqiqa
 
-“Gipoteza” yunoncha soʻz boʻlib, “faraz qilish”, “fikr yuritish” degan maʼnoni anglatadi, unda huquq normasi harakatga kelishi uchun zarur boʻlgan shart-sharoitlar bayon etiladi.
+![](img/ogp-8.uz/p046-2.webp "619x159")
 
-Dispozitsiyada xulq-atvor qoidalarining oʻzi ifodalanib, huquq subyektlarining huquq va majburiyatlari hamda huquqiy tartib belgilab beriladi. “Dispozitsiya” lotincha soʻz boʻlib, “joylashuv” degan maʼnoni anglatadi.
+**Dispozitsiyada** xulq-atvor qoidalarining oʻzi ifodalanib, huquq subyektlarining huquq va majburiyatlari hamda huquqiy tartib belgilab beriladi. “Dispozitsiya” lotincha soʻz boʻlib, “joylashuv” degan maʼnoni anglatadi.
 
-“Sanksiya” soʻzi ham lotin tilidan olingan boʻlib, “majburiy chora” degan maʼnoni bildiradi.
+**“Sanksiya”** soʻzi ham lotin tilidan olingan boʻlib, “majburiy chora” degan maʼnoni bildiradi.
 
 Sanksiyada huquq normalari bajarilmagani uchun davlat tomonidan qoʻllaniladigan majburlov chorasi bayon etiladi.
 
 ### Hamkorlikda bajaramiz
 
-Transport vositasini boshqarish vaqtida haydovchilarning telefondan foydalanishi bazaviy hisoblash miqdorining uch baravari miqdorida jarima solishga sabab boʻladi.
+Transport vositasini boshqarish vaqtida haydovchilarning telefondan foydalanishi **bazaviy hisoblash miqdorining uch baravari miqdorida jarima solishga sabab boʻladi.**
 
-Voyaga yetgan, mehnatga layoqatli farzandlar oʻz ota onalari haqida gʻamxoʻrlik qilishga majburdirlar.
+**Voyaga yetgan, mehnatga layoqatli farzandlar** oʻz ota onalari haqida gʻamxoʻrlik qilishga majburdirlar.
 
-Oʻgʻrilik, yaʼni oʻzganing mol-mulkini yashirin ravishda talon-taroj qilish...
-
-### Oʻzbekiston
-
-Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi, 128 -modda
+**Oʻgʻrilik, yaʼni oʻzganing mol-mulkini yashirin ravishda talon-taroj qilish...**
 
 ### Oʻzbekiston
 
-Respublikasi Konstitutsiyasi, 80-modda
+**Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi, 128 -modda**
 
 ### Oʻzbekiston
 
-Respublikasining Jinoyat kodeksi, 169-modda
+**Respublikasi Konstitutsiyasi, 80-modda**
 
-Bunda norma dispozitsiyasi hammaga tushunarli boʻlishi uchun maʼlum bir maʼnoda, qisqa shaklda izoh berilgan. Bunda xulq-atvor qoidasi aniq belgilanganligini koʻrish mumkin.
+### Oʻzbekiston
+
+**Respublikasining Jinoyat kodeksi, 169-modda**
+
+![](img/ogp-8.uz/p047-1.webp "232x406")
+
+![](img/ogp-8.uz/p047-2.webp "262x395")
 
 Ushbu huquq normasida ikkita shart, yaʼni voyaga yetish va mehnatga layoqatli farzand boʻlish sharti bajarilishi bilan ota-onalarga gʻamxoʻrlik qilish normasi belgilangan.
-
-Mazkur huquq normasida aniq bitta majburlov chorasi koʻrsatilgan. Yaʼni taʼsir chorasi sifatida jarima qoʻllanilishi sanksiya hisoblanadi.
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -1010,7 +998,7 @@ Huquq normasi tarkibiy elementlarining barchasi (gipoteza, dispozitsiya va sanks
 
 Masalan, Oʻzbekiston Respublikasi Konstitutsiyasining 37-moddasiga koʻra, fuqarolar davlat xizmatiga kirishda teng huquqqa egadirlar. Mazkur huquq normasida bitta dispozitsiya boʻlib, unda fuqarolarning davlat xizmatiga ishga kirishi uchun teng huquq mavjudligi ifoda etilmoqda.
 
-Huquq normasining quyidagi belgilari mavjud:
+**Huquq normasining quyidagi belgilari mavjud:**
 
 – – – kuchi bilan taʼminlanadi;
 
@@ -1022,13 +1010,9 @@ davlat tomonidan normativ hujjatlarda ifodalanadi;
 
 davlat tomonidan muhofaza qilinadi, zarur boʻlgan hollarda davlatning majburlov
 
-Huquq normalari, ularda mustahkamlangan qoidalar xususiyatidan kelib chiqib, quyidagi guruhlarga boʻlinadi:
+**Huquq normalari, ularda mustahkamlangan qoidalar xususiyatidan kelib chiqib, quyidagi guruhlarga boʻlinadi:**
 
-Huquq subyektiga qanday harakatlarni sodir etish mumkinligini koʻrsatuvchi normalar.
-
-Qanday harakatlarni sodir etish lozimligini koʻrsatuvchi normalar.
-
-Huquq subyektiga muayyan xatti-harakatlarni sodir etishni man qilib qoʻyuvchi normalar.
+![](img/ogp-8.uz/p048-1.webp "900x602")
 
 ### Izlanishda davom eting
 
@@ -1042,9 +1026,13 @@ Huquq subyektiga muayyan xatti-harakatlarni sodir etishni man qilib qoʻyuvchi n
 
 5. Berilgan rasmlardagi vaziyatlarga baho bering. Shaxslarning qanday huquqlari mavjud? Ularning qaysi huquqlari buzilmoqda? Qaysi rasmlardagi holatga nisbatan majburiy chora qoʻllanilishi mumkin deb oʻylaysiz?
 
+![](img/ogp-8.uz/p049-1.webp "896x842")
+
 ## 14-dars. Huquq tarmoqlari (sohalari)
 
 ### Faollashtiruvchi savollar
+
+![](img/ogp-8.uz/p050-1.webp "442x777")
 
 1. Rasmlarga eʼtibor bering. 1–6- rasmlarda tasvirlangan insonlar turli huquq va erkinliklarga ega. Mazkur insonlarning qanday huquqlari bor deb oʻylaysiz?
 
@@ -1060,7 +1048,7 @@ Huquq subyektiga muayyan xatti-harakatlarni sodir etishni man qilib qoʻyuvchi n
 
 ### Xulosa qiling
 
-Huquq sohasi mavzusini yaxshi tushunish uchun, avvalo, huquq tizimi masalasiga oydinlik kiritish lozim. Chunki huquq sohasi huquq tizimining tarkibiy qismi hisoblanadi.
+![](img/ogp-8.uz/p050-2.webp "639x172")
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -1074,31 +1062,37 @@ Ijtimoiy munosabatlarning mehnat munosabatlari, ijtimoiy taʼminot, moliya va h.
 
 Oʻzbekiston Respublikasi huquq tizimini quyidagi jadval orqali ifodalash mumkin:
 
-### Yodda tuting
+### Huquq tizimi — bu
 
-> Huquq tizimi — bu huquqning ichki tuzilishi boʻlib, huquq normalari, huquq institutlari va huquq sohalarining qatʼiy izchillikda joylashgan tartibidir.
+huquqning ichki tuzilishi boʻlib, huquq normalari, huquq institutlari va huquq sohalarining qatʼiy izchillikda joylashgan tartibidir.
 
 ### Fikrimizni tasdiqlaymiz
 
 “Tizim” soʻzi oʻzaro bogʻliq va uzviy tartibda boʻlgan narsa-hodisalar birligi, majmuyini anglatadi. Huquq normalarining rivojlanishi natijasida huquq institutlari vujudga keladi. Huquq institutlari, oʻz navbatida, huquq sohalariga birlashadi. Natijada barcha tarkibiy qismlar birgalikda huquq tizimini tashkil etadi. Huquq institutlari deganda oliy taʼlim muassasalari yoki boshqa tashkilotlar emas, tegishli huquq sohalarining ichki tarkibiy qismlari tushuniladi.
 
-> Huquq institutlari — bu oʻzaro bogʻliq boʻlgan bir turdagi ijtimoiy munosabatlarni tartibga soluvchi huquq normalari guruhi.
+> **Huquq institutlari** — bu oʻzaro bogʻliq boʻlgan bir turdagi ijtimoiy munosabatlarni tartibga soluvchi huquq normalari guruhi.
 
-Masalan, fuqarolik huquqi sohasiga mulk huquqi institutini misol qilib keltirish mumkin. Mulk huquqi instituti mulkiy munosabatlarni tartibga soluvchi normalarning mustaqil guruhini tashkil etadi.
+Masalan, **fuqarolik huquqi** sohasiga mulk huquqi institutini misol qilib keltirish mumkin. Mulk huquqi instituti mulkiy munosabatlarni tartibga soluvchi normalarning mustaqil guruhini tashkil etadi.
 
-Jinoyat huquqi sohasiga davlatga qarshi jinoyat lar instituti misol boʻla oladi. U davlatga qarshi jinoyat qilishdan kelib chiqadigan munosabatlarni tartibga soluvchi normalarning mustaqil guruhini tashkil etadi.
+**Jinoyat huquqi** sohasiga davlatga qarshi jinoyat lar instituti misol boʻla oladi. U davlatga qarshi jinoyat qilishdan kelib chiqadigan munosabatlarni tartibga soluvchi normalarning mustaqil guruhini tashkil etadi.
 
-> Konstitutsiyaviy huquq sohasi — prezidentlik, fuqarolarning huquq va erkinliklari instituti, jinoyat huquqi sohasi — javobgarlik instituti, oila huquqi — nikoh instituti va boshqalarni qamrab oladi.
+> **Konstitutsiyaviy huquq sohasi** — prezidentlik, fuqarolarning huquq va erkinliklari instituti, **jinoyat huquqi sohasi** — javobgarlik instituti, **oila huquqi —** nikoh instituti va boshqalarni qamrab oladi.
 
-> Huquq sohasi — bu ijtimoiy munosabatlarning muayyan sohasini tartibga soluvchi huquq normalari va huquq institutlarining yigʻindisi. Masalan, moliyaviy munosabatlar moliya huquqi sohasi bilan, mehnat munosabatlari mehnat huquqi sohasi bilan, yer bilan bogʻliq munosabatlar yer huquqi sohasi bilan tartibga solinadi va hokazo.
+> **Huquq sohasi** — bu ijtimoiy munosabatlarning muayyan sohasini tartibga soluvchi huquq normalari va huquq institutlarining yigʻindisi. Masalan, moliyaviy munosabatlar moliya huquqi sohasi bilan, mehnat munosabatlari mehnat huquqi sohasi bilan, yer bilan bogʻliq munosabatlar yer huquqi sohasi bilan tartibga solinadi va hokazo.
 
-Oʻzbekiston Respublikasi huquq tizimi koʻplab so halardan tashkil topgan boʻlib, bu sohalarni shartli ravishda ichki va xalqaro huquq sohalariga ajratish qabul qilingan.
+Oʻzbekiston Respublikasi huquq tizimi koʻplab so halardan tashkil topgan boʻlib, bu sohalarni shartli ravishda **ichki** va **xalqaro huquq** sohalariga ajratish qabul qilingan.
 
 Har bir huquq oʻz sohasiga tegishli ijtimoiy munosabatlarni tartibga solishning qoidalarini bayon etadi. Mulkiy huquqlarni fuqarolik huquqi belgilab bersa, mulkiy nizolar kelib chiqqanda fuqarolik ishlari boʻyicha sudga murojaat qilish tartibi, ishni sud tomonidan koʻrib chiqish jarayonini fuqarolik protsessual huquqi tartibga soladi.
 
 ### Yodda tuting
 
-Milliy huquq sohalari ikki asosiy guruhga ajratiladi. Ular moddiy va protsessual huquq sohalari hisoblanadi. Moddiy huquq huquqiy munosabat ishtirokchilarining huquq va majburiyatlarini, protsessual huquq sohasi huquq va majburiyatlarni amalga oshirish tartibini belgilab beradi.
+Milliy huquq sohalari ikki asosiy guruhga ajratiladi. Ular moddiy va protsessual huquq sohalari hisoblanadi. **Moddiy huquq** huquqiy munosabat ishtirokchilarining huquq va majburiyatlarini, **protsessual huquq** sohasi huquq va majburiyatlarni amalga oshirish tartibini belgilab beradi.
+
+![](img/ogp-8.uz/p052-1.webp "292x430")
+
+### Moddiy huquq sohalari va ularni tartibga solish doirasi quyidagilar
+
+![](img/ogp-8.uz/p053-1.webp "122x594")
 
 ### Mehnat huquqi
 
@@ -1122,15 +1116,15 @@ qanday xatti-harakatlar jinoyat ekanligini belgilaydi, ularni sodir etganlar qan
 
 ### Brainring daqiqa
 
-Oʻzbekiston Respublikasi milliy qonunchiligiga koʻra, protsessual huquq sohasi toʻrtta guruhga ajratiladi:
+**Oʻzbekiston Respublikasi milliy qonunchiligiga koʻra, protsessual huquq sohasi toʻrtta guruhga ajratiladi:**
 
-• Fuqarolik protsessual huquqi normalari sudlarning fuqarolik, oilaviy, mehnat, yer bilan bogʻliq va moliyaviy munosabatlar kabi bir qator sohalardagi faoliyatini tartibga soladi. Fuqarolik protsessual huquqi ishtirokchilari, asosan, jismoniy shaxslar hisoblanadi.
+• **Fuqarolik protsessual huquqi** normalari sudlarning fuqarolik, oilaviy, mehnat, yer bilan bogʻliq va moliyaviy munosabatlar kabi bir qator sohalardagi faoliyatini tartibga soladi. Fuqarolik protsessual huquqi ishtirokchilari, asosan, jismoniy shaxslar hisoblanadi.
 
-• Iqtisodiy protsessual huquqda ham yer, agrar, moliyaviy, ekologiya sohalariga oid huquqiy munosabatlarni sudlar orqali tartibga solish koʻzda tutilgan. Ammo unda, asosan, yuridik shaxslar oʻrtasidagi nizolarni sud tartibida hal qilish nazarda tutiladi.
+• **Iqtisodiy protsessual huquqda** ham yer, agrar, moliyaviy, ekologiya sohalariga oid huquqiy munosabatlarni sudlar orqali tartibga solish koʻzda tutilgan. Ammo unda, asosan, yuridik shaxslar oʻrtasidagi nizolarni sud tartibida hal qilish nazarda tutiladi.
 
-• Jinoyat-protsessual huquqi sudlov, tergov, prokuratura organlarining jinoyat ishlarini tergov qilish va sudda koʻrib chiqish faoliyatini tartibga soladi.
+• **Jinoyat-protsessual huquqi** sudlov, tergov, prokuratura organlarining jinoyat ishlarini tergov qilish va sudda koʻrib chiqish faoliyatini tartibga soladi.
 
-• Maʼmuriy protsessual huquq davlat boshqaruvi sohasidagi alohida koʻrsatilgan ishlarni hal qilish jarayonida yuzaga keladigan ijtimoiy munosabatlarni, shuningdek, ijro etuvchi hokimiyat organlari va ayrim boshqa subyektlarning faoliyatini tartibga soluvchi soha.
+• **Maʼmuriy protsessual huquq** davlat boshqaruvi sohasidagi alohida koʻrsatilgan ishlarni hal qilish jarayonida yuzaga keladigan ijtimoiy munosabatlarni, shuningdek, ijro etuvchi hokimiyat organlari va ayrim boshqa subyektlarning faoliyatini tartibga soluvchi soha.
 
 ### Hamkorlikda bajaramiz
 
@@ -1142,7 +1136,9 @@ Oʻzbekiston Respublikasi milliy qonunchiligiga koʻra, protsessual huquq sohasi
 
 ### Fikrimizni tasdiqlaymiz
 
-Xalqaro huquq davlatlar, xalqaro tashkilotlar oʻrtasidagi xalqaro huquqiy munosabatlarni tartibga soladi.
+![](img/ogp-8.uz/p054-1.webp "432x528")
+
+**Xalqaro huquq** davlatlar, xalqaro tashkilotlar oʻrtasidagi xalqaro huquqiy munosabatlarni tartibga soladi.
 
 Xalqaro huquq tarixi davlatlarning rivojlanishi va ular oʻrtasidagi munosabatlar bilan bevosita bogʻliq boʻlib, qadimgi davlatlarning oʻzaro munosabatlari natijasida rivojlanib borgan.
 
@@ -1150,13 +1146,9 @@ Xalqaro huquqning mustaqil huquq tizimi sifatida shakllanishi jarayonida xalqaro
 
 Xalqaro huquq tizimi quyidagi tarmoqlarni oʻz ichiga oladi: xalqaro tashkilotlar huquqi, xalqaro xavfsizlik huquqi, diplomatik va konsullik huquqi, xalqaro dengiz huquqi va boshqalar.
 
-Xalqaro huquqning fan sifatidagi rivoj lanishiga golland huquqshunosi, davlat arbobi va adib Hyugo Grotiyus katta hissa qoʻshgan.
-
-U “Urush va tinchlik huquqi” asarida xalqaro huquqning asoslari va prin siplarini ishlab chiqqan.
-
 ### Izlanishda davom eting
 
-Quyidagi huquq institutlari qaysi huquq sohalariga taalluqli ekanligini tahlil qiling:
+**Quyidagi huquq institutlari qaysi huquq sohalariga taalluqli ekanligini tahlil qiling:**
 
 1. Jinoiy javobgarlik.
 
@@ -1176,19 +1168,11 @@ Quyidagi huquq institutlari qaysi huquq sohalariga taalluqli ekanligini tahlil q
 
 Xalqning oʻzi toʻgʻridan toʻgʻri tasdiqlamagan qonun — haqiqiy emas.
 
-Jan Jak Russo
+**Jan Jak Russo**
 
 ### Faollashtiruvchi savollar
 
-1. Boshqa shaxslar bilan ijtimoiy munosabat oʻrnatish insonga nima uchun kerak?
-
-2. Ijtimoiy munosabatlarda xatoga yoʻl qoʻyish qanday oqibatlarga olib kelishi mumkin?
-
-3. Huquqiy munosabat deganda nimani tushunasiz?
-
-4. Rasmdagi shaxslar oʻzlariga tegishli narsa larga (mulkka) nisbatan qanday munosabatda boʻlishlari mumkin?
-
-5. Rasmlarda tasvirlangan shaxslarning ham - masini ham boshqa shaxslar bilan huquqiy munosabat oʻrnatishga qodir desa boʻladimi? Nima uchun?
+![](img/ogp-8.uz/p055-1.webp "752x529")
 
 ### Yodda tuting
 
@@ -1196,23 +1180,23 @@ Huquqiy munosabatlarning koʻplab turlari mavjud boʻlib, ularni fuqarolik, mehn
 
 ### Fikrimizni tasdiqlaymiz
 
-Huquqiy munosabatlar shaxslar oʻrtasidagi huquqiy aloqa boʻlib, uning natijasida shaxslarda huquq va majburiyatlar vujudga keladi. Huquq normalari bilan tartibga solinadigan ijtimoiy munosabatlar “huquqiy munosabatlar” deyiladi. Ularning vujudga kelishi uchun yuridik fakt — hodisa (masalan, insonning tugʻilishi yoki oʻlishi, yongʻin) yoki harakat (masalan, huquqbuzarlik) yuzaga kelishi lozim boʻladi.
+Huquqiy munosabatlar shaxslar oʻrtasidagi huquqiy aloqa boʻlib, uning natijasida shaxslarda huquq va majburiyatlar vujudga keladi. Huquq normalari bilan tartibga solinadigan ijtimoiy munosabatlar “**huquqiy munosabatlar**” deyiladi. Ularning vujudga kelishi uchun yuridik fakt — hodisa (masalan, insonning tugʻilishi yoki oʻlishi, yongʻin) yoki harakat (masalan, huquqbuzarlik) yuzaga kelishi lozim boʻladi.
 
 Huquqiy munosabat ishtirokchilari oʻzlariga tegishli huquq va majburiyatlarni toʻliq bajarishlari lozim. Huquq va majburiyatlarni bajarmaslik yoki lozim darajada bajarmaslik javobgarlikka sabab boʻladi.
 
-Huquqiy munosabatlar — kishilar oʻrtasidagi huquqiy aloqalardir. Huquqiy munosabatlarda kamida ikki tomon ishtirok etadi. Birinchi tomon — huquq egasi, ikkinchi tomon — majburiyatni bajaruvchi.
+**Huquqiy munosabatlar** — kishilar oʻrtasidagi huquqiy aloqalardir. Huquqiy munosabatlarda kamida ikki tomon ishtirok etadi. Birinchi tomon — huquq egasi, ikkinchi tomon — majburiyatni bajaruvchi.
 
 Huquqiy munosabatlarning mazmunini tashkil etuvchi, ularning vujudga kelishi uchun zarur boʻlgan tarkibiy qismlar mazkur munosabatlarning “tarkibiy qismlari” deb ataladi.
 
-Huquqiy munosabatlarning tarkibiy qismlari: obyekt, subyekt, subyektiv huquq va yuridik majburiyat. Huquqiy munosabat ishti rokchilarining diqqati qaratilgan aniq narsa huquqiy munosabatlarning obyektidir.
+**Huquqiy munosabatlarning tarkibiy qismlari:** obyekt, subyekt, subyektiv huquq va yuridik majburiyat. Huquqiy munosabat ishti rokchilarining diqqati qaratilgan aniq narsa huquqiy munosabatlarning **obyektidir.**
 
-Huquqiy munosabatlarning ishtirokchilari — huquq va majburiyat egalari huquqiy munosabatlarning subyektlari hisoblanadilar. Huqu qiy munosabat ishtirokchilarining tegishli huquq normasiga asosan bajarishi lozim (bajarilishi oʻziga bogʻliq boʻlgan harakati) yoki ularning maʼlum harakatlarni amalga oshi rilishini talab qilish vakolati subyektiv huquq tushunchasini ifodalaydi.
+Huquqiy munosabatlarning ishtirokchilari — huquq va majburiyat egalari huquqiy munosabatlarning **subyektlari** hisoblanadilar. Huqu qiy munosabat ishtirokchilarining tegishli huquq normasiga asosan bajarishi lozim (bajarilishi oʻziga bogʻliq boʻlgan harakati) yoki ularning maʼlum harakatlarni amalga oshi rilishini talab qilish vakolati **subyektiv huquq** tushunchasini ifodalaydi.
 
-Huquqiy munosabat ishtirokchilarining tegishli huquqiy normaga asosan bir-birlari oldida bajarishlari lozim boʻlgan burchi (majburiyati) yoki baʼzi harakatni sodir etishdan oʻzlarini tiyishlari yuridik majburiyat hisoblanadi.
+Huquqiy munosabat ishtirokchilarining tegishli huquqiy normaga asosan bir-birlari oldida bajarishlari lozim boʻlgan burchi (majburiyati) yoki baʼzi harakatni sodir etishdan oʻzlarini tiyishlari **yuridik majburiyat** hisoblanadi.
 
 ### Yodda tuting
 
-> Huquqiy munosabatlarning ishtirokchilari — huquq va majburiyat egalari huquqiy munosabatlarning subyektlari hisoblanadilar.
+> **Huquqiy munosabatlarning ishtirokchilari —** huquq va majburiyat egalari huquqiy munosabatlarning subyektlari hisoblanadilar.
 
 1. Sotuvchining majburiyati — sifatli tovarni taqdim qilish, huquqi — tovarning pulini olish.
 
@@ -1220,9 +1204,9 @@ Huquqiy munosabat ishtirokchilarining tegishli huquqiy normaga asosan bir-birlar
 
 ### Hamkorlikda bajaramiz
 
-Quyida keltirilgan har bir vaziyatdagi huquqiy munosabatlar ishtirokchilarini aniq lang.
+**Quyida keltirilgan har bir vaziyatdagi huquqiy munosabatlar ishtirokchilarini aniq lang.**
 
-Huquqiy munosabatlar ishtirokchilarining subyektiv huquq hamda yuridik maj buri yatlarini tahlil qiling.
+**Huquqiy munosabatlar ishtirokchilarining subyektiv huquq hamda yuridik maj buri yatlarini tahlil qiling.**
 
 Aziz 18 yoshga toʻlgan kuni otasi unga doʻkonga sotuvchi boʻlib ishga kirishiga ruxsat berdi.
 
@@ -1234,7 +1218,7 @@ Fayzulloh 14 yoshda. U yosh musiqachilar oʻrtasida oʻtkazilgan xal qaro tanlov
 
 ### Fikrimizni tasdiqlaymiz
 
-Huquqiy munosabatlarda ishtirok etuvchilar, yaʼni subyektlar huquq layoqatiga hamda muomala layoqatiga ega boʻlishlari talab etiladi.
+Huquqiy munosabatlarda ishtirok etuvchilar, yaʼni subyektlar **huquq layoqatiga** hamda **muomala layoqatiga** ega boʻlishlari talab etiladi.
 
 Yangi tugʻilgan chaqaloq ham har xil huquqlarga, masalan, tibbiy yordam olish, turar joyga, oʻz ismi, familiyasiga ega boʻlish huquqlariga ega. Aqli zaif va ruhiy kasallar ham huquqiy layoqatga ega. Ular ham yashash, davolanish, nafaqa olish, mulkdor boʻlish huquqiga egadirlar. Ayrim davlatlarda hali tugʻilmagan bola ham huquqiy layoqatga ega. U merosxoʻr boʻla oladi.
 
@@ -1242,11 +1226,13 @@ Muomala layoqati yosh va ruhiy salomatlik bilan bogʻliq. Oʻzbekiston qonunlari
 
 ### Qonun belgilaydi
 
-Barcha fuqarolarning fuqarolik huquq va burchlariga ega boʻlish layoqati (huquq layoqati) teng ravishda eʼtirof etiladi.
+Barcha fuqarolarning fuqarolik huquq va burchlariga ega boʻlish layoqati **(huquq layoqati)** teng ravishda eʼtirof etiladi.
 
 Fuqaroning huquq layoqati u tugʻilgan paytdan eʼtiboran vujudga keladi va vafot etishi bilan tugaydi.
 
-Fuqaroning oʻz harakatlari bilan fuqarolik huquqlariga ega boʻlish va ularni amalga oshirish, oʻzi uchun fuqarolik burchlarini vujudga keltirish va ularni bajarish layoqati (muomala layoqati) u voyaga yetgach, yaʼni oʻn sakkiz yoshga toʻlgach toʻla hajmda vujudga keladi.
+### Oʻzbekiston Respublikasining Fuqarolik kodeksi, 17-modda
+
+Fuqaroning oʻz harakatlari bilan fuqarolik huquqlariga ega boʻlish va ularni amalga oshirish, oʻzi uchun fuqarolik burchlarini vujudga keltirish va ularni bajarish layoqati **(muomala layoqati)** u voyaga yetgach, yaʼni oʻn sakkiz yoshga toʻlgach toʻla hajmda vujudga keladi.
 
 Voyaga yetgunga qadar qonuniy asosda nikohdan oʻtgan fuqaro nikohdan oʻtgan vaqtdan eʼtiboran toʻla hajmda muomala layoqatiga ega boʻladi.
 
@@ -1254,13 +1240,15 @@ Nikoh tuzish natijasida ega boʻlingan muomala layoqati oʻn sakkiz yoshga toʻl
 
 Nikoh haqiqiy emas deb topilganida sud voyaga yetmagan er (xotin) sud belgilagan paytdan boshlab toʻla muomala layoqatini yoʻqotganligi haqida qaror qabul qilishi mumkin.
 
-Oʻz mulkida, xoʻjalik yuritishida yoki operativ boshqaruvida alohida mol-mulkka ega boʻlgan hamda oʻz majburiyatlari yuzasidan ushbu mol-mulk bilan javob beradigan, oʻz nomidan mulkiy yoki shaxsiy nomulkiy huquqlarga ega boʻla oladigan va ularni amal ga oshira oladigan, majburiyatlarni bajara oladigan, sudda daʼvogar va javobgar boʻla oladigan tashkilot yuridik shaxs hisoblanadi.
+### Oʻzbekiston Respublikasining Fuqarolik kodeksi, 22-modda
 
-Oʻzbekiston Respublikasining Fuqarolik kodeksi, 39-modda
+Oʻz mulkida, xoʻjalik yuritishida yoki operativ boshqaruvida alohida mol-mulkka ega boʻlgan hamda oʻz majburiyatlari yuzasidan ushbu mol-mulk bilan javob beradigan, oʻz nomidan mulkiy yoki shaxsiy nomulkiy huquqlarga ega boʻla oladigan va ularni amal ga oshira oladigan, majburiyatlarni bajara oladigan, sudda daʼvogar va javobgar boʻla oladigan tashkilot **yuridik shaxs** hisoblanadi.
+
+**Oʻzbekiston Respublikasining Fuqarolik kodeksi, 39-modda**
 
 ### Hamkorlikda bajaramiz
 
-Quyidagi holatlar qanday huquqiy munosabat ekanligini va ularning tarkibiy elementlarini tahlil eting.
+**Quyidagi holatlar qanday huquqiy munosabat ekanligini va ularning tarkibiy elementlarini tahlil eting.**
 
 1. Elyor ismli bola ingliz tilini oʻrganish uchun oʻquv markazidagi kurslarga qatnash moqda.
 
@@ -1282,13 +1270,13 @@ Quyidagi holatlar qanday huquqiy munosabat ekanligini va ularning tarkibiy eleme
 
 Quyida turli huquqiy munosabatlarga misol keltirish orqali ularning tarkibiy elementlariga eʼtibor qaratib oʻtamiz:
 
-Fuqaroviy-huquqiy munosabat — masalan, Bobur doʻkondan oʻquv qurollarini sotib olishi: Bunda Bobur va doʻkon sotuvchisi — subyekt, oʻquv qurollari — obyekt, Boburning oʻquv qurollar sifatini tekshirishi va mahsulot haqida maʼlumot olish huquqi — subyektiv huquq, toʻlovni amalga oshirishi — yuridik majburiyat hisoblanadi.
+**Fuqaroviy-huquqiy munosabat** — masalan, Bobur doʻkondan oʻquv qurollarini sotib olishi: Bunda Bobur va doʻkon sotuvchisi — **subyekt**, oʻquv qurollari — **obyekt,** Boburning oʻquv qurollar sifatini tekshirishi va mahsulot haqida maʼlumot olish huquqi — **subyektiv huquq**, toʻlovni amalga oshirishi — **yuridik majburiyat** hisoblanadi.
 
-Jinoiy-huquqiy munosabat — masalan, Abdulla doʻkondan qimmatbaho oʻquv qurollarini oʻgʻirlab olishi: Bunda Abdulla — subyekt, qimmatbaho oʻquv qurollari (mulk huquqining buzilishi) — obyekt, doʻkon egasi oʻz mulkini qaytarib olishi yoki tovon puli olishi — subyektiv huquq, Abdullaga nisbatan taʼsir choralari (jazo)ni qabul qilib olish oqibati — yuridik majburiyat hisoblanadi.
+**Jinoiy-huquqiy munosabat** — masalan, Abdulla doʻkondan qimmatbaho oʻquv qurollarini oʻgʻirlab olishi: Bunda Abdulla — **subyekt**, qimmatbaho oʻquv qurollari (mulk huquqining buzilishi) — **obyekt**, doʻkon egasi oʻz mulkini qaytarib olishi yoki tovon puli olishi — **subyektiv huquq**, Abdullaga nisbatan taʼsir choralari (jazo)ni qabul qilib olish oqibati — **yuridik majburiyat** hisoblanadi.
 
-Maʼmuriy huquqbuzarlik munosabatlari — masalan, Ulugʻbek ismli shaxs Shohista ismli qizni haqorat qildi: Bunda Ulugʻbek — subyekt, Shohista ismli qizning shaʼni, qadr-qimmati — obyekt, Shohista holat boʻyicha Ulugʻbekni javobgarlikka tortish boʻyicha murojaat qilishi — subyektiv huquq, Ulugʻbekka nisbatan qoʻllanilgan taʼsir choralari (jazo)ni qabul qilib olish oqibati — yuridik majburiyat hisoblanadi.
+> **Maʼmuriy huquqbuzarlik munosabatlari —** masalan, Ulugʻbek ismli shaxs Shohista ismli qizni haqorat qildi: Bunda Ulugʻbek — **subyekt**, Shohista ismli qizning shaʼni, qadr-qimmati — **obyekt**, Shohista holat boʻyicha Ulugʻbekni javobgarlikka tortish boʻyicha murojaat qilishi — **subyektiv huquq**, Ulugʻbekka nisbatan qoʻllanilgan taʼsir choralari (jazo)ni qabul qilib olish oqibati — **yuridik majburiyat** hisoblanadi.
 
-Mehnat munosabatlari — masalan, Jahongir ismli shaxs korxonada ishlab keladi: Bunda Jahongir va ish beruvchi — subyekt, mehnat qilish huquqi — obyekt, mehnat qilish natijasida ish haqi olish — subyektiv huquq, mehnat muhofazasi va xavfsizligiga rioya qilish — yuridik majburiyat hisoblanadi.
+**Mehnat munosabatlari** — masalan, Jahongir ismli shaxs korxonada ishlab keladi: Bunda Jahongir va ish beruvchi — **subyekt**, mehnat qilish huquqi — **obyekt**, mehnat qilish natijasida ish haqi olish — **subyektiv huquq**, mehnat muhofazasi va xavfsizligiga rioya qilish — **yuridik majburiyat** hisoblanadi.
 
 ### Izlanishda davom eting
 
@@ -1298,7 +1286,7 @@ Mehnat munosabatlari — masalan, Jahongir ismli shaxs korxonada ishlab keladi: 
 
 3. Oʻzingizga tegishli boʻlgan huquqlaringiz roʻyxatini tuzing. Bu huquqlarga qanday va qachondan boshlab ega boʻlganingizni asoslang.
 
-Quyidagi huquqiy munosabatlarning tarkibini tahlil qiling.
+**Quyidagi huquqiy munosabatlarning tarkibini tahlil qiling.**
 
 ### Huquqiy
 
@@ -1320,7 +1308,7 @@ Fuqarolar Akbarov va Hasanovalar 2024-yil 10-avgust kuni tuman FHDY boʻlimidan 
 
 ## 16-dars. Ijodiy faoliyat
 
-Quyida berilgan taʼriflarni javoblar bilan moslashtiring.
+**Quyida berilgan taʼriflarni javoblar bilan moslashtiring.**
 
 butun jamiyat tomonidan yaratiladi. Bu normalar doimiy ravishda kishilar amaliy faoliyati, ularning oʻzaro aloqalari jarayonida yuzaga keladi va rivojlanib boradi.
 
@@ -1354,23 +1342,19 @@ ish beruvchilar va xodimlar oʻrtasidagi mehnat munosabatlarini tartibga soladi.
 
 bu ijtimoiy munosabatlarning muayyan sohasini tartibga soluvchi huquq normalari va huquq institutlarining yigʻindisi.
 
+![](img/ogp-8.uz/p063-1.webp "900x1116")
+
 # III bob. Huquqbuzarlik va yuridik javobgarlik
 
 ## 17–18-dars. Huquqiy xulq-atvor
 
 Haqqoniylik hamma joyda, ayniqsa, tarbiya masalasida eng muhim omildir.
 
-Lev Tolstoy
+**Lev Tolstoy**
 
 ### Faollashtiruvchi savollar
 
-1. Jamoat transportidan foydalanish tartibini daftaringizda toʻgʻri ketma-ketlikda joy lashtiring.
-
-2. Nega aynan shu tartib toʻgʻri deb oʻylaysiz?
-
-3. Jamoat transportidan foydalanishda qanday xulq-atvor qoidalariga amal qilish kerak?
-
-4. Jamoat transportidan foydalanishda qanday xulq-atvorli boʻlish mumkin emas?
+![](img/ogp-8.uz/p064-1.webp "792x412")
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -1392,27 +1376,27 @@ Demak, xulq-atvor keng tushuncha boʻlib, huquqiy xulq-atvor uning bir koʻrinis
 
 Huquqshunoslik fanida huquqiy xulq-atvor oʻrganiladi va uning oʻziga xos xususiyatlari tahlil etiladi.
 
-> Huquqiy xulq-atvor — bu huquq normalariga mos keladigan, yuridik oqibatlarni keltirib chiqaradigan, ijtimoiy foydali ahamiyatga ega boʻlgan, huquq subyektlarining ongli xatti-harakati (harakatsizligi) hisoblanadi.
+> **Huquqiy xulq-atvor —** bu huquq normalariga mos keladigan, yuridik oqibatlarni keltirib chiqaradigan, ijtimoiy foydali ahamiyatga ega boʻlgan, huquq subyektlarining ongli xatti-harakati (harakatsizligi) hisoblanadi.
 
 ### Huquqiy xulq-atvor xususiyatlari
 
-Ijtimoiy foydalilik — shaxs, jamiyat va davlat munosabatlarida oʻzaro man faatlarning qondirilishiga xizmat qiladi. Jamiyatning rivojiga hissa qoʻshadi.
+**Ijtimoiy foydalilik —** shaxs, jamiyat va davlat munosabatlarida oʻzaro man faatlarning qondirilishiga xizmat qiladi. Jamiyatning rivojiga hissa qoʻshadi.
 
-Huquq normalariga muvofiqlik — xatti-harakatlar qonuniy boʻlib, nafaqat huquq normalariga mos keladi, balki umuminsoniy qadriyatlarga ham zid kel maydi.
+**Huquq normalariga muvofiqlik —** xatti-harakatlar qonuniy boʻlib, nafaqat huquq normalariga mos keladi, balki umuminsoniy qadriyatlarga ham zid kel maydi.
 
-Onglilik va ixtiyoriylik — shaxsning muayyan maqsadlarga erishishi uchun qonuniy harakatlarning ongli ixtiyoriy xususiyatiga ega boʻladi.
+**Onglilik va ixtiyoriylik** — shaxsning muayyan maqsadlarga erishishi uchun qonuniy harakatlarning ongli ixtiyoriy xususiyatiga ega boʻladi.
 
-Huquqiy oqibatlarga egalik — shaxsning harakatlari yoki harakatsizligi tufayli turli huquqiy oqibatlar kelib chiqishi mumkin.
+**Huquqiy oqibatlarga egalik** — shaxsning harakatlari yoki harakatsizligi tufayli turli huquqiy oqibatlar kelib chiqishi mumkin.
 
-> Davlat tomonidan muhofaza etilishi — huquq normalari orqali davlat shaxslarning xulq-atvorini yoʻnaltiradi, himoya qiladi, ragʻbatlantiradi, muhofaza etadi.
+> **Davlat tomonidan muhofaza etilishi —** huquq normalari orqali davlat shaxslarning xulq-atvorini yoʻnaltiradi, himoya qiladi, ragʻbatlantiradi, muhofaza etadi.
 
 ### Huquqqa mos keluvchi huquqiy xulq-atvor deyilganda saylovlarda namunali
 
 ishtirok etish, yoʻl belgilariga, shuningdek, jamiyatdagi boshqa yurish-turish qoidalari ga qatʼiy amal qilish tushuniladi. Bunda shaxsning xulq-atvori huquq normalariga mos keladi. Bunday huquqiy xulq-atvorni jamiyat aʼzolari va davlat ragʻbatlantiradi.
 
-Huquqqa zid keluvchi xulq-atvorga bezorilik qilish, oʻzgalarning qonuniy huquqlariga putur yetkazish, boshqa shaxslar, jamiyat va davlat mulkiga zarar yetkazish kabilarni misol sifatida keltirish mumkin. Huquqqa zid keluvchi xulq-atvor jamiyat va davlat tomonidan qoralanadi. Huquqqa zid keluvchi xulq-atvorga ega shaxslarning xatti-harakatlari uchun turli taʼsir choralari qoʻllanilishi mumkin.
+**Huquqqa zid keluvchi xulq-atvorga** bezorilik qilish, oʻzgalarning qonuniy huquqlariga putur yetkazish, boshqa shaxslar, jamiyat va davlat mulkiga zarar yetkazish kabilarni misol sifatida keltirish mumkin. Huquqqa zid keluvchi xulq-atvor jamiyat va davlat tomonidan qoralanadi. Huquqqa zid keluvchi xulq-atvorga ega shaxslarning xatti-harakatlari uchun turli taʼsir choralari qoʻllanilishi mumkin.
 
-Betaraf huquqiy xulq-atvor — shaxsning xatti-harakatlari yoki harakatsizligi natijasida salbiy yoki ijobiy huquqiy oqibatlar kelib chiqmasligini nazarda tutadi. Misol uchun, saylovlarda ishtirok etmaslik. Chunki saylovda ishtirok etish shaxsning siyosiy huquqi boʻlib, bu majburiyatni ifodalamaydi. Saylovda ishtirok etmaslik davlat tomoni dan tegishli taʼsir choralarini qoʻllashga olib kelmaydi.
+**Betaraf huquqiy xulq-atvor** — shaxsning xatti-harakatlari yoki harakatsizligi natijasida salbiy yoki ijobiy huquqiy oqibatlar kelib chiqmasligini nazarda tutadi. Misol uchun, saylovlarda ishtirok etmaslik. Chunki saylovda ishtirok etish shaxsning siyosiy huquqi boʻlib, bu majburiyatni ifodalamaydi. Saylovda ishtirok etmaslik davlat tomoni dan tegishli taʼsir choralarini qoʻllashga olib kelmaydi.
 
 ### Xulosa qiling
 
@@ -1430,7 +1414,9 @@ bu kundalik hayotda kishilarning huquq normalariga mos keladigan xulq-atvori his
 
 shaxslarning harakatsizligi bilan ifodalanadigan majburiyatlarini nazarda tutadi. Bu fuqarolarning oʻz huquq va erkinliklaridan foydalan masligida namoyon boʻladi. Masalan, fuqarolarning saylovlarda ishtirok etmasligi.
 
-Gʻayriijtimoiy xulq-atvor — shaxsning jamiyatda qabul qilingan xulqatvor normalari va qoidalarini buzuvchi harakati yoki harakatsizligi.
+### HUQUQBUZARLIK VA Y U RIDIK J AVOBGARLIK
+
+**Gʻayriijtimoiy xulq-atvor** — shaxsning jamiyatda qabul qilingan xulqatvor normalari va qoidalarini buzuvchi harakati yoki harakatsizligi.
 
 Huquqiy xulq-atvorning barcha shakllari shaxsning har tomonlama uygʻunlashuviga muhim turtki boʻladi. Ular shaxsning huquqiy ongi va huquqiy madaniyatining yuksalishiga, komil inson sifatida shakllanishiga yordam beradi. Lekin huquqqa zid hamda gʻayriijtimoiy xulq-atvor harakatlarini sodir etmaslik lozim. Aks holda, buning oqibatida tegishli jazo choralari qoʻllanilishi mumkin.
 
@@ -1444,11 +1430,15 @@ Huquqiy xulq-atvorning barcha shakllari shaxsning har tomonlama uygʻunlashuviga
 
 4. Huquqiy xulq-atvorning faol va odatiy shakllariga misol keltiring va ularning oʻzaro farqlarini tushuntirib bering.
 
+### Izlanishda davom eting
+
+![](img/ogp-8.uz/p067-1.webp "792x420")
+
 ## 19–20-dars. Huquqbuzarlik
 
 Jazolashga qodir boʻlmagan hakam oxiroqibatda jinoyatga sherik boʻladi.
 
-Gyote
+**Gyote**
 
 ### Faollashtiruvchi savollar
 
@@ -1458,35 +1448,35 @@ Gyote
 
 3. Sizning fikringizcha, berilgan vaziyatlardagi shaxslarning harakatlaridan qaysi biri atrofdagilarga va ularning oʻzlariga koʻproq xavf tugʻdiradi?
 
-A. Ikromov avtomobilni boshqarib borayotib tezlikni oshirib yubordi va baxtsiz hodisa sodir boʻlmaydi, deb umid qildi, chunki u tajribali haydovchi. Biroq u piyodalar yoʻlagida toʻxtashga ulgurmay qoldi va piyodani urib yubordi. Voqea guvohlari yoʻqligidan foydalanib jinoyat sodir etilgan joyni tark etdi, ammo tez orada hibsga olindi. Piyoda olgan jarohatlari tufayli vafot etdi.
+![](img/ogp-8.uz/p068-1.webp "212x182")
 
-B. Ikki doʻst urishib qoldi. Janjallashish jarayonida ulardan biri oʻta gʻazablangan holda belkurakni olib, chetga uloqtirdi. Oʻsha paytda qoʻshni ayol oʻtib ketayotgan edi. Belkurak uning qoʻliga tasodifan zarb bilan tegdi. Qoʻlni sindirish shaklidagi jismoniy shikastlanish sodir boʻldi.
+**A.** Ikromov avtomobilni boshqarib borayotib tezlikni oshirib yubordi va baxtsiz hodisa sodir boʻlmaydi, deb umid qildi, chunki u tajribali haydovchi. Biroq u piyodalar yoʻlagida toʻxtashga ulgurmay qoldi va piyodani urib yubordi. Voqea guvohlari yoʻqligidan foydalanib jinoyat sodir etilgan joyni tark etdi, ammo tez orada hibsga olindi. Piyoda olgan jarohatlari tufayli vafot etdi.
 
-D. Yuk tushiruvchi Alijonov yuklarni omborga tashish paytida sinishi mumkin boʻlgan narsalari bor qutini tasodifan tushirib yubordi. Lekin qutining ustiga bu haqdagi ogohlantiruvchi belgi qoʻyilmagan edi.
+**B.** Ikki doʻst urishib qoldi. Janjallashish jarayonida ulardan biri oʻta gʻazablangan holda belkurakni olib, chetga uloqtirdi. Oʻsha paytda qoʻshni ayol oʻtib ketayotgan edi. Belkurak uning qoʻliga tasodifan zarb bilan tegdi. Qoʻlni sindirish shaklidagi jismoniy shikastlanish sodir boʻldi.
 
-E. Tadbirkor Azimov Oltiariq tuman hokimining tegishli qarori bilan ijaraga berilgan yer maydonida dala hovli binosining qurilish ishlarini ruxsatsiz olib bordi. Natijada atrofda istiqomat qiluvchilarda norozilik kayfiyati yuzaga keldi. Chunki qurilish ishlari davomida atrof tabiiy muhitga katta miqdorda chang-toʻzon koʻtarildi, shovqin-suron kelib chiqdi.
+![](img/ogp-8.uz/p068-2.webp "212x182")
+
+**D.** Yuk tushiruvchi Alijonov yuklarni omborga tashish paytida sinishi mumkin boʻlgan narsalari bor qutini tasodifan tushirib yubordi. Lekin qutining ustiga bu haqdagi ogohlantiruvchi belgi qoʻyilmagan edi.
+
+**E.** Tadbirkor Azimov Oltiariq tuman hokimining tegishli qarori bilan ijaraga berilgan yer maydonida dala hovli binosining qurilish ishlarini ruxsatsiz olib bordi. Natijada atrofda istiqomat qiluvchilarda norozilik kayfiyati yuzaga keldi. Chunki qurilish ishlari davomida atrof tabiiy muhitga katta miqdorda chang-toʻzon koʻtarildi, shovqin-suron kelib chiqdi.
 
 ### Fikrimizni tasdiqlaymiz
 
 Davlat paydo boʻlgan jamiyatda insonlar davlat tomonidan oʻrnatilgan maʼlum huquqiy qoidalarga amal qilib yashashlari majburiy etib belgilangan. Huquqiy qoidalarga amal qilmaslik esa huquqiy normalarning buzilishiga va natijada maʼlum bir javobgarlikka asos boʻlgan. Tarixning qaysi davri boʻlmasin, huquqiy normalarning buzilishi “huquqbuzarlik” deb ataladi.
 
-### Brainring daqiqa
+### Yodda tuting
 
-Huquqbuzarlik — oʻz xatti-harakatini tushu na digan va unga javob bera oladigan shaxsning huquqqa zid xatti-harakatidan kelib chiquvchi qilmishdir.
+![](img/ogp-8.uz/p069-1.webp "792x199")
 
 ### IJTIMOIY XAVFLILIK
 
 Ijtimoiy hayot ishtirokchilari boʻlgan turli shaxslar, jamiyat, davlatning qonuniy huquq va manfaatlariga huquqbuzarlik oqibatida zarar yetkazish tushuniladi.
 
-Ijtimoiy xavfli qilmishni qasddan yoki ehtiyotsizlikdan sodir etishni anglatadi.
-
-Huquqbuzarlik sodir etgan shaxsning vakolatli davlat organi tomonidan javobgarlikka tortilishini anglatadi.
-
-Huquqbuzarning qonun normalari belgilab qoʻygan majburiy talablarni buzishi.
+![](img/ogp-8.uz/p069-2.webp "712x239")
 
 ### Hamkorlikda bajaramiz
 
-Quyida berilgan vaziyatlarda huquqbuzarlikning belgilari bormi? Javob berishda tegishli qonun hujjatlaridan foydalaning.
+**Quyida berilgan vaziyatlarda huquqbuzarlikning belgilari bormi? Javob berishda tegishli qonun hujjatlaridan foydalaning.**
 
 1. 15 yoshli Gulnoza sinfdoshi Noilaning mobil telefonini uyga qoʻngʻiroq qilish uchun soʻrab turdi. Lekin Noilaning telefonidagi barcha rasmlarni oʻz telefoniga oʻtkazib oldi. Rasmlarni fotoshop dasturi orqali oʻzgartirib, oʻzining instagram sahifasiga joylashtirdi.
 
@@ -1498,25 +1488,31 @@ Quyida berilgan vaziyatlarda huquqbuzarlikning belgilari bormi? Javob berishda t
 
 ### Fikrimizni tasdiqlaymiz
 
-Ijtimoiy xavflilik shundan iboratki, bunda huquqbuzar jamiyat qadriyatlarini toptaydi, inson hayotiga suiqasd qiladi, davlat va insonlarga zarar keltiradi, ularning mol-mulki nobud boʻlishiga olib keladi hamda noxush hodisalar keltirib chiqarib, jamiyat aʼzolari manfaatiga zid ishni amalga oshiradi. Oʻz oilasi, ota-onasi, jamoasi, yor-u birodarlarini qiyin, uyatli ahvolga solib qoʻyadi. Eng yomoni — u oʻz kelajagini barbod qiladi.
+**Ijtimoiy xavflilik** shundan iboratki, bunda huquqbuzar jamiyat qadriyatlarini toptaydi, inson hayotiga suiqasd qiladi, davlat va insonlarga zarar keltiradi, ularning mol-mulki nobud boʻlishiga olib keladi hamda noxush hodisalar keltirib chiqarib, jamiyat aʼzolari manfaatiga zid ishni amalga oshiradi. Oʻz oilasi, ota-onasi, jamoasi, yor-u birodarlarini qiyin, uyatli ahvolga solib qoʻyadi. Eng yomoni — u oʻz kelajagini barbod qiladi.
 
-Huquqqa zidlik — huquqbuzarning qonun yoki huquq normalari belgilab qoʻygan majburiy talablarni buzishi.
+**Huquqqa zidlik** — huquqbuzarning qonun yoki huquq normalari belgilab qoʻygan majburiy talablarni buzishi.
 
-Ayblilik yuqorida taʼkidlanganidek, oʻz xatti-harakatini tushunadigan va unga javob bera oladigan insonning huquqqa zid, qonun talablariga qarshi xatti-harakatidan kelib chiquvchi aybidir. Ayb qasd yoki ehtiyotsizlik oqibatida kelib chiqadi. Inson dunyoga kelar ekan, uning oldida doimo ikki yoʻl turadi. Birinchisi — huquqiy normalarga, qonun talablariga vijdonan boʻysungan holda oʻz kelajagini yaratish, jamiyat uchun, oʻz xalqi uchun ijtimoiy foyda keltirish. Ikkinchi yoʻl esa hayoti davomida huquqqa xilof, huquqiy norma va qonun talablarini mensimasdan, ularga boʻysunmasdan yashash, aybli harakat qilish, jamiyatga zarar yetkazish.
+**Ayblilik** yuqorida taʼkidlanganidek, oʻz xatti-harakatini tushunadigan va unga javob bera oladigan insonning huquqqa zid, qonun talablariga qarshi xatti-harakatidan kelib chiquvchi aybidir. Ayb qasd yoki ehtiyotsizlik oqibatida kelib chiqadi. Inson dunyoga kelar ekan, uning oldida doimo ikki yoʻl turadi. Birinchisi — huquqiy normalarga, qonun talablariga vijdonan boʻysungan holda oʻz kelajagini yaratish, jamiyat uchun, oʻz xalqi uchun ijtimoiy foyda keltirish. Ikkinchi yoʻl esa hayoti davomida huquqqa xilof, huquqiy norma va qonun talablarini mensimasdan, ularga boʻysunmasdan yashash, aybli harakat qilish, jamiyatga zarar yetkazish.
 
-> Jazoga loyiqlik — bu har qanday huquqbuzarlik sodir etgan shaxsning vakolatli davlat organi tomonidan javobgarlikka tortilishi, jazo esa huquqbuzarlik sodir etishda aybli deb topilgan shaxsga nisbatan qoʻllaniladigan, huquqbuzarni muayyan huquq va erkinliklardan mahrum qilishdan iborat majburlov chorasidir.
+> **Jazoga loyiqlik** — bu har qanday huquqbuzarlik sodir etgan shaxsning vakolatli davlat organi tomonidan javobgarlikka tortilishi, **jazo** esa huquqbuzarlik sodir etishda aybli deb topilgan shaxsga nisbatan qoʻllaniladigan, huquqbuzarni muayyan huquq va erkinliklardan mahrum qilishdan iborat majburlov chorasidir.
+
+### HUQUQBUZARLIK VA Y U RIDIK J AVOBGARLIK
 
 Yuqorida aytib oʻtilganidek, jamiyat uchun xavfli boʻlgan har qanday qilmish huquqbuzarlik deyiladi.
 
 ### Huquqbuzarlik turlari
 
-Intizomiy huquqbuzarlik — xizmat burchini bajarib turganda har qanday mehnatda majburiy boʻlgan mehnat tartib-qoidalarining va rahbarlikka boʻysunish tamoyillarining buzilishi. Masalan, ishga, oʻqishga kech qolish; ishga yoki oʻqishga sababsiz kelmaslik yoki sababsiz ketib qolish; ishga spirtli ichimliklar isteʼmol qilgan holda kelish va boshqalar.
+![](img/ogp-8.uz/p071-1.webp "382x278")
 
-Fuqaroviy huquqbuzarlik — insonlarning mulkiga yoki shaxsiga qarshi qonunga xilof harakat (yoki harakatsizlik) natijasida yetkazilgan zarar. Masalan, bir shaxsdan qarz olib, uni vaqtida qaytarmaslik; shartnomalarni, majburiyatlarni bajarmaslik va boshqalar.
+![](img/ogp-8.uz/p071-2.webp "112x242")
 
-Jinoiy huquqbuzarlik — Jinoyat kodeksi bilan taqiqlangan, aybli ijtimoiy xavfli qilmish (harakat yoki harakatsizlik) jazo qoʻllash tahdidi bilan jinoyat deb topiladi.
+**Intizomiy huquqbuzarlik** — xizmat burchini bajarib turganda har qanday mehnatda majburiy boʻlgan mehnat tartib-qoidalarining va rahbarlikka boʻysunish tamoyillarining buzilishi. Masalan, ishga, oʻqishga kech qolish; ishga yoki oʻqishga sababsiz kelmaslik yoki sababsiz ketib qolish; ishga spirtli ichimliklar isteʼmol qilgan holda kelish va boshqalar.
 
-Maʼmuriy huquqbuzarlik deganda qonun hujjatlariga binoan maʼmuriy javobgarlikka tortish nazarda tutilgan, shaxsga, fuqarolarning huquqlari va erkinliklariga, mulkchilikka, davlat va jamoat tartibiga, tabiiy muhitga tajovuz qiluvchi gʻayrihuquqiy, aybli (qasddan yoki ehtiyotsizlik orqasida) sodir etilgan harakat yoki harakatsizlik tushuniladi.
+**Fuqaroviy huquqbuzarlik** — insonlarning mulkiga yoki shaxsiga qarshi qonunga xilof harakat (yoki harakatsizlik) natijasida yetkazilgan zarar. Masalan, bir shaxsdan qarz olib, uni vaqtida qaytarmaslik; shartnomalarni, majburiyatlarni bajarmaslik va boshqalar.
+
+**Jinoiy huquqbuzarlik** — Jinoyat kodeksi bilan taqiqlangan, aybli ijtimoiy xavfli qilmish (harakat yoki harakatsizlik) jazo qoʻllash tahdidi bilan jinoyat deb topiladi.
+
+**Maʼmuriy huquqbuzarlik** deganda qonun hujjatlariga binoan maʼmuriy javobgarlikka tortish nazarda tutilgan, shaxsga, fuqarolarning huquqlari va erkinliklariga, mulkchilikka, davlat va jamoat tartibiga, tabiiy muhitga tajovuz qiluvchi gʻayrihuquqiy, aybli (qasddan yoki ehtiyotsizlik orqasida) sodir etilgan harakat yoki harakatsizlik tushuniladi.
 
 Maʼmuriy javobgarlik toʻgʻrisidagi kodeksda nazarda tutilgan huquqbuzarlik uchun maʼmuriy javobgarlik, basharti bu huquqbuzarlik oʻz xususiyatiga koʻra jinoiy javobgarlikka tortishga sabab boʻlmagan taqdirda amalga oshiriladi.
 
@@ -1526,41 +1522,45 @@ Hech kim rasmiy eʼlon qilinmagan qonun asosida hukm qilinishi, jazoga tortilish
 
 Hech kim ayni bir jinoyat uchun takroran hukm qilinishi mumkin emas.
 
+### HUQUQBUZARLIK VA Y U RIDIK J AVOBGARLIK
+
+![](img/ogp-8.uz/p072-1.webp "122x79")
+
 ### Brainring daqiqa
 
-> Huquqbuzarlik subyekti — bu huquqqa zid aybli qilmishni sodir etgan shaxs, yaʼni huquqbuzardir. Har qanday shaxs ham huquqbuzarlik subyekti hisoblanmaydi, faqat oʻz qilmishiga javob bera oladigan, aqli raso shaxsgina shunday subyekt sifatida tan olinadi.
+> **Huquqbuzarlik subyekti** — bu huquqqa zid aybli qilmishni sodir etgan shaxs, yaʼni huquqbuzardir. Har qanday shaxs ham huquqbuzarlik subyekti hisoblanmaydi, faqat oʻz qilmishiga javob bera oladigan, aqli raso shaxsgina shunday subyekt sifatida tan olinadi.
 
-> Huquqbuzarlik obyekti — bu huquq bilan tartibga solinadigan va muhofaza qilinadigan ijtimoiy munosabatlardir.
+> **Huquqbuzarlik obyekti —** bu huquq bilan tartibga solinadigan va muhofaza qilinadigan ijtimoiy munosabatlardir.
 
 Ijtimoiy xavfli qilmish oqibatida boshqa shaxslarning huquq va erkinliklariga hamda qonuniy manfaatlariga zarar yetishi mumkin. Bunda boshqa shaxslarning huquq va erkinliklari hamda qonuniy manfaatlari huquqbuzarlikning obyekti hisoblanadi.
 
 ### Yodda tuting
 
-> Aqli rasolik — odamning ruhiy jihatdan sogʻlom holati hisoblanadi. Huquqbuzarlik sodir etish vaqtida oʻz harakatlarining (harakatsizligining) ijtimoiy xavfli xususiyatini anglagan va ularni boshqara olgan shaxs aqli raso shaxsdir.
+> **Aqli rasolik** — odamning ruhiy jihatdan sogʻlom holati hisoblanadi. Huquqbuzarlik sodir etish vaqtida oʻz harakatlarining (harakatsizligining) ijtimoiy xavfli xususiyatini anglagan va ularni boshqara olgan shaxs aqli raso shaxsdir.
 
 ### Huquqbuzarlikning subyektiv tomoni
 
 shaxsning sodir etilgan qilmishiga nisbatan ruhiy munosabati hisoblanadi. Yaʼni u huquqbuzarning ichki kechinmalari, maqsadi va turli boshqa sabablarni oʻz ichiga olishi mumkin. Huquqbuzarlik subyektiv tomonining zaruriy belgisi — aybdir.
 
-Ayb — huquqbuzarning huquqqa xilof xatti-harakatiga va uning ijtimoiy xavfli oqibatiga nisbatan qasd yoki ehtiyotsizlik koʻrinishidagi munosabati. Jinoyat sodir etganlikda ayblana yotgan har bir shaxs qonuniy tartibda aybi sudda oshkora koʻrib chiqilib, aniqlan maganiga qadar aybdor emas deb hisoblanadi.
+**Ayb —** huquqbuzarning huquqqa xilof xatti-harakatiga va uning ijtimoiy xavfli oqibatiga nisbatan qasd yoki ehtiyotsizlik koʻrinishidagi munosabati. Jinoyat sodir etganlikda ayblana yotgan har bir shaxs qonuniy tartibda aybi sudda oshkora koʻrib chiqilib, aniqlan maganiga qadar aybdor emas deb hisoblanadi.
 
 ### Hamkorlikda bajaramiz
 
-Berilgan vaziyatda huquqbuzarlikning subyektiv tomonini toping. 18 yoshli Maftuna Lazizni koʻpchilikning oldida haqorat qilgani uchun Laziz uning bir oʻzi qolishini kutib turdi va tan jarohati yetkazdi.
+**Berilgan vaziyatda huquqbuzarlikning subyektiv tomonini toping.** 18 yoshli Maftuna Lazizni koʻpchilikning oldida haqorat qilgani uchun Laziz uning bir oʻzi qolishini kutib turdi va tan jarohati yetkazdi.
 
 ### Brainring daqiqa
 
-Qasd — shaxsning huquqqa xilof xatti-harakatni sodir qilayotganida bu harakat (harakatsizlik)ning huquqqa xilofligini, ijtimoiy xavfliligini, uning oqibatini anglashi yoki tushunishi, yoki bu munosabatning maʼlum oqibatni keltirib chiqarishiga ongli ravishda yoʻl qoʻyishi tushuniladi. Huquqbuzarlikni sodir etgan shaxs oʻz qilmishining ijtimoiy xavflilik xususiyatini anglagan va shunday qilmishni sodir etishni istagan boʻlsa, bunday jinoyat qasddan sodir etilgan deb topiladi.
+**Qasd** — shaxsning huquqqa xilof xatti-harakatni sodir qilayotganida bu harakat (harakatsizlik)ning huquqqa xilofligini, ijtimoiy xavfliligini, uning oqibatini anglashi yoki tushunishi, yoki bu munosabatning maʼlum oqibatni keltirib chiqarishiga ongli ravishda yoʻl qoʻyishi tushuniladi. Huquqbuzarlikni sodir etgan shaxs oʻz qilmishining ijtimoiy xavflilik xususiyatini anglagan va shunday qilmishni sodir etishni istagan boʻlsa, bunday jinoyat qasddan sodir etilgan deb topiladi.
 
 Milliy qonunchilikka koʻra, qasdning ikki turi mavjud boʻlib, ular toʻgʻri qasd va egri qasddir.
 
-Agar shaxs oʻz qilmishining ijtimoiy xavfli xususiyatini anglagan, uning ijtimoiy xavfli oqibatlariga koʻzi yetgan va ularning yuz berishini istagan boʻlsa, bunday huquqbuzarlik toʻgʻri qasddan sodir etilgan deb topiladi. Bunda shaxs huquqbuzarlikni ichki xohishidan kelib chiqib, ongli ravishda bajaradi.
+Agar shaxs oʻz qilmishining ijtimoiy xavfli xususiyatini anglagan, uning ijtimoiy xavfli oqibatlariga koʻzi yetgan va ularning yuz berishini istagan boʻlsa, bunday huquqbuzarlik **toʻgʻri qasddan** sodir etilgan deb topiladi. Bunda shaxs huquqbuzarlikni ichki xohishidan kelib chiqib, ongli ravishda bajaradi.
 
-Agar shaxs oʻz qilmishining ijtimoiy xavfli xususiyatini anglagan, uning ijtimoiy xavfli oqibatlariga koʻzi yetgan va ularning yuz berishiga ongli ravishda yoʻl qoʻygan boʻlsa, bunday huquqbuzarlik egri qasddan sodir etilgan deb topiladi. Yaʼni shaxs huquqbuzarlik sodir boʻlishiga yoʻl qoʻyib beradi.
+Agar shaxs oʻz qilmishining ijtimoiy xavfli xususiyatini anglagan, uning ijtimoiy xavfli oqibatlariga koʻzi yetgan va ularning yuz berishiga ongli ravishda yoʻl qoʻygan boʻlsa, bunday huquqbuzarlik **egri qasddan** sodir etilgan deb topiladi. Yaʼni shaxs huquqbuzarlik sodir boʻlishiga yoʻl qoʻyib beradi.
 
 ### Hamkorlikda bajaramiz
 
-Ushbu vaziyatlardagi ayb shakllarini koʻrsating.
+**Ushbu vaziyatlardagi ayb shakllarini koʻrsating.**
 
 1. Mohina ismli 8-sinf oʻquvchisi sinfda hech kim yoʻqligidan foydalanib oʻqituvchining sumkasidagi pulni va qoʻl telefonini oldi.
 
@@ -1574,23 +1574,27 @@ Agar huquqbuzarlikni sodir etgan shaxs oʻz xulq-atvori qonunda nazarda tutilgan
 
 Agar jinoyat sodir etgan shaxs oʻz xulq-atvori qonunda nazarda tutilgan ijtimoiy xavfli oqibatlar keltirib chiqarishi mumkinligiga koʻzi yetmasa-da, lekin koʻzi yetishi lozim va mumkin boʻlsa, bunday jinoyat beparvolik orqasidan sodir etilgan deb topiladi.
 
+### HUQUQBUZARLIK VA Y U RIDIK J AVOBGARLIK
+
 Qasddan sodir etilgan huquqbuzarliklarga beriladigan jazo choralari qattiqroq boʻlib, huquqbuzarlik qasddan sodir etilganligi surishtiruv, tergov jarayonlarida aniqlanadi. Ehtiyotsizlik orqasidan sodir etilgan huquqbuzarliklar esa qasddan sodir etilgan huquqbuzarliklarga qaraganda yengilroq taʼsir choralari bilan jazolanadi.
 
 ### Hamkorlikda bajaramiz
 
-Berilgan vaziyatda ehtiyotsizlik shaklini koʻrsating.
+**Berilgan vaziyatda ehtiyotsizlik shaklini koʻrsating.**
 
 1. Haydovchi svetoforning sariq chirogʻi yonganini koʻrgan boʻlsa ham, tezkorlik bilan oʻtib ketishga harakat qildi. Oqibatda boshqa yoʻnalishdagi avtomashinaga zarar yetkazib qoʻydi.
 
 2. Qurilish joyida elektr ustasi elektr uzatkichni oʻchirishni unutib qoʻyishi oqibatida boshqa ustalar elektr kuchlanishdan zarar koʻrdi.
 
+![](img/ogp-8.uz/p074-1.webp "112x81")
+
 ### Brainring daqiqa
 
-> Huquqbuzarlikning obyektiv tomoni — bu huquqqa zid xatti-harakatning tashqi belgisidir. Aynan shunday belgiga asosan, huquqbuzarlik haqida, u qanday roʻy bergani va qanchalik zarar keltirgani haqida mulohaza yuritish mumkin boʻladi. Yaʼni huquqbuzarlik, qachon, qayerda, qanday qilib, qanday usul va vositalar yordamida sodir etilganligi toʻgʻrisidagi xulosaga kelinadi.
+> **Huquqbuzarlikning obyektiv tomoni** — bu huquqqa zid xatti-harakatning tashqi belgisidir. Aynan shunday belgiga asosan, huquqbuzarlik haqida, u qanday roʻy bergani va qanchalik zarar keltirgani haqida mulohaza yuritish mumkin boʻladi. Yaʼni huquqbuzarlik, qachon, qayerda, qanday qilib, qanday usul va vositalar yordamida sodir etilganligi toʻgʻrisidagi xulosaga kelinadi.
 
 ### Hamkorlikda bajaramiz
 
-Berilgan vaziyatda huquqbuzarlikning obyektiv tomonini aniqlang. Eldoʻst ismli shaxs Akobir ismli shaxsning uyiga kechasi soat 23:30 da bosqinchilik niyatida yashirincha kirib keldi. Uyda hech kim yoʻqligini aniqlab, mehmonxonadagi qimmatbaho buyumlarni olib chiqib ketdi.
+**Berilgan vaziyatda huquqbuzarlikning obyektiv tomonini aniqlang.** Eldoʻst ismli shaxs Akobir ismli shaxsning uyiga kechasi soat 23:30 da bosqinchilik niyatida yashirincha kirib keldi. Uyda hech kim yoʻqligini aniqlab, mehmonxonadagi qimmatbaho buyumlarni olib chiqib ketdi.
 
 ### Izlanishda davom eting
 
@@ -1604,9 +1608,11 @@ Berilgan vaziyatda huquqbuzarlikning obyektiv tomonini aniqlang. Eldoʻst ismli 
 
 5. Huquqbuzarlikka yoʻl qoʻymaslik uchun qanday choralarni koʻrish kerak deb oʻylaysiz?
 
+![](img/ogp-8.uz/p074-2.webp "579x160")
+
 ## 21–22-dars. Yuridik javobgarlik
 
-Agar taʼlimtarbiya va jazo toʻgʻrisida qonunqoida boʻlmasa, mamlakat ishlari buziladi. Husayn Voiz Koshifiy
+Agar taʼlimtarbiya va jazo toʻgʻrisida qonunqoida boʻlmasa, mamlakat ishlari buziladi. **Husayn Voiz Koshifiy**
 
 ### Faollashtiruvchi savollar
 
@@ -1616,19 +1622,25 @@ Ozodlikka chiqqach, davlat roʻyxatiga olingan “Minor” masʼuliyati cheklang
 
 Baxtiyor Oʻzbekiston Respublikasining Jinoyat kodeksining tegishli moddasiga koʻra ja vobgarlikka tortildi.
 
+### Manba: Buxoro tuman prokuraturasi
+
 2. 2006-yil 1-yanvardan Germa niyada yangi qaror kuchga kirdi. Unga koʻra, qish mavsumida kim shinalarni qishkisiga almashtirmay avtomobil boshqarsa, 20 yevro miqdorida jarimaga tortiladi. Agar mashina shinasi almashtirilmaganligi uchun yoʻlda toʻxtab qolsa va harakatga xalaqit bersa, jarima ikki baravar oshiriladi.
 
 Bunday choralar qish mavsumida Skandinaviya mamlakatlarida ham amalda qoʻllaniladi.
 
+### Manba: “Autonews.uz”
+
 3. Toshkent shahar prokuraturasi poytaxt dorixonalarida tekshiruv oʻtkazmoqda. Bunga sabab koʻplab odamlarning qator dorixonalarda muddati oʻtgan dori-darmonlar sotilishi haqidagi shikoyati boʻldi. Prokuratura hamda Toshkent shahar sogʻliqni saqlash bosh boshqarmasi hamkorlikda oʻtkazgan tekshirishlarda arizalarda koʻrsatilgan vajlar toʻliq isbotini topdi. Shuningdek, ayrim dorixonalarda sotilishi man qilingan dori-darmonlar bilan savdo qilinayotganligi ham maʼlum boʻldi. Tekshiruvlar natijasiga koʻra, Toshkent shahar prokuraturasi tomonidan 70 ta jinoyat ishi qoʻzgʻatildi.
 
-Manba: “Huquq” gazetasi
+**Manba: “Huquq” gazetasi**
 
 4. Xakerlar tomonidan yaratilgan yangi virus AQSHdagi kompyuterlarga zarar yetkazyapti. Ushbu virus goʻyoki Federal tergov byurosi (FTB) nomidan yuborilgan xatlar ichiga joylashtirilgan.
 
 Xatda: “FTB sizning taqiqlangan, maxfiy internet saytlarga kirganligingizni aniqladi. Quyidagi faylni ochib, bir necha savolga javob berishingizni soʻraymiz”, — deb yoziladi. Xavfli viruslar esa ana shu koʻrsatilgan faylda boʻladi. Fayl ochilishi bilan ular kompyuterni zararlaydi.
 
-FTB oʻzining bunga aloqasi yoʻqligini aytib, hammani ehtiyot boʻlishga chaqirgan. Manba: “Ekspert” nashri
+FTB oʻzining bunga aloqasi yoʻqligini aytib, hammani ehtiyot boʻlishga chaqirgan. **Manba: “Ekspert” nashri**
+
+### HUQUQBUZARLIK VA Y U RIDIK J AVOBGARLIK
 
 1. Baxtiyor huquqbuzarlikning qaysi turini sodir etgan?
 
@@ -1648,9 +1660,9 @@ Huquqbuzarlik uchun jazoning muqarrarligi, har qanday huquqbuzarlik maʼlum bir 
 
 Huquqiy normalarga asoslangan va davlat majburlov normalari bilan bogʻliq boʻlgan javobgarlik yuridik javobgarlikni tashkil qiladi va aynan shu javobgarlikni oʻrganish huquqshunoslik fanining vazifalaridan biridir.
 
-Yuridik javobgarlik — huquqbuzarlikni sodir etgan shaxsning oʻz qilmishi uchun huquq normalariga asosan javob berishi va davlat majburlov choralari koʻrinishidagi oqibatlarga duchor boʻlishi hamda ularni boshidan kechirishidir.
+**Yuridik javobgarlik** — huquqbuzarlikni sodir etgan shaxsning oʻz qilmishi uchun huquq normalariga asosan javob berishi va davlat majburlov choralari koʻrinishidagi oqibatlarga duchor boʻlishi hamda ularni boshidan kechirishidir.
 
-Huquqiy javobgarlikka asos huquqbuzarlik, yaʼni huquqiy normalarni buzish hisob lanadi.
+**Huquqiy javobgarlikka asos** huquqbuzarlik, yaʼni huquqiy normalarni buzish hisob lanadi.
 
 Huquqbuzarlik turlari huquqiy javobgarlik turlariga mutanosibdir. Masalan:
 
@@ -1662,19 +1674,19 @@ Huquqbuzarlik turlari huquqiy javobgarlik turlariga mutanosibdir. Masalan:
 
 – jinoiy huquqbuzarlik — jinoiy javobgarlikni keltirib chiqaradi.
 
-Huquqiy javobgarlik sud tartibida, maʼmuriy yoki intizomiy tartibda amalga oshiriladi. Intizomiy javobgarlik Oʻzbekiston Respublikasi Mehnat kodeksining 312-moddasiga binoan, quyidagi turlardan iborat:
+Huquqiy javobgarlik sud tartibida, maʼmuriy yoki intizomiy tartibda amalga oshiriladi. **Intizomiy javobgarlik** Oʻzbekiston Respublikasi Mehnat kodeksining 312-moddasiga binoan, quyidagi turlardan iborat:
 
 hayfsan, jarima solish, mehnat shartnomasini bekor qilish.
 
 Intizomiy jazolar ishga qabul qilish huquqiga ega boʻlgan shaxslar (organlar) tomonidan qoʻllaniladi.
 
-Fuqaroviy jazo — fuqaroviy huquqbuzarligi uchun aybdor shaxsning toʻliq moddiy va maʼnaviy javob berishidir.
+**Fuqaroviy jazo** — fuqaroviy huquqbuzarligi uchun aybdor shaxsning toʻliq moddiy va maʼnaviy javob berishidir.
 
 ### Maʼmuriy jazolar quyidagilar
 
 jarima, haqini toʻlash sharti bilan buyumni olib qoʻyish, buyumni musodara qilish, maxsus huquqdan (transport vositasini boshqarish huquqidan, ov qilish huquqidan) mahrum qilish, maʼmuriy qamoq: 3 sutkadan 15 sutkagacha, ayrim hollarda 30 sutkagacha.
 
-Jinoiy jazo — Oʻzbekiston Respublikasining Jinoyat kodeksining 43-moddasida jinoyat sodir etishda aybli deb topilgan shaxslarga nisbatan qoʻllaniladigan jazo tizimi belgilab qoʻyilgan.
+**Jinoiy jazo** — Oʻzbekiston Respublikasining Jinoyat kodeksining 43-moddasida jinoyat sodir etishda aybli deb topilgan shaxslarga nisbatan qoʻllaniladigan jazo tizimi belgilab qoʻyilgan.
 
 Jinoyat kodeksining 81-moddasida esa oʻn sakkiz yoshga toʻlmasdan jinoyat sodir etgan shaxslarga nisbatan qoʻllaniladigan jazo tizimi haqida qayd etilgan.
 
@@ -1716,6 +1728,8 @@ Otasining vasiyati va amakilarining koʻmagi bilan Mohandas Angliyada huquqshuno
 
 1893–1914-yillarda Gandi Janubiy Afrikadagi Gujarot savdo firmasida huquqshunos boʻlib, koʻplab chigal sud ishlarini qisqa muddatda hal etgan. Gandi Janubiy Afrikada malakali huquqshunos sifatida mashhurlikni qoʻlga kiritgan. Huquqshunoslikdagi muvaffaqiyati uning siyosiy faoliyati uchun asos boʻlgan.
 
+![](img/ogp-8.uz/p078-1.webp "332x402")
+
 ### Fikrimizni tasdiqlaymiz
 
 2005-yilning 1-avgustida Oʻzbekiston Respublikasi Prezidentining “Oʻzbekiston Res publikasida oʻlim jazosini bekor qilish toʻgʻrisida”gi farmoniga koʻra, 2008-yilning 1-yanvaridan boshlab Oʻzbekiston Respublikasida oʻlim jazosi bekor qilinib, uning oʻrniga umrbod yoki uzoq muddatga ozodlikdan mahrum etish jazosini joriy etish belgilandi.
@@ -1736,11 +1750,15 @@ Otasining vasiyati va amakilarining koʻmagi bilan Mohandas Angliyada huquqshuno
 
 Huquqbuzarliklarning oldini olish uchun qanday tadbirlar amalga oshirishni taklif qilasiz? Bu tadbirlarda sizning ishtirokingiz qanday boʻladi? Tadbirga kimlarni jalb etgan boʻlardingiz? Takliflaringizni quyidagi jadvalda ifodalang. Takliflar asosida jadvalni takomillashtirishingiz mumkin.
 
+### Oʻtkazish vaqti
+
+![](img/ogp-8.uz/p079-1.webp "772x279")
+
 ## 23–24-dars. Yuridik javobgarlikning oqibatlari
 
 Kishi farosatda qancha nogiron, Aybini oqlashda shuncha bilagʻon.
 
-Xusrav Dehlaviy
+**Xusrav Dehlaviy**
 
 ### Faollashtiruvchi savollar
 
@@ -1752,11 +1770,15 @@ Xusrav Dehlaviy
 
 4. Qaysi jazo turi jinoyatchilikka qarshi ku rashda koʻproq ijobiy natija beradi: moddiy javobgarlikmi yoki ozodlikdan mahrum qilish mi?
 
+![](img/ogp-8.uz/p080-2.webp "192x152")
+
 ### Fikrimizni tasdiqlaymiz
 
-Huquqbuzarlik sodir etgan shaxsga nisbatan sud hukmi bilan jazo belgilana di. Lekin unutmaslik lozimki, jazoning maqsadi jazolash emas. Jazo shaxsni axloqan tuzatish, yangi huquqbuzarliklar sodir etishining oldini olish maqsadidagina qoʻllani ladi.
+![](img/ogp-8.uz/p080-1.webp "899x488")
 
-Jazo huquqbuzarlik sodir etishda aybli deb topilgan shaxsga nisbatan sud hukmi bilan qoʻllaniladigan majburlov chorasidir.
+### Jinoiy jazoning turlari
+
+![](img/ogp-8.uz/p081-1.webp "900x502")
 
 ### Xulosa qiling
 
@@ -1766,11 +1788,13 @@ Muayyan huquqdan mahrum qilish faqat asosiy jazo sifatidagina emas, balki qoʻsh
 
 Jarima jazosi ham jinoyat, ham maʼmuriy huquqbuzarlik uchun qoʻllaniladi.
 
+![](img/ogp-8.uz/p081-2.webp "900x408")
+
 ### Brainring daqiqa
 
-Maʼmuriy huquqbuzarlik sodir etganlik uchun jarima (Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi boʻyicha)
+Maʼmuriy huquqbuzarlik sodir etganlik uchun jarima **(Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi boʻyicha)**
 
-Jinoyat sodir etganlik uchun jarima (Oʻzbekiston Respublikasining Jinoyat kodeksi boʻyicha)
+Jinoyat sodir etganlik uchun jarima **(Oʻzbekiston Respublikasining Jinoyat kodeksi boʻyicha)**
 
 Davlat hisobiga aybdordan belgilangan miqdorda pul undirish jarima hisoblanadi.
 
@@ -1792,15 +1816,13 @@ Intizomiy qismga joʻnatish — muddatli harbiy xizmat xizmatchisini sud tomonid
 
 Ozodlikdan mahrum qilish mahkumni jamiyatdan ajratib, jazoni ijro etish koloniyasi yoki turmaga joylashtirishdan iboratdir.
 
+### HUQUQBUZARLIK VA Y U RIDIK J AVOBGARLIK
+
 Jinoyat sodir etganlik uchun jazo faqat tegishli jinoyat ishlari boʻyicha sudlar tomonidan belgilanadi.
 
 ### MAʼMURIY JAZO TURLARI
 
-Maʼmuriy huquqbuzarlik sodir etish qurolini haqini toʻlash sharti bilan olib qoʻyish
-
-Maxsus huquqdan mahrum etish (transport vositasini boshqarish huquqidan, ov qilish huquqidan)
-
-Chet el fuqarolarini va fuqaroligi boʻlmagan shaxslarni Oʻzbekiston Respublikasi hududidan maʼmuriy tarzda chiqarib yuborish
+![](img/ogp-8.uz/p083-1.webp "792x651")
 
 ### Xulosa qiling
 
@@ -1809,6 +1831,8 @@ Maʼmuriy huquqbuzarlik uchun jazo tegishli sudlar va boshqa vakolatli davlat or
 Jinoyat va maʼmuriy huquqbuzarlik uchun jazo turlarini qisqacha muhokama etgach, intizomiy jazo turlari haqida ham alohida soʻz yuritish mumkin. Ish beruvchi mehnat intizomini buzganligi uchun xodimga intizomiy jazo choralarini qoʻllashda Oʻzbekiston Respublikasining Mehnat kodeksiga asoslanadi.
 
 ### Fikrimizni tasdiqlaymiz
+
+![](img/ogp-8.uz/p084-1.webp "202x222")
 
 Intizomiy jazo intizomiy qilmish aniqlanganidan keyin darhol, biroq aniqlangan kundan eʼtiboran bir oydan kechiktirmay qoʻllaniladi, bunda xodim vaqtincha ishga layoqatsiz boʻlgan yoki taʼtilda boʻlgan davr hisobga olinmaydi.
 
@@ -1819,6 +1843,8 @@ Agar intizomiy jazo qoʻllanilgan kundan eʼtiboran bir yil ichida xodimga yangi
 Ish beruvchi intizomiy jazoni oʻz tashabbusiga koʻra, xodimning bevosita rahbarining, kasaba uyushmasi qoʻmitasining iltimosnomasiga, shuningdek, xodimning iltimosiga koʻra, bir yil oʻtguniga qadar muddatidan oldin olib tashlash huquqiga ega. Intizomiy jazoni muddatidan oldin olib tashlash ish beruvchining buyrugʻi bilan rasmiylashtiriladi.
 
 ### INTIZOMIY JAZO TURLARI
+
+![](img/ogp-8.uz/p084-2.webp "652x399")
 
 Ish beruvchi jarima, hayfsan va mehnat shartnomasini bekor qilishdan boshqa jazo chorasini qoʻllashga haqli emas. Lekin xodimning samarali faoliyati uchun ragʻbatlantirish turlari chegaralanmagan.
 
@@ -1840,9 +1866,11 @@ Akobir ismli bolaning otasi oʻgʻliga bundan buyon maktabga bormasdan faqat spo
 
 2. Akobirning otasi bunday harakatlari uchun qanday javobgarlikka tortilishi mumkin?
 
+![](img/ogp-8.uz/p085-1.webp "900x582")
+
 ## 25–26-dars. Ijodiy faoliyat
 
-Quyida berilgan taʼriflarni javoblar bilan moslashtiring.
+**Quyida berilgan taʼriflarni javoblar bilan moslashtiring.**
 
 huquqiy munosabat ishtirokchilarining tegishli huquq normasiga asosan bajarishi lozim (bajarilishi oʻziga bogʻliq) boʻlgan harakati yoki ularning maʼlum harakatlarni amalga oshirilishini talab qilish vakolati.
 
@@ -1860,9 +1888,9 @@ majburiyatlarni bajara oladigan, sudda daʼvogar va javobgar boʻla oladigan tas
 
 tugʻilgan paytdan eʼtiboran vujudga keladi va vafot etishi bilan tugaydi.
 
-bunda huquqbuzar jamiyat qadriyatlarini toptaydi, inson hayotiga suiqasd qiladi, davlat va insonlarga zarar keltiradi, ularning mol-mulki nobud boʻlishiga olib keladi hamda noxush hodisalar keltirib chiqarib, jamiyat aʼzolari manfaatiga zid ishni amalga oshiradi.
+### HUQUQBUZARLIK VA Y U RIDIK J AVOBGARLIK
 
-oʻz xatti-harakatini tushunadigan va unga javob bera oladigan shaxsning huquqqa zid xatti-harakatidan kelib chiquvchi aybidir.
+![](img/ogp-8.uz/p087-1.webp "792x272")
 
 oʻz xatti-harakatini tushunadigan va unga javob bera oladigan insonning huquqqa zid, qonun talablariga qarshi xatti-harakatidan kelib chiquvchi aybidir.
 
@@ -1872,9 +1900,11 @@ har qanday huquqbuzarlik sodir etgan shaxsning vakolatli davlat organi tomonidan
 
 xizmat burchini bajarib turganda har qanday mehnatda majburiy boʻlgan mehnat tartib-qoidalarining va rahbarlikka boʻysunish tamoyillarining buzilishi.
 
-huquqbuzarning huquqqa xilof xatti-harakatiga va uning ijtimoiy xavfli oqibatiga nisbatan qasd yoki ehtiyotsizlik koʻrinishidagi munosabati. aybli ijtimoiy xavfli qilmish (harakat yoki harakatsizlik).
+![](img/ogp-8.uz/p087-2.webp "896x342")
 
-bu huquqqa zid xatti-harakatning tashqi belgisi.
+### HUQUQBUZARLIK VA Y U RIDIK J AVOBGARLIK
+
+![](img/ogp-8.uz/p088-1.webp "362x302")
 
 bu huquqqa zid aybli qilmishni sodir etgan shaxs, yaʼni huquqbuzardir. Faqat oʻz qilmishiga javob bera oladigan, aqli raso shaxsgina shunday subyekt sifatida tan olinadi.
 
@@ -1888,11 +1918,13 @@ fuqaro voyaga yetgach, yaʼni oʻn sakkiz yoshga toʻlgach toʻla hajmda vujudga
 
 bu huquq bilan tartibga solinadigan va muhofaza qilinadigan ijtimoiy munosabatlardir.
 
+![](img/ogp-8.uz/p089-1.webp "900x1116")
+
 # IV bob. Voyaga yetmaganlarning huquq va burchlari
 
 ## 27-dars. Fuqarolik qonunchiligida voyaga yetmaganlarning huquqlari
 
-Tolibman deb yururlar, koʻnglida yoʻq zarra nur, Chin tolibni soʻrasang, ichu tashi guhar, dur. Ahmad Yassaviy
+Tolibman deb yururlar, koʻnglida yoʻq zarra nur, Chin tolibni soʻrasang, ichu tashi guhar, dur. **Ahmad Yassaviy**
 
 ### Faollashtiruvchi savollar
 
@@ -1908,6 +1940,8 @@ Tolibman deb yururlar, koʻnglida yoʻq zarra nur, Chin tolibni soʻrasang, ichu
 
 6. Ularning qanday fuqarolik huquqlari bor?
 
+![](img/ogp-8.uz/p090-1.webp "900x569")
+
 ### Qonun belgilaydi
 
 Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan voyaga yetmaganlar bitimlarni oʻz ota-onalari, farzandlikka oluvchilari yoki homiylarining yozma roziligi bilan tuzadilar. Bunday voyaga yetmagan shaxs tomonidan tuzilgan bitim keyinchalik shaxsning ota-onasi, farzandlikka oluvchilari yoki homiysi yozma ravishda maʼqullaganidan soʻng, u ham haqiqiy hisoblanadi.
@@ -1922,7 +1956,7 @@ Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan voyaga yetmaganlar ota-onalar
 
 4) mayda maishiy bitimlarni hamda boshqa bitimlarni tuzish.
 
-Oʻzbekiston Respublikasining Fuqarolik kodeksi, 27-modda
+**Oʻzbekiston Respublikasining Fuqarolik kodeksi, 27-modda**
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -1934,9 +1968,9 @@ Huquq tarmoqlari mavzusida qayd etilganidek, fuqarolik huquqi mulkiy va shaxsiy 
 
 Masalan, Abrorjon ismli bola 15 yosh. U sheʼr yozdi. Lekin uning sheʼrini Akobirjon ismli oʻrtogʻi olib, oʻz nomidan nashr etdi. Bunday holatda fuqarolik huquqi Abrorjon ning mualliflik huquqini himoya qiladi.
 
-### Shaxsiy nomulkiy
+### Fuqarolik huquqi
 
-(mualliflik huquqi, shaʼn, qadr-qimmat va h.k.)
+![](img/ogp-8.uz/p091-1.webp "896x214")
 
 ### Hamkorlikda bajaramiz
 
@@ -1972,7 +2006,7 @@ Quyidagilarni bunga misol tariqasida keltirib oʻtish mumkin:
 
 ### 16 yoshga toʻlgan voyaga yetmagan shaxs qonunda koʻrsatilgan shartlar asosida
 
-ish la yotgan yoki tadbirkorlik faoliyati bilan shugʻullanayotgan boʻlsa, u sud qarori bilan toʻla muomalaga layoqatli deb eʼlon qilinishi mumkin. Bu fuqarolik huquqida “emansipatsiya” deb yuritiladi.
+ish la yotgan yoki tadbirkorlik faoliyati bilan shugʻullanayotgan boʻlsa, u sud qarori bilan toʻla muomalaga layoqatli deb eʼlon qilinishi mumkin. Bu fuqarolik huquqida “**emansipatsiya”** deb yuritiladi.
 
 Bu holatda ota-ona, farzandlikka oluvchilar va homiy emansipatsiya qilingan voyaga yetmaganning majburiyatlari boʻyicha, xususan, u yetkazgan zarar oqibatida kelib chiqqan majburiyatlar boʻyicha javobgar boʻlmaydilar.
 
@@ -1980,7 +2014,7 @@ Muomalaga toʻliq layoqatli deb eʼlon qilingan shaxs toʻliq hajmda fuqarolik h
 
 ### Yodda tuting
 
-> Emansipatsiya — lotincha “emancipatio” soʻzidan olingan boʻlib, “qaramlikdan ozod boʻlish” degan maʼnoni angla tadi.
+> **Emansipatsiya** — lotincha “emancipatio” soʻzidan olingan boʻlib, “qaramlikdan ozod boʻlish” degan maʼnoni angla tadi.
 
 ### Izlanishda davom eting
 
@@ -1992,11 +2026,13 @@ Ularning ishga kirishlari uchun qanday huquqlari bor? Ularning ish beruvchilar m
 
 3. Quyidagi jadvalni daftaringizga chizing va Oʻzbekiston Respublikasining Fuqarolik kodeksiga binoan, voyaga yetmaganlarning muomala layoqati asosida toʻldiring.
 
+![](img/ogp-8.uz/p093-1.webp "896x312")
+
 ## 28-dars. Jinoyat qonunchiligida voyaga yetmaganlarning huquq va majburiyatlari
 
 Har kimki vafo qilsa, vafo topqusidur, Har kimki jafo qilsa, jafo topqusidur. Yaxshi kishi koʻrmagʻay yomonlig‘ hargiz, Har kimki yamon boʻlsa, jazo topqusidur.
 
-Zahiriddin Muhammad Bobur
+**Zahiriddin Muhammad Bobur**
 
 ### Faollashtiruvchi savollar
 
@@ -2008,7 +2044,7 @@ Unda: “Menda yashashga umid qolmadi, men boshqa davom eta olmayman”, — so�
 
 Ovoz yozgichdagi xabarni tinglaganidan keyin janob Sinchkov bu oʻz joniga qasd qilish emasligini aniq anglab yetdi.
 
-Savol: Janob Sinchkov nega bunday qarorga keldi? Fikringizni asoslashga harakat qiling.
+**Savol: Janob Sinchkov nega bunday qarorga keldi? Fikringizni asoslashga harakat qiling.**
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -2034,27 +2070,25 @@ Quyidagi belgilar jinoyat va boshqa huquqbuzarlik oʻrtasidagi chegaraviy farqla
 
 4) yetkazilgan zararning miqdori.
 
-Huquqbuzarlikning obyekti qilmishning jamiyatga, ijtimoiy munosabatlarga taʼsiri orqali uning ijtimoiy xavflilik xarakterini belgilash imkonini beradi.
+**Huquqbuzarlikning obyekti** qilmishning jamiyatga, ijtimoiy munosabatlarga taʼsiri orqali uning ijtimoiy xavflilik xarakterini belgilash imkonini beradi.
 
-Jinoyat ijtimoiy xavflilik darajasi va xususiyatiga koʻra, jamiyatga maʼlum bir darajada ijtimoiy xavfli boʻlgan boshqa huquqbuzarliklardan koʻra koʻproq zarar yetkazishi bilan ajralib turadi.
+Jinoyat **ijtimoiy xavflilik darajasi** va xususiyatiga koʻra, jamiyatga maʼlum bir darajada ijtimoiy xavfli boʻlgan boshqa huquqbuzarliklardan koʻra koʻproq zarar yetkazishi bilan ajralib turadi.
 
-Jinoyatni boshqa huquqbuzarliklardan farqlovchi yana bir belgi — uning huquqqa xiloflilik xususiyati hisoblanadi. Jinoyatlar uchun javobgarlik jinoyat qonuni bilan tartibga solinadi. Yaʼni shaxs tomonidan sodir etilgan qilmish uchun albatta jazo belgilanadi.
+Jinoyatni boshqa huquqbuzarliklardan farqlovchi yana bir belgi — uning **huquqqa xiloflilik xususiyati** hisoblanadi. Jinoyatlar uchun javobgarlik jinoyat qonuni bilan tartibga solinadi. Yaʼni shaxs tomonidan sodir etilgan qilmish uchun albatta jazo belgilanadi.
 
-Yetkazilgan zararning miqdori deyilganda Jinoyat kodeksida belgilab berilgan miqdor nazarda tutiladi.
+**Yetkazilgan zararning miqdori** deyilganda Jinoyat kodeksida belgilab berilgan miqdor nazarda tutiladi.
 
-### Qonun belgilaydi
-
-Jinoyatlar oʻz xususiyati va ijtimoiy xavflilik darajasiga koʻra: ijtimoiy xavfi katta boʻlmagan, uncha ogʻir boʻlmagan, ogʻir, oʻta ogʻir jinoyatlarga boʻlinadi.
-
-Oʻzbekiston Respublikasining Jinoyat kodeksi, 15-modda
+![](img/ogp-8.uz/p095-1.webp "512x189")
 
 ### Fikrimizni tasdiqlaymiz
 
-Maʼlum bir ijtimoiy qilmishni jinoyat deb xarakterlovchi obyektiv va subyektiv bel gilarning minimal va yetarli yigʻindisi jinoyat tarkibini bildiradi. Jinoyat tarkibi ijtimoiy xavfli qilmishlarni bir-biridan farqlashda muhim ahamiyatga egadir. Masalan, oʻgʻrilik birovning mulkini yashirin ravishda talon-taroj qilishda namoyon boʻlsa, talonchilik oʻzganing mulkini ochiqdan ochiq talon-taroj qilishdir.
+Maʼlum bir ijtimoiy qilmishni jinoyat deb xarakterlovchi obyektiv va subyektiv bel gilarning minimal va yetarli yigʻindisi **jinoyat tarkibini** bildiradi. Jinoyat tarkibi ijtimoiy xavfli qilmishlarni bir-biridan farqlashda muhim ahamiyatga egadir. Masalan, **oʻgʻrilik** birovning mulkini yashirin ravishda talon-taroj qilishda namoyon boʻlsa, **talonchilik** oʻzganing mulkini ochiqdan ochiq talon-taroj qilishdir.
+
+### VOYAGA Y E T MAGANLARNING H U Q U Q VA BURCHLARI
 
 Jinoyat tarkibining toʻrt belgisi quyidagi elementlar orqali taʼriflanadi. Obyektiv belgilar — jinoyat obyekti va obyektiv tomoni, subyektiv belgilar — jinoyat subyekti va subyektiv tomoni.
 
-Jinoyat obyekti — jinoyat qonuni bilan qoʻriqlanadigan ijtimoiy munosabatlar. Yaʼni jinoyat qonuni bilan qoʻriqlanadigan har qanday ijtimoiy munosabat jinoyatning umumiy obyekti hisoblanadi.
+**Jinoyat obyekti —** jinoyat qonuni bilan qoʻriqlanadigan ijtimoiy munosabatlar. Yaʼni jinoyat qonuni bilan qoʻriqlanadigan har qanday ijtimoiy munosabat jinoyatning umumiy obyekti hisoblanadi.
 
 Masalan, oʻgʻrilik jinoyatining obyekti oʻzganing mulkidir. Yoki odam oʻldirish jinoyati ning obyekti boshqa kishining hayoti hisoblanadi.
 
@@ -2080,7 +2114,7 @@ Elyor ismli shaxs Mohigul ismli shaxsning shaxsiy fotosuratlari va videotasvirla
 
 ### Fikrimizni tasdiqlaymiz
 
-Jinoyat subyekti jinoyat tarkibining zaruriy elementidir. Yaʼni qonunda belgilangan yoshga yetgan va aqli raso jismoniy shaxslar jinoyatning subyekti boʻladi. Jinoyat subyekti faqat jismoniy shaxs boʻla oladi. Oʻzbekiston Respublikasining Jinoyat kodeksining 17-moddasida jismoniy shaxslarning javobgarligi belgilangan. Jinoyat sodir etgunga qadar oʻn olti yoshga toʻlgan, aqli raso jismoniy shaxslar javobgarlikka tortiladi.
+**Jinoyat subyekti** jinoyat tarkibining zaruriy elementidir. Yaʼni qonunda belgilangan yoshga yetgan va aqli raso jismoniy shaxslar jinoyatning subyekti boʻladi. Jinoyat subyekti faqat jismoniy shaxs boʻla oladi. Oʻzbekiston Respublikasining Jinoyat kodeksining 17-moddasida jismoniy shaxslarning javobgarligi belgilangan. Jinoyat sodir etgunga qadar oʻn olti yoshga toʻlgan, aqli raso jismoniy shaxslar javobgarlikka tortiladi.
 
 Oʻgʻrilik jinoyatining subyekti 14 yoshga toʻlgan aqli raso shaxsdir.
 
@@ -2090,19 +2124,19 @@ Voyaga yetmagan gumon qilinuvchini yoki ayblanuvchini soʻroq qilishda surishtir
 
 ### Fikrimizni tasdiqlaymiz
 
-Jinoyatning subyektiv tomoni. Jinoyatning subyektiv tomoni deyilganda, aybdor shaxsning oʻzi sodir etgan ijtimoiy xavfli qilmishi va uning oqibatlariga boʻlgan ruhiy munosabati tushuniladi.
+**Jinoyatning subyektiv tomoni.** Jinoyatning subyektiv tomoni deyilganda, aybdor shaxsning oʻzi sodir etgan ijtimoiy xavfli qilmishi va uning oqibatlariga boʻlgan ruhiy munosabati tushuniladi.
 
 Oʻzbekiston Respublikasi jinoyat huquqining muhim xususiyatlaridan biri — subyektning aqli rasoligi, yaʼni aybdorning oʻz harakatini boshqara olganligi va harakati tu fayli kelib chiqqan oqibatning ijtimoiy xavfliligini anglashidir.
 
 Ijtimoiy xavfli qilmishni qasddan yoki ehtiyotsizlik orqasidan sodir etgan shaxs jinoyat sodir etilishida aybdor deb topilishi mumkinligi qayd etiladi.
 
-Masalan, oʻgʻrilik jinoyatini hech kim ehtiyotsizlik oqibatida sodir etmaydi. Oʻgʻrilik toʻgʻri qasd bilan, yaʼni kimningdir mulkiga ega boʻlish maqsadida sodir etiladi. Uni sodir etgan shaxs oʻz qilmishining oʻgʻrilik ekanligini biladi, unga tayyorgarlik ham koʻrishi mumkin. Yaʼni kimningdir mol-mulkiga ega boʻlishni xohlagan boʻladi.
+Masalan, oʻgʻrilik jinoyatini hech kim ehtiyotsizlik oqibatida sodir etmaydi. Oʻgʻrilik **toʻgʻri qasd** bilan, yaʼni kimningdir mulkiga ega boʻlish maqsadida sodir etiladi. Uni sodir etgan shaxs oʻz qilmishining oʻgʻrilik ekanligini biladi, unga tayyorgarlik ham koʻrishi mumkin. Yaʼni kimningdir mol-mulkiga ega boʻlishni xohlagan boʻladi.
 
 Oʻz-oʻziga ishonish yoki beparvolik orqasida sodir etilgan ijtimoiy xavfli qilmish ehtiyotsizlik orqasidan sodir etilgan jinoyat deb topiladi.
 
 ### Hamkorlikda bajaramiz
 
-Quyidagi vaziyatlar bilan tanishing. Ularning qaysi biri qasddan, qaysi biri ehtiyotsizlik orqasidan sodir boʻlganligini aniqlang.
+**Quyidagi vaziyatlar bilan tanishing. Ularning qaysi biri qasddan, qaysi biri ehtiyotsizlik orqasidan sodir boʻlganligini aniqlang.**
 
 1. Nodira oʻziga ortiqcha ishonishi oqibatida svetoforning sariq chirogʻida toʻxtamasdan chorrahadan oʻtib ketdi. Natijada avtotransport hodisasiga sabab boʻldi.
 
@@ -2142,7 +2176,7 @@ Oʻn sakkiz yoshga toʻlmasdan jinoyat sodir etgan shaxslarga nisbatan qoʻshimc
 
 Gʻazab vaqtidagi ozgina sabr minglab afsuslarning oldini oladi.
 
-Ali ibn Abu Tolib
+**Ali ibn Abu Tolib**
 
 ### Faollashtiruvchi savollar
 
@@ -2164,13 +2198,15 @@ Oʻzbekiston Respublikasi hududida jinoyat ishlarini yuritish tartibi Jinoyat-pr
 
 Jinoyat ishlarini yuritishning ushbu kodeksda belgilangan tartibi barcha sudlar, prokuratura, tergov, surishtiruv organlari, advokatura, shuningdek, fuqarolar uchun yagona hamda majburiydir.
 
-Oʻzbekiston Respublikasining Jinoyat-protsessual kodeksi, 1-modda
+**Oʻzbekiston Respublikasining Jinoyat-protsessual kodeksi, 1-modda**
 
 ### Fikrimizni tasdiqlaymiz
 
 Surishtiruv, dastlabki tergov harakatlari va sud muhokamasi davrida voyaga yetma ganni ayblash va hukm qilish uchun quyidagi asoslar boʻlishi zarur:
 
 1) jinoyat obyekti, jinoyat tufayli yetkazilgan ziyonning xususiyati va miqdori, jabrlanuvchining shaxsini tavsiflovchi holatlar;
+
+### VOYAGA Y E T MAGANLARNING H U Q U Q VA BURCHLARI
 
 2) sodir etilgan jinoyatning vaqti, joyi, usuli, shuningdek, Jinoyat kodeksida koʻrsatib oʻtilgan boshqa holatlar; qilmish va roʻy bergan ijtimoiy xavfli oqibatlar oʻrtasidagi sa babiy bogʻlanish;
 
@@ -2194,6 +2230,8 @@ Oʻn olti yoshgacha boʻlgan guvoh yoki jabrlanuvchini soʻroq qilish uning qonu
 
 Oʻn olti yoshgacha boʻlgan guvohlar va jabrlanuvchilar koʻrsatma berishdan bosh tortganlik va bila turib yolgʻon koʻrsatma berganlik uchun javobgarlik toʻgʻrisida ogoh lantirilmaydilar, biroq surishtiruvchi, tergovchi yoki sud majlisida raislik qiluvchi shu guvoh va jabrlanuvchilarga ularning protsessual huquqi va majburiyatlarini tushuntirish chogʻida haqqoniy koʻrsatma berish va bu bilan jinoyat ishi boʻyicha haqiqatni aniqlashga koʻmaklashish maʼnaviy burch ekanligini eslatib oʻtadi.
 
+![](img/ogp-8.uz/p100-1.webp "900x521")
+
 ### Hamkorlikda bajaramiz
 
 1. Nima deb oʻylaysiz, jinoyat sodir etgan shaxsning yoshini aniqlash nima uchun zarur?
@@ -2212,9 +2250,11 @@ Hibsga olishga, qamoqqa olishga va qamoqda saqlashga faqat sudning qaroriga koʻ
 
 Shaxsni ushlash chogʻida unga tushunarli tilda uning huquqlari va ushlab turilishi asoslari tushuntirilishi shart.
 
+### Oʻzbekiston Respublikasi Konstitutsiyasi, 27-modda
+
 Jinoyat sodir etganlikda ayblanayotgan shaxs uning aybi qonunda nazarda tutilgan tartibda oshkora sud muhokamasi yoʻli bilan isbotlanmaguncha va sudning qonuniy kuchga kirgan hukmi bilan aniqlanmaguncha aybsiz deb hisoblanadi. Ayblanuvchiga oʻzini himoya qilish uchun barcha imkoniyatlar taʼminlanadi.
 
-Oʻzbekiston Respublikasi Konstitutsiyasi, 28-modda
+**Oʻzbekiston Respublikasi Konstitutsiyasi, 28-modda**
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -2225,6 +2265,8 @@ Voyaga yetmaganning jinoyatlari haqidagi ishni yuritishda qonuniy vakilning yoki
 Voyaga yetmagan gumon qilinuvchini, ayblanuvchini soʻroq qilishga ketgan umumiy vaqt, kun davomida dam olish va ovqatlanish uchun bir soatlik tanaffusni hisobga olmaganda, olti soatdan oshmasligi kerak.
 
 Sud voyaga yetmaganlarning jinoyatlari haqidagi ishlar koʻriladigan vaqt va joy haqida ularning ota-onasini, ota-ona oʻrnini bosuvchi shaxslarni, voyaga yetmaganlar
+
+### VOYAGA Y E T MAGANLARNING H U Q U Q VA BURCHLARI
 
 oʻqigan yoki ishlagan korxonani, muassasani, tashkilotni, zarur boʻlsa, boshqa tashkilot larni ham xabardor qiladi. Sud bu tashkilotlarning vakillarini, sudlanuvchining vasiy yoki homiysini sud majlisiga chaqirishga haqlidir.
 
@@ -2246,7 +2288,7 @@ qochib ketishining va boshqa ijtimoiy xavfli qilmishlar sodir etishining oldini 
 
 tibbiy yoʻsindagi majburlov choralarini qoʻllash haqidagi sud ajrimining ijrosini taʼminlash maqsadida voyaga yetmaganlarga ehtiyot choralaridan biri qoʻllaniladi.
 
-Voyaga yetmaganlarga qoʻllaniladigan ehtiyot choralariga quyidagilar kiradi: • • • • • • Bir shaxsga nisbatan bir vaqtning oʻzida ana shu choralardan faqat bittasi qoʻllanilishiga yoʻl qoʻyiladi.
+**Voyaga yetmaganlarga qoʻllaniladigan ehtiyot choralariga quyidagilar kiradi:** • • • • • • Bir shaxsga nisbatan bir vaqtning oʻzida ana shu choralardan faqat bittasi qoʻllanilishiga yoʻl qoʻyiladi.
 
 munosib xulq-atvorda boʻlish toʻgʻrisida tilxat;
 
@@ -2258,23 +2300,27 @@ qamoqqa olish;
 
 voyaga yetmaganlarni kuzatuv ostiga olish uchun topshirish.
 
+### VOYAGA Y E T MAGANLARNING H U Q U Q VA BURCHLARI
+
 Voyaga yetmagan shaxs ota-onasining, homiylar, vasiylarning qaroviga yoki basharti u bolalar muassasasida tarbiyalanayotgan boʻlsa, shu muassasa rahbarlarining qaroviga ham berilishi mumkin.
 
 Voyaga yetmagan ayblanuvchiga nisbatan ehtiyot choralari qoʻllanilgani toʻgʻrisida uning qonuniy vakiliga, agar bunday vakil boʻlmasa, boshqa qarindoshlariga xabar qilinadi.
 
 ### Izlanishda davom eting
 
-Sud muhokamasi jarayonida voyaga yetmagan shaxs qanday huquqlarga ega boʻladi?
+**Sud muhokamasi jarayonida voyaga yetmagan shaxs qanday huquqlarga ega boʻladi?**
 
 1. Zokir ismli voyaga yetmagan shaxs jinoyatda gumon qilinib tergov idorasiga keltirildi va qonuniy vakillarsiz kun davomida soʻroq qilindi. Bu haqda uning yaqinlari xabardor etilmadi.
 
 Bu vaziyatda Zokirning qanday huquqlari buzilgan? Zokir tergov jarayonida qanday huquqlardan foydalanishi mumkin?
 
+![](img/ogp-8.uz/p103-1.webp "262x252")
+
 2. Oʻzbek millatiga mansub boʻlgan Komil ismli voyaga yetmagan shaxs tergov jarayoniga jalb etildi. Tergovchi unga faqat rus tilida savol berdi. U oʻzbek ma hallasida yashagani va oʻzbek sinfida oʻqigani, rus tilini yaxshi bilmagani uchun tergovchining savollariga javob bera olmadi. Komilning huquqlari buzilganligini isbotlab bering.
 
 ### Hamkorlikda bajaramiz
 
-5 ta jamoaga boʻlining. 1 dan 5 gacha raqamlarni yopiq tanlash yoʻli bilan tanlab oling. Tanlagan raqamingizdagi vaziyatni tahlil qiling. Jadvalni oldindan tayyorlangan A4 formatli qogʻozga chizib toʻldiring.
+**5 ta jamoaga boʻlining. 1 dan 5 gacha raqamlarni yopiq tanlash yoʻli bilan tanlab oling. Tanlagan raqamingizdagi vaziyatni tahlil qiling. Jadvalni oldindan tayyorlangan A4 formatli qogʻozga chizib toʻldiring.**
 
 ### Topshiriq talabi
 
@@ -2302,6 +2348,8 @@ Berilgan vaziyatning oldini olish uchun 2 tadan tak- 1. lif tayyorlang va ularni
 
 3. 17 yoshli I. ismli shaxs Toshkent – Termiz yoʻnalishi boʻyicha yuradigan avtobus ga chiqib, yoʻlovchilarga tazyiq oʻtkazib, pullarini tortib oldi.
 
+### VOYAGA Y E T MAGANLARNING H U Q U Q VA BURCHLARI
+
 4. Voyaga yetmagan N. ismli shaxs ishlab chiqarish korxonasidan chiqarilgan chiqindilarni belgilangan oʻraga toʻkmasdan, oʻsha yerga yaqin boʻlgan suv havzasiga oqizib yuborishi natijasida qishloqda yuqumli kasallik epidemiyasining tarqalishiga sabab boʻldi, shuningdek, chorva mollarining ham kasallanishiga olib keldi.
 
 5. Mamlakat terma jamoasi navbatdagi oʻyinda 2:0 hisob bilan magʻlubiyatga uchradi. Shundan keyin terma jamoa ishqibozlari tomonidan toʻs-toʻpolon boshlandi. Tar tibsizlikda voyaga yetmagan 15 yoshli L. va 14 yoshli Z. bir nechta katta doʻkonlarning oynalarini tosh otib sindirdilar.
@@ -2324,21 +2372,25 @@ Berilgan vaziyatning oldini olish uchun 2 tadan tak- 1. lif tayyorlang va ularni
 
 – 13 yoshli A., K. va B. ismli shaxslar dalada gulxan yoqdilar. Tez orada olovni boshqarib boʻlmay qoldi va u shamolning taʼsirida ekin maydonlariga tarqala boshladi.
 
+### VOYAGA Y E T MAGANLARNING H U Q U Q VA BURCHLARI
+
+![](img/ogp-8.uz/p106-1.webp "112x82")
+
 ### Brainring daqiqa
 
 Ota-onalar yoki ularning oʻrnini bosuvchi shaxslar tomonidan voyaga yetmagan bolalarni tarbiyalash va ularga taʼlim berish borasidagi majburiyatlarni bajarmaslik maʼmuriy javobgarlikka asos boʻladi.
 
-Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi, 47-modda
+**Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi, 47-modda**
 
 ### Qonun belgilaydi
 
 Maʼmuriy huquqbuzarlik deganda qonunchilikka binoan maʼmuriy javobgarlikka tortish nazarda tutilgan, shaxsga, fuqarolarning huquqlari va erkinliklariga, mulkchilikka, davlat va jamoat tartibiga, tabiiy muhitga tajovuz qiluvchi gʻayrihuquqiy, aybli (qasddan yoki ehtiyotsizlik orqasida) sodir etilgan harakat yoki harakatsizlik tushuniladi.
 
-Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi, 10-modda
+**Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi, 10-modda**
 
 Maʼmuriy huquqbuzarlik sodir etgan oʻn olti yoshdan oʻn sakkiz yoshgacha boʻlgan shaxslarga nisbatan Bolalar masalalari boʻyicha komissiyalar toʻgʻrisidagi nizomda nazarda tutilgan choralar qoʻllaniladi.
 
-Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi, 14-modda
+**Oʻzbekiston Respublikasining Maʼmuriy javobgarlik toʻgʻrisidagi kodeksi, 14-modda**
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -2372,7 +2424,7 @@ Voyaga yetmaganlar oʻrtasida nazoratsizlik va huquqbuzarliklarning profilaktika
 
 Ushbu moddaning birinchi qismida koʻrsatilmagan organlar hamda muassasalar voyaga yetmaganlar oʻrtasida nazoratsizlik va huquqbuzarliklarning profilaktikasida qonunchilikda belgilangan tartibda ishtirok etadi.
 
-Oʻzbekiston Respublikasining “Voyaga yetmaganlar oʻrtasida nazoratsizlik va huquqbuzarliklarning profilaktikasi toʻgʻrisida”gi qonuni, 8-modda
+**Oʻzbekiston Respublikasining “Voyaga yetmaganlar oʻrtasida nazoratsizlik va huquqbuzarliklarning profilaktikasi toʻgʻrisida”gi qonuni, 8-modda**
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -2388,23 +2440,19 @@ Qonunchilikda jinoyat protsessining ishtirokchilari boʻlgan bolalar uchun boshq
 
 Huquqbuzarlik 16 yoshga toʻlmagan shaxs tomonidan sodir etilgan taqdirda maʼmuriy huquqbuzarlik toʻgʻrisidagi ishlarni yuritishni boshlash mumkin emas, boshlangan ish esa tugatilishi lozim.
 
-Oʻzbekiston Respublikasining “Bola huquqlarining kafolatlari toʻgʻrisida”gi qonuni, 11¹-modda
+**Oʻzbekiston Respublikasining “Bola huquqlarining kafolatlari toʻgʻrisida”gi qonuni, 11¹-modda**
 
 ### Hamkorlikda bajaramiz
 
 Oʻzbekiston Respublikasi Yoshlar ishlari agentligi yoshlar bilan bogʻliq soha va yoʻnalishlarda yagona davlat siyosati, strategik yoʻnalishlar va davlat dasturlarini ishlab chiqadi hamda amalga oshiradi. Yoshlarning huquq va erkinliklari, qonuniy manfaatlarini himoya qilish, yoshlar oʻrtasida huquqbuzarliklar va jinoyatchilik profilaktikasini amalga oshirishda faol ishtirok etadi.
 
+![](img/ogp-8.uz/p108-1.webp "482x324")
+
 1. Yuqoridagi matnda keltirilgan “yoshlarning huquq va erkinliklari, qonuniy manfaatlari” degan soʻzlarning mazmunini tushuntiring.
 
 2. Maktabingizda yoshlar oʻrtasida huquqbuzarliklar va jinoyatchilik profilaktikasiga oid oʻtkaziladigan tadbirlarda qanday ishtirok etasiz? Bu tadbirlarda sizning ishtirokingiz ni madan iborat?
 
-### Izlanishda davom eting
-
-1. Oʻzingiz taʼlim olayotgan muassasaning ichki tartib qoidalari bilan yana bir bor tanishib chiqing va quyidagi jadvalni daftaringizga chizib, toʻldiring.
-
-2. Siz qaysi majburiyatlaringizni bajaryapsiz? Ularni alohida rang bilan belgilang.
-
-3. Taʼlim muassasasining huquqlarini toʻliq hurmat qilyapsizmi? Taʼlim muassasasining qaysi huquqlariga rioya qilyapsiz? Qaysilarini, aksincha, poymol etyapsiz? Oʻylab koʻring, bunday holatlarning oldini olish uchun nima qilish kerak?
+### VOYAGA Y E T MAGANLARNING H U Q U Q VA BURCHLARI
 
 4. Ota-onangizning yoki ularning oʻrnini bosuvchi shaxslarning sizga boʻlgan ishonchlarining asosini nima tashkil etishini oʻylab koʻring. Ular sizning kelajagingizdan nimani umid qilishadi?
 
@@ -2412,9 +2460,9 @@ Oʻzbekiston Respublikasi Yoshlar ishlari agentligi yoshlar bilan bogʻliq soha 
 
 6. Quyidagi vaziyatlarni tahlil qiling. Qanday huquqlar buzilgan deb oʻylaysiz? Ustozlarning harakatlarida huquqbuzarlik alomatlari bormi? Siz ustozlarning oʻrnida boʻlsangiz, qanday yoʻl tutardingiz?
 
-– 12 yoshli Zokir matematika darsida qoʻl telefonida oʻyin oʻynab oʻtirgandi. Ustozi uning telefonini olib qoʻydi.
+![](img/ogp-8.uz/p109-1.webp "752x532")
 
-– 15 yoshli Ozoda maktabga onasining tilla bilaguzigini taqib keldi. Sinf rahbari bilaguzukni olib qoʻydi va: “Oying kelib olib ketsin”, — deb aytdi.
+![](img/ogp-8.uz/p109-2.webp "322x182")
 
 15 yoshli Javohir bobosining avto mobilini yuvib kelish bahonasida mahalla yaqinidagi oʻz-oʻziga xizmat koʻrsatish shoxobchasiga haydab keldi. Biroq shoxobcha xodimi Javohir hali avtomobil boshqarishga yoshlik qilishini aytib, uning shoxobchadan chiqib ketishiga toʻsqinlik qildi.
 
@@ -2422,7 +2470,7 @@ Oʻzbekiston Respublikasi Yoshlar ishlari agentligi yoshlar bilan bogʻliq soha 
 
 Tarbiya uch narsaga ehtiyoj sezadi: isteʼdodga, ilmga, mashqqa.
 
-Arastu
+**Arastu**
 
 ### Faollashtiruvchi savollar
 
@@ -2432,15 +2480,17 @@ Arastu
 
 3. 16 yoshli Nazirani ota-onasi turmushga berishmoqchi. Lekin mahalla fuqarolar yigʻini raisi bu masalaga jiddiy qarshilik koʻrsatdi.
 
-A. Agar Anvarning oʻgay otasi sudga shikoyat qilsa, sud qanday qaror chiqarishi mumkin deb oʻylaysiz?
+**A.** Agar Anvarning oʻgay otasi sudga shikoyat qilsa, sud qanday qaror chiqarishi mumkin deb oʻylaysiz?
 
-B. Sizning fikringizcha, Anvarning oʻgay otasi unga meros qolgan uyni sotish huquqiga egami?
+**B.** Sizning fikringizcha, Anvarning oʻgay otasi unga meros qolgan uyni sotish huquqiga egami?
 
-D. Nima deb oʻylaysiz, nima uchun kredit boʻlimi Olimjonning talabini qondirmadi? E. Nima uchun mahalla fuqarolar yigʻini raisi Naziraning turmushga chiqishiga qarshi boʻldi? Oʻzbekistonda nikoh tuzish yoshi necha yoshligini bilasizmi?
+**D.** Nima deb oʻylaysiz, nima uchun kredit boʻlimi Olimjonning talabini qondirmadi? **E.** Nima uchun mahalla fuqarolar yigʻini raisi Naziraning turmushga chiqishiga qarshi boʻldi? Oʻzbekistonda nikoh tuzish yoshi necha yoshligini bilasizmi?
 
-F. Vaziyatlardagi holatlarda voyaga yetmaganlarning huquqlari buzildimi? G. Siz qaysi hollarda oʻzingizga tegishli buyumlarni kimgadir sovgʻa qilish, sotish yoki shunchaki berib yuborish uchun mustaqil qaror qabul qila olasiz?
+**F.** Vaziyatlardagi holatlarda voyaga yetmaganlarning huquqlari buzildimi? **G.** Siz qaysi hollarda oʻzingizga tegishli buyumlarni kimgadir sovgʻa qilish, sotish yoki shunchaki berib yuborish uchun mustaqil qaror qabul qila olasiz?
 
-H. Oila bilan boʻgʻliq munosabatlar qanday tartibga solinadi?
+**H.** Oila bilan boʻgʻliq munosabatlar qanday tartibga solinadi?
+
+![](img/ogp-8.uz/p110-1.webp "122x72")
 
 ### Qonun belgilaydi
 
@@ -2448,9 +2498,11 @@ Oila jamiyatning asosiy boʻgʻinidir hamda u jamiyat va davlat muhofazasidadir.
 
 Davlat oilaning toʻlaqonli rivojlanishi uchun ijtimoiy, iqtisodiy, huquqiy va boshqa shart-sharoitlar yaratadi.
 
+### Oʻzbekiston Respublikasi Konstitutsiyasi, 76-modda
+
 Ota-onalar va ularning oʻrnini bosuvchi shaxslar oʻz farzandlarini voyaga yetguniga qadar boqishi, ularning tarbiyasi, taʼlim olishi, sogʻlom, toʻlaqonli va har tomonlama kamol topishi xususida gʻamxoʻrlik qilishga majburdirlar.
 
-Oʻzbekiston Respublikasi Konstitutsiyasi, 77-modda
+**Oʻzbekiston Respublikasi Konstitutsiyasi, 77-modda**
 
 ### Fikrimizni tasdiqlaymiz
 
@@ -2464,7 +2516,7 @@ Voyaga yetmagan bolaning hayoti yoki sogʻligiga xavf tugʻilganligidan, uning h
 
 ### Hamkorlikda bajaramiz
 
-Quyidagi vaziyatlarga munosabat bildiring.
+**Quyidagi vaziyatlarga munosabat bildiring.**
 
 – Yangi uyga koʻchganliklari sababli 4-sinfda oʻqiydigan Zarinani ota-onasi boshqa maktabga oʻtkazishmoqchi. Otasi bu masalada avval Zarinaning fikrini bilish zarurligini aytdi. Onasi esa maktab uzoqligini, uning fikrini bilish shart emasligini taʼkidladi. Shunday boʻlsa-da, otasi Zarinani ogohlantirish va unga vaziyatni tushuntirish zarurligini bildirdi.
 
@@ -2518,17 +2570,19 @@ Katta insonlar singari bolalarga ham shaxsiy daxlsizlik, shu jumladan, shaxsiy h
 
 ### Xulosa qiling
 
+![](img/ogp-8.uz/p113-1.webp "172x270")
+
 Oʻz farzanding sening haqingda qanday boʻlishin tilasang, sen ham ota-onang haqida shunday boʻlgʻil, nedinkim sen ota-onangga nima ish qilsang, farzanding ham sening haqingda shundoq ish qi lur, chunki odam mevaga, ota-ona daraxtga oʻxshaydur.
 
 Daraxtni har qancha yaxshi tarbiyat qilsang, mevasi shuncha yaxshiroq va shirinroq boʻlur. Ota-onaga izzat va hurmatni qancha koʻp qilsang, ularning duosi shuncha tezroq mustajob boʻlur.
 
-Kaykovus, “Qobusnoma”
+**Kaykovus, “Qobusnoma”**
 
 ### Fikrimizni tasdiqlaymiz
 
-Oʻn toʻrt yoshga toʻlmagan yetim bolalarni va ota-onasining qaramogʻidan mahrum boʻlgan bolalarni, shuningdek, sud tomonidan muomalaga layoqatsiz deb topilgan fuqarolarni ularga taʼminot, tarbiya va taʼlim berish, ularning mulkiy va shaxsiy nomulkiy huquqlari va qonuniy manfaatlarini himoya qilish maqsadida vasiylik belgilanadi.
+Oʻn toʻrt yoshga toʻlmagan yetim bolalarni va ota-onasining qaramogʻidan mahrum boʻlgan bolalarni, shuningdek, sud tomonidan muomalaga layoqatsiz deb topilgan fuqarolarni ularga taʼminot, tarbiya va taʼlim berish, ularning mulkiy va shaxsiy nomulkiy huquqlari va qonuniy manfaatlarini himoya qilish maqsadida **vasiylik** belgilanadi.
 
-Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan yetim bolalarni va ota-onasining qaramogʻidan mahrum boʻlgan bolalarni, shuningdek, sud tomonidan muomala layoqati cheklangan fuqarolarni ularga taʼminot, tarbiya va taʼlim berish, ularning mulkiy va shaxsiy nomulkiy huquqlari va qonuniy manfaatlarini himoya qilish maqsadida homiylik belgilanadi.
+Oʻn toʻrt yoshdan oʻn sakkiz yoshgacha boʻlgan yetim bolalarni va ota-onasining qaramogʻidan mahrum boʻlgan bolalarni, shuningdek, sud tomonidan muomala layoqati cheklangan fuqarolarni ularga taʼminot, tarbiya va taʼlim berish, ularning mulkiy va shaxsiy nomulkiy huquqlari va qonuniy manfaatlarini himoya qilish maqsadida **homiylik** belgilanadi.
 
 Sogʻligʻining holatiga koʻra, mustaqil ravishda oʻz huquqlarini amalga oshira olmaydigan va oʻz majburiyatlarini bajara olmaydigan voyaga yetgan muomalaga layoqatli fuqarolarga, bu shaxslarning iltimosiga binoan, homiylik belgilanishi mumkin.
 
@@ -2546,11 +2600,13 @@ Sogʻligʻining holatiga koʻra, mustaqil ravishda oʻz huquqlarini amalga oshir
 
 Davlat yoshlarning shaxsiy, siyosiy, iqtisodiy, ijtimoiy, madaniy, ekologik huquqlari himoya qilinishini taʼminlaydi, ularning jamiyat va davlat hayotida faol ishtirok etishini ragʻbatlantiradi.
 
+### Oʻzbekiston Respublikasi Konstitutsiyasi, 79-modda
+
 Voyaga yetgan mehnatga layoqatli farzandlar oʻz ota-onalari haqida gʻamxoʻrlik qilishga majburdirlar.
 
 ### Izlanishda davom eting
 
-Oʻzbekiston Respublikasi Konstitutsiyasining 80-moddasini oʻqing va quyidagi savollarga javob bering.
+**Oʻzbekiston Respublikasi Konstitutsiyasining 80-moddasini oʻqing va quyidagi savollarga javob bering.**
 
 – Siz hali 18 yoshga toʻlmadingiz. Ota-onangizga qanday gʻamxoʻrlik qila olasiz?
 
@@ -2564,7 +2620,7 @@ Oʻzbekiston Respublikasi Konstitutsiyasining 80-moddasini oʻqing va quyidagi s
 
 Har bir insonning qadr qimmati oʻz ishini qoyil qilib bajarishidadir.
 
-Abu Rayhon Beruniy
+**Abu Rayhon Beruniy**
 
 ### Faollashtiruvchi savollar
 
@@ -2604,7 +2660,7 @@ Oʻn sakkiz yoshgacha boʻlgan xodimlarning ular uchun belgilangan yoʻl qoʻyil
 
 Oʻn sakkiz yoshgacha boʻlgan xodimlar mehnatining qoʻllanilishi taqiqlanadigan va bajarilishi voyaga yetmaganlarning sogʻligʻiga va maʼnaviy jihatdan kamol topishiga ziyon yetkazishi mumkin boʻlgan ishlar roʻyxati, shuningdek, ularning ogʻir yuklarni koʻta rishi va tashi shi chogʻida yoʻl qoʻyiladigan eng koʻp normalar Oʻzbekiston Respublikasi Bandlik va mehnat munosabatlari vazirligi hamda Oʻzbekiston Respublikasi Sogʻliqni saqlash vazirligi tomonidan Ijtimoiy mehnat masalalari boʻyicha uch tomonlama respublika komissiyasi bilan kelishilgan holda tasdiqlanadi.
 
-Oʻzbekiston Respublikasining Mehnat kodeksi, 412-modda
+**Oʻzbekiston Respublikasining Mehnat kodeksi, 412-modda**
 
 ### Hamkorlikda bajaramiz
 
@@ -2642,6 +2698,8 @@ oʻquv yili davomida ishni oʻqish bilan birga olib boruvchi umumiy oʻrta, oʻr
 
 16–18 yoshgacha boʻlgan oʻquvchilar uchun esa olti kunlik ish haftasida — uch soatdan, besh kunlik ish haftasida — toʻrt soatdan oshmasligi kerak.
 
+![](img/ogp-8.uz/p118-1.webp "212x294")
+
 ### Tarixga nazar
 
 Mirzo Ulugʻbek 15–16 yoshidan Samarqandni boshqara boshlagan.
@@ -2664,7 +2722,7 @@ Diyorbekning mehnat huquqi buzilganmi? Uning otasi haqmi?
 
 ## 34-dars. Ijodiy faoliyat
 
-1. Quyida berilgan taʼriflarni javoblar bilan moslashtiring.
+**1. Quyida berilgan taʼriflarni javoblar bilan moslashtiring.**
 
 uzoq davr mobaynida amalda boʻlish natijasida shakllangan va davlat tomonidan umummajburiy qoida sifatida tan olingan xulq-atvor qoidasi.
 
@@ -2684,7 +2742,7 @@ bu normalar doimiy ravishda kishilar amaliy faoliyati, ularning oʻzaro aloqalar
 
 munosabatlar —
 
-2. Quyidagi masala boʻyicha shaxsiy fikrlaringizni bayon eting.
+**2. Quyidagi masala boʻyicha shaxsiy fikrlaringizni bayon eting.**
 
 Dars mashgʻulotlari davomida 8-sinf oʻquvchisi Farzona xalqaro shartnoma davlatlar va xalqaro tashkilotlar oʻrtasidagi kelishuv shaklida boʻlishi mumkinligini bildirib oʻtdi.
 
@@ -2696,7 +2754,7 @@ Shuningdek, taʼsir etish kuchi, oʻzaro majburiy xarakterga ega boʻlishi, umum
 
 Xalqaro shartnomalar va jismoniy hamda yuridik shaxslar oʻrtasidagi oddiy shartnomalarning farqli jihatlarini tahlil eting. Xalqaro shartnomaning huquq manbasi sifatida belgilanish sabablarini muhokama eting.
 
-3. Quyida berilgan taʼriflarni javoblar bilan moslashtiring.
+**3. Quyida berilgan taʼriflarni javoblar bilan moslashtiring.**
 
 mehnat intizomi, xizmat burchini bajarish, yoki boʻysunuvdagi ish faoliyati tartibining buzilishiga qaratilgan xatti-harakat yoki harakatsizlik.
 
@@ -2714,161 +2772,163 @@ huquq subyektlarining huquq normalariga mos keladigan, yuridik oqibatlarni kelti
 
 ## Ayrim yuridik atamalarning izohli lugʻati
 
-> Adliya (arabcha “adolat”, “toʻgʻrilik”, “xolislik”, “haqqoniylik”) — huquqni muhofaza qiluvchi organlar va ularning faoliyatini anglatadi. Oʻzbekiston Respublikasida Adliya organlari faoliyatiga Oʻzbekiston Respublikasi Adliya vazirligi rahbarlik qiladi.
+> **Adliya (**arabcha “adolat”, “toʻgʻrilik”, “xolislik”, “haqqoniylik”) — huquqni muhofaza qiluvchi organlar va ularning faoliyatini anglatadi. Oʻzbekiston Respublikasida Adliya organlari faoliyatiga Oʻzbekiston Respublikasi Adliya vazirligi rahbarlik qiladi.
 
-> Advokat (lotincha “yordamga chaqirish”) — yuridik va jismoniy shaxslarga malakali huquqiy yordam koʻrsatuvchi shaxs.
+> **Advokat (**lotincha “yordamga chaqirish”) — yuridik va jismoniy shaxslarga malakali huquqiy yordam koʻrsatuvchi shaxs.
 
-> Agressiya (lotincha “hujum”) — xalqaro huquqda BMT nizomi nuqtayi nazaridan, qurolli kuchlarning gʻayriqonuniy qoʻllanilishi, yaʼni davlatlarga nisbatan qurolli tajovuz.
+> **Agressiya (**lotincha “hujum”) — xalqaro huquqda BMT nizomi nuqtayi nazaridan, qurolli kuchlarning gʻayriqonuniy qoʻllanilishi, yaʼni davlatlarga nisbatan qurolli tajovuz.
 
-> Aliment (lotincha “taʼminotdagi”, “qaramogʻidagi”) — bir shaxsning boshqa shaxsga toʻlaydigan nafaqasi. Aliment toʻlash majburiyatlari, asosan, nikoh, qarindoshlik aloqalari asosida belgilanadi.
+> **Aliment (**lotincha “taʼminotdagi”, “qaramogʻidagi”) — bir shaxsning boshqa shaxsga toʻlaydigan nafaqasi. Aliment toʻlash majburiyatlari, asosan, nikoh, qarindoshlik aloqalari asosida belgilanadi.
 
-> Amnistiya (yunoncha “unutish”, “kechirish”) — jinoyat sodir etganlarni jazodan ozod etish yoki uni yumshatish. Sudlanganlarning bir qismini qonun asosida toʻla yoki qisman ozodlikka chiqarish.
+> **Amnistiya (** yunoncha “unutish”, “kechirish”) — jinoyat sodir etganlarni jazodan ozod etish yoki uni yumshatish. Sudlanganlarning bir qismini qonun asosida toʻla yoki qisman ozodlikka chiqarish.
 
-> Apellatsiya (lotincha “murojaat”, “shikoyat”) — sud qarori ustidan shikoyat qilish shakllaridan biri, bunda ishni ikkinchi instansiya sudi tomonlarning shikoyatlari boʻyicha koʻrib chiqadi.
+> **Apellatsiya (** lotincha “murojaat”, “shikoyat”) — sud qarori ustidan shikoyat qilish shakllaridan biri, bunda ishni ikkinchi instansiya sudi tomonlarning shikoyatlari boʻyicha koʻrib chiqadi.
 
-> Apatrid (yunoncha “vatandan judo boʻlgan”, “bevatan”) — fuqaroligi boʻlmagan shaxs boʻlib, mamlakat fuqarosi hisoblanmaydigan va boshqa xorijiy davlatga mansub ekanligi borasida ham isbotga ega boʻlmagan shaxs.
+> **Apatrid (**yunoncha “vatandan judo boʻlgan”, “bevatan”) — fuqaroligi boʻlmagan shaxs boʻlib, mamlakat fuqarosi hisoblanmaydigan va boshqa xorijiy davlatga mansub ekanligi borasida ham isbotga ega boʻlmagan shaxs.
 
-> Aqli norasolik — ruhiy kasallik yoki aqliy zaiflik holati boʻlib, shaxsning oʻz harakat lariga baho bera olmasligi yoki ijtimoiy xavfli qilmishni sodir etish paytida ularni boshqara olmasligi.
+> **Aqli norasolik** — ruhiy kasallik yoki aqliy zaiflik holati boʻlib, shaxsning oʻz harakat lariga baho bera olmasligi yoki ijtimoiy xavfli qilmishni sodir etish paytida ularni boshqara olmasligi.
 
-> Aqli rasolik — odamning ruhiy jihatdan sogʻlom holati hisoblanadi. Jinoyat huquqi da shaxsning sodir etgan ijtimoiy xavfli qilmishini jinoyat deb hisoblash va jinoiy javobgarlikka tortishning huquqiy shartlaridan biri. Aqli raso shaxs har qanday jinoyatni sodir qilganda oʻz harakat yoki harakatsizligining jinoyat ekanligini anglaydi va undan kelib chiqadigan oqibatni biladi.
+> **Aqli rasolik** — odamning ruhiy jihatdan sogʻlom holati hisoblanadi. Jinoyat huquqi da shaxsning sodir etgan ijtimoiy xavfli qilmishini jinoyat deb hisoblash va jinoiy javobgarlikka tortishning huquqiy shartlaridan biri. Aqli raso shaxs har qanday jinoyatni sodir qilganda oʻz harakat yoki harakatsizligining jinoyat ekanligini anglaydi va undan kelib chiqadigan oqibatni biladi.
 
-> Armiya (lotincha “qurollantirish”) — davlat qurolli kuchlari boʻlib, jangovar amaliyot lar olib borishga moʻljallangan bir nechta harbiy tuzulmalarning birlashmasi tushuniladi.
+> **Armiya (**lotincha “qurollantirish”) — davlat qurolli kuchlari boʻlib, jangovar amaliyot lar olib borishga moʻljallangan bir nechta harbiy tuzulmalarning birlashmasi tushuniladi.
 
-> Auditor (lotincha “tinglovchi”, “oʻquvchi”) — tashkilotning moliya-xoʻjalik faoliyatini tekshiruvdan oʻtkazuvchi, malaka sertifikatiga ega boʻlgan jismoniy shaxs.
+> **Auditor (**lotincha “tinglovchi”, “oʻquvchi”) — tashkilotning moliya-xoʻjalik faoliyatini tekshiruvdan oʻtkazuvchi, malaka sertifikatiga ega boʻlgan jismoniy shaxs.
 
-> Aybsizlik prezumpsiyasi (lotincha “praesumptio” — “taxmin”, “gumon”) — aybi sud tomonidan isbotlab berilguniga qadar ayblanuvchi yoki sudlanuvchi aybsiz deb hisoblanadigan qoida.
+> **Aybsizlik prezumpsiyasi (** lotincha “praesumptio” — “taxmin”, “gumon”) — aybi sud tomonidan isbotlab berilguniga qadar ayblanuvchi yoki sudlanuvchi aybsiz deb hisoblanadigan qoida.
 
-> Bezorilik — jamiyatda yurish-turish qoidalarini qasddan mensimaslik, urish-doʻpposlash, badanga yengil shikast yetkazish yoki oʻzganing mulkiga zarar yetkazish.
+> **Bezorilik** — jamiyatda yurish-turish qoidalarini qasddan mensimaslik, urish-doʻpposlash, badanga yengil shikast yetkazish yoki oʻzganing mulkiga zarar yetkazish.
 
-> Bitim — jismoniy yoki yuridik shaxslarning fuqarolik huquq va burchlarini belgilash, oʻzgartirish yoki bekor qilishga qaratilgan harakatlari.
+> **Bitim —** jismoniy yoki yuridik shaxslarning fuqarolik huquq va burchlarini belgilash, oʻzgartirish yoki bekor qilishga qaratilgan harakatlari.
 
-> Bosqinchilik — oʻzganing mol-mulkini talon-taroj qilish maqsadida hujum qilib, hayot yoki sogʻliq uchun xavfli boʻlgan zoʻrlik ishlatib yoxud shunday zoʻrlik ishlatish bilan qoʻrqitib sodir etilgan jinoyat.
+> **Bosqinchilik** — oʻzganing mol-mulkini talon-taroj qilish maqsadida hujum qilib, hayot yoki sogʻliq uchun xavfli boʻlgan zoʻrlik ishlatib yoxud shunday zoʻrlik ishlatish bilan qoʻrqitib sodir etilgan jinoyat.
 
-> Budjet (inglizcha “karmon”) — davlatning muayyan muddatga qonuniy tartibda tas diqlangan daromad va xarajatlari roʻyxati.
+> **Budjet (**inglizcha “karmon”) — davlatning muayyan muddatga qonuniy tartibda tas diqlangan daromad va xarajatlari roʻyxati.
 
-> Daʼvo — fuqaroviy huquqlarni himoya qilish haqida sudga qilingan murojaat. Daʼvogar — buzilgan huquqini himoya qilish uchun sudga murojaat etgan yuridik yoki jismoniy shaxs.
+> **Daʼvo** — fuqaroviy huquqlarni himoya qilish haqida sudga qilingan murojaat. **Daʼvogar** — buzilgan huquqini himoya qilish uchun sudga murojaat etgan yuridik yoki jismoniy shaxs.
 
-> Deklaratsiya (lotincha “eʼlon”, “bayonot”) — 1) tavsiya kuchiga ega boʻlgan huquqiy hujjat (xalqaro deklaratsiya); 2) bojxona deklaratsiyasi — moddiy boyliklarni chega ra orqali olib oʻtish chogʻida tuziladigan hujjat; 3) soliq deklaratsiyasi — shaxsning soliqlarni toʻlash uchun oʻz daromadi miqdori toʻgʻrisidagi hujjat; 4) siyosiy partiyalar, xalqaro yoki jamoat tashkilotlarining dasturiy hujjati yoki umumeʼtiboriga yetkazuvchi bayonot.
+> **Deklaratsiya (**lotincha “eʼlon”, “bayonot”) — 1) tavsiya kuchiga ega boʻlgan huquqiy hujjat (xalqaro deklaratsiya); 2) bojxona deklaratsiyasi — moddiy boyliklarni chega ra orqali olib oʻtish chogʻida tuziladigan hujjat; 3) soliq deklaratsiyasi — shaxsning soliqlarni toʻlash uchun oʻz daromadi miqdori toʻgʻrisidagi hujjat; 4) siyosiy partiyalar, xalqaro yoki jamoat tashkilotlarining dasturiy hujjati yoki umumeʼtiboriga yetkazuvchi bayonot.
 
-> Demokratiya (yunoncha “xalq hokimiyati”) — xalq hokimiyatchiligi, siyosiy pluralizm, fuqarolar erkinligi va tengligi, inson huquqlari singari konstitutsiyaviy prinsiplarni eʼtirof etishga asoslangan siyosiy tartibot shakli.
+> **Demokratiya (**yunoncha “xalq hokimiyati”) — xalq hokimiyatchiligi, siyosiy pluralizm, fuqarolar erkinligi va tengligi, inson huquqlari singari konstitutsiyaviy prinsiplarni eʼtirof etishga asoslangan siyosiy tartibot shakli.
 
-> Deputat (lotincha “elchi”, “vakil”) — davlatning qonun chiqaruvchi yoki boshqa bir vakillik organiga saylangan shaxs.
+> **Deputat (**lotincha “elchi”, “vakil”) — davlatning qonun chiqaruvchi yoki boshqa bir vakillik organiga saylangan shaxs.
 
-> Diskriminatsiya (lotincha “farqlash” — xalqaro yoki milliy munosabatlarda biror davlatning, yuridik yoki jismoniy shaxsning huquq va imtiyozlarini boshqalarga nisbatan cheklash, kamsitish.
+> **Diskriminatsiya (** lotincha “farqlash” — xalqaro yoki milliy munosabatlarda biror davlatning, yuridik yoki jismoniy shaxsning huquq va imtiyozlarini boshqalarga nisbatan cheklash, kamsitish.
 
-> Ekspertiza (lotincha “tajribali”) — muayyan masalalarning ekspertlar tomonidan tekshirib oʻrganilishi.
+> **Ekspertiza (**lotincha “tajribali”) — muayyan masalalarning ekspertlar tomonidan tekshirib oʻrganilishi.
 
-> Emansipatsiya (lotincha “qaramlikdan ozod boʻlish”) — fuqarolik huquqida voyaga yetmagan shaxsni toʻliq muomalaga layoqatli deb eʼlon qilish.
+> **Emansipatsiya (**lotincha “qaramlikdan ozod boʻlish”) — fuqarolik huquqida voyaga yetmagan shaxsni toʻliq muomalaga layoqatli deb eʼlon qilish.
 
-> Federatsiya (lotincha “ittifoq bilan mustahkamlamoq”) — davlatlar birlashmasi boʻlib, bunda birlashuvchi davlatlar qonun bilan belgilangan mustaqillikni saqlab qolgan holda yagona ittifoq fuqaroligiga, yagona ittifoq armiyasiga, yagona ittifoq davlat organlariga ega davlat birligini tashkil etadi.
+> **Federatsiya (**lotincha “ittifoq bilan mustahkamlamoq”) — davlatlar birlashmasi boʻlib, bunda birlashuvchi davlatlar qonun bilan belgilangan mustaqillikni saqlab qolgan holda yagona ittifoq fuqaroligiga, yagona ittifoq armiyasiga, yagona ittifoq davlat organlariga ega davlat birligini tashkil etadi.
 
-> Firibgarlik — aldash yoki ishonchni suiisteʼmol qilish yoʻli bilan oʻzganing mulkini yoki oʻzganing mulkiga boʻlgan huquqni qoʻlga kiritish.
+> **Firibgarlik** — aldash yoki ishonchni suiisteʼmol qilish yoʻli bilan oʻzganing mulkini yoki oʻzganing mulkiga boʻlgan huquqni qoʻlga kiritish.
 
-> Fuqarolik — shaxsning aniq davlat bilan barqaror siyosiy-huquqiy aloqalari. Fuqarolik jamiyati — insonning barcha huquqlari kafolatlanadigan, mafkuraviy pluralizm taʼminlanadigan, yuksak huquqiy madaniyatga ega shaxslardan iborat jamiyat.
+> **Fuqarolik** — shaxsning aniq davlat bilan barqaror siyosiy-huquqiy aloqalari. **Fuqarolik jamiyati** — insonning barcha huquqlari kafolatlanadigan, mafkuraviy pluralizm taʼminlanadigan, yuksak huquqiy madaniyatga ega shaxslardan iborat jamiyat.
 
-> Genotsid (yunoncha “genos” — “urugʻ”, “qabila” va lotincha “caedo” — “oʻldiraman”) — aholi ayrim guruhlarini milliy, irqiy, diniy bahonalar bilan qirib tashlash.
+> **Genotsid (**yunoncha “genos” — “urugʻ”, “qabila” va lotincha “caedo” — “oʻldiraman”) — aholi ayrim guruhlarini milliy, irqiy, diniy bahonalar bilan qirib tashlash.
 
-> Guvoh — roʻy bergan hodisani shaxsan oʻz koʻzi bilan koʻrgan, bilganlarini aytib berish uchun sudga chaqirilgan kishi. Mazkur ishga doir aniqlanishi kerak boʻlgan qandaydir holatlar unga maʼlum boʻlishi mumkin boʻlgan shaxs.
+> **Guvoh** — roʻy bergan hodisani shaxsan oʻz koʻzi bilan koʻrgan, bilganlarini aytib berish uchun sudga chaqirilgan kishi. Mazkur ishga doir aniqlanishi kerak boʻlgan qandaydir holatlar unga maʼlum boʻlishi mumkin boʻlgan shaxs.
 
-> Haqorat qilish — kishining shaʼni va qadr-qimmatini qasddan, beodob shaklda kamsitishda ifodalanadigan huquqbuzarlik.
+> **Haqorat qilish** — kishining shaʼni va qadr-qimmatini qasddan, beodob shaklda kamsitishda ifodalanadigan huquqbuzarlik.
 
-> Hukm — jinoyat ishlari boʻyicha sudning ayblanuvchiga jazo berish yoki uni oqlash toʻgʻrisida chiqargan qarori.
+> **Hukm** — jinoyat ishlari boʻyicha sudning ayblanuvchiga jazo berish yoki uni oqlash toʻgʻrisida chiqargan qarori.
 
-> Huquqiy munosabat — ijtimoiy munosabatlarning huquq normalari bilan tartibga solingan qismi.
+> **Huquqiy munosabat** — ijtimoiy munosabatlarning huquq normalari bilan tartibga solingan qismi.
 
-> Huquq layoqati — shaxsning huquqlar va burchlarga ega boʻlish imkoniyati. Immunitet (lotincha “biror narsadan ozod qilish”) — alohida mavqeni egallagan shaxslarga taqdim etiladigan baʼzi umumiy qonunlarni istisno qiluvchi mutlaq huquq. Masalan, sudya, deputat, senator va davlat boshligʻiga beriladigan daxlsizlik huquqi.
+> **Huquq layoqati** — shaxsning huquqlar va burchlarga ega boʻlish imkoniyati. **Immunitet (**lotincha “biror narsadan ozod qilish”) — alohida mavqeni egallagan shaxslarga taqdim etiladigan baʼzi umumiy qonunlarni istisno qiluvchi mutlaq huquq. Masalan, sudya, deputat, senator va davlat boshligʻiga beriladigan daxlsizlik huquqi.
 
-> Intellektual mulk — ijodiy faoliyat natijalariga doir maxsus huquqlarning majmuyi. Ishsizlar — ish va ish haqiga ega boʻlmagan, oʻzlariga toʻgʻri keladigan ishni izlash maqsadida bandlik xizmatida roʻyxatga olingan mehnatga layoqatli shaxslar.
+> **Intellektual mulk** — ijodiy faoliyat natijalariga doir maxsus huquqlarning majmuyi. **Ishsizlar** — ish va ish haqiga ega boʻlmagan, oʻzlariga toʻgʻri keladigan ishni izlash maqsadida bandlik xizmatida roʻyxatga olingan mehnatga layoqatli shaxslar.
 
-> Jabrlanuvchi — jinoiy harakati natijasida zarar koʻrgan shaxs.
+> **Jabrlanuvchi** — jinoiy harakati natijasida zarar koʻrgan shaxs.
 
-> Jarima — aybdordan davlat daromadiga qonunda belgilangan miqdorda undiriladi gan pul summasi.
+> **Jarima** — aybdordan davlat daromadiga qonunda belgilangan miqdorda undiriladi gan pul summasi.
 
-> Jazo — huquqbuzar deb topilgan shaxsga nisbatan davlat nomidan sud hukmi asosida qoʻllaniladigan, muayyan huquq va erkinliklardan mahrum qilishdan iborat majburlov chorasi.
+> **Jazo** — huquqbuzar deb topilgan shaxsga nisbatan davlat nomidan sud hukmi asosida qoʻllaniladigan, muayyan huquq va erkinliklardan mahrum qilishdan iborat majburlov chorasi.
 
-> Jinoyat — qonun bilan taqiqlangan, jazoga loyiq, ijtimoiy xavfli qilmish. Jismoniy shaxs — fuqaro, chet el fuqarosi, fuqaroligi boʻlmagan shaxs. Kassatsiya (lotincha “bekor qilish”) — kuchga kirgan sud qarori yoki hukm ustidan yuqori sudga shikoyat qilish.
+> **Jinoyat** — qonun bilan taqiqlangan, jazoga loyiq, ijtimoiy xavfli qilmish. **Jismoniy shaxs** — fuqaro, chet el fuqarosi, fuqaroligi boʻlmagan shaxs. **Kassatsiya (**lotincha “bekor qilish”) — kuchga kirgan sud qarori yoki hukm ustidan yuqori sudga shikoyat qilish.
 
-> Kodeks (lotincha) — huquqning biror tarmogʻiga oid qonun-qoidalar toʻplami. Kompensatsiya (lotincha “toʻlash”) — fuqarolik-huquqiy majburiyatlar buzilishi natijasida yuzaga kelgan zararni toʻlash.
+> **Kodeks (**lotincha) — huquqning biror tarmogʻiga oid qonun-qoidalar toʻplami. **Kompensatsiya (**lotincha “toʻlash”) — fuqarolik-huquqiy majburiyatlar buzilishi natijasida yuzaga kelgan zararni toʻlash.
 
-> Konstitutsiya (lotincha “tuzilish”) — davlat tuzilishi, organlar tizimi, davlatning ijtimoiy-siyosiy tuzilishi, fuqarolarning asosiy huquq va burchlarini belgilab beradigan asosiy qonun.
+> **Konstitutsiya (** lotincha “tuzilish”) — davlat tuzilishi, organlar tizimi, davlatning ijtimoiy-siyosiy tuzilishi, fuqarolarning asosiy huquq va burchlarini belgilab beradigan asosiy qonun.
 
-> Konvensiya (lotincha “kelishuv”) — xalqaro shartnoma turlaridan biri boʻlib, majburiy ahamiyat kasb etadi.
+> **Konvensiya (**lotincha “kelishuv”) — xalqaro shartnoma turlaridan biri boʻlib, majburiy ahamiyat kasb etadi.
 
-> Korrupsiya (lotincha “aynish”, “sotilish”) — mansabdor shaxsning oʻz mansabi boʻyicha berilgan huquqlarni shaxsiy boyish maqsadlarida bevosita suiisteʼmol qilishi.
+> **Korrupsiya (** lotincha “aynish”, “sotilish”) — mansabdor shaxsning oʻz mansabi boʻyicha berilgan huquqlarni shaxsiy boyish maqsadlarida bevosita suiisteʼmol qilishi.
 
-> Kvorum (lotincha “yetarlicha hozirlik”) — yigʻilish qatnashchilarining uning qarorlari haqiqiy deb tan olinadigan eng kam soni.
+> **Kvorum (**lotincha “yetarlicha hozirlik”) — yigʻilish qatnashchilarining uning qarorlari haqiqiy deb tan olinadigan eng kam soni.
 
-> Legitimlik (lotincha “qonuniy”) — huquq yoki vakolat qonuniyligini tan olish yoki tasdiqlash.
+> **Legitimlik (** lotincha “qonuniy”) — huquq yoki vakolat qonuniyligini tan olish yoki tasdiqlash.
 
-> Litsenziya (lotincha “ruxsatnoma”, “huquq”) — vakolatli davlat organlari tomonidan tegishli faoliyat olib borish uchun beriladigan ruxsatnoma.
+> **Litsenziya (**lotincha “ruxsatnoma”, “huquq”) — vakolatli davlat organlari tomonidan tegishli faoliyat olib borish uchun beriladigan ruxsatnoma.
 
-> Mayda bezorilik — jamoat joylarida uyatli soʻzlar bilan soʻkinish, fuqarolarga haqoratomuz shilqimlik qilish hamda jamoat tartibini va fuqarolarning osoyishtaligini buzuvchi shu kabi boshqa xatti-harakatlarda ifodalangan jamiyatda yurish-turish qoidalarini qasddan mensimaslik.
+> **Mayda bezorilik** — jamoat joylarida uyatli soʻzlar bilan soʻkinish, fuqarolarga haqoratomuz shilqimlik qilish hamda jamoat tartibini va fuqarolarning osoyishtaligini buzuvchi shu kabi boshqa xatti-harakatlarda ifodalangan jamiyatda yurish-turish qoidalarini qasddan mensimaslik.
 
-> Meros — vafot etgan shaxsning qarindoshlari va boshqa yaqin kishilari ixtiyoriga oʻtadigan mulk.
+> **Meros** — vafot etgan shaxsning qarindoshlari va boshqa yaqin kishilari ixtiyoriga oʻtadigan mulk.
 
-> Muomala layoqati — fuqarolarning oʻz harakatlari bilan fuqarolik huquq va maj-
+> **Muomala layoqati** — fuqarolarning oʻz harakatlari bilan fuqarolik huquq va maj-
 
 > buriyatlarini olish va amalga oshirish, oʻzi uchun fuqarolik burchlarini yaratish va ularni bajarish layoqati.
 
-> Naturallashtirish (fransuzcha “tabiiy”) — xorijiy shaxsni fuqarolikka qabul qilish. Notarius — notarial harakatlarni amalga oshiruvchi mansabdor shaxs. Ombudsman (shvedcha “allakimningdir manfaatlari vakili”) — davlat organlari tomonidan inson huquqlariga rioya etilishi ustidan nazorat qiluvchi mansabdor shaxs.
+> **Naturallashtirish (**fransuzcha “tabiiy”) — xorijiy shaxsni fuqarolikka qabul qilish. **Notarius** — notarial harakatlarni amalga oshiruvchi mansabdor shaxs. **Ombudsman (**shvedcha “allakimningdir manfaatlari vakili”) — davlat organlari tomonidan inson huquqlariga rioya etilishi ustidan nazorat qiluvchi mansabdor shaxs.
 
-> Parlament (inglizcha va fransuzcha “soʻzlamoq”) — davlatning oliy vakillik va qonun chiqaruvchi organining nomlanishi. Oʻzbekistonda Oliy Majlis.
+> **Parlament (**inglizcha va fransuzcha “soʻzlamoq”) — davlatning oliy vakillik va qonun chiqaruvchi organining nomlanishi. Oʻzbekistonda Oliy Majlis.
 
-> Preambula (fransuzcha “soʻzboshi”) — qonun yoki boshqa normativ-huquqiy hujjat ning kirish qismi.
+> **Preambula (**fransuzcha “soʻzboshi”) — qonun yoki boshqa normativ-huquqiy hujjat ning kirish qismi.
 
-> Prezident (lotincha “oldinda oʻtiruvchi”, “boshda turuvchi”) — respublika boshqaruv shakliga ega mamlakatlarda davlat va ijro etuvchi hokimiyat boshligʻi.
+> **Prezident (**lotincha “oldinda oʻtiruvchi”, “boshda turuvchi”) — respublika boshqaruv shakliga ega mamlakatlarda davlat va ijro etuvchi hokimiyat boshligʻi.
 
-> Qasamyod — ont ichish, biror narsani bajarishga rasmiy yoki tantanali ravishda vaʼda berish. Masalan, Oʻzbekiston Respublikasi Prezidentining qasamyodi.
+> **Qasamyod** — ont ichish, biror narsani bajarishga rasmiy yoki tantanali ravishda vaʼda berish. Masalan, Oʻzbekiston Respublikasi Prezidentining qasamyodi.
 
-> Qasd — aybning shakllaridan biri. Bunda jinoyatchi oʻz qilmishining ijtimoiy xavfli ekanligini anglaydi, zararli oqibatlarini biladi va unga ongli ravishda qoʻl uradi.
+> **Qasd** — aybning shakllaridan biri. Bunda jinoyatchi oʻz qilmishining ijtimoiy xavfli ekanligini anglaydi, zararli oqibatlarini biladi va unga ongli ravishda qoʻl uradi.
 
-> Qonun — eng muhim va barqaror ijtimoiy munosabatlarni tartibga soladigan hamda Oʻzbekiston Oliy Majlisi tomonidan yoki referendum oʻtkazish yoʻli bilan qabul qilinadigan normativ-huquqiy hujjat.
+> **Qonun** — eng muhim va barqaror ijtimoiy munosabatlarni tartibga soladigan hamda Oʻzbekiston Oliy Majlisi tomonidan yoki referendum oʻtkazish yoʻli bilan qabul qilinadigan normativ-huquqiy hujjat.
 
-> Referendum (lotincha “bildirilishi shart boʻlgan narsa”) — barcha fuqarolar ishtirok etadigan umumxalq soʻrovi.
+> **Referendum (**lotincha “bildirilishi shart boʻlgan narsa”) — barcha fuqarolar ishtirok etadigan umumxalq soʻrovi.
 
-> Sanksiya (lotincha “qatʼiy qaror”) — huquqbuzarga nisbatan davlat tomonidan qoʻllaniladigan ehtiyot chorasi.
+> **Sanksiya (**lotincha “qatʼiy qaror”) — huquqbuzarga nisbatan davlat tomonidan qoʻllaniladigan ehtiyot chorasi.
 
-> Sessiya (lotincha “yigʻilish”) — majlis, kengash, vakolatli organlarning tashkiliyhuquqiy faoliyat shakli.
+> **Sessiya (**lotincha “yigʻilish”) — majlis, kengash, vakolatli organlarning tashkiliyhuquqiy faoliyat shakli.
 
-> Senzura (lotincha “davlat nazorati”) — davlat tashkiloti tomonidan koʻngilsiz yoki zararli deb topilgan gʻoyalar va maʼlumotlarning tarqalishiga yoʻl qoʻymaslik yoki cheklab qoʻyish maqsadida bosma nashrlar, sahna asarlari va hokazolar mazmuni ustidan davlat nazorati.
+> **Senzura (**lotincha “davlat nazorati”) — davlat tashkiloti tomonidan koʻngilsiz yoki zararli deb topilgan gʻoyalar va maʼlumotlarning tarqalishiga yoʻl qoʻymaslik yoki cheklab qoʻyish maqsadida bosma nashrlar, sahna asarlari va hokazolar mazmuni ustidan davlat nazorati.
 
-> Standart (inglizcha “norma”, “mezon”, “asos”) — standartlashtirish obyektiga nisbatan talablarni belgilaydigan normativ-texnik qoidalar.
+> **Standart (**inglizcha “norma”, “mezon”, “asos”) — standartlashtirish obyektiga nisbatan talablarni belgilaydigan normativ-texnik qoidalar.
 
-> Suverenitet (fransuzcha “oliy hokimiyat”) — davlatning mamlakat ichidagi va uning tashqi munosabatlardagi mustaqilligi.
+> **Suverenitet (**fransuzcha “oliy hokimiyat”) — davlatning mamlakat ichidagi va uning tashqi munosabatlardagi mustaqilligi.
 
-> Talonchilik — mol-mulkni ochiqdan ochiq talon-taroj qilish.
+> **Talonchilik** — mol-mulkni ochiqdan ochiq talon-taroj qilish.
 
-> Terrorizm (lotincha “qoʻrquv”, “dahshat”) — siyosiy, diniy, mafkuraviy va boshqa maq sadlarga erishish uchun shaxsning hayoti, sogʻligʻiga xavf tugʻdiruvchi, mol-mulk va boshqa moddiy obyektlarning yoʻq qilinishi xavfini keltirib chiqaruvchi hamda davlatni, xalqaro tashkilotni, jismoniy yoki yuridik shaxsni biron-bir harakatlar sodir etishga yoki sodir etishdan tiyilishga majbur qilishga, xalqaro munosabatlarni murakkablashtirishga, davlatning suverenitetini, hududiy yaxlitligini buzishga, xavfsizligiga putur yet kazishga, qurolli mojarolar chiqarishni koʻzlab igʻvogarliklar qilishga, aholini qoʻrqitishga, ijtimoiy-siyosiy vaziyatni beqarorlashtirishga qaratilgan, Oʻzbekiston Respublikasining
+> **Terrorizm (** lotincha “qoʻrquv”, “dahshat”) — siyosiy, diniy, mafkuraviy va boshqa maq sadlarga erishish uchun shaxsning hayoti, sogʻligʻiga xavf tugʻdiruvchi, mol-mulk va boshqa moddiy obyektlarning yoʻq qilinishi xavfini keltirib chiqaruvchi hamda davlatni, xalqaro tashkilotni, jismoniy yoki yuridik shaxsni biron-bir harakatlar sodir etishga yoki sodir etishdan tiyilishga majbur qilishga, xalqaro munosabatlarni murakkablashtirishga, davlatning suverenitetini, hududiy yaxlitligini buzishga, xavfsizligiga putur yet kazishga, qurolli mojarolar chiqarishni koʻzlab igʻvogarliklar qilishga, aholini qoʻrqitishga, ijtimoiy-siyosiy vaziyatni beqarorlashtirishga qaratilgan, Oʻzbekiston Respublikasining
 
 > Jinoyat kodeksida javobgarlik nazarda tutilgan zoʻrlik, zoʻrlik ishlatish bilan qoʻrqitish yoki boshqa jinoiy qilmishlar.
 
-> Tovlamachilik — zoʻrlik ishlatish tahdidi bilan mol-mulkni berishni talab qilishga qaratilgan jinoyat.
+> **Tovlamachilik** — zoʻrlik ishlatish tahdidi bilan mol-mulkni berishni talab qilishga qaratilgan jinoyat.
 
-> Tuhmat — boshqa shaxsni badnom qiladigan yolgʻon maʼlumotlarni qasddan tarqa tish.
+> **Tuhmat** — boshqa shaxsni badnom qiladigan yolgʻon maʼlumotlarni qasddan tarqa tish.
 
-> Umumiy mulk — qonunchilikka koʻra ikki yoki undan ortiq shaxsga tegishli mulk. Umumiy saylov huquqi — qonunda belgilangan yoshga yetgan barcha fuqarolar hokimiyatning vakolat organlariga boʻladigan saylovlarda qatnashish huquqi.
+> **Umumiy mulk** — qonunchilikka koʻra ikki yoki undan ortiq shaxsga tegishli mulk. **Umumiy saylov huquqi** — qonunda belgilangan yoshga yetgan barcha fuqarolar hokimiyatning vakolat organlariga boʻladigan saylovlarda qatnashish huquqi.
 
-> Unitar (lotincha “oddiy”, “yagona”) — yagona, birlashgan, bir butunni tashkil etuvchi; davlat tuzilish shakli.
+> **Unitar (**lotincha “oddiy”, “yagona”) — yagona, birlashgan, bir butunni tashkil etuvchi; davlat tuzilish shakli.
 
-> Ushlab turish, hibs — jinoiy qilmishni sodir etishda shubhalanayotgan shaxsga nisbatan qoʻllaniladigan, ushlangan shaxsning jinoyatga daxldorligini aniqlash va uni qamoqqa olish mumkinligi masalasini hal etish maqsadida 48 soatdan oshmaydigan qisqa muddatli majburlov chorasi.
+> **Ushlab turish, hibs** — jinoiy qilmishni sodir etishda shubhalanayotgan shaxsga nisbatan qoʻllaniladigan, ushlangan shaxsning jinoyatga daxldorligini aniqlash va uni qamoqqa olish mumkinligi masalasini hal etish maqsadida 48 soatdan oshmaydigan qisqa muddatli majburlov chorasi.
 
-> Vijdon erkinligi — shaxslarning har qanday dinga eʼtiqod qilish yoki hech qaysi dinga eʼtiqod qilmaslik huquqi.
+> **Vijdon erkinligi** — shaxslarning har qanday dinga eʼtiqod qilish yoki hech qaysi dinga eʼtiqod qilmaslik huquqi.
 
-> Voyaga yetmaganlar — 18 yoshga toʻlmagan shaxslar.
+> **Voyaga yetmaganlar** — 18 yoshga toʻlmagan shaxslar.
 
-> Viza (lotincha “oʻtkazilgan”, “koʻzdan kechirilgan”) — pasportda davlatning hududiga kelishga, undan ketishga va davlat hududida yashab turishga boʻlgan maxsus ruxsatni bildiruvchi belgi. Pasportdagi belgi davlatning kelish, chiqish, hudud orqali oʻtishga yoki yashashga ruxsatini anglatadi.
+> **Viza (**lotincha “oʻtkazilgan”, “koʻzdan kechirilgan”) — pasportda davlatning hududiga kelishga, undan ketishga va davlat hududida yashab turishga boʻlgan maxsus ruxsatni bildiruvchi belgi. Pasportdagi belgi davlatning kelish, chiqish, hudud orqali oʻtishga yoki yashashga ruxsatini anglatadi.
 
-> Yuridik javobgarlik — jazoga tortish, yuridik majburiyatlarni buzgan shaxs, aybdor ga nisbatan qonunda koʻzda tutilgan sanksiyalarni qoʻllash.
+> **Yuridik javobgarlik** — jazoga tortish, yuridik majburiyatlarni buzgan shaxs, aybdor ga nisbatan qonunda koʻzda tutilgan sanksiyalarni qoʻllash.
 
-> Yuridik faktlar — huquq va majburiyatlarni vujudga keltirish, oʻzgartirish yoki bekor qilish bilan bogʻliq harakat va hodisalar.
+> **Yuridik faktlar** — huquq va majburiyatlarni vujudga keltirish, oʻzgartirish yoki bekor qilish bilan bogʻliq harakat va hodisalar.
 
-> Yuridik shaxs — oʻz mulkida, xoʻjalik yuritishida yoki operativ boshqaruvida alohida mol-mulkka ega boʻlgan hamda oʻz majburiyatlari yuzasidan ushbu mol-mulk bilan javob beradigan, oʻz nomidan mulkiy yoki shaxsiy nomulkiy huquqlarga ega boʻla oladigan va ularni amalga oshira oladigan, majburiyatlarni bajara oladigan, sudda daʼvogar va javobgar boʻla oladigan tashkilot.
+> **Yuridik shaxs** — oʻz mulkida, xoʻjalik yuritishida yoki operativ boshqaruvida alohida mol-mulkka ega boʻlgan hamda oʻz majburiyatlari yuzasidan ushbu mol-mulk bilan javob beradigan, oʻz nomidan mulkiy yoki shaxsiy nomulkiy huquqlarga ega boʻla oladigan va ularni amalga oshira oladigan, majburiyatlarni bajara oladigan, sudda daʼvogar va javobgar boʻla oladigan tashkilot.
 
-> Shartnoma — ikki yoki bir necha shaxsning fuqarolik huquqlari va burchlarini vujudga keltirish, oʻzgartirish yoki bekor qilish haqidagi kelishuvi.
+> **Shartnoma** — ikki yoki bir necha shaxsning fuqarolik huquqlari va burchlarini vujudga keltirish, oʻzgartirish yoki bekor qilish haqidagi kelishuvi.
 
 ### Ijaraga beriladigan darslik holatini koʻrsatuvchi jadval
 
-> Darslik ijaraga berilib, oʻquv yili yakunida qaytarib olinganda yuqoridagi jadval sinf rahbarlari tomonidan quyidagi baholash mezonlariga asosan toʻldiriladi:
+![](img/ogp-8.uz/p126-1.webp "782x612")
+
+> **Darslik ijaraga berilib, oʻquv yili yakunida qaytarib olinganda yuqoridagi jadval sinf rahbarlari tomonidan quyidagi baholash mezonlariga asosan toʻldiriladi:**
 
 > Darslikning birinchi marta foydalanishga berilgandagi holati.
 

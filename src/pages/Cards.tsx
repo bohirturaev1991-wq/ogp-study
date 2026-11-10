@@ -7,7 +7,7 @@ import { myItems } from '../progress';
 import { newCard, review, intervalLabel, type Grade } from '../srs';
 import { shuffle } from '../autoq';
 import { href } from '../router';
-import type { CatalogItem, Lang } from '../types';
+import { plain, type CatalogItem, type Lang } from '../types';
 
 interface Card {
   id: string;
@@ -41,7 +41,7 @@ async function buildDeck(items: CatalogItem[], lang: Lang): Promise<Card[]> {
     const blocks = await loadDoc(it.id, dl);
     blocks.forEach((b, i) => {
       if (b.t !== 'p' || b.k !== 'def') return;
-      const m = b.x.match(/^(.{2,80}?)\s[—–-]\s(.+)$/);
+      const m = plain(b.x).match(/^(.{2,80}?)\s[—–-]\s(.+)$/);
       if (!m) return;
       const back = m[2].replace(/^(это|bu)\s+/i, '');
       const front = m[1].replace(/^(Так|Итак|Например|Также|Таким образом|Следовательно),\s*/i, '');

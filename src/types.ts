@@ -6,7 +6,12 @@ export type L10n = { uz: string; ru: string };
 export type Block =
   | { t: 'h'; l: 1 | 2 | 3; x: string }
   | { t: 'a'; n: string; x: string }
-  | { t: 'p'; x: string; k?: 'def' };
+  | { t: 'p'; x: string; k?: 'def' }
+  /** рисунок/схема/таблица из учебника (src — путь внутри content/) */
+  | { t: 'img'; src: string; x: string; w?: number; h?: number };
+
+/** Убирает разметку жирного шрифта (**…**) — для поиска, карточек, тестов. */
+export const plain = (s: string) => s.split('**').join('');
 
 export interface CatalogItem {
   id: string;

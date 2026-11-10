@@ -182,7 +182,7 @@ mark {
 
 @media (min-width: 900px) {
   .shell {
-    grid-template-columns: 220px 1fr;
+    grid-template-columns: 220px minmax(0, 1fr);
     grid-template-areas: 'top top' 'nav main';
     padding-bottom: 0;
   }
@@ -1136,4 +1136,41 @@ textarea:focus,
 .back-btn {
   font-size: 20px;
   margin-right: -4px;
+}
+
+/* ---------- рисунки и схемы из учебников ---------- */
+.fig {
+  margin: 18px 0;
+  text-align: center;
+  cursor: zoom-in;
+}
+.fig img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.12);
+}
+.fig figcaption {
+  margin-top: 6px;
+  font-size: 0.85em;
+  color: var(--muted);
+}
+.fig-zoom {
+  width: 100%;
+  height: auto;
+  background: #fff;
+}
+.reader-body strong {
+  font-weight: 700;
+}
+
+/* колонка макета не шире экрана (широкие картинки и длинные заголовки не распирают страницу) */
+@media (max-width: 899px) {
+  .shell {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+.shell > * {
+  min-width: 0;
 }
