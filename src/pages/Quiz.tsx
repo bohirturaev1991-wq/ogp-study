@@ -1,12 +1,28 @@
 import { useEffect, useMemo, useState } from 'react';
-import { docLang, loadDoc, loadQuestions, useAsync, useCatalog } from '../data';
+import { buildUnits, docLang, loadDoc, loadQuestions, unitOfBlock, useAsync, useCatalog } from '../data';
 import { useStore, setState, getState, bumpActivity } from '../store';
 import { useT } from '../i18n';
 import { Empty, Progress } from '../components';
-import { generateAuto, shuffle } from '../autoq';
+import { bookDefs, generateAuto, generateBookAuto, shuffle, type BookDef } from '../autoq';
 import { myItems } from '../progress';
 import { href, useRoute } from '../router';
-import type { CatalogItem, Lang, Question } from '../types';
+import type { CatalogItem, Lang, Question, Unit } from '../types';
+
+// учебник: главы-уроки и определения (для авто-вопросов); кэш на время сессии
+const bookCache = new Map<string, Promise<{ dl: Lang; units: Unit[]; defs: BookDef[] }>>();
+function bookInfo(item: CatalogItem, lang: Lang) {
+  const dl = docLang(item, lang)!;
+  const key = item.id + ':' + dl;
+  if (!bookCache.has(key))
+    bookCache.set(
+      key,
+      loadDoc(item.id, dl).then((blocks) => {
+        const units = buildUnits(blocks, dl);
+        return { dl, units, defs: bookDefs(blocks, (i) => unitOfBlock(units, i).key) };
+      }),
+    );
+  return bookCache.get(key)!;
+}
 
 type Mode = 'practice' | 'exam';
 type Pool = 'all' | 'new' | 'wrong';
@@ -56,6 +72,13 @@ function Setup({ items, questions, onStart }: { items: CatalogItem[]; questions:
   const [mode, setMode] = useState<Mode>('practice');
   const [pool, setPool] = useState<Pool>((params.get('pool') as Pool) || 'all');
   const [auto, setAuto] = useState(true);
+  const [unit, setUnit] = useState(params.get('u') || '');
+  const single = docs.length === 1 ? items.find((i) => i.id === docs[0] && i.kind === 'book') : undefined;
+  const { data: info } = useAsync(async () => (single ? bookInfo(single, lang) : null), [single?.id, lang]);
+  useEffect(() => {
+    if (!single) setUnit('');
+  }, [single]);
+  const inUnit = (q: Question) => !unit || !single || q.unit === unit;
   const [busy, setBusy] = useState(false);
   const [msg, setMsg] = useState('');
   const mistakesCount = Object.values(s.mistakes).filter((q) => docs.includes(q.doc)).length;
@@ -69,7 +92,7 @@ function Setup({ items, questions, onStart }: { items: CatalogItem[]; questions:
       picked = shuffle(Object.values(st.mistakes).filter((q) => docs.includes(q.doc))).slice(0, count);
     } else {
       const manual = shuffle(
-        questions.filter((q) => docs.includes(q.doc) && (q.q[lang] || q.q.uz || q.q.ru) && (pool === 'all' || !st.qstats[q.id])),
+        questions.filter((q) => docs.includes(q.doc) && inUnit(q) && (q.q[lang] || q.q.uz || q.q.ru) && (pool === 'all' || !st.qstats[q.id])),
       );
       picked = manual.slice(0, count);
       if (auto && picked.length < count) {
@@ -80,6 +103,11 @@ function Setup({ items, questions, onStart }: { items: CatalogItem[]; questions:
         ).slice(0, Math.max(1, Math.ceil(need / 3)));
         const per = Math.ceil(need / Math.max(1, npa.length)) + 2;
         let gen: Question[] = [];
+        // учебники: вопросы по определениям (в выбранном уроке — только по нему)
+        for (const it of items.filter((i) => i.kind === 'book' && docs.includes(i.id))) {
+          const bi = await bookInfo(it, lang);
+          gen.push(...generateBookAuto(it, bi.defs, bi.dl, need + 2, single ? unit || undefined : undefined).filter((q) => pool === 'all' || !st.qstats[q.id]));
+        }
         for (const it of npa) {
           const dl = docLang(it, lang);
           if (!dl) continue;
@@ -105,7 +133,7 @@ function Setup({ items, questions, onStart }: { items: CatalogItem[]; questions:
   };
 
   const toggle = (id: string) => setDocs((d) => (d.includes(id) ? d.filter((x) => x !== id) : [...d, id]));
-  const manualCount = questions.filter((q) => docs.includes(q.doc)).length;
+  const manualCount = questions.filter((q) => docs.includes(q.doc) && inUnit(q)).length;
 
   return (
     <div className="page">
@@ -120,6 +148,19 @@ function Setup({ items, questions, onStart }: { items: CatalogItem[]; questions:
               </button>
             ))}
           </div>
+          {single && info && (
+            <label className="field">
+              <span>{t('lesson')}</span>
+              <select value={unit} onChange={(e) => setUnit(e.target.value)}>
+                <option value="">{t('allLessons')}</option>
+                {info.units.map((u) => (
+                  <option key={u.key} value={u.key}>
+                    {u.title}
+                  </option>
+                ))}
+              </select>
+            </label>
+          )}
           <span className="muted small">
             {t('question')}: {manualCount}
             {auto && ' + ' + t('autoLabel')}

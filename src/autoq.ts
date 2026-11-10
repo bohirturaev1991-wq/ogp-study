@@ -121,3 +121,68 @@ export function generateAuto(item: CatalogItem, blocks: Block[], lang: Lang, cou
   }
   return out;
 }
+
+// ---------- авто-вопросы по учебникам: из определений «**Термин** – это …» ----------
+//  «Что означает термин X?» (варианты — определения) и «Какой термин соответствует определению?»
+export interface BookDef {
+  term: string;
+  def: string;
+  unit: string;
+  i: number;
+}
+
+export function bookDefs(blocks: Block[], unitOf: (i: number) => string): BookDef[] {
+  const out: BookDef[] = [];
+  blocks.forEach((b, i) => {
+    if (b.t !== 'p' || b.k !== 'def') return;
+    const x = b.x.split('**').join('');
+    const m = x.match(/^[«"“]?(.{2,70}?)[»"”]?\s[—–-]\s(?:это\s|bu\s)?(.{20,})$/u);
+    if (!m) return;
+    let term = m[1]
+      .replace(/^(значит|так|итак|таким образом|например|следовательно|другими словами|demak|masalan|shunday qilib|yaʼni),\s*/i, '')
+      .replace(/\s*\([^)]*\)\s*$/, '') // «Адвокат (лат. …)» → «Адвокат»
+      .trim();
+    if (!term) return;
+    term = term[0].toUpperCase() + term.slice(1);
+    if (term.split(/\s+/).length > 7) return;
+    const def = m[2].trim();
+    out.push({ term, def: def.length > 220 ? def.slice(0, 220).replace(/\s+\S*$/, '') + '…' : def, unit: unitOf(i), i });
+  });
+  // один термин — одно определение (первое)
+  const seen = new Set<string>();
+  return out.filter((d) => {
+    const k = d.term.toLowerCase();
+    if (seen.has(k)) return false;
+    seen.add(k);
+    return true;
+  });
+}
+
+export function generateBookAuto(item: CatalogItem, defs: BookDef[], lang: Lang, count: number, unit?: string): Question[] {
+  const pool = unit ? defs.filter((d) => d.unit === unit) : defs;
+  if (defs.length < 4) return [];
+  const out: Question[] = [];
+  for (const d of shuffle(pool)) {
+    if (out.length >= count) break;
+    // дистракторы — сначала из того же урока, затем из книги
+    const others = shuffle(defs.filter((x) => x !== d && x.term.toLowerCase() !== d.term.toLowerCase()));
+    others.sort((a, b) => Number(b.unit === d.unit) - Number(a.unit === d.unit));
+    const wrong = others.slice(0, 3);
+    if (wrong.length < 3) continue;
+    const reverse = Math.random() < 0.5;
+    const q = reverse
+      ? tr(lang, 'whichTerm', { x: d.def })
+      : tr(lang, 'whatMeans', { x: d.term });
+    const opts = reverse ? [d.term, ...wrong.map((w) => w.term)] : [d.def, ...wrong.map((w) => w.def)];
+    out.push({
+      id: `auto:bd:${item.id}:${d.i}:${reverse ? 'r' : 'd'}`,
+      doc: item.id,
+      unit: d.unit,
+      q: { uz: q, ru: q },
+      options: { uz: opts, ru: opts },
+      answer: 0,
+      auto: true,
+    });
+  }
+  return out;
+}

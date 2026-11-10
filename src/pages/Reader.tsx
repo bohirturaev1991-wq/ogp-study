@@ -5,6 +5,7 @@ import { useT } from '../i18n';
 import { CardEditor, Empty, Hl, Modal, Progress, Rich } from '../components';
 import { href, useRoute } from '../router';
 import { useBackClose } from '../back';
+import { LessonSummary } from '../summary';
 import { plain, type Block, type CatalogItem, type Lang, type Unit } from '../types';
 
 export default function Reader({ id }: { id: string }) {
@@ -28,6 +29,7 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
   const [card, setCard] = useState<{ front: string; back: string; anchor: string } | null>(null);
   const [selected, setSelected] = useState<string | null>(null);
   const [zoom, setZoom] = useState<string | null>(null);
+  const [showSum, setShowSum] = useState(false);
   const topRef = useRef<HTMLDivElement>(null);
 
   const anchor = params.get('a') || '';
@@ -86,6 +88,18 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
       )}
 
       {langMismatch && <div className="notice">{t('notInLang')}</div>}
+
+      {item.kind === 'book' && (
+        <div className="lesson-tools">
+          <button className={'btn' + (showSum ? ' on' : '')} onClick={() => setShowSum((v) => !v)} aria-expanded={showSum}>
+            🧭 {t('summary')}
+          </button>
+          <a className="btn" href={href('/quiz', { doc: item.id, u: unit.key })}>
+            📝 {t('lessonTest')}
+          </a>
+        </div>
+      )}
+      {showSum && <LessonSummary key={unit.key} blocks={blocks.slice(unit.start, unit.end)} title={unit.title} />}
 
       <article className="reader-body">
         {unit.section && unit.section !== unit.title && <div className="section-label">{unit.section}</div>}
@@ -156,6 +170,11 @@ function ReaderView({ item, dl, blocks, langMismatch }: { item: CatalogItem; dl:
         </Modal>
       )}
 
+      {item.kind === 'book' && (
+        <a className="btn primary wide lesson-test-btn" href={href('/quiz', { doc: item.id, u: unit.key })}>
+          📝 {t('lessonTest')}
+        </a>
+      )}
       <div className="reader-foot">
         <button
           className={'btn ' + (readMap[unit.key] ? 'done' : '')}
