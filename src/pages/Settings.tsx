@@ -1,4 +1,5 @@
 import { useRef, useState } from 'react';
+import { Modal } from '../components';
 import { useStore, setState, getState, replaceState, resetState } from '../store';
 import { useT } from '../i18n';
 import type { Lang, Role } from '../types';
@@ -9,15 +10,30 @@ export default function Settings() {
   const profile = useStore((s) => s.profile);
   const fileRef = useRef<HTMLInputElement>(null);
   const [msg, setMsg] = useState('');
+  const [textBox, setTextBox] = useState<'export' | 'import' | null>(null);
+  const [pasted, setPasted] = useState('');
   const setProfile = (p: Partial<typeof profile>) => setState((s) => ({ ...s, profile: { ...s.profile, ...p } }));
 
   const exportData = () => {
+    // в Android-приложении сохранение файла со страницы не работает — показываем текст для копирования
+    if (isNative()) return setTextBox('export');
     const blob = new Blob([JSON.stringify(getState())], { type: 'application/json' });
     const a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
     a.download = `ogp-progress-${new Date().toISOString().slice(0, 10)}.json`;
     a.click();
     URL.revokeObjectURL(a.href);
+  };
+  const importText = (text: string) => {
+    try {
+      const data = JSON.parse(text.trim());
+      if (!data.profile) throw new Error('format');
+      replaceState(data);
+      setMsg(t('imported'));
+      setTextBox(null);
+    } catch (e) {
+      setMsg(String(e));
+    }
   };
   const importData = async (f: File) => {
     try {
@@ -72,7 +88,33 @@ export default function Settings() {
             ⬆ {t('importBtn')}
           </button>
           <input ref={fileRef} type="file" accept="application/json" hidden onChange={(e) => e.target.files?.[0] && importData(e.target.files[0])} />
+          <button className="btn" onClick={() => setTextBox('import')}>
+            📋 {t('pasteBtn')}
+          </button>
         </div>
+        {textBox && (
+          <Modal title={textBox === 'export' ? t('exportBtn') : t('pasteBtn')} onClose={() => setTextBox(null)}>
+            <p className="muted small">{textBox === 'export' ? t('exportTextHint') : t('importTextHint')}</p>
+            {textBox === 'export' ? (
+              <>
+                <textarea className="backup-text" readOnly value={JSON.stringify(getState())} onFocus={(e) => e.target.select()} />
+                <button
+                  className="btn primary"
+                  onClick={() => navigator.clipboard?.writeText(JSON.stringify(getState())).then(() => setMsg(t('copied')))}
+                >
+                  📋 {t('copyBtn')}
+                </button>
+              </>
+            ) : (
+              <>
+                <textarea className="backup-text" value={pasted} onChange={(e) => setPasted(e.target.value)} placeholder="{…}" />
+                <button className="btn primary" disabled={!pasted.trim()} onClick={() => importText(pasted)}>
+                  ⬆ {t('importBtn')}
+                </button>
+              </>
+            )}
+          </Modal>
+        )}
         {msg && <div className="notice">{msg}</div>}
         <button className="btn danger" onClick={() => confirm(t('resetConfirm')) && resetState()}>
           {t('reset')}

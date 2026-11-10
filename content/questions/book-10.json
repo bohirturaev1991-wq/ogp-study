@@ -1374,5 +1374,653 @@
    ]
   },
   "answer": 0
+ },
+ {
+  "id": "b10-x001",
+  "doc": "ogp-10",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Что, согласно учебнику, означают права человека?",
+   "uz": "Darslikka koʻra, inson huquqlari nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "Правила, обеспечивающие защиту достоинства и свободы каждого человека",
+    "Обязанности граждан перед государством",
+    "Правила поведения в школе",
+    "Решения органов местной власти"
+   ],
+   "uz": [
+    "Har bir insonning qadr-qimmati va erkinligini himoya qilishni taʼminlaydigan qoidalar",
+    "Fuqarolarning davlat oldidagi majburiyatlari",
+    "Maktabdagi xulq-atvor qoidalari",
+    "Mahalliy hokimiyat organlarining qarorlari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x002",
+  "doc": "ogp-10",
+  "lesson": "1–2",
+  "q": {
+   "ru": "Что такое общество по определению урока?",
+   "uz": "Dars taʼrifiga koʻra jamiyat nima?"
+  },
+  "options": {
+   "ru": [
+    "Группа людей в определённых пределах со своими ценностями, правилами и традициями, объединённых общими потребностями и интересами",
+    "Только жители одного дома",
+    "Государственный орган",
+    "Совокупность законов"
+   ],
+   "uz": [
+    "Muayyan doirada mavjud boʻlgan, oʻz qadriyatlari, qoidalari va anʼanalariga ega, umumiy ehtiyoj va manfaatlar asosida birlashgan odamlar guruhi",
+    "Faqat bir uyda yashovchilar",
+    "Davlat organi",
+    "Qonunlar majmui"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x003",
+  "doc": "ogp-10",
+  "lesson": "3–4",
+  "q": {
+   "ru": "Что означает правовое положение (статус) личности?",
+   "uz": "Shaxsning huquqiy maqomi nimani anglatadi?"
+  },
+  "options": {
+   "ru": [
+    "Совокупность её прав, свобод и обязанностей",
+    "Её место работы",
+    "Её имущество",
+    "Её образование"
+   ],
+   "uz": [
+    "Uning huquqlari, erkinliklari va majburiyatlari majmuini",
+    "Uning ish joyini",
+    "Uning mol-mulkini",
+    "Uning maʼlumotini"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x004",
+  "doc": "ogp-10",
+  "lesson": "3–4",
+  "q": {
+   "ru": "Нарушают ли принцип равенства льготы, предоставленные государством лицу с инвалидностью?",
+   "uz": "Davlat tomonidan nogironligi boʻlgan shaxsga beriladigan imtiyozlar tenglik prinsipini buzadimi?"
+  },
+  "options": {
+   "ru": [
+    "Нет, это проявление гуманности и социальной справедливости",
+    "Да, всегда",
+    "Да, если льгота налоговая",
+    "Только в отношении иностранцев"
+   ],
+   "uz": [
+    "Yoʻq, bu insonparvarlik va ijtimoiy adolatning namoyon boʻlishi",
+    "Ha, har doim",
+    "Ha, agar imtiyoz soliq boʻyicha boʻlsa",
+    "Faqat chet elliklarga nisbatan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x005",
+  "doc": "ogp-10",
+  "lesson": "5",
+  "q": {
+   "ru": "Как называется государство, в котором реализовано верховенство права?",
+   "uz": "Huquq ustuvorligi amalga oshirilgan davlat qanday ataladi?"
+  },
+  "options": {
+   "ru": [
+    "Правовое",
+    "Социальное",
+    "Унитарное",
+    "Светское"
+   ],
+   "uz": [
+    "Huquqiy davlat",
+    "Ijtimoiy davlat",
+    "Unitar davlat",
+    "Dunyoviy davlat"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x006",
+  "doc": "ogp-10",
+  "lesson": "5",
+  "q": {
+   "ru": "В каком году в докладе Генерального секретаря ООН дано определение верховенства права, приведённое в учебнике?",
+   "uz": "Darslikda keltirilgan huquq ustuvorligi taʼrifi BMT Bosh kotibining qaysi yilgi maʼruzasida berilgan?"
+  },
+  "options": {
+   "ru": [
+    "2004",
+    "1948",
+    "1966",
+    "1993"
+   ],
+   "uz": [
+    "2004",
+    "1948",
+    "1966",
+    "1993"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x007",
+  "doc": "ogp-10",
+  "lesson": "6",
+  "q": {
+   "ru": "Какие источники формируют фонды социального страхования?",
+   "uz": "Ijtimoiy sugʻurta jamgʻarmalari qanday manbalardan shakllanadi?"
+  },
+  "options": {
+   "ru": [
+    "Государственные дотации и страховые взносы работников и работодателей",
+    "Только штрафы",
+    "Только налоги на имущество",
+    "Пожертвования махалли"
+   ],
+   "uz": [
+    "Davlat dotatsiyalari hamda xodimlar va ish beruvchilarning sugʻurta badallari",
+    "Faqat jarimalar",
+    "Faqat mol-mulk soligʻi",
+    "Mahalla xayriyalari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x008",
+  "doc": "ogp-10",
+  "lesson": "6",
+  "q": {
+   "ru": "В каком году принят Международный пакт об экономических, социальных и культурных правах?",
+   "uz": "Iqtisodiy, ijtimoiy va madaniy huquqlar toʻgʻrisidagi xalqaro pakt qaysi yili qabul qilingan?"
+  },
+  "options": {
+   "ru": [
+    "1966",
+    "1948",
+    "1989",
+    "2004"
+   ],
+   "uz": [
+    "1966",
+    "1948",
+    "1989",
+    "2004"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x009",
+  "doc": "ogp-10",
+  "lesson": "7",
+  "q": {
+   "ru": "Кто сказал: «Права человека не чужды ни одной культуре и естественны для всех народов»?",
+   "uz": "“Inson huquqlari hech bir madaniyatga begona emas va barcha xalqlar uchun tabiiydir” — bu kimning soʻzlari?"
+  },
+  "options": {
+   "ru": [
+    "Кофи Аннан",
+    "Нельсон Мандела",
+    "Махатма Ганди",
+    "Гуго Гроций"
+   ],
+   "uz": [
+    "Kofi Annan",
+    "Nelson Mandela",
+    "Mahatma Gandi",
+    "Gugo Grotsiy"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x010",
+  "doc": "ogp-10",
+  "lesson": "7",
+  "q": {
+   "ru": "К какой группе прав относится право на получение образования?",
+   "uz": "Taʼlim olish huquqi qaysi huquqlar guruhiga kiradi?"
+  },
+  "options": {
+   "ru": [
+    "Экономические и социальные права",
+    "Личные права",
+    "Политические права",
+    "Экологические права"
+   ],
+   "uz": [
+    "Iqtisodiy va ijtimoiy huquqlar",
+    "Shaxsiy huquqlar",
+    "Siyosiy huquqlar",
+    "Ekologik huquqlar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x011",
+  "doc": "ogp-10",
+  "lesson": "8",
+  "q": {
+   "ru": "В каком году принят Закон «Об органах внутренних дел»?",
+   "uz": "“Ichki ishlar organlari toʻgʻrisida”gi qonun qaysi yili qabul qilingan?"
+  },
+  "options": {
+   "ru": [
+    "2016",
+    "2004",
+    "1992",
+    "2021"
+   ],
+   "uz": [
+    "2016",
+    "2004",
+    "1992",
+    "2021"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x012",
+  "doc": "ogp-10",
+  "lesson": "8",
+  "q": {
+   "ru": "Какой орган готовит национальные доклады о выполнении международных обязательств Узбекистана в области прав человека?",
+   "uz": "Oʻzbekistonning inson huquqlari sohasidagi xalqaro majburiyatlari bajarilishi toʻgʻrisidagi milliy maʼruzalarni qaysi organ tayyorlaydi?"
+  },
+  "options": {
+   "ru": [
+    "Национальный центр по правам человека",
+    "Центральная избирательная комиссия",
+    "Министерство финансов",
+    "Органы самоуправления граждан"
+   ],
+   "uz": [
+    "Inson huquqlari boʻyicha milliy markaz",
+    "Markaziy saylov komissiyasi",
+    "Moliya vazirligi",
+    "Fuqarolarning oʻzini oʻzi boshqarish organlari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x013",
+  "doc": "ogp-10",
+  "lesson": "10",
+  "q": {
+   "ru": "Когда отмечается Международный день семьи?",
+   "uz": "Xalqaro oila kuni qachon nishonlanadi?"
+  },
+  "options": {
+   "ru": [
+    "15 мая",
+    "1 июня",
+    "8 марта",
+    "20 ноября"
+   ],
+   "uz": [
+    "15-may",
+    "1-iyun",
+    "8-mart",
+    "20-noyabr"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x014",
+  "doc": "ogp-10",
+  "lesson": "10",
+  "q": {
+   "ru": "Какой знак вручается семьям, внёсшим вклад в сохранение семейных ценностей?",
+   "uz": "Oilaviy qadriyatlarni saqlashga hissa qoʻshgan oilalarga qanday nishon topshiriladi?"
+  },
+  "options": {
+   "ru": [
+    "«Образцовая семья»",
+    "«Почётный гражданин»",
+    "«Шухрат»",
+    "«Мехнат шухрати»"
+   ],
+   "uz": [
+    "“Namunali oila”",
+    "“Faxriy fuqaro”",
+    "“Shuhrat”",
+    "“Mehnat shuhrati”"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x015",
+  "doc": "ogp-10",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Что проходят вступающие в брак после подачи заявления?",
+   "uz": "Nikohdan oʻtuvchilar ariza bergandan keyin nimadan oʻtadilar?"
+  },
+  "options": {
+   "ru": [
+    "Бесплатное медицинское обследование в государственных учреждениях здравоохранения",
+    "Экзамен по семейному праву",
+    "Платную психологическую консультацию",
+    "Собеседование в хокимияте"
+   ],
+   "uz": [
+    "Davlat sogʻliqni saqlash muassasalarida bepul tibbiy koʻrikdan",
+    "Oila huquqi boʻyicha imtihondan",
+    "Pullik psixologik maslahatdan",
+    "Hokimlikdagi suhbatdan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x016",
+  "doc": "ogp-10",
+  "lesson": "11–12",
+  "q": {
+   "ru": "Будет ли зарегистрирован брак, если один из вступающих в него не согласен?",
+   "uz": "Nikohga kiruvchilardan biri rozi boʻlmasa, nikoh roʻyxatga olinadimi?"
+  },
+  "options": {
+   "ru": [
+    "Нет",
+    "Да, с согласия родителей",
+    "Да, по решению махалли",
+    "Да, если есть свадебный договор"
+   ],
+   "uz": [
+    "Yoʻq",
+    "Ha, ota-ona roziligi bilan",
+    "Ha, mahalla qarori bilan",
+    "Ha, toʻy kelishuvi boʻlsa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x017",
+  "doc": "ogp-10",
+  "lesson": "13",
+  "q": {
+   "ru": "С какого момента мужчина и женщина считаются супругами?",
+   "uz": "Erkak va ayol qachondan boshlab er-xotin hisoblanadi?"
+  },
+  "options": {
+   "ru": [
+    "С момента регистрации брака в органах ЗАГС",
+    "С момента свадьбы",
+    "С момента религиозного обряда",
+    "С рождения первого ребёнка"
+   ],
+   "uz": [
+    "Nikoh FHDYo organlarida roʻyxatga olingan paytdan",
+    "Toʻy kunidan",
+    "Diniy marosimdan",
+    "Birinchi farzand tugʻilgandan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x018",
+  "doc": "ogp-10",
+  "lesson": "13",
+  "q": {
+   "ru": "Что из перечисленного – личное право супругов, закреплённое Конституцией?",
+   "uz": "Quyidagilardan qaysi biri Konstitutsiyada mustahkamlangan er-xotinning shaxsiy huquqi?"
+  },
+  "options": {
+   "ru": [
+    "Свобода выбора фамилии, занятий, профессии и места жительства",
+    "Право распоряжаться имуществом другого супруга без согласия",
+    "Право запретить супругу работать",
+    "Право на половину зарплаты родителей"
+   ],
+   "uz": [
+    "Familiya, mashgʻulot, kasb va yashash joyini erkin tanlash",
+    "Boshqa turmush oʻrtogʻining mol-mulkini roziligisiz tasarruf etish",
+    "Turmush oʻrtogʻiga ishlashni taqiqlash",
+    "Ota-ona ish haqining yarmiga huquq"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x019",
+  "doc": "ogp-10",
+  "lesson": "14",
+  "q": {
+   "ru": "Кто обязан содержать нетрудоспособных родителей, нуждающихся в помощи?",
+   "uz": "Mehnatga layoqatsiz, yordamga muhtoj ota-onani taʼminlash kimning majburiyati?"
+  },
+  "options": {
+   "ru": [
+    "Их совершеннолетние трудоспособные дети",
+    "Только государство",
+    "Махалля",
+    "Работодатель родителей"
+   ],
+   "uz": [
+    "Ularning voyaga yetgan mehnatga layoqatli farzandlari",
+    "Faqat davlatning",
+    "Mahallaning",
+    "Ota-onaning ish beruvchisining"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x020",
+  "doc": "ogp-10",
+  "lesson": "15",
+  "q": {
+   "ru": "Алименты – это…",
+   "uz": "Aliment — bu…"
+  },
+  "options": {
+   "ru": [
+    "денежное или материальное содержание, которое одно лицо обязано предоставить другому, имеющему право на его получение",
+    "штраф за нарушение семейного законодательства",
+    "налог на семью",
+    "пособие от работодателя"
+   ],
+   "uz": [
+    "bir shaxs uni olishga haqli boʻlgan boshqa shaxsga berishi shart boʻlgan pul yoki moddiy taʼminot",
+    "oila qonunchiligini buzganlik uchun jarima",
+    "oila soligʻi",
+    "ish beruvchidan beriladigan nafaqa"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x021",
+  "doc": "ogp-10",
+  "lesson": "15",
+  "q": {
+   "ru": "Когда прекращается право супруга на получение содержания от другого супруга?",
+   "uz": "Turmush oʻrtogʻining boshqasidan taʼminot olish huquqi qachon tugaydi?"
+  },
+  "options": {
+   "ru": [
+    "Когда нуждающийся супруг вступает в новый брак",
+    "Через год после брака",
+    "Когда ребёнку исполнится 14 лет",
+    "Никогда"
+   ],
+   "uz": [
+    "Yordamga muhtoj turmush oʻrtogʻi yangi nikohga kirganda",
+    "Nikohdan bir yil oʻtgach",
+    "Farzand 14 yoshga toʻlganda",
+    "Hech qachon"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x022",
+  "doc": "ogp-10",
+  "lesson": "17",
+  "q": {
+   "ru": "Какая статья Гражданского кодекса определяет, что такое сделка?",
+   "uz": "Bitim nima ekanligini Fuqarolik kodeksining qaysi moddasi belgilaydi?"
+  },
+  "options": {
+   "ru": [
+    "Статья 101",
+    "Статья 8",
+    "Статья 18",
+    "Статья 136"
+   ],
+   "uz": [
+    "101-modda",
+    "8-modda",
+    "18-modda",
+    "136-modda"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x023",
+  "doc": "ogp-10",
+  "lesson": "17",
+  "q": {
+   "ru": "Какими могут быть сделки?",
+   "uz": "Bitimlar qanday boʻlishi mumkin?"
+  },
+  "options": {
+   "ru": [
+    "Односторонними, двухсторонними или многосторонними",
+    "Только устными",
+    "Только нотариальными",
+    "Только государственными"
+   ],
+   "uz": [
+    "Bir tomonlama, ikki tomonlama yoki koʻp tomonlama",
+    "Faqat ogʻzaki",
+    "Faqat notarial",
+    "Faqat davlat bitimlari"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x024",
+  "doc": "ogp-10",
+  "lesson": "18–19",
+  "q": {
+   "ru": "Когда возникает и прекращается гражданская правоспособность?",
+   "uz": "Fuqarolik huquq layoqati qachon vujudga keladi va tugaydi?"
+  },
+  "options": {
+   "ru": [
+    "С момента рождения и со смертью",
+    "С 18 лет и в 65 лет",
+    "С 14 лет и со смертью",
+    "С получения паспорта"
+   ],
+   "uz": [
+    "Tugʻilgan paytdan boshlab va vafot etganda",
+    "18 yoshdan va 65 yoshda",
+    "14 yoshdan va vafot etganda",
+    "Pasport olgandan"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x025",
+  "doc": "ogp-10",
+  "lesson": "18–19",
+  "q": {
+   "ru": "Кто является субъектами гражданско-правовых отношений?",
+   "uz": "Fuqarolik-huquqiy munosabatlarning subyektlari kimlar?"
+  },
+  "options": {
+   "ru": [
+    "Физические и юридические лица",
+    "Только граждане Узбекистана",
+    "Только государство",
+    "Только предприниматели"
+   ],
+   "uz": [
+    "Jismoniy va yuridik shaxslar",
+    "Faqat Oʻzbekiston fuqarolari",
+    "Faqat davlat",
+    "Faqat tadbirkorlar"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x026",
+  "doc": "ogp-10",
+  "lesson": "20",
+  "q": {
+   "ru": "Какая глава Гражданского кодекса посвящена защите нематериальных благ?",
+   "uz": "Nomoddiy neʼmatlarni himoya qilishga Fuqarolik kodeksining qaysi bobi bagʻishlangan?"
+  },
+  "options": {
+   "ru": [
+    "Глава 8",
+    "Глава 21",
+    "Глава 1",
+    "Глава 30"
+   ],
+   "uz": [
+    "8-bob",
+    "21-bob",
+    "1-bob",
+    "30-bob"
+   ]
+  },
+  "answer": 0
+ },
+ {
+  "id": "b10-x027",
+  "doc": "ogp-10",
+  "lesson": "20",
+  "q": {
+   "ru": "Что из перечисленного относится к имущественным отношениям?",
+   "uz": "Quyidagilardan qaysi biri mulkiy munosabatlarga kiradi?"
+  },
+  "options": {
+   "ru": [
+    "Покупка и продажа товара",
+    "Право на имя",
+    "Честь и достоинство",
+    "Право на авторство"
+   ],
+   "uz": [
+    "Tovarni sotib olish va sotish",
+    "Ism huquqi",
+    "Shaʼn va qadr-qimmat",
+    "Mualliflik huquqi"
+   ]
+  },
+  "answer": 0
  }
 ]
